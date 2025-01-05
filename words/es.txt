@@ -1,3 +1,35 @@
+husillo
+resuello
+enarbolar
+fuelle
+bubónico
+cucayo; @comida
+corégono; @animal @pez
+invicto
+bubón
+bragueta
+tumefacción
+vivencia
+desventura
+glande
+frenillo
+
+bahareque
+cabriola
+desmerecer
+cabritilla
+intonso
+camisola
+transbordador
+congoja
+remanso
+cornisa
+dársena
+túmulo
+indigente
+avenido
+avenir
+ablución
 abalorio
 abanicar
 abarcador
@@ -1848,6 +1880,7 @@ pasible
 pasmado
 paspartú
 pastoreo
+pastorear
 pastoso
 patalear
 patente
