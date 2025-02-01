@@ -94,7 +94,7 @@ afelpado
 afelpado
 aferente
 afianzar
-áfido, afídido; @insecto
+áfido, afídido
 afiebrado
 afín
 afincar
@@ -512,9 +512,9 @@ canto
 canturrear, canturriar
 canturreo, tarareo
 cánula
-caoba; @planta
+caoba
 capcioso
-capibara, carpincho, capiguara, chigüire; @animal @mamífero
+capibara, carpincho, capiguara, chigüire
 capilar
 capitular
 carámbano
@@ -525,7 +525,7 @@ carcasa
 carda
 cardamomo
 cardiopatía
-carillón, carrillón; @instrumento
+carillón, carrillón
 carmesí
 carmín
 caroteno
@@ -533,7 +533,7 @@ carótida
 carrete
 carroña
 carroñero
-cártamo, alazor; @planta
+cártamo, alazor
 cartesiano
 casco
 casquete
@@ -1401,7 +1401,7 @@ huésped
 huidizo
 humos
 huraño, huidizo, esquivo
-hurón; @animal @mamífero
+hurón
 hurtadillas
 iconoclasta
 idílico
@@ -2334,7 +2334,7 @@ tasar
 tebeo
 tejar
 tejemaneje
-tejón; @animal @mamífero
+tejón
 telar
 temperamental
 temperamento
@@ -2369,7 +2369,7 @@ tisis, tuberculosis
 tiznar
 toca
 tocado
-tódido, barrancolí; @animal @ave
+tódido, barrancolí
 toga
 toldado
 toldo
@@ -2509,7 +2509,7 @@ virar
 viscoso
 visera
 visillo, velo, cortinilla
-visón; @animal @mamífero
+visón
 vitalicio
 vítor
 vitorear
