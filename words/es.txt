@@ -1,12 +1,3 @@
-Abatible
-Insigne
-Hirsuto
-Pacer
-Encorsetar
-Esclerosis
-Terigio
-Catarata
-
 abalorio
 abanicar
 abarcador
@@ -1072,6 +1063,7 @@ encomendar
 encomiable
 encomiar
 encomio
+encorsetar
 encrucijada
 encubrir
 endémico
@@ -1442,6 +1434,7 @@ hipocondriaco
 hipodérmico, subcutáneo
 hipotálamo
 hiriente
+hirsuto
 histeria, histerismo
 hito
 hiyab
@@ -1567,6 +1560,7 @@ inquisitivo, inquisitorio
 insensato
 inserto
 insidia, asechanza
+insigne
 insignia
 insólito
 insoluble
@@ -1883,6 +1877,7 @@ ovación
 ovacionar
 ovillo
 pacato
+pacer
 padecer
 pajarilla
 palidecer
@@ -2449,6 +2444,7 @@ tensiómetro
 tenue
 terapéutica, terapia
 tergiversar
+terigio
 termistor
 terraplén
 terrera
