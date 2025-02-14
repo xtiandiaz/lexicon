@@ -1,54 +1,3 @@
-Mazmorra
-Enquistar
-Correoso
-Campirano
-Avezado
-Escaque
-Prepotencia
-Pomposo
-Pueril
-Monomanía
-Peripatético
-Inverosímil
-Clarividencia
-Frenología
-Urogallo
-Neologismo
-Miramiento
-Diletante
-Alfil
-Ardid
-Indómito
-Enjuto
-Curia
-Diputado
-Fiabilidad
-Testaferro
-Jofaina
-Cortafuego
-Abstruso
-Inmiscuir
-escindir
-Tumbona
-Flaquear
-Sinsentido
-Inenarrable
-Escudilla
-Desvarío
-Increpar
-Franquear
-Infranqueable
-Cofia 
-Vehemencia
-Arriar
-Ulterior
-Crispar
-sinsentido
-Aguzar
-Paquidermo
-Erudito
-Almagre
-
 abalorio
 abanicar
 abarcador
@@ -224,6 +173,7 @@ aletargamiento, letargo
 aletargar
 alevosía
 alfajor
+alfil
 alforja
 algarabía, algazara
 alginato
@@ -235,6 +185,7 @@ alimaña
 alimaña
 alistonado
 aljibe
+almagre
 almibarado
 alondra
 alostático
@@ -326,8 +277,7 @@ arbitrario
 arcada
 arcaico
 arcén
-ardid
-ardid
+ardid, astucia
 arduo
 arenque
 argamasa
@@ -345,6 +295,7 @@ arrebolado
 arrecife
 arrellanarse, repantigarse, repanchicharse, apoltronarse
 arremangar
+arriar
 arriate
 arribismo, tiburoneo
 arribista
@@ -359,6 +310,8 @@ artesa
 artificio
 artilugio
 artimaña
+artroscopia, artroscopía
+artrosis
 asa
 ascetismo
 asediar, cercar, sitiar
@@ -426,6 +379,7 @@ aventón
 avería
 averno
 aversión
+avezado
 aviario
 avidez
 ávido
@@ -573,6 +527,7 @@ camelo
 campanario
 campanilla
 campiña
+campirano
 camuflaje
 canalla
 canon
@@ -699,6 +654,7 @@ clamor
 clandestino
 claqué
 claraboya
+clarividencia
 claveteado
 clavícula
 clavija
@@ -708,6 +664,7 @@ coacción, constreñimiento
 coagulante
 coartada
 coartar
+cobalto
 cobertizo
 cobijo
 cochambre
@@ -717,7 +674,7 @@ coercer
 coercer
 coerción
 coetáneo, contemporáneo
-cofia
+cofia 
 cofradía
 cohesión
 cohibir
@@ -758,6 +715,7 @@ concreción
 concupiscencia
 condicionamiento
 condicionar
+condropatía, condromalacia
 conectador
 confinar
 confinar
@@ -809,7 +767,6 @@ controversia
 convenir
 convicción
 convoy
-convulsión
 convulsivo
 convulso
 convulso
@@ -826,11 +783,13 @@ corpulencia
 corpulento, corpudo
 corredero
 correlimos
+correoso
 correspondencia
 corrillo
 corro
 corroer
 corroído
+cortafuego
 cotejar, comparar, confrontar
 cotorreo
 covalencia
@@ -845,6 +804,7 @@ crescendo
 criado
 cripta
 crisol
+crispar
 cristaloide
 criterio
 crucífero
@@ -862,6 +822,7 @@ cuncuna
 cundir
 cuneta
 cupé
+curia
 cursar
 curubito
 dádiva
@@ -971,6 +932,7 @@ desuso
 desvaído
 desvalido
 desván
+desvarío
 desvelar
 desvencijado
 detentar
@@ -1003,6 +965,7 @@ dimensión
 dingo
 dintel
 dipsomanía
+diputado
 díscolo
 discordia
 diseccionar
@@ -1129,10 +1092,12 @@ engullir
 enjambre
 enjuiciador
 enjuiciar
+enjuto
 enmarañar
 enmelar, endulzar
 enmendar
 enormidad
+enquistar
 enraizar, arraigar
 enranciar, arranciar
 ensalzar
@@ -1180,6 +1145,7 @@ escalinata
 escamotear
 escandalizar
 escaparate
+escaque
 escaramuza
 escarcela
 escardar
@@ -1201,6 +1167,7 @@ escrúpulo
 escrutar
 escrutinio
 escudero
+escudilla
 escurridizo
 esgrima
 esguince
@@ -1323,6 +1290,7 @@ fervor, devoción
 fetiche, talismán
 fetichismo
 feúcho
+fiabilidad
 fianza
 fiar
 figuración
@@ -1341,6 +1309,7 @@ fisco
 flagrante
 flagrar
 flanquear
+flaquear
 fleco
 flojedad, flojera
 floreo
@@ -1360,9 +1329,11 @@ forzudo
 fosilizar
 fraguar
 frailecillo
+franquear
 fraternal
 fraternidad
 frenesí
+frenología
 frigidez
 frígido
 friso
@@ -1414,6 +1385,7 @@ gluten
 golfo
 golondrina
 golpeteo
+gonalgia
 gordinflón
 gorgotear, borbotear
 gorgoteo
@@ -1570,6 +1542,7 @@ indescifrable
 índice
 individualizar, individuar
 indolente
+indómito
 inducido
 inducir
 inductivo
@@ -1579,6 +1552,7 @@ indulto
 inédito
 ineflable
 ineludible
+inenarrable
 inerme
 inescrutable
 inexorable
@@ -1589,6 +1563,7 @@ infamia
 inflexión
 infligir
 infortunio
+infranqueable
 infructuoso
 ingente
 ingratitud
@@ -1600,6 +1575,7 @@ iniquidad
 injuria, agravio
 inmediatez
 inminente
+inmiscuir
 inmolar
 inmunidad
 innato
@@ -1636,6 +1612,7 @@ intruso
 intuición
 intuitivo
 inusitado
+inverosímil
 iracundia
 irisar
 irreflexivo
@@ -1655,6 +1632,7 @@ jamba
 jerarquía
 jersey
 jirón
+jofaina
 juanete
 jubilar
 júbilo
@@ -1785,6 +1763,7 @@ matiz
 matriz
 mausoleo
 máxime
+mazmorra
 mazo
 mediación
 medrar
@@ -1800,6 +1779,7 @@ melodramático
 memo
 menaje
 mendrugo
+menisco
 menoscabar
 ménsula, repisa, estante
 mentirijilla
@@ -1829,6 +1809,7 @@ mimetizarse
 minar
 minuta
 miope
+miramiento
 misoginia
 misticismo
 mitin, mitín
@@ -1840,6 +1821,7 @@ mondadura, monda, peladura
 mondar
 monigote
 monocorde
+monomanía
 monserga
 montículo
 morfina
@@ -1870,6 +1852,7 @@ negligencia
 negligente
 negrura
 neolítico
+neologismo
 nepotismo
 neurocepción
 nexo
@@ -1947,6 +1930,7 @@ panocha
 panteón
 papanatas, papamoscas, paparote
 paperas
+paquidermo
 paradoja
 paralelepípedo
 paralelogramo, paralelógramo
@@ -1977,6 +1961,7 @@ paspartú
 pastoreo
 pastoso
 patalear
+patela, rótula
 patente
 pateta
 patibulario
@@ -2005,6 +1990,7 @@ perenne
 pérfido
 pericia
 periférico
+peripatético
 periplo
 perito
 perlado, perlino
@@ -2061,6 +2047,7 @@ polifacético
 polio
 pompa
 pomposo
+pomposo
 popa
 porfiado
 pormenor
@@ -2099,6 +2086,7 @@ prensa
 prensar
 preponderancia
 preponderar
+prepotencia
 presbicia
 prescindir
 presidiario, convicto, recluso
@@ -2154,9 +2142,11 @@ psoriasis, soriasis
 pterigio, pterigión
 pudor
 pueril
+pueril
 puesta
 pugna
 puja
+pulido
 pulimentar
 pulular
 punible
@@ -2381,6 +2371,7 @@ sindical
 sindicato
 síndico
 sinfín, sinnúmero, infinidad
+sinsentido
 sisear
 sistemático
 sístole
@@ -2501,11 +2492,11 @@ terraplén
 terrera
 terrina, tarrina
 tertulia
+testaferro
 testarudez
 tétrico
 tibieza
 timar
-timo
 timo
 timorato
 tímpano
@@ -2520,6 +2511,7 @@ tipificar
 tirachinas, tiragomas, tirador
 tiro
 tisis, tuberculosis
+tisular, hístico
 tiznar
 toca
 tocado
@@ -2585,6 +2577,7 @@ troquel
 trova
 truhan
 tumbo
+tumbona
 tumulto
 tungsteno, wolframio, volframio
 túnica
@@ -2599,6 +2592,7 @@ turulato
 ufanarse
 ufano
 úlcera
+ulterior
 ultimátum
 ultraje
 ultranza
@@ -2608,6 +2602,7 @@ umbrío, umbroso
 uncir
 unicidad
 urbanita, urbanícola
+urogallo
 usurpar
 vacilante
 vacilar
@@ -2630,6 +2625,7 @@ vástago
 váter, inodoro, retrete, urinario
 vedar
 vegetativo
+vehemencia
 vehemencia
 vehemente
 veintena
