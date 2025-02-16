@@ -1,34 +1,3 @@
-Animismo
-Gruta
-Rupestre
-Cérvido
-Chamán
-Yacimiento
-Simbiosis
-Urticante
-Ortiga
-Deidad
-Bajorrelieve
-Rebaño
-Pictograma
-Cuneiforme
-Sinfín
-Devenir
-Expiatorio
-Erigir
-Deificar
-Fidedigno
-Apócrifo
-Librepensador
-Vejación
-Sedición
-Ilusorio
-Pagano
-Pecaminoso
-Hadefobia, afefobia, hafofobia, hapnofobia
-Samaritano
-Borreguismo
-Borreguil
 abalorio
 abanicar
 abarcador
@@ -224,6 +193,7 @@ altanería
 altercado
 altivez
 altivo
+altorrelieve
 altruismo, filantropía
 altruista
 alucinación
@@ -260,6 +230,7 @@ aneurisma
 anfitrión
 angina
 anguloso
+animismo
 animosidad
 anodino
 anómalo
@@ -295,6 +266,7 @@ apetecer
 ápice
 aplastante
 aplomo
+apócrifo
 apogeo
 apoplejía
 apremiante
@@ -433,6 +405,7 @@ bacilo
 bagaje
 bagatela, baratija, nimiedad
 bagazo
+bajorrelieve
 baladí
 balbucear, balbucir
 balido
@@ -505,6 +478,8 @@ bondiola
 bórax
 borbotón, borbollón
 borrasca
+borreguil
+borreguismo
 botana
 botín
 boyante
@@ -632,11 +607,13 @@ cerner, cernir
 cerrazón
 cerro
 cervical
+cérvido
 cerviz
 cetrino
 chabacano
 chabola, chavola, cabaña, barraca, choza
 chafarrinada, chafarrinón
+chamán
 chanchullo
 chantaje
 chaparro, achaparrado, rechoncho
@@ -851,6 +828,7 @@ cúmulo
 cuñado
 cuncuna
 cundir
+cuneiforme
 cuneta
 cupé
 curia
@@ -870,6 +848,7 @@ deferencia
 déficit
 defunción
 degüello, degollamiento
+deidad
 deificar, divinizar
 dejo
 delator
@@ -973,6 +952,7 @@ detonar
 detrimento
 devanar
 devengar
+devenir
 devoto
 diáfano
 diafragma
@@ -1159,7 +1139,6 @@ equívoco
 erguir
 erial, baldío
 erigir
-erigir
 erizado
 errante
 errar
@@ -1285,6 +1264,7 @@ excluyente
 exhortar
 exiguo
 expiar
+expiatorio
 explayar
 explayarse
 exprimir
@@ -1324,6 +1304,7 @@ feúcho
 fiabilidad
 fianza
 fiar
+fidedigno
 figuración
 figurar
 figurarse
@@ -1458,6 +1439,7 @@ gulupa
 gurú
 hacha
 hacienda
+hadefobia, afefobia, hafofobia, hapnofobia
 halagüeño, lisonjero
 hálito
 harapiento
@@ -1522,6 +1504,7 @@ idóneo
 idóneo
 ignominia
 ilación
+ilusorio
 imbatible
 imbuir
 impalpable
@@ -1704,6 +1687,7 @@ leva
 liana
 liar
 libelo
+librepensador
 licitación
 licitar
 ligamento
@@ -1944,6 +1928,7 @@ ovillo
 pacato
 pacer
 padecer
+pagano
 pajarilla
 palidecer
 palimpsesto
@@ -2003,6 +1988,7 @@ pauta
 pavonear
 pavor
 pavoroso
+pecaminoso
 pecíolo, rabillo, cabillo, pezón
 peculado
 pecuniario, monetario
@@ -2044,6 +2030,7 @@ pétreo
 petulancia
 petulante
 piar
+pictograma
 pigmento
 pilar
 pileta
@@ -2225,6 +2212,7 @@ reaccionario
 reacio
 reata
 rebajar
+rebaño
 rebasar
 rebatir
 reblandecer
@@ -2339,6 +2327,7 @@ rufián, granuja
 rufianesco
 ruinoso
 rumiante
+rupestre
 sabotaje
 sacarina
 saciedad
@@ -2347,6 +2336,7 @@ saeta
 salpicadero
 salva
 salvaguardar
+samaritano
 sándalo
 sanguíneo
 santiamén
@@ -2358,7 +2348,6 @@ saturar
 secuaz
 secular, seglar, laico, lego
 secundar
-sedán
 sedán
 sedición, sublevación
 sedicioso
@@ -2392,6 +2381,7 @@ sien
 sigilo
 sílex, pedernal
 silo
+simbiosis
 simiesco
 símil
 simpático
@@ -2634,6 +2624,7 @@ uncir
 unicidad
 urbanita, urbanícola
 urogallo
+urticante
 usurpar
 vacilante
 vacilar
@@ -2660,6 +2651,7 @@ vehemencia
 vehemencia
 vehemente
 veintena
+vejación
 vejestorio
 veleidoso
 veleta
@@ -2710,6 +2702,7 @@ volátil
 volatilizar
 voltaico
 yacer
+yacimiento
 yacón
 yelmo
 yema
