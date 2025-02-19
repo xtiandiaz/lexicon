@@ -1,15 +1,3 @@
-Ventosa
-acuciante
-Infortunio
-sucedáneo
-Desterrado
-Exiliado
-Expatriado
-Postureo
-Dispendioso
-Quid
-Entelequia
-Otrora
 abalorio
 abanicar
 abarcador
@@ -79,6 +67,7 @@ acordonar
 acotado
 acotar
 acrofobia
+acuciante
 acucioso
 acuclillarse, encuclillarse, apucuyarse
 acudir
@@ -343,7 +332,6 @@ aspereza
 aspersor
 astil
 astracán, astrakán
-astringente
 astringente, astrictivo
 astringir
 astucia
@@ -364,7 +352,6 @@ atontamiento
 atosigar
 atril, facistol
 atrincherar
-atrofia
 atrofia
 atronador
 atronar
@@ -876,6 +863,7 @@ denostar
 dentellar, castañetear
 dentellear
 denuedo
+deportar
 derogar
 derrochar
 derroche, despilfarro, dispendio
@@ -948,6 +936,7 @@ desprofecionalizar
 desprovisto
 desquiciar
 destello
+desterrado
 destituir
 desuncir
 desuso
@@ -1010,6 +999,7 @@ disparatar
 disparate
 disparidad
 dispendio, derroche, despilfarro
+dispendioso
 displicencia
 disponer
 distopía
@@ -1019,6 +1009,7 @@ disuadir
 diurético
 diván
 divertículo
+divisa
 divulgar
 dogma
 doliente
@@ -1127,6 +1118,7 @@ ensalzar
 enseres
 ensordecedor
 ensueño, ensoñación
+entelequia
 entendimiento
 entereza
 enternecedor
@@ -1275,6 +1267,8 @@ excentricidad
 excluyente
 exhortar
 exiguo
+exiliado
+expatriado
 expiar
 expiatorio
 explayar
@@ -1932,13 +1926,16 @@ ortodoxia
 orzuelo
 osamenta, osatura
 ostensible
+ostracismo
 otear
 otomana, otomano
+otrora
 ovación
 ovacionar
 ovillo
 pacato
 pacer
+pachulí
 padecer
 pagano
 pajarilla
@@ -2095,6 +2092,7 @@ postizo
 postor, licitador, licitante, pujador
 postular
 póstumo
+postureo
 potasa
 preámbulo
 prebiótico
@@ -2154,6 +2152,7 @@ propaganda
 propugnar
 prorratear, distribuir, repartir, cuotear
 prosaico
+proscripción
 proscrito, proscripto
 proseguir
 prospecto
@@ -2187,6 +2186,7 @@ quejumbroso
 quemarropa
 querubín
 quicio
+quid
 quilla
 quinina, quina
 quiosco
@@ -2216,7 +2216,6 @@ raquis
 rastra
 rastrojera
 rastrojo, rastrojal
-ratificar
 ratificar
 ratonil
 razonar
@@ -2465,6 +2464,7 @@ suburbio
 subvertir
 subyacente
 subyacer
+sucedáneo
 sucinto
 súcubo
 sucumbir
@@ -2669,6 +2669,7 @@ veleidoso
 veleta
 vendimia
 ventisca
+ventosa
 ventral
 veranda
 verbena
@@ -2686,6 +2687,7 @@ veteado
 veteado, vetado
 veto
 viable
+viandante
 vicario
 vicisitud
 victimización
