@@ -1,15 +1,3 @@
-Fardar
-Séquito
-Tara
-Yonqui
-Claroscuro
-Coetáneo
-Preconizar
-Aforismo
-Perenne
-Insuflar
-Inconmensurable
-Corsé
 abalorio
 abanicar
 abarcador
@@ -117,6 +105,7 @@ afincar
 aflicción
 afligido
 aforar
+aforismo
 aforo, afuero
 afrancesado
 afrecho, salvado
@@ -674,6 +663,7 @@ clandestino
 claqué
 claraboya
 clarividencia
+claroscuro
 claveteado
 clavícula
 clavija
@@ -808,6 +798,7 @@ corrillo
 corro
 corroer
 corroído
+corsé
 cortafuego
 cotejar, comparar, confrontar
 cotorreo
@@ -915,7 +906,7 @@ desecar
 desenmarañar, desmarañar
 desfalcar
 desfallecido
-desgarbado
+desgajar
 desgarbado
 desgarrón, rasgón, desgarradura
 desgravación
@@ -985,6 +976,7 @@ difundir
 digresión
 dilapidar
 diletante
+dilucidar, esclarecer
 dimensión
 dingo
 dintel
@@ -1304,6 +1296,7 @@ falange
 falible
 fanfarronada, fanfarronería
 fango
+fardar
 fastuoso
 feble
 fechoría
@@ -1625,6 +1618,7 @@ insólito
 insoluble
 insoslayable
 instigar
+insuflar
 ínsula
 insulina
 insurgencia, alzamiento, insurrección
@@ -1964,6 +1958,7 @@ pancarta
 panegírico
 panetón, panetone
 panocha
+panteísmo
 panteón
 papanatas, papamoscas, paparote
 paperas
@@ -1994,6 +1989,7 @@ pasante
 pasantía
 pasible
 pasmado
+pasota
 paspartú
 pastoreo
 pastoso
@@ -2024,6 +2020,7 @@ percatar
 percha, colgador
 percutor, percusor
 perecer
+perenne
 perenne
 pérfido
 pericia
@@ -2111,6 +2108,7 @@ prebiótico
 precepto
 precesión
 preconcebir, premeditar
+preconizar
 precoz
 predisponer
 predisposición
@@ -2387,6 +2385,7 @@ sepelio
 sepsis
 septentrión
 septentrional
+séquito
 serafín
 serendipia
 serendípico
@@ -2515,6 +2514,7 @@ taoísmo
 tapadera
 tapia
 tapial
+tara
 tararear, tatarear, canturrear
 tasación
 tasar
@@ -2585,6 +2585,7 @@ trallazo, latigazo
 tramoya
 trance
 transcripción
+transgresión, trasgresión
 transigir
 transmutar
 transpirar, traspirar
@@ -2724,7 +2725,6 @@ vituperar
 vituperio
 vociferar
 volátil
-volátil
 volatilizar
 voltaico
 yacer
@@ -2735,6 +2735,7 @@ yema
 yermo
 yerno
 yesca
+yonqui
 yugo
 yunta
 yute
