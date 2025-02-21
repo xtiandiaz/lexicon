@@ -1,48 +1,4 @@
-Velatorio
-Revulsivo
-Malvivir
-Fideicomisario
-Cementar, encementar
-Cimentar
-Briqueta
-Antracita
-Heno
-Sirga
-Maroma
-Genuflexión
-Rezagado
-Superfluidad
-Anorak
-Cordel
-Abrevadero
-Zancada
-Electrodo
-Ánodo
-Cátodo
-Aguilón
-Huerto
-Huerta
-Orzuelo
-Cobertizo
-Graznar
-Tweed
-Tamiz
-Tamizar
-Atolón
-Brida
-Astillero
-Concertina
-Furgoneta
-Chirivía
-Zócalo
-Inquebrantable
-Palomilla
-Balasto
-Espumillón, guirnalda
-Floritura
-Abad
-Poinsettia
-Blazer
+abad
 abalorio
 abanicar
 abarcador
@@ -66,6 +22,7 @@ abrasar
 abrasión
 abrasivo
 abrazadera
+abrevadero
 abrigar
 abrumar
 abrupto
@@ -177,6 +134,7 @@ agreste
 agriar
 agüero
 aguerrido
+aguilón
 agujerear
 agutí, ñequeo
 aguzado, puntiagudo
@@ -280,7 +238,9 @@ anguloso
 animismo
 animosidad
 anodino
+ánodo
 anómalo
+anorak
 añoranza
 anquilosar
 ansiolítico
@@ -296,6 +256,7 @@ antisemita
 antítesis
 antología
 antorcha
+antracita
 antro
 anturio
 añublo, anublo
@@ -377,6 +338,7 @@ aspaviento
 aspereza
 aspersor
 astil
+astillero
 astracán, astrakán
 astringente, astrictivo
 astringir
@@ -394,6 +356,7 @@ atípico
 atiplado
 atisbar
 atisbo
+atolón
 atontamiento
 atosigar
 atril, facistol
@@ -452,6 +415,7 @@ bagatela, baratija, nimiedad
 bagazo
 bajorrelieve
 baladí
+balasto, balastro
 balbucear, balbucir
 balido
 ballesta
@@ -505,6 +469,7 @@ bisutería
 bitácora
 bizcocho
 blando
+blazer
 bledo
 blíster
 bluf, bluff
@@ -532,6 +497,7 @@ bramante
 brecha
 brida
 brío
+briqueta
 brizna, brinza
 bruma
 brumoso
@@ -624,6 +590,7 @@ catarata
 catatonia, catatonía
 catatónico
 catecismo
+cátodo
 catre
 cáustico
 cautamente
@@ -635,12 +602,14 @@ cazo
 cazuela
 cebar
 cecina
+cedazo, tamiz
 ceder
 celada
 célebre
 celíaco, celiaco
 celo
 celulosa
+cementar, encementar
 cencerro
 cenefa
 ceñir
@@ -672,6 +641,7 @@ chícharo, legumbre
 chinchar
 chinche
 chingar
+chirivía
 chirriante
 chirriar
 chirrido
@@ -691,6 +661,7 @@ cimarrón
 cimbra
 cimbrar, cimbrear
 cimbreante
+cimentar
 cimiento, cimentación, fundamento
 cincel
 cinismo
@@ -760,6 +731,7 @@ compostura
 compungido
 conato
 concebir
+concertina
 concesión
 concienzudo
 conciliable
@@ -1089,6 +1061,7 @@ efusividad
 efusivo
 eje
 electorado
+electrodo
 elixir, elíxir
 elocución
 elocuencia
@@ -1256,6 +1229,7 @@ esponjosidad
 espray, spray
 espuela
 espuertas
+espumillón, guirnalda
 espurio, espúreo
 esquema
 esquilmar
@@ -1361,6 +1335,7 @@ fiabilidad
 fianza
 fiar
 fidedigno
+fideicomisario
 figuración
 figurar
 figurarse
@@ -1381,6 +1356,7 @@ flaquear
 fleco
 flojedad, flojera
 floreo
+floritura
 fluctuación
 focalizar
 fofo, bofo
@@ -1417,6 +1393,7 @@ fulgor
 fulminante
 fulminar
 furcia
+furgoneta
 furibundo
 furtivo
 futilidad
@@ -1441,6 +1418,7 @@ géiser
 gélido
 gen, gene
 genoma
+genuflexión
 gerontofília
 gesticular
 gimotear
@@ -1472,6 +1450,7 @@ gramófono
 grandilocuencia
 grandilocuente
 granulado, granuloso, granular
+graznar
 graznido
 greca
 gregario
@@ -1508,6 +1487,7 @@ hemorragia
 hemorroide
 hender, hendir
 hendidura, hendedura
+heno
 herejía
 hermandad, confraternidad
 herrumbre
@@ -1544,6 +1524,8 @@ horda
 horma
 horquilla
 hostil
+huerta
+huerto
 huésped
 huidizo
 humos
@@ -1651,6 +1633,7 @@ inmunidad
 innato
 inocular
 inocuo
+inquebrantable
 inquirir
 inquisidor
 inquisitivo, inquisitorio
@@ -1798,6 +1781,7 @@ malintencionado
 malparado
 maltrecho
 malva
+malvivir
 mameluco, mono
 mamerto
 mamotreto
@@ -1824,6 +1808,7 @@ marañón
 marfil
 marisma
 marmota
+maroma
 marquesina
 marroquinería
 marsopa, marsopla
@@ -1994,6 +1979,7 @@ palidecer
 palimpsesto
 palmario,	palpable
 palmo
+palomilla
 palpable
 palpitante
 pampa
@@ -2019,6 +2005,7 @@ pardusco
 parecer
 parentela
 paria
+parietal
 paripé
 parlar
 parlotear
@@ -2118,6 +2105,7 @@ plétora
 pletórico
 plomo
 plumín
+poinsettia
 polémica, controversia
 polémico
 polemista
@@ -2377,6 +2365,8 @@ revestimiento
 revestir
 revolotear
 revoltoso
+revulsivo
+rezagado
 rezongar
 rezumar
 rictus, gesto, mueca
@@ -2460,6 +2450,7 @@ sindicato
 síndico
 sinfín, sinnúmero, infinidad
 sinsentido
+sirga
 sisear
 sistemático
 sístole
@@ -2532,6 +2523,7 @@ sugestionar
 sujeción
 supeditar
 superávit
+superfluidad
 superfluo
 superlativo
 superponer, sobreponer
@@ -2553,6 +2545,8 @@ taciturno
 taimado
 tajante
 talismán, amuleto, fetiche
+tamiz, cedazo, coladero, colador
+tamizar
 tampografía
 tanino
 taoísmo
@@ -2680,6 +2674,7 @@ turbante
 turbar
 turpial
 turulato
+tweed
 ufanarse
 ufano
 úlcera
@@ -2723,6 +2718,7 @@ vehemente
 veintena
 vejación
 vejestorio
+velatorio
 veleidoso
 veleta
 vendimia
@@ -2790,6 +2786,7 @@ zahorí
 zalamería, lisonja
 zalamero
 zambullir
+zancada
 zancadilla
 zanja
 zanjar
