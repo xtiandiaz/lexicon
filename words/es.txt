@@ -1,48 +1,3 @@
-Proa
-Retrógrado
-Arpillera
-Novillo
-Tifus
-Tifoidea
-Linóleo
-Decantar
-Munificencia
-Acribillar
-Potro
-Fuelles
-Hoya
-Pachuco
-Grajo
-Aluvión
-Portafusil
-Furtivo
-Colmenilla
-Aparejo
-Overol
-Misántropo
-Albatros
-Estría
-Gubia
-Ablación
-Ludopatía
-Apocopar
-Arpón
-Paca
-Alfalfa
-Remolino
-Revoltijo, revoltillo
-Cloquear
-Cloqueo
-Clueca
-Chascar
-Alerce
-Ponderosa
-Ictérico
-Ictericia
-Bilirrubina
-Picaporte
-Arpillera
-Navío
 abad
 abalorio
 abanicar
@@ -113,6 +68,7 @@ acorde
 acordonar
 acotado
 acotar
+acribillar
 acrofobia
 acuciante
 acucioso
@@ -195,6 +151,7 @@ alarde
 alardear
 alarido
 alba
+albatros
 albedrío
 alberca
 albergar, alojar, hospedar
@@ -215,6 +172,7 @@ alebrije
 aledaño
 alelado, lelo
 alentador
+alerce
 alérgeno
 alero
 alerón
@@ -223,6 +181,7 @@ aletargamiento, letargo
 aletargar
 alevosía
 alfajor
+alfalfa, mielga
 alfil
 alforja
 algarabía, algazara
@@ -312,6 +271,7 @@ apaciguar, amansar, aplacar, aquietar, sosegar
 apañar
 aparador
 aparejar
+aparejo
 apatía
 apego
 apercibir
@@ -319,6 +279,7 @@ apetecer
 ápice
 aplastante
 aplomo
+apocopar
 apócrifo
 apogeo
 apoplejía
@@ -342,6 +303,8 @@ armatoste, mamotreto
 armiño
 armisticio, tregua, pacto
 árnica
+arpillera, harpillera
+arpón
 arquetipo
 arracimado, racimado, apiñado
 arraigar
@@ -453,6 +416,7 @@ azogue
 azotaina
 azuzado
 azuzar
+babor
 bache
 bacilo
 bagaje
@@ -504,6 +468,7 @@ bienestar
 bienintencionado
 bies
 bifurcar
+bilirrubina
 bioma
 biomarcador
 biorritmo
@@ -679,6 +644,7 @@ chaparro, achaparrado, rechoncho
 chapulín
 charol
 charola, bandeja, batea, charol
+chascar, chasquear
 chasis
 chasquido
 chaveta, pasador, clavija
@@ -730,6 +696,9 @@ clavícula
 clavija
 clérigo, eclesiástico
 clero, clerecía
+cloquear, clocar
+cloqueo
+clueca
 coacción, constreñimiento
 coagulante
 coartada
@@ -757,6 +726,7 @@ colgante
 colicero
 colindante
 colindar
+colmenilla
 coloide
 colonia
 colosal
@@ -1315,6 +1285,7 @@ estría
 estribar
 estribillo
 estribo
+estribor
 estridente
 estropicio
 estruendo
@@ -1432,6 +1403,7 @@ frívolo
 fructificar
 frugal
 fruslería
+fuelles
 fugacidad
 fugaz
 fulgor
@@ -1512,6 +1484,7 @@ guarnecer
 guarnición
 guasca
 guatila
+gubia
 guijarro
 guineo
 guisar
@@ -1569,6 +1542,7 @@ horda
 horma
 horquilla
 hostil
+hoya
 huerta
 huerto
 huésped
@@ -1579,6 +1553,8 @@ huraño, huidizo, esquivo
 hurón
 hurtadillas
 iconoclasta
+ictericia
+ictérico
 ictus
 idílico
 idilio
@@ -1783,6 +1759,7 @@ linaje
 linde, confín, lindero
 linfa
 linfocito
+linóleo
 linotipia
 líquene
 lisonja, adulación, zalamería
@@ -1805,6 +1782,7 @@ lozano
 lucio
 lucro
 lúdico
+ludopatía
 lugareño
 lujuria
 luminaria
@@ -1912,6 +1890,7 @@ minar
 minuta
 miope
 miramiento
+misántropo
 misoginia
 misticismo
 mitin, mitín
@@ -1941,6 +1920,7 @@ mugir
 mujerona
 mujeruca
 mundano
+munificencia
 muñón
 muselina
 mustio
@@ -1948,6 +1928,7 @@ mutabilidad
 mutilar
 nácar
 nampla
+navío
 necrosar
 negentropía
 negligencia
@@ -1968,6 +1949,7 @@ noquear
 normalizar
 notoriedad
 novicio
+novillo
 nuera
 obcecación
 oblicuo
@@ -2013,9 +1995,12 @@ otomana, otomano
 otrora
 ovación
 ovacionar
+overol
 ovillo
+paca, fardo, lío, bala
 pacato
 pacer
+pachuco
 pachulí
 padecer
 pagano
@@ -2125,6 +2110,7 @@ pétreo
 petulancia
 petulante
 piar
+picaporte
 pictograma
 pigmento
 pilar
@@ -2133,6 +2119,7 @@ pilote
 pinche
 piñón
 pira
+pirlán
 pistón
 pitón
 pivote
@@ -2162,6 +2149,7 @@ polio
 pompa
 pomposo
 pomposo
+ponderosa
 popa
 porfiado
 pormenor
@@ -2169,6 +2157,7 @@ pormenor
 porquería
 porra
 porrazo, porrada, garrotazo
+portafusil
 portazo
 portillo
 positrón
@@ -2181,6 +2170,7 @@ postular
 póstumo
 postureo
 potasa
+potro
 preámbulo
 prebiótico
 precepto
@@ -2358,6 +2348,7 @@ remisible
 remisión
 remitir
 remolcar
+remolino
 remolón
 remolque
 rémora
@@ -2409,6 +2400,7 @@ reverberar
 revestimiento
 revestir
 revolotear
+revoltijo, revoltillo
 revoltoso
 revulsivo
 rezagado
@@ -2625,6 +2617,8 @@ testaferro
 testarudez
 tétrico
 tibieza
+tifoidea
+tifus
 timar
 timo
 timorato
