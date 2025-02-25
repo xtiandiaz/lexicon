@@ -141,7 +141,6 @@ agutí, ñequeo
 aguzado, puntiagudo
 aguzar
 ahínco
-ahínco
 ahondar
 ajardinado
 ajuar
@@ -167,7 +166,6 @@ alcalino
 alcornoque
 aldaba, aldabón, picaporte
 aleatorio
-alebosía
 alebrije
 aledaño
 alelado, lelo
@@ -288,6 +286,7 @@ aprensión
 aprensivo, receloso, desconfiado
 aprisa, deprisa
 aprovisionar
+apuntalamiento
 aquiescencia
 aquilino
 arbitrario
@@ -500,7 +499,6 @@ borbotón, borbollón
 borrasca
 borreguil
 borreguismo
-botana
 botín
 boyante
 bramante
@@ -567,6 +565,7 @@ caoba
 capcioso
 capibara, carpincho, capiguara, chigüire
 capilar
+capitel
 capitular
 capota
 carámbano
@@ -2090,7 +2089,7 @@ periférico
 peripatético
 periplo
 perito
-perlado, perlino
+perlado, aperlado, perlino
 perlita
 permisivo
 perno
@@ -2257,6 +2256,7 @@ pulido
 pulimentar
 pulular
 punible
+puntal
 purga
 puritanismo
 purulento
