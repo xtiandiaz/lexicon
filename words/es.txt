@@ -2070,7 +2070,7 @@ parapetar
 parapeto
 parapléjico
 parasimpático
-pardusco
+parduzco
 parecer
 parentela
 paria
@@ -2479,7 +2479,6 @@ salva
 salvaguardar
 samaritano
 sándalo
-sanguíneo
 santiamén
 sardónice, sardónica
 sarmiento
@@ -2494,7 +2493,6 @@ sedición, sublevación
 sedicioso
 segar
 semblante
-semblanza
 semblanza
 senda
 senectud
@@ -2614,7 +2612,6 @@ superfluo
 superlativo
 superponer, sobreponer
 superstición
-suponer
 supurar
 surcar
 suscitar
