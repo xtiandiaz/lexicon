@@ -1,55 +1,3 @@
-Porfiado
-Sotana
-Crupier
-Cáterin
-Secundar
-Cantinela
-Aspaviento
-Pavada
-Aturullar
-Trole
-Empalagoso
-Compunción
-Viraje
-Residir
-Sinsabor
-Acaecer
-Aletargar
-Senilidad
-Antiséptico
-Entrecasa
-Lipoma
-Hernia
-Inguinal
-Cargoso, cargante
-Primor
-Módico
-Despatarrar
-Clarete
-Monada
-Entripado
-Vejancón
-Incisivo
-Refilón
-Acomodo
-Ídem
-Coima
-Estampa
-Beatífico
-Capón
-Manopla
-Animadversión
-Macana
-Alharaca
-Tonina
-Pletórico
-Adulón
-Planteo
-Denodadamente
-Cogote
-Carraspera
-Marote
-Fuero
 abad
 abalorio
 abanicar
@@ -109,6 +57,7 @@ achinado
 aciago
 acólito
 acometida
+acomodo
 acompasado
 acompasar, compasar
 acomplejaro
@@ -296,6 +245,7 @@ aneurisma
 anfitrión
 angina
 anguloso
+animadversión
 animismo
 animosidad
 anodino
@@ -314,6 +264,7 @@ anticuerpo
 antígeno
 antioxidante
 antisemita
+antiséptico
 antítesis
 antología
 antorcha
@@ -622,6 +573,7 @@ canalla
 canjear
 canon
 cansino
+cantinela
 canto
 canturrear, canturriar
 canturreo, tarareo
@@ -632,6 +584,7 @@ capibara, carpincho, capiguara, chigüire
 capilar
 capitel
 capitular
+capón
 capota
 carámbano
 carambola
@@ -641,11 +594,13 @@ carcasa
 carda
 cardamomo
 cardiopatía
+cargoso, cargante
 carillón, carrillón
 carmesí
 carmín
 caroteno
 carótida
+carraspera
 carrete
 carrocería
 carroña
@@ -664,6 +619,7 @@ catarata
 catatonia, catatonía
 catatónico
 catecismo
+cáterin
 cátodo
 catre
 cáustico
@@ -755,6 +711,7 @@ clamor
 clandestino
 claqué
 claraboya
+clarete
 clarividencia
 claroscuro
 claveteado
@@ -781,8 +738,10 @@ coerción
 coetáneo, contemporáneo
 cofia 
 cofradía
+cogote
 cohesión
 cohibir
+coima
 coimero
 cojinete
 colación
@@ -811,7 +770,7 @@ compinche
 cómplice
 complicidad
 compostura
-compungido
+compunción, contrición
 compungido
 conato
 concebir
@@ -920,6 +879,7 @@ cristaloide
 criterio
 crucífero
 crujido
+crupier
 cuajar
 cuartilla
 cubata, cubalibre
@@ -963,6 +923,7 @@ demacración
 demacrado
 demacrar
 denegar
+denodado
 denostar
 dentellar, castañetear
 dentellear
@@ -1177,6 +1138,7 @@ embuste
 embustero
 emotivo
 empalagar
+empalagoso
 empalmar
 empalme
 empecinarse
@@ -1237,8 +1199,10 @@ entorpecer
 entramado
 entramar
 entraña
-entretecho
+entrecasa
+entretecho, desván, altillo
 entrever
+entripado
 entropía
 envergadura
 enviudar
@@ -1329,6 +1293,7 @@ esquizofrenia
 estaca
 estalactita
 estalagmita
+estampa
 estancia
 estandarte
 estanque
@@ -1482,6 +1447,7 @@ fructificar
 frugal
 fruslería
 fuelles
+fuero
 fugacidad
 fugaz
 fulgor
@@ -1587,6 +1553,7 @@ hendidura, hendedura
 heno
 herejía
 hermandad, confraternidad
+hernia
 herrumbre
 hervor
 heterodoxia
@@ -1636,6 +1603,7 @@ iconoclasta
 ictericia
 ictérico
 ictus
+ídem
 idílico
 idilio
 idoneidad
@@ -1679,6 +1647,7 @@ inaudito
 incauto
 incesante
 incidental
+incisivo
 incoercible
 inconciliable
 inconexo
@@ -1723,6 +1692,7 @@ infranqueable
 infructuoso
 ingente
 ingratitud
+inguinal
 inhibir
 inhóspito
 ininteligible
@@ -1847,6 +1817,7 @@ linfa
 linfocito
 linóleo
 linotipia
+lipoma
 líquene
 lisonja, adulación, zalamería
 lisonjear, adular
@@ -1876,6 +1847,7 @@ lupanar
 lupus
 lustrina
 luxación
+macana
 macrófago
 mácula
 macular
@@ -1983,7 +1955,9 @@ misticismo
 mitin, mitín
 mitomanía
 mitón
+módico
 mohín
+monada, monería
 monasterio
 mondadura, monda, peladura
 mondar
@@ -2155,6 +2129,7 @@ pátina
 patógeno
 paulatino
 pauta
+pavada
 pavonear
 pavor
 pavoroso
@@ -2220,6 +2195,7 @@ pizarra
 pizarrín
 placebo
 plañidera
+planteo
 plasma
 plasmar
 platija
@@ -2241,7 +2217,6 @@ poliestireno
 polifacético
 polio
 pompa
-pomposo
 pomposo
 ponderosa
 popa
@@ -2304,6 +2279,7 @@ prevalencia
 prevaler
 prieto
 primitivo
+primor
 primordial
 prismático
 proa
@@ -2366,7 +2342,6 @@ quilla
 quinina, quina
 quiosco
 quiste
-quiste
 quórum, cuórum
 rabillo
 racha
@@ -2421,6 +2396,7 @@ recoveco
 recriminar
 redoble
 refacción
+refilón
 refranero
 refrigerio
 refunfuñar, gruñir, rezongar
@@ -2466,6 +2442,7 @@ resabio
 resaca
 resalto, resalte
 resguardar
+residir
 resignar
 resiliente
 resol
@@ -2537,6 +2514,7 @@ sarmiento
 sarta
 satirizar
 saturar
+sebáceo
 secuaz
 secular, seglar, laico, lego
 secundar
@@ -2584,6 +2562,7 @@ sindical
 sindicato
 síndico
 sinfín, sinnúmero, infinidad
+sinsabor
 sinsentido
 sirga
 sisear
@@ -2592,6 +2571,7 @@ sístole
 so
 sobaquina
 soberbia
+sobrado
 sobrecoger
 sobredimensionar
 sobrehilado
@@ -2627,6 +2607,7 @@ sórdido
 sortear
 sosiego
 soslayar
+sotana
 souvenir, recuerdo
 subasta
 subastar
@@ -2792,6 +2773,7 @@ trinquete
 tripartita
 triza
 trocar
+trole
 tromba
 trompicón, tropezón, tropiezo
 troncho
@@ -2850,7 +2832,6 @@ váter, inodoro, retrete, urinario
 vedar
 vegetativo
 vehemencia
-vehemencia
 vehemente
 veintena
 vejación
@@ -2889,6 +2870,7 @@ vilipendiar, vilificar
 vilo
 viñeta
 violáceo
+viraje
 virar
 viscoso
 visera
