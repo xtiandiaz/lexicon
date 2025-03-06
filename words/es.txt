@@ -1,24 +1,3 @@
-Chispeante
-Comicidad
-Escribano
-Hombruno
-Achacoso
-Cancela
-Equidistancia
-Amueblada
-Diezmar
-Rezongar
-Prolegómeno
-Novicio
-Defenestrar
-Usufructuario
-Usufructo
-Mayólica
-Escarbadientes, mondadientes, palillo
-Teosofía
-Manglar
-Alevín
-Lémur
 abad
 abalorio
 abanicar
@@ -69,6 +48,7 @@ acequia
 acerado
 acérrimo
 acezar, jadear, resoplar, resollar
+achacoso
 achaparrado
 achaque
 achicharrante
@@ -205,6 +185,7 @@ alerón
 aletargado
 aletargamiento, letargo
 aletargar
+alevín
 alevosía
 alfajor
 alfalfa, mielga
@@ -251,6 +232,7 @@ amnistía
 amorfo
 ampolla
 ampolleta
+amueblada
 amuleto
 analgésico
 analógico
@@ -591,6 +573,7 @@ campiña
 campirano
 camuflaje
 canalla
+cancela
 canjear
 canon
 cansino
@@ -699,6 +682,7 @@ chirivía
 chirriante
 chirriar
 chirrido
+chispeante
 chisporroteo
 chollo, ganga
 chorlito
@@ -783,6 +767,7 @@ columnista
 colza
 comedido
 comedimiento
+comicidad
 cómoda
 compaginar
 compartimentar
@@ -927,6 +912,7 @@ decrépito
 decrepitud
 decúbito
 deductivo
+defenestrar
 defensiva
 deferencia
 déficit
@@ -1056,6 +1042,7 @@ dictadura, autocracia
 dictamen
 didáctico
 diencéfalo
+diezmar
 difamar
 difundir
 digresión
@@ -1233,6 +1220,7 @@ epidemia
 epigenoma
 epílogo
 epinefrina, adrenalina
+equidistancia
 equinoccio
 equívoco
 erguir
@@ -1257,6 +1245,7 @@ escandalizar
 escaparate
 escaque
 escaramuza
+escarbadientes, mondadientes, palillo
 escarcela
 escardar
 escarnio
@@ -1273,6 +1262,7 @@ escoria
 escorzar
 escorzo, escorzado
 escozor, escocimiento
+escribano
 escrúpulo
 escrutar
 escrutinio
@@ -1602,6 +1592,7 @@ holgazán, haragán
 holismo
 holístico
 hollín, tizne
+hombruno
 homeóstasis, homeostasis, homeostasia
 homilía
 homogeneizar
@@ -1793,7 +1784,6 @@ junquillo
 junta
 jura
 kamikaze, camicace
-kamikaze, camicace
 labrar
 lacayo
 lacre
@@ -1811,6 +1801,7 @@ lealtad
 lecho
 legado
 lego
+lémur
 leonino
 lesivo
 leso
@@ -1819,7 +1810,6 @@ letargo, aletargamiento
 leucocito
 leudado
 leudante, levadura
-leudar
 leudar
 leva
 liana
@@ -1894,6 +1884,8 @@ manco
 mandamás
 mandón
 mandrágora
+manglar
+mangosta
 mangostino
 manida
 maniobra
@@ -1923,6 +1915,7 @@ matiz
 matriz
 mausoleo
 máxime
+mayólica
 mazmorra
 mazo
 mediación
@@ -2032,6 +2025,7 @@ nívea
 noquear
 normalizar
 notoriedad
+novicio
 novicio
 novillo
 nuera
@@ -2315,6 +2309,7 @@ profanar
 profanar
 profecía
 profilaxis
+prolegómeno
 proletario
 promiscuidad
 promisorio
@@ -2499,6 +2494,7 @@ revoltijo, revoltillo
 revoltoso
 revulsivo
 rezagado
+rezongar
 rezongar
 rezumar
 rictus, gesto, mueca
@@ -2705,6 +2701,7 @@ temperamento
 tenaza
 tensiómetro
 tenue
+teosofía
 terapéutica, terapia
 tergiversar
 terigio
@@ -2830,6 +2827,8 @@ unicidad
 urbanita, urbanícola
 urogallo
 urticante
+usufructo
+usufructuario
 usurpar
 vacilante
 vacilar
