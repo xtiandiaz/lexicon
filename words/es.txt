@@ -164,11 +164,10 @@ albergar, alojar, hospedar
 albergue, cobijo
 albo
 alborada
-alborada
 albornoz
 alborozo
 alcahuete, alcahueta
-álcali
+álcali, cali
 alcalino
 alcaucil
 alcornoque
