@@ -1473,6 +1473,7 @@ galimatías
 gallardía
 galopante
 galopar
+galpón
 gama
 gamuza
 gánster
@@ -1754,6 +1755,7 @@ intuitivo
 inusitado
 inverosímil
 iracundia
+iracundo
 irisar
 irreflexivo
 irremisible
@@ -2209,7 +2211,7 @@ pizarra
 pizarrín
 placebo
 plañidera
-planteo
+planteo, planteamiento
 plasma
 plasmar
 platija
