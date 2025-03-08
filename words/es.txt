@@ -8,6 +8,37 @@ Jaleo
 Turulato, estupefacto
 Afeite, cosmético
 Vacilación
+Indeclinable
+Atosigar
+Amordazar
+Rijoso
+Hurra
+Inane
+Clisé, cliché
+Formulismo
+Soliloquio
+Frazada
+Ufano
+Ufanarse
+Desperdigar
+Estentóreo
+Varicoso
+Micosis
+Provisorio
+Limerencia
+Prédica
+Puritanismo
+Atavismo
+Filial
+Doblegar
+Confitería
+Guarango
+Soso
+Fruición
+Amnesia
+Mazacote
+Morisqueta
+Morfinómano
 abad
 abalorio
 abanicar
@@ -87,8 +118,7 @@ acucioso
 acuclillarse, encuclillarse, apucuyarse
 acudir
 acunar
-acuñar
-acurrucarse
+acurrucarse, ovillarse, encogerse, agacharse
 adecentar
 adefesio
 ademán
@@ -2595,6 +2625,7 @@ sisear
 sistemático
 sístole
 so
+sobaco
 sobaquina
 soberbia
 sobrado
