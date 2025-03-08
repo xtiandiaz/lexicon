@@ -1,3 +1,13 @@
+reo
+Garfio
+Pleuritis
+Pleura
+Itinerario
+Viaraza
+Jaleo
+Turulato, estupefacto
+Afeite, cosmético
+Vacilación
 abad
 abalorio
 abanicar
@@ -1835,7 +1845,6 @@ líquene
 lisonja, adulación, zalamería
 lisonjear, adular
 lisonjero, adulador, zalamero
-lisozima
 lisura
 litera
 litigio
@@ -2018,12 +2027,11 @@ nepotismo
 neurastenia
 neurocepción
 nexo
-nexo
 nigromancia
 nimiedad
 nimio
 ninfomanía
-nívea
+níveo
 noquear
 normalizar
 notoriedad
@@ -2237,8 +2245,7 @@ pompa
 pomposo
 ponderosa
 popa
-porfiado
-pormenor
+porfiado, terco, obstinado
 pormenor
 porquería
 porra
