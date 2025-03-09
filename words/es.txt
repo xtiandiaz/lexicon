@@ -1,4 +1,25 @@
 baldío
+Cribar
+misantropía
+colágeno
+Merino
+Uretra
+Muñón
+Ricino
+Acogotar
+Cogote
+Estilográfica
+Neurastenia
+Neurasténico
+Léxico
+Ligereza
+Adoquín
+Movedizo
+Eclampsia
+Acreedor
+Encandilar
+Perigeo
+Gres
 abad
 abalorio
 abanicar
@@ -144,7 +165,9 @@ aguerrido
 aguilón
 aguinaldo
 agujerear
-agutí, ñequeo
+agutí, ñeque
+ñeque
+alcaraván
 aguzado, puntiagudo
 aguzar
 ahínco
@@ -1954,7 +1977,7 @@ mendrugo
 menisco
 menoscabar
 ménsula, repisa, estante
-mentirijilla
+mentirijillas
 menudo
 meollo
 mercader
