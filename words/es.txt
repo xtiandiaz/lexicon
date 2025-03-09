@@ -1,25 +1,3 @@
-baldío
-Cribar
-misantropía
-colágeno
-Merino
-Uretra
-Muñón
-Ricino
-Acogotar
-Cogote
-Estilográfica
-Neurastenia
-Neurasténico
-Léxico
-Ligereza
-Adoquín
-Movedizo
-Eclampsia
-Acreedor
-Encandilar
-Perigeo
-Gres
 abad
 abalorio
 abanicar
@@ -78,6 +56,7 @@ achicharrar
 achicoria, chicoria
 achinado
 aciago
+acogotar
 acólito
 acometida
 acomodo
@@ -92,6 +71,7 @@ acorde
 acordonar
 acotado
 acotar
+acreedor
 acribillar
 acrofobia
 acuciante
@@ -166,8 +146,6 @@ aguilón
 aguinaldo
 agujerear
 agutí, ñeque
-ñeque
-alcaraván
 aguzado, puntiagudo
 aguzar
 ahínco
@@ -192,6 +170,7 @@ alborozo
 alcahuete, alcahueta
 álcali, cali
 alcalino
+alcaraván
 alcaucil
 alcornoque
 aldaba, aldabón, picaporte
@@ -465,6 +444,7 @@ bajorrelieve
 baladí
 balasto, balastro
 balbucear, balbucir
+baldío
 balido, gamitido
 ballesta
 balsámico
@@ -776,6 +756,7 @@ coima
 coimero
 cojinete
 colación
+colágeno
 colectivismo
 colectivizar
 coleto
@@ -904,6 +885,7 @@ crencha
 crepitar
 crescendo
 criado
+cribar
 cripta
 crisol
 crispar
@@ -1133,6 +1115,7 @@ duermevela
 dulzor
 ebonita, vulcanita
 eccema, eczema
+eclampsia
 eclosionar
 ectomorfo
 ecuánime
@@ -1189,7 +1172,7 @@ enajenar
 enaltecer, ensalzar
 encabritar
 encabritarse
-encarar
+encandilar
 encarar
 encarecer
 encarnizamiento
@@ -1347,6 +1330,7 @@ estertor
 estetoscopio
 estigma
 estigmatizar
+estilográfica
 estío, verano
 estival
 estoico
@@ -1853,6 +1837,7 @@ leudado
 leudante, levadura
 leudar
 leva
+léxico
 liana
 liar
 libelo
@@ -1860,6 +1845,7 @@ librepensador
 licitación
 licitar
 ligamento
+ligereza
 lignificar
 lignina
 límbico
@@ -1986,6 +1972,7 @@ merengue
 meretriz
 meridión
 meridional
+merino
 mesomorfo
 mesura
 metabolismo
@@ -2006,6 +1993,7 @@ minar
 minuta
 miope
 miramiento
+misantropía
 misántropo
 misoginia
 misticismo
@@ -2035,6 +2023,7 @@ mote
 moteado
 motilidad
 motín
+movedizo
 muchedumbre, multitud, aglomeración, gentío
 muérdago, almuérdago, liga
 mugir
@@ -2042,6 +2031,7 @@ mujerona
 mujeruca
 mundano
 munificencia
+muñón
 muñón
 muselina
 mustio
@@ -2058,7 +2048,10 @@ negrura
 neolítico
 neologismo
 nepotismo
+ñeque
 neurastenia
+neurastenia
+neurasténico
 neurocepción
 nexo
 nigromancia
@@ -2213,6 +2206,7 @@ perenne
 pérfido
 pericia
 periférico
+perigeo
 peripatético
 periplo
 perito
@@ -2543,6 +2537,7 @@ rezagado
 rezongar
 rezongar
 rezumar
+ricino
 rictus, gesto, mueca
 ridiculizar
 rigidez
@@ -2874,6 +2869,7 @@ umbrío, umbroso
 uncir
 unicidad
 urbanita, urbanícola
+uretra
 urogallo
 urticante
 usufructo
