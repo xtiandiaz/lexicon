@@ -1,3 +1,4 @@
+baldío
 abad
 abalorio
 abanicar
@@ -441,7 +442,7 @@ bajorrelieve
 baladí
 balasto, balastro
 balbucear, balbucir
-balido
+balido, gamitido
 ballesta
 balsámico
 bamboleante, oscilante, basculante, tambaleante
