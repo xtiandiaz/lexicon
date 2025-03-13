@@ -933,6 +933,7 @@ cursi
 curubito
 dádiva
 dardo
+davidoso
 decantador
 decantar
 decimonónico
@@ -1514,6 +1515,7 @@ furgoneta
 furibundo
 furtivo
 futilidad
+galápago
 galería
 galimatías
 gallardía
@@ -2393,7 +2395,6 @@ proactivo
 probiótico
 proclive, propenso
 procrear
-pródigamente
 pródigo
 proeza
 profanar
