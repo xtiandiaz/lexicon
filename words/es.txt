@@ -241,7 +241,7 @@ amorfo
 ampolla
 ampolleta
 ampuloso
-amueblada
+amueblado
 amuleto
 analgésico
 analógico
@@ -955,7 +955,6 @@ delator
 deleitante
 deliberar
 delictivo
-delocalización
 demacración
 demacrado
 demacrar
@@ -1019,6 +1018,7 @@ designar
 designio
 desliar
 deslocalizar
+deslocalización
 desmañado
 desmantelar
 desmayado
@@ -2317,7 +2317,6 @@ polémica, controversia
 polémico
 polemista
 polemizar
-policarpo
 policroma
 poliestireno
 polifacético
