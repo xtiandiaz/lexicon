@@ -206,57 +206,79 @@ alimaña
 alimaña
 alistonado
 aljibe
+allanar
 almagre
 almibarado
+almirante
 alondra
 alostático
+alpargata
 altanería
+altavoz, altoparlante, bocina, parlante
 altercado
+altibajos
 altisonante
 altivez
 altivo
+altivo
+altoparlante
 altorrelieve
 altruismo, filantropía
 altruista
+alubia
 alucinación
 aludir
+alumbramiento
 alunado
 alusión
 aluvión
 alveolo, alvéolo
+alzado
 alzar
 amainar
 amalgama
+amamantar
+amartillar
 amasijo
 ámbar
 ambiguo
 ambivalente
 ameritar
+ametrallar
+amigote
 amilanar, amedrentar
 aminorar
 amnesia
 amnistía
+amonestación
+amonestar
 amordazar
 amorfo
 ampolla
 ampolleta
 ampuloso
+amputar
 amueblado
 amuleto
 analgésico
 analógico
+anarquismo
+anarquista
 anatema
 anatematizar
 anca
 andrajo
 andrajoso
+andurrial
 anegar
+anejo, anexo
 anémona, anemone
 anestesiar
 anestésico
 aneurisma
 anfitrión
 angina
+anguila
 anguloso
 animadversión
 animismo
@@ -285,20 +307,26 @@ antracita
 antro
 anturio
 añublo, anublo
+anular
 aorta
 aórtico
-apaciguar
+apabullante
+apabullar
 apaciguar, amansar, aplacar, aquietar, sosegar
 apañar
 aparador
+aparatoso
 aparejar
 aparejo
 apatía
 apear
 apego
 apercibir
+apero
 apetecer
 ápice
+apiñado
+apiñar
 aplastante
 aplomo
 apocamiento
@@ -306,14 +334,24 @@ apocopar
 apócrifo
 apogeo
 apoplejía
+apoplejía
 apremiante
+apremiante
+apremiar
+aprensión
 aprensión
 aprensivo, receloso, desconfiado
+apretujar
 aprisa, deprisa
 aprovisionar
 apuntalamiento
 aquiescencia
 aquilino
+arado
+arar
+aras
+arbitrariedad
+arbitrario
 arbitrario
 arcada
 arcaico
@@ -324,7 +362,11 @@ arenga
 arenque
 argamasa
 argucia
+arista
+aristocracia
+armatoste
 armatoste, mamotreto
+armazón
 armiño
 armisticio, tregua, pacto
 árnica
@@ -334,6 +376,7 @@ arquetipo
 arrabal
 arracimado, racimado, apiñado
 arraigar
+arrebatar
 arrebato, arranque
 arrebol
 arrebolado
@@ -352,23 +395,34 @@ arrullo
 arrumar, amontonar, apilar, aglomerar
 artefacto
 artesa
+articular
+artífice
 artificio
 artilugio
 artimaña
+artritis
 artroscopia, artroscopía
 artrosis
 asa
+ascético
 ascetismo
+ascetismo
+ascua
+asechanza
 asediar, cercar, sitiar
 aséptico
+asequible
 aserrar, serrar
 asertividad
 asertivo
 asidero
 asiduidad
 asiduo
+asilado
+asilo
 asir
 asordar
+aspaviento
 aspaviento
 aspereza
 aspersor
@@ -379,8 +433,11 @@ astringente, astrictivo
 astringir
 astucia
 asustadizo
+atajar
 atalaya
 atañer, concernir
+atareado
+atarear
 atarván, atarbán
 ataviar
 atavío
@@ -395,10 +452,15 @@ atiplado
 atisbar
 atisbo
 atolón
+atolondrado
 atontamiento
+atormentado
+atormentar
 atosigar
+atril
 atril, facistol
 atrincherar
+atrocidad
 atrofia
 atronador
 atronar
@@ -406,9 +468,13 @@ aturullado, aturrullado
 aturullar, aturrullar, aturdir
 atusar
 audacia
+audaz
 auge
+augurio
 auricular
+aurora
 auscultar
+auspicio
 austeridad
 austero
 autarquía, autarcía, autosuficiencia
@@ -423,6 +489,7 @@ avante
 avasallar
 avefría
 avejentar, aviejar, envejecer
+avenir
 aventar
 aventón
 avería
@@ -433,11 +500,13 @@ aviario
 avidez
 ávido
 avistar
+avivar
 axioma
 axón
 ayuntamiento, cabildo, concejo
 ayurveda
 ayurvédico
+azabache
 azabache
 azaleia
 azaroso
@@ -1214,6 +1283,7 @@ encubrir
 endémico
 endosar
 enema
+enervar
 enganche
 engatillar
 engendrar
@@ -1227,7 +1297,6 @@ enjuto
 enmarañar
 enmelar, endulzar
 enmendar
-enervar
 enormidad
 enquistar
 enraizar, arraigar
@@ -1317,6 +1386,7 @@ esmerado
 esnifar
 esotérico
 espabilado
+esparto, atocha
 espasmo, convulsión
 espectro
 especulación
@@ -1713,6 +1783,7 @@ inalterable
 inane
 inanición
 inapreciable, inestimable
+inasequible
 inaudito
 incauto
 incesante
