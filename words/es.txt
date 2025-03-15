@@ -1,3 +1,19 @@
+Recio
+Menoscabar
+Sofisma
+Carmesí
+Ciprés
+Peldaño
+Diletante
+Saeta
+Misionero
+Discurso
+Ennervar
+Resollar
+Síndico
+Fortuito
+Paroxismo
+Cecilia
 abad
 abalorio
 abanicar
@@ -2070,7 +2086,6 @@ muchedumbre, multitud, aglomeración, gentío
 muérdago, almuérdago, liga
 mugir
 mujerona
-mujeruca
 mundano
 munificencia
 muñón
@@ -2711,7 +2726,6 @@ soluble, disoluble, licuable
 somático
 somatizar
 sombrío
-somera
 somier
 sonambulismo
 sonsonete, soniquete, retintín
