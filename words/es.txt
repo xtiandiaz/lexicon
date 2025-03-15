@@ -1,19 +1,3 @@
-Recio
-Menoscabar
-Sofisma
-Carmesí
-Ciprés
-Peldaño
-Diletante
-Saeta
-Misionero
-Discurso
-Ennervar
-Resollar
-Síndico
-Fortuito
-Paroxismo
-Cecilia
 abad
 abalorio
 abanicar
@@ -671,6 +655,7 @@ cauto, cauteloso
 cazo
 cazuela
 cebar
+cecilia
 cecina
 cedazo, tamiz
 ceder
@@ -740,6 +725,7 @@ cimentar
 cimiento, cimentación, fundamento
 cincel
 cinismo
+ciprés
 circadiano
 circunscribir
 circunspección
@@ -885,7 +871,6 @@ convenir
 convicción
 convoy
 convulsivo
-convulso
 convulso
 coracero
 coraza
@@ -1033,8 +1018,8 @@ designación
 designar
 designio
 desliar
-deslocalizar
 deslocalización
+deslocalizar
 desmañado
 desmantelar
 desmayado
@@ -1105,6 +1090,7 @@ dipsomanía
 diputado
 díscolo
 discordia
+discurso
 diseccionar
 disensión, disenso
 disenso, disentimiento
@@ -1241,6 +1227,7 @@ enjuto
 enmarañar
 enmelar, endulzar
 enmendar
+enervar
 enormidad
 enquistar
 enraizar, arraigar
@@ -1351,7 +1338,6 @@ espurio, espúreo
 esquema
 esquilmar
 esquirla
-esquizofrenia
 esquizofrenia
 estaca
 estalactita
@@ -1498,6 +1484,7 @@ forajido
 formativo
 formulismo
 forraje
+fortuito
 forúnculo, furúnculo
 forzudo
 fosilizar
@@ -1763,7 +1750,6 @@ ineflable
 ineludible
 inenarrable
 inerme
-inescrutable
 inescrutable
 inexorable
 inexorable
@@ -2051,6 +2037,7 @@ miope
 miramiento
 misantropía
 misántropo
+misionero
 misoginia
 misticismo
 mistificar
@@ -2108,7 +2095,6 @@ neologismo
 nepotismo
 ñeque
 neurastenia
-neurastenia
 neurasténico
 neurocepción
 nexo
@@ -2121,7 +2107,6 @@ nonato
 noquear
 normalizar
 notoriedad
-novicio
 novicio
 novillo
 nuera
@@ -2253,6 +2238,7 @@ pecíolo, rabillo, cabillo, pezón
 peculado
 pecuniario, monetario
 pelandusca, pelandrusca
+peldaño
 pelele
 pelma
 penacho
@@ -2511,6 +2497,7 @@ recaudo
 recesión
 rechinar
 rechistar, chistar
+recio
 recluir, confinar
 recóndito
 recostar, reclinar
