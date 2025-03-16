@@ -518,6 +518,7 @@ azuzar
 babor
 bache
 bacilo
+bacinilla
 bagaje
 bagatela, baratija, nimiedad
 bagazo
@@ -530,37 +531,55 @@ balido, gamitido
 ballesta
 balsámico
 bamboleante, oscilante, basculante, tambaleante
+banal
+bancarrota
 baquelita
+baqueteado
+baquiano, baqueano
+baraja
 baratear
 bárbaro
 barbecho
 barbitúrico
+barcaza
 bareta
 barniz
+barnizar
 barrabás
+barrabasada
 barraca
+barracón
 barreño, balde, cubo
 barricada
 barrido
+barrizal
 barrote
 barullo, barahúnda
 basilisco
 bastidor
-batea
+bastión
+bastonazo, bastonada, garrotazo
+batea, artesa, bandeja
 batiburrillo
 batuta
+bayoneta
 baza
 bazo
 bazofia
 beatífico
+beato
+beldad
 bélico
 beligerante
 bellaco
+benemérito
 benevolencia
 benévolo, benevolente
 beodez
 bergantín
+berlina
 bermejo
+berrinche
 besugo
 bibliorato
 bicéfalo
@@ -569,6 +588,7 @@ bienal
 bienestar
 bienintencionado
 bies
+bife
 bifurcar
 bilirrubina
 bioma
@@ -579,6 +599,8 @@ birlar
 birlar
 bisutería
 bitácora
+bizantino
+bizco
 bizcocho
 blando
 blazer
@@ -588,29 +610,46 @@ bluf, bluff
 bobalicón
 bobalicón
 bobina
+bocadillo
 bocanada
+bochinche
+bochorno
+bocina
 bocina, claxon, corneta, megáfono, altavoz
 bodrio
 bofe
+bofetada
+bofetón
 bofia
 boina
 bolsón
+bonachón
 bonanza
 bondiola
+boquear
+boquerón
 bórax
 borbotón, borbollón
 borrasca
 borreguil
 borreguismo
+bostezo
 botija
 botín
 boyante
 bramante
+brasero
+brebaje, pócima
 brecha
 brida
+brigada
+brigadista
+brindis
 brío
 briqueta
+brizna
 brizna, brinza
+bronca
 bruma
 brumoso
 bruñido, reluciente
@@ -618,10 +657,14 @@ buceador
 buche
 buche, buchada
 bucólico
+buey
+bufete
 buhardilla, boardilla, buharda, mansarda
 buje
 bujía
+bulla
 bullicio
+bulto
 bungaló
 burlete
 burlón
@@ -1604,6 +1647,7 @@ garita
 garito
 garrapatear, garabatear
 garrapato, garabato
+garrote
 gatera
 gauchada
 gavilán
@@ -2370,6 +2414,7 @@ pizarrín
 placebo
 plañidera
 planteo, planteamiento
+plantón
 plasma
 plasmar
 platija
@@ -2848,6 +2893,7 @@ taburete
 taciturno
 taimado
 tajante
+talante
 talismán, amuleto, fetiche
 tamiz, cedazo, coladero, colador
 tamizar
