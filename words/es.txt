@@ -1,7 +1,6 @@
 abad
 abalorio
 abanicar
-abarcador
 abarcar
 abarrotar
 abasto
@@ -1470,7 +1469,7 @@ estigma
 estigmatizar
 estilográfica
 estío, verano
-estival
+estival, veraniego, estivo
 estoico
 estomatología
 estornino
@@ -2337,7 +2336,8 @@ pastoso
 patalear
 patela, rótula
 patente
-pateta
+patete
+patíbulo
 patibulario
 pátina
 patógeno
