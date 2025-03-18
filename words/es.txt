@@ -672,24 +672,32 @@ burlete
 burlón
 buró
 butifarra
+cabales 
 caballete
+cabalmente
 cabestrillo
 cabestro
 cabezada
 cabezonería
+cabida
 cabina
 cabo
 cabriola
+cacarear
 cacerola
+cacharro
+cachear, registrar, esculcar
+cachivache
 cachivache
 cadencia
+cajuela, baúl, maletero, portamaletas
 cal
 calado
 calamidad
 calar
-calar
 calavera
 caldear
+caldo
 caleidoscopio, calidoscopio
 calibrador
 caliche
@@ -697,9 +705,19 @@ calima, calina
 cáliz
 calizo, calcáreo, calar
 callejuela
+calzar
+camarada
 camastro
+camastro
+camastrón
+cambalache
 cambiazo
+camelia
 camelo
+camerino
+camillero
+camisón
+campamento
 campanario
 campanilla
 campiña
@@ -707,30 +725,46 @@ campirano
 camuflaje
 canalla
 cancela
+candelabro
 canjear
 canon
 cansino
-cantinela
+cantimplora
+cantinela, cantilena, cantaleta
 canto
 canturrear, canturriar
 canturreo, tarareo
 cánula
 canuto
 caoba
+capataz
 capcioso
+capear
 capibara, carpincho, capiguara, chigüire
 capilar
 capitel
 capitular
 capón
 capota
+capricho
+caprichoso
+captor
+capucha
+capuchón
+carabina
+carabinero
+carajillo
 carámbano
 carambola
 caraota, judía, frijol, fríjol
+caravana
 carcamal
 carcasa
+carcoma
+carcomer
 carda
 cardamomo
+cardenal
 cardiopatía
 cargoso, cargante
 carillón, carrillón
@@ -738,36 +772,56 @@ carmesí
 carmín
 caroteno
 carótida
+carraspear
 carraspera
 carrete
+carretilla
+carretón
 carrocería
 carroña
 carroñero
 cártamo, alazor
 cartesiano
+cascabel
 casco
+cascote
+caserío
 casquete
 casta
 castañetear, castañear, dentellar
+castañuela
+casto
+casucha
+cataclismo
+catadura
 catálisis
 catalizador
 catalizar
+cataplasma
 catapultar
 catarata
 catatonia, catatonía
 catatónico
 catecismo
+cátedra
+catedrático
 cáterin
 cátodo
 catre
+cauce
+caudal
+caudillo
 cáustico
 cautamente
 cautela
+cauteloso
 cauterio
 cauterizar
 cauto, cauteloso
+cavernario
 cazo
 cazuela
+cebada
 cebar
 cecilia
 cecina
@@ -781,8 +835,13 @@ celulosa
 cementar, encementar
 cencerro
 cenefa
+ceniciento, cenizo, cenizoso
 ceñir
 cénit, cenit, zenit
+ceño
+fruncir
+centeno
+centinela
 centropunto
 cepa
 cerbatana
@@ -790,39 +849,51 @@ cerillo, cerilla, fósforo
 cerner, cernir
 cerrazón
 cerro
+cerúleo
 cervical
 cérvido
 cerviz
+cesantía
 cetrino
 chabacano
 chabola, chavola, cabaña, barraca, choza
+chacal
 chafarrinada, chafarrinón
 chamán
 chanchullo
 chantaje
 chaparro, achaparrado, rechoncho
 chapulín
+chapurrear, chapurrar
+charlatán
 charol
 charola, bandeja, batea, charol
 chascar, chasquear
+chasco
 chasis
 chasquido
 chato
 chaveta, pasador, clavija
+chéchere
 chícharo, legumbre
 chinchar
 chinche
 chingar
 chiquilín
+chiquillada, chiquillería
 chirivía
 chirriante
 chirriar
 chirrido
+chispazo
 chispeante
 chisporroteo
+chistar
 chollo, ganga
 chorlito
+choza
 chubasco
+chucho
 chusma
 ciática
 ciático
@@ -838,6 +909,7 @@ cimbreante
 cimentar
 cimiento, cimentación, fundamento
 cincel
+cínico
 cinismo
 ciprés
 circadiano
@@ -849,7 +921,10 @@ civeta
 cizalla
 cizaña
 cizañar, encizañar
+clamar
 clamor
+clan
+clandestinidad
 clandestino
 claqué
 claraboya
@@ -857,9 +932,12 @@ clarete
 clarividencia
 claroscuro
 claudicación
+clausura
+clavecín, clave, clavicémbalo, clavicímbalo, clavicímbano, cémbalo
 claveteado
 clavícula
 clavija
+clemencia
 clérigo, eclesiástico
 clero, clerecía
 clisé, cliché
@@ -868,6 +946,7 @@ cloqueo
 clueca
 coacción, constreñimiento
 coagulante
+coalición
 coartada
 coartar
 cobalto
@@ -875,6 +954,7 @@ cobertizo
 cobijo
 cochambre
 cochambroso
+cocotero
 codicia
 coercer
 coercer
@@ -893,8 +973,10 @@ colación
 colágeno
 colectivismo
 colectivizar
+coletazo
 coleto
 colgante
+colibrí
 colicero
 coligar
 colindante
@@ -907,25 +989,32 @@ colosal
 coloso
 columnista
 colza
+comadrón
 comedido
 comedimiento
 comicidad
 cómoda
+compadrazgo
 compaginar
 compartimentar
 compartimento
+compasivo
 compinche
 cómplice
 complicidad
+complot
 compostura
 compunción, contrición
 compungido
+coñac, coñá
 conato
 concebir
 concertina
 concesión
 concienzudo
 conciliable
+conciliábulo
+conciliador
 conciliar
 concordia
 concreción
@@ -935,7 +1024,7 @@ condicionar
 condropatía, condromalacia
 conectador
 confinar
-confinar
+confiscar
 confite
 confitería
 confort
@@ -943,6 +1032,8 @@ confrontar
 congeniar
 conglomerar
 congoja
+congraciar
+congrio
 congruente
 conjetura
 conjuntivo
@@ -955,51 +1046,72 @@ connotación
 connotar
 consagrado
 consanguinidad, cosanguinidad, consanguineidad
+conscripción
+conscripto
 consenso
 consigna
 consonante
 conspicuo
+conspiración
 consternación
 consternar
 constipación
 constreñir
 constricción
+cónsul
 consumar
 contemplativo
 contencioso
 continencia
 contingencia
+contingente
 contorsión
 contorsionar
+contorsionarse
 contorsionista
 contraataque, contraofensiva, contragolpe
+contrabandear
+contrabandista
+contrabando
 contrachapado
 contraintuitivo
 contraloría
+contrapelo
 contraprestación
 contrapropuesta, contraproposición
 contrapunto
 contravenir
 contraventor
 controversia
+contubernio
+conturbar
+convalecencia
 convalecer
 convenir
+conventillo
+convento
 convicción
 convoy
 convulsivo
 convulso
 coracero
+coraje
+corajudo
 coraza
+cordel
 cordel
 cordón
 cordura
+corear
 corégono
+cornisa
 cornucopia
 corporativizar
 corpóreo
 corpulencia
 corpulento, corpudo
 corredero
+correligionario
 correlimos
 correoso
 correspondencia
@@ -1009,6 +1121,10 @@ corroer
 corroído
 corsé
 cortafuego
+cortaplumas
+cortejo
+corvina
+costurero
 cotejar, comparar, confrontar
 cotorreo
 covalencia
@@ -1019,38 +1135,54 @@ creces
 crédulo
 crencha
 crepitar
+crepuscular
+crepúsculo
 crescendo
 criado
+criado
 cribar
+crin
 cripta
 crisol
 crispar
 cristaloide
 criterio
 crucífero
+cruento, sangriento
 crujido
 crupier
 cuajar
+cuán
+cuartel
+cuartelario, cuartelero
 cuartilla
 cubata, cubalibre
 cubilete
+cuchichear
+cuchicheo
 cuclillas
 cucurucho
+cuesta
 cuita
+culatazo
+cumbre
 cúmulo
 cuñado
 cuncuna
 cundir
 cuneiforme
-cuneta
+cuneta, zanja
 cupé
+cúpula
 curia
 cursar
 cursi
+curtido
 curubito
+cúspide
 dádiva
+dadivoso
 dardo
-davidoso
 decantador
 decantar
 decimonónico
@@ -1985,6 +2117,7 @@ laxante
 laxar
 laxitud
 lealtad
+lebranche
 lecho
 legado
 lego
@@ -2166,6 +2299,7 @@ miramiento
 misantropía
 misántropo
 misionero
+misiva
 misoginia
 misticismo
 mistificar
