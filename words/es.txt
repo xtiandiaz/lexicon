@@ -12,6 +12,8 @@ Pampa
 Solazar
 Corro
 Astemio
+tarugo
+trebejo
 abad
 abalorio
 abanicar
@@ -2146,7 +2148,7 @@ leudante, levadura
 leudar
 leva
 léxico
-liana
+liana, bejuco
 liar
 libelo
 librepensador
@@ -2200,7 +2202,6 @@ mácula
 macular
 madeja
 madona
-magnetofónico
 magnetófono, magnetofón
 magullado
 magulladura, contusión, magullamiento
