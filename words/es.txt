@@ -934,7 +934,7 @@ claroscuro
 claudicación
 clausura
 clavecín, clave, clavicémbalo, clavicímbalo, clavicímbano, cémbalo
-claveteado
+clavetear
 clavícula
 clavija
 clemencia
@@ -2142,6 +2142,7 @@ libelo
 librepensador
 licitación
 licitar
+ligadura
 ligamento
 ligereza
 lignificar
@@ -2890,6 +2891,7 @@ saciedad
 sacro
 sadismo
 saeta
+sagú
 salpicadero
 salva
 salvaguardar
@@ -3216,15 +3218,20 @@ vaguedad
 vaho
 vaina
 vaivén
+valedero
 valía
-valquiria, valkiria
+valija
+valquiria, valkiria, walkiria
 vándalo
 vanguardia
+vaquero
+varia
 várice, varice, variz
 varicoso
 variegado
 varita
 vasallo
+vasco
 vasija
 vástago
 váter, inodoro, retrete, urinario
@@ -3235,19 +3242,25 @@ vehemencia
 vehemente
 veintena
 vejación
+vejar
 vejestorio
+velar
 velatorio
 veleidoso
 veleta
+vendaje
 vendaval
 vendimia
 ventisca
+ventolera
 ventosa
 ventral
+ventrílocuo
 veranda
 verbena
 verborrea, verborragia, verbosidad
 verdín
+vereda
 verja, rejado
 verosímil
 verraco
@@ -3258,46 +3271,67 @@ vestíbulo
 vestigio
 veta
 vetar
-veteado
 veteado, vetado
 veto
 viable
+vianda
 viandante
 viaraza
 vicario
 vicisitud
 victimización
 victimizar
+vid
+vidente, clarividente, adivino
 vientre, barriga
+vigencia
 vigilia
+vileza
 vilipendiar, vilificar
+villorrio
 vilo
 viñeta
 violáceo
 viraje
 virar
+virtud
 viscoso
 visera
 visillo, velo, cortinilla
+viso
 visón
 vitalicio
+viticultor, viñatero, viñero
+viticultura
 vítor
 vitorear
 vitriolo
 vituperable
 vituperar
 vituperio
+viudez, viudedad
+vívido
 vivificante
 vivificar
 vociferar
+vociferar
+volante
 volátil
 volatilizar
 voltaico
+voracidad
+vorágine
+voraz
 voyerista, voyeur,  mirón
 voyeur, voyerista, mirón
+vuelco
+vulgar
+vulgaridad
+xenofobia
+xilófono
 yacer
 yacimiento
-yacón
+yacón, aricoma
 yelmo
 yema
 yermo
@@ -3318,12 +3352,17 @@ zancadilla
 zanja
 zanjar
 zapallo, ahuyama, auyama, calabaza
+zapatilla
 zape
+zarandear
 zarcillo
 zarpa, garra
 zarpar
 zarpazo
+zarrapastroso
 zarzo
+zepelín, dirigible, aeróstato, aerostato
+zigzaguear
 zócalo
 zueco
 zumbido
