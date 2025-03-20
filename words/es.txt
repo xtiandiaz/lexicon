@@ -511,12 +511,13 @@ ayuntamiento, cabildo, concejo
 ayurveda
 ayurvédico
 azabache
-azabache
-azaleia
+azafrán
+azaleia, rhododendron
 azaroso
 azogado
 azogue
 azotaina
+azucena
 azuzado
 azuzar
 babor
@@ -900,6 +901,7 @@ ciática
 ciático
 ciclán
 ciclotimia
+cidrón
 cielorraso
 ciénaga
 cifrar
@@ -2878,6 +2880,7 @@ revulsivo
 rezagado
 rezongar
 rezumar
+rhododendron, azaleia
 ricino
 rictus, gesto, mueca
 ridiculizar
