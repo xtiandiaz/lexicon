@@ -1,23 +1,3 @@
-Pértiga
-Tibieza
-Condroplastia
-Artroscopia
-Lasitud
-Efímero
-Alteridad
-Enigmático
-Pervivir
-Coerción
-Apremio
-Salvaguardar
-Inhóspito
-Gravoso
-Dirimir
-Dopamina
-Serotonina
-Cortisol
-Travesaño
-Escrupuloso
 abad
 abalorio
 abanicar
@@ -236,6 +216,7 @@ alpargata
 altanería
 altavoz, altoparlante, bocina, parlante
 altercado
+alteridad
 altibajos
 altisonante
 altivez
@@ -359,6 +340,7 @@ apoplejía
 apremiante
 apremiante
 apremiar
+apremio
 aprensión
 aprensión
 aprensivo, receloso, desconfiado
@@ -977,7 +959,6 @@ cochambroso
 cocotero
 codicia
 coercer
-coercer
 coerción
 coetáneo, contemporáneo
 cofia 
@@ -1042,6 +1023,7 @@ concupiscencia
 condicionamiento
 condicionar
 condropatía, condromalacia
+condroplastia
 conectador
 confinar
 confiscar
@@ -1143,6 +1125,7 @@ corsé
 cortafuego
 cortaplumas
 cortejo
+cortisol
 corvina
 costurero
 cotejar, comparar, confrontar
@@ -1357,6 +1340,7 @@ dingo
 dintel
 dipsomanía
 diputado
+dirimir
 díscolo
 discordia
 discurso
@@ -1395,6 +1379,7 @@ doblegar
 dogma
 doliente
 domiciliación
+dopamina
 dornajo, batea
 dorsal
 dorso
@@ -1417,6 +1402,7 @@ ecuanimidad
 edema
 eficacia, efectividad
 efigie
+efímero
 efusión, efusividad
 efusividad
 efusivo
@@ -1490,6 +1476,7 @@ engendrar
 engranaje
 engranar
 engullir
+enigmático
 enjambre
 enjuiciador
 enjuiciar
@@ -1571,6 +1558,7 @@ escorzo, escorzado
 escozor, escocimiento
 escribano
 escrúpulo
+escrupuloso
 escrutar
 escrutinio
 escudero
@@ -1684,6 +1672,8 @@ extrañeza
 extravagancia
 extravagante
 extrínseco
+facción
+faccioso
 facilongo
 facsímil
 facsimilar
@@ -1849,6 +1839,7 @@ grandilocuencia
 grandilocuente
 granel
 granulado, granuloso, granular
+gravoso
 graznar
 graznido
 greca
@@ -1938,7 +1929,6 @@ huerta
 huerto
 huésped
 huidizo
-humos
 hundimiento
 huraño, huidizo, esquivo
 hurón
@@ -2135,6 +2125,7 @@ lamprea
 lancero
 languidecer
 larguirucho
+lasitud
 lavabo
 laxante
 laxar
@@ -2428,6 +2419,7 @@ oréade
 orellana
 orfebre
 orfebrería
+orgía, orgia
 orgiástico
 orondo
 ortiga
@@ -2555,10 +2547,12 @@ perpetuar
 perpetuo
 perplejidad
 perplejo
+pértiga
 pertinacia
 pertinaz
 perturbador
 perturbar
+pervivir
 pescuezo
 pestillo, cerrojo, cierre, pasador
 petimetre, lechuguino, presumido
@@ -2948,6 +2942,7 @@ serafín
 serendipia
 serendípico
 serigrafía
+serotonina
 serrín, aserrín, serraduras
 sesgar
 sesgo
