@@ -73,7 +73,6 @@ flippant
 folly
 footing
 foresee
-fortepiano
 fragrant
 fritz
 gaze
@@ -82,8 +81,7 @@ gill
 glimpse
 gourd
 graphology
-hardwearing
-harpsichord
+hard-wearing
 heartwarming
 herald
 high-minded
@@ -93,12 +91,12 @@ iconoclastic
 idol
 ill-defined
 impervious
-imposter
+impostor, imposter
 indwelling
 innocuous
 insurmountable
 intrinsically
-jargon
+jargon, argot
 kickboard
 lag
 lassitude
