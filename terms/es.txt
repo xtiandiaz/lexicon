@@ -1,4 +1,12 @@
 ninfa
+Encéfalo, cerebro
+Pastiche
+Ecléctico
+Hipérbole
+Argot
+Retractar
+Retener
+Resuello
 abad
 abalorio
 abanicar
@@ -338,12 +346,9 @@ apocopar
 apócrifo
 apogeo
 apoplejía
-apoplejía
-apremiante
 apremiante
 apremiar
 apremio
-aprensión
 aprensión
 aprensivo, receloso, desconfiado
 apretujar
@@ -395,7 +400,7 @@ arribista
 arritmia
 arrobar, embelesar, extasiar
 arrollar
-arroyuelo
+arroyo
 arrullo
 arrumar, amontonar, apilar, aglomerar
 artefacto
@@ -1616,7 +1621,7 @@ estera
 estereotipo
 esterilla
 estertor
-estetoscopio
+estetoscopio, auscultador
 estigma
 estigmatizar
 estilográfica
