@@ -1,3 +1,4 @@
+ninfa
 abad
 abalorio
 abanicar
@@ -2420,7 +2421,7 @@ oprobio
 optar
 optativo
 órbita
-oréade
+oréade, oréada, ninfa
 orellana
 orfebre
 orfebrería
