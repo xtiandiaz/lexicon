@@ -154,6 +154,7 @@ ahínco
 ahondar
 ajar
 ajardinado
+ajetreo
 ajuar
 alambicar, destilar
 alambique, alcatara, alquitara, destilador, destiladera
@@ -667,6 +668,7 @@ bufete
 buhardilla, boardilla, buharda, mansarda
 buje
 bujía
+bulgur
 bulla
 bullicio
 bulto
@@ -1685,6 +1687,7 @@ facultad
 fagocitar
 fagocitosis
 fajo, haz, atado
+falafel
 falange
 falible
 fanfarronada, fanfarronería
@@ -2575,6 +2578,7 @@ piñón
 pira
 pirlán
 pistón
+pita
 pitón
 pituco
 pivote
@@ -2931,6 +2935,7 @@ sedicioso
 segar
 semblante
 semblanza
+sémola
 senda
 senectud
 senescente, senesciente
@@ -3064,10 +3069,12 @@ suspenso
 suspicaz
 sutil
 sutileza
+taberna
 tabique
 tablón
 tabú
 taburete
+tácito
 taciturno
 taimado
 tajante
@@ -3081,6 +3088,8 @@ taoísmo
 tapadera
 tapia
 tapial
+tapiz
+tapujo
 tara
 tararear, tatarear, canturrear
 tarugo
@@ -3092,25 +3101,33 @@ tejemaneje
 tejón
 telar
 telómero
+temible
 temperamental
 temperamento
 tenaza
+tenor
 tensiómetro
+tentempié, refrigerio
 tenue
 teosofía
 terapéutica, terapia
+terco
 tergiversar
 terigio
 termistor
+terno
 terraplén
 terrera
 terrina, tarrina
 tertulia
 testaferro
 testarudez
+testarudo, porfiado, terco
 tétrico
+teutón, teutona
 tibieza
 tifoidea
+tifón
 tifus
 timar
 timo
@@ -3119,12 +3136,14 @@ tímpano
 tiña
 tintado
 tintar, teñir, colorear, pigmentar
+tintero
 tintín
 tintinar, tintinear, chingar
 tintineo, tintín
 tipi
 tipificar
 tirachinas, tiragomas, tirador
+tirano
 tiro
 tisis, tuberculosis
 tisular, hístico
@@ -3146,13 +3165,14 @@ torso
 tortuoso, sinuoso
 torva
 tosco
-tozudez
-tozudo
+tozudez, obstinación, testarudez
+tozudo, obstinado, testarudo
 trabar
 trabazón
 tragaluz
 tralla
 trallazo, latigazo
+tramontana
 tramoya
 trance
 transcripción
@@ -3171,29 +3191,40 @@ traspasar
 traspié, traspiés
 trastienda
 trasto
+trastocar
 trastorno
 trasvasar, transvasar
 través
 travesaño
+travesía
 traviesa
 trebejo
+trecho
+tregua
+tremendo
 trémulo
 trepador, rampante
 treta
 tribu
 trienal
 trinar
+trinchera
 trino
 trinquete
 tripartita
 triza
 trocar
+troglodita
 trole
 tromba
 trompicón, tropezón, tropiezo
 troncho
 troquel
+trote
 trova
+trovador
+trozo, pedazo
+trueque
 truhan
 tumbo
 tumbona
@@ -3202,10 +3233,10 @@ tungsteno, wolframio, volframio
 túnica
 tupé
 tupido
-tupido
 turba
 turbante
 turbar
+turbulento
 turpial
 turulato, estupefacto
 tweed
@@ -3217,8 +3248,10 @@ ultimátum
 ultraje
 ultranza
 ulular, aullar
+umbilical
 umbral
 umbrío, umbroso
+unánime
 uncir
 unicidad
 urbanita, urbanícola
@@ -3228,6 +3261,8 @@ urticante
 usufructo
 usufructuario
 usurpar
+utopía
+utópico
 vacilación
 vacilante
 vacilar
