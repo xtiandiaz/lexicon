@@ -1,36 +1,3 @@
-Encasquetar
-Borda
-glaciación
-Astroso
-Desgarbado
-Aniñado
-Desaliñado
-Lastrar
-Francote
-Sertralina
-Resquebrajar
-Peto
-Cuartucho
-Podio
-Matizar
-Albedrío
-Hinojo
-Injerto
-Mole
-Entropía
-Ulular
-Fiordo
-Baqueta
-Barrena
-Ñoño
-Litosferal
-Mascullar
-Escudriñar
-Santuario
-Tirón
-Tiesto
-Devenir
-Cacofonía
 abad
 abalorio
 abanicar
@@ -318,6 +285,7 @@ anguloso
 animadversión
 animismo
 animosidad
+aniñado
 anodino
 ánodo
 anómalo
@@ -466,6 +434,7 @@ astillero
 astracán, astrakán
 astringente, astrictivo
 astringir
+astroso
 astucia
 asustadizo
 atajar
@@ -571,6 +540,7 @@ bamboleante, oscilante, basculante, tambaleante
 banal
 bancarrota
 baquelita
+baqueta
 baqueteado
 baquiano, baqueano
 baraja
@@ -586,6 +556,7 @@ barrabás
 barrabasada
 barraca
 barracón
+barrena
 barreño, balde, cubo
 barricada
 barrido
@@ -667,6 +638,7 @@ boquear
 boquerón
 bórax
 borbotón, borbollón
+borda
 borrasca
 borreguil
 borreguismo
@@ -724,7 +696,7 @@ cacerola
 cacharro
 cachear, registrar, esculcar
 cachivache
-cachivache
+cacofonía, disonancia, discordancia
 cadencia
 cajuela, baúl, maletero, portamaletas
 cal
@@ -1194,6 +1166,7 @@ cuán
 cuartel
 cuartelario, cuartelero
 cuartilla
+cuartucho
 cubata, cubalibre
 cubilete
 cuchichear
@@ -1295,6 +1268,7 @@ desenmarañar, desmarañar
 desfalcar
 desfallecido
 desgajar
+desgarbado
 desgarbado
 desgarrón, rasgón, desgarradura
 desgravación
@@ -1493,6 +1467,7 @@ encarar
 encarecer
 encarnizamiento
 encarnizar
+encasquetar
 encauzar
 encéfalo, cerebro
 encomendar
@@ -1760,6 +1735,7 @@ filiar
 filigrana
 finiquitar
 finiquito
+fiordo, fiord
 firmamento
 fisco
 fisonomista
@@ -1789,6 +1765,7 @@ forzudo
 fosilizar
 fraguar
 frailecillo
+francote
 franquear
 fraternal
 fraternidad
@@ -1851,6 +1828,7 @@ gerontofília
 gesticular
 gimotear
 giroscopio, giróscopo
+glaciación
 glaciar
 gladiolo
 glaucoma
@@ -1858,6 +1836,7 @@ gluten
 golfo
 golondrina
 golpeteo
+gónada
 gonalgia
 gordinflón
 gorgotear, borbotear
@@ -1936,6 +1915,7 @@ hidropónico
 hilaridad
 hilván
 hincar
+hinojo
 hipérbole
 hipnosis
 hipocondría
@@ -2078,6 +2058,8 @@ inhóspito
 ininteligible
 ininterrumpido
 iniquidad
+injertar
+injerto
 injuria, agravio
 inmanente
 inmediatez
@@ -2166,6 +2148,7 @@ lancero
 languidecer
 larguirucho
 lasitud
+lastrar
 lavabo
 laxante
 laxar
@@ -2193,6 +2176,7 @@ libelo
 librepensador
 licitación
 licitar
+lienzo
 ligadura
 ligamento
 ligereza
@@ -2214,6 +2198,7 @@ lisonjero, adulador, zalamero
 lisura
 litera
 litigio
+litosfera
 lívido
 lobotomía
 lóbrego
@@ -2272,6 +2257,7 @@ maniqueísmo
 manivela
 manopla
 mansarda, buhardilla
+manto
 mantra
 manutención
 maquiavélicoo
@@ -2286,12 +2272,14 @@ maroma
 marquesina
 marroquinería
 marsopa, marsopla
+mascullar
 masoquismo
 mástil
 mastodonte
 mastología, senología
 matarratas, raticida
 matiz
+matizar
 matriz
 mausoleo
 máxime
@@ -2307,6 +2295,7 @@ megáfono, altavoz
 megalito
 melao
 melaza
+melindroso
 mella
 mellar
 melodrama
@@ -2363,6 +2352,8 @@ mitón
 módico
 mohín
 mojigatería
+mojigato
+mole
 monada, monería
 monasterio
 mondadura, monda, peladura
@@ -2421,6 +2412,7 @@ ninfa
 ninfomanía
 níveo
 nonato
+ñoño
 noquear
 normalizar
 notoriedad
@@ -2600,6 +2592,7 @@ pescuezo
 pestillo, cerrojo, cierre, pasador
 petimetre, lechuguino, presumido
 petirrojo
+peto
 pétreo
 petulancia
 petulante
@@ -2639,6 +2632,7 @@ pleura
 pleuritis
 plomo
 plumín
+podio
 poinsettia
 polémica, controversia
 polémico
@@ -2969,6 +2963,7 @@ sándalo
 sandez
 sandio
 santiamén
+santuario
 sardónice, sardónica
 sarmiento
 sarna
@@ -3014,6 +3009,7 @@ serigrafía
 serotonina
 serrano
 serrín, aserrín, serraduras
+sertralina
 servilismo
 sesgar
 sesgo
@@ -3217,6 +3213,7 @@ testarudo, porfiado, terco
 tétrico
 teutón, teutona
 tibieza
+tiesto
 tifoidea
 tifón
 tifus
@@ -3236,6 +3233,7 @@ tipificar
 tirachinas, tiragomas, tirador
 tirano
 tiro
+tirón
 tisis, tuberculosis
 tisular, hístico
 tiznar
