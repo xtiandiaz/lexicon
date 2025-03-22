@@ -214,6 +214,7 @@ almirante
 alondra
 alostático
 alpargata
+alquitrán
 altanería
 altavoz, altoparlante, bocina, parlante
 altercado
@@ -278,6 +279,7 @@ anémona, anemone
 anestesiar
 anestésico
 aneurisma
+anfiteatro
 anfitrión
 angina
 anguila
@@ -419,6 +421,7 @@ asequible
 aserrar, serrar
 asertividad
 asertivo
+asfalto
 asidero
 asiduidad
 asiduo
@@ -685,6 +688,7 @@ buró
 butifarra
 cabal
 caballete
+cabestrante
 cabestrillo
 cabestro
 cabezada
@@ -911,6 +915,7 @@ ciclotimia
 cidrón
 cielorraso
 ciénaga
+cieno
 cifrar
 cigarra
 cimarrón
@@ -1146,6 +1151,7 @@ craso
 creces
 crédulo
 crencha
+creosota
 crepitar
 crepuscular
 crepúsculo
@@ -1373,7 +1379,6 @@ didáctico
 diencéfalo
 diestro
 diezmar
-inclemencia
 difamar
 difundir
 dignatario
@@ -2059,6 +2064,7 @@ incauto
 incesante
 incidental
 incisivo
+inclemencia
 incoercible
 incólume
 inconciliable
@@ -2307,6 +2313,7 @@ mandrágora, mandrágula
 manglar
 mangosta
 mangostino
+mangual
 manida
 maniobra
 maniqueísmo
@@ -2339,6 +2346,7 @@ matizar
 matriz
 mausoleo
 máxime
+mayal
 mayólica
 mazacote
 mazmorra
@@ -3305,6 +3313,7 @@ tomografía
 tontina
 tópico
 tornasolado
+torno
 torrente
 tórrido
 torso
