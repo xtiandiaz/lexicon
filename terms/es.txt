@@ -1,3 +1,36 @@
+Encasquetar
+Borda
+glaciación
+Astroso
+Desgarbado
+Aniñado
+Desaliñado
+Lastrar
+Francote
+Sertralina
+Resquebrajar
+Peto
+Cuartucho
+Podio
+Matizar
+Albedrío
+Hinojo
+Injerto
+Mole
+Entropía
+Ulular
+Fiordo
+Baqueta
+Barrena
+Ñoño
+Litosferal
+Mascullar
+Escudriñar
+Santuario
+Tirón
+Tiesto
+Devenir
+Cacofonía
 abad
 abalorio
 abanicar
@@ -997,7 +1030,7 @@ comedido
 comedimiento
 comicidad
 cómoda
-compadrazgo
+compadrazgo, compaternidad, compadraje
 compaginar
 compartimentar
 compartimento
@@ -1333,7 +1366,7 @@ diencéfalo
 diezmar
 difamar
 difundir
-digresión
+digresión, paréntesis, excurso, inciso, divagación
 dilapidar
 diletante
 dilucidar, esclarecer
@@ -1479,6 +1512,7 @@ engendrar
 engranaje
 engranar
 engullir
+enigma
 enigmático
 enjambre
 enjuiciador
@@ -1593,7 +1627,7 @@ espolear
 esponjosidad
 espray, spray
 espuela
-espuertas
+espuerta
 espumillón, guirnalda
 espurio, espúreo
 esquema
