@@ -316,6 +316,7 @@ aorta
 aórtico
 apabullante
 apabullar
+apacible
 apaciguar, amansar, aplacar, aquietar, sosegar
 apañar
 aparador
@@ -525,6 +526,7 @@ babor
 bache
 bacilo
 bacinilla
+badén
 bagaje
 bagatela, baratija, nimiedad
 bagazo
@@ -1193,7 +1195,11 @@ curubito
 cúspide
 dádiva
 dadivoso
+damnificado
+dantesco
 dardo
+deambular
+decano
 decantador
 decantar
 decimonónico
@@ -1207,6 +1213,7 @@ defensiva
 deferencia
 déficit
 defunción
+degollar
 degüello, degollamiento
 deidad
 deificar, divinizar
@@ -1215,10 +1222,13 @@ delator
 deleitante
 deliberar
 delictivo
+delincuente
+delirio
 demacración
 demacrado
 demacrar
 demasía
+demencia
 denegar
 denodado
 denostar
@@ -1234,21 +1244,28 @@ derrotismo
 derrotista
 desafuero
 desahucio
+desairar
+desaire
 desalentador
 desaliñado
 desaliñar
 desaliño
 desamparo
 desanudar
+desapacible
 desapego, despego, despegamiento, desinterés, frialdad
+desarraigado
 desasir
 desasosegar
 desasosiego
 desazón
 desbandada
 desbandarse
+desbarajuste
 desbordado
 desbordar
+descabellado
+descampado
 descansillo, descanso, rellano
 descapotable
 descarriar
@@ -1259,14 +1276,20 @@ descongestionar
 descoyuntar
 desdecir
 desdén
+desdeñar
 desdeñoso
 desdicha
 desdichado
 desecación
 desecar
 desenmarañar, desmarañar
+desertar
+desertor
 desfalcar
+desfallecer
 desfallecido
+desfibrilación
+desfibrilador
 desgajar
 desgarbado
 desgarbado
@@ -1279,18 +1302,23 @@ designación
 designar
 designio
 desliar
+desliz
 deslocalización
 deslocalizar
+desmán
 desmañado
 desmantelar
 desmayado
 desmenuzar
 desmesura
+desolación
 desolado
 desorbitado
+despachar
 despampanante
 desparpajado
 desparpajo, desenvoltura
+desparramar
 despatarrar
 despelotar
 despelote
@@ -1298,14 +1326,19 @@ desperdigado
 desperdigar
 despilfarro, dispendio, derroche
 desplantar, desarraigar
+desplomar
+desposado
 déspota, tirano
 despotismo, tiranía
+despotricar
 despreciativo
 desprofecionalizar
 desprovisto
 desquiciar
+destartalado
 destello
 desterrado
+destierro
 destituir
 desuncir
 desuso
@@ -1315,6 +1348,7 @@ desván
 desvarío
 desvelar
 desvencijado
+desvencijar
 detentar
 determinismo
 determinístico
@@ -1337,13 +1371,17 @@ dictadura, autocracia
 dictamen
 didáctico
 diencéfalo
+diestro
 diezmar
+inclemencia
 difamar
 difundir
+dignatario
 digresión, paréntesis, excurso, inciso, divagación
 dilapidar
 diletante
 dilucidar, esclarecer
+diluvio
 dimensión
 dingo
 dintel
@@ -1352,14 +1390,20 @@ diputado
 dirimir
 díscolo
 discordia
+discreción
+discreto
+discurrir
 discurso
 diseccionar
 disensión, disenso
 disenso, disentimiento
+disentería
 disentir
 disfunción
 disfuncionalidad
 disgregar
+disimular
+disipación
 disipar
 dislocación, dislocadura
 dislocar
@@ -1373,6 +1417,8 @@ disparate
 disparidad
 dispendio, derroche, despilfarro
 dispendioso
+dispensador
+dispensar
 displicencia
 disponer
 distopía
@@ -1385,9 +1431,11 @@ divertículo
 divisa
 divulgar
 doblegar
+doblez
 dogma
 doliente
 domiciliación
+domo
 dopamina
 dornajo, batea
 dorsal
@@ -1397,10 +1445,14 @@ draga
 dragar
 dramático
 dramaturgo
+drapeado
+drapear
 dualista
 dubitativo
 duermevela
+dulzón
 dulzor
+duplicidad
 ebonita, vulcanita
 eccema, eczema
 eclampsia
@@ -1670,6 +1722,7 @@ excluyente
 exhortar
 exiguo
 exiliado
+exilio
 expatriado
 expiar
 expiatorio
@@ -1973,6 +2026,7 @@ impalpable
 imparcialidad, ecuanimidad
 impasible, insensible, indiferente, imperturbable
 impavidez, impasibilidad, serenidad, denuedo
+impedancia
 imperioso
 impermanencia
 impersonal
@@ -2146,6 +2200,7 @@ lama
 lamprea
 lancero
 languidecer
+lantana
 larguirucho
 lasitud
 lastrar
@@ -2190,6 +2245,7 @@ linfa
 linfocito
 linóleo
 linotipia
+liofilizar
 lipoma
 líquene
 lisonja, adulación, zalamería
@@ -2652,6 +2708,7 @@ popa
 poquedad
 porfiado, terco, obstinado
 pormenor
+pormenorizar
 porquería
 porra
 porrazo, porrada, garrotazo
