@@ -531,6 +531,7 @@ azucena
 azuzado
 azuzar
 babor
+bacanal, orgía
 bache
 bacilo
 bacinilla
@@ -1968,6 +1969,7 @@ hadefobia, afefobia, hafofobia, hapnofobia
 halagüeño, lisonjero
 hálito
 harapiento
+harén
 hartazgo, hartazón, hartura
 hastial
 haz, fajo
@@ -2511,12 +2513,19 @@ novicio
 novillo
 nuera
 obcecación
+obituario
 oblicuo
 oblongo
 obnubilar
 obstinadamente
+obús
 ocaso
+ocio
+ocioso
 ocre
+oda
+odalisca
+odisea
 ofensiva
 ofuscación
 ofuscado
@@ -2527,6 +2536,7 @@ olisquear
 olleta
 olmo, negrillo
 ominoso
+omisión
 omiso
 omnímodo
 omnipotencia
@@ -2534,17 +2544,23 @@ oncología, cancerología
 onírico
 opalina
 ópalo
+ópera
 opio
 opioide, opiáceo
+oporto
 oprobio
 optar
 optativo
+opulencia
+opulento
 órbita
+ordinariez
 oréade, oréada, ninfa
 orellana
+orfanato, orfelinato
 orfebre
 orfebrería
-orgía, orgia
+orgía, orgia, bacanal
 orgiástico
 orondo
 ortiga
@@ -2552,6 +2568,8 @@ ortodoxia
 orzuelo
 osamenta, osatura
 ostensible
+ostentación
+ostentar
 ostión
 ostracismo
 otear
