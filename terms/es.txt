@@ -1888,10 +1888,11 @@ galimatías
 gallardía
 galopante
 galopar
-galpón
+galpón, cobertizo
 gama
 gambito
 gamuza
+gangrena
 gánster
 garata
 gareta
@@ -1906,17 +1907,23 @@ gatera
 gauchada
 gaucho
 gavilán
+gazapo
 geco
 géiser
 gélido
 gelificar
 gen, gene
+gendarme
 genoma
+gentío, muchedumbre, multitud
+gentuza
 genuflexión
 gerontofília
+gestar
 gesticular
 gimotear
 giroscopio, giróscopo
+gitano, calé, romaní
 glaciación
 glaciar
 gladiolo
@@ -1924,7 +1931,10 @@ glaucoma
 gluten
 golfo
 golondrina
+goloso
 golpeteo
+golpista
+gomina, fijador, brillantina
 gónada
 gonalgia
 gordinflón
@@ -1952,16 +1962,19 @@ graznar
 graznido
 greca
 gregario
+gremio, corporación, asociación
 greña
 gres
 grial, cáliz
 grillete
+gruñido
 gruta
 guacal, huacal
 guadaña, dalla, dalle
 guama
 guarango
 guardabarros
+guarida, refugio
 guarismo, cifra
 guarnecer
 guarnición
@@ -1974,8 +1987,13 @@ guisar
 guiso
 gulupa
 gurú
+gutural
 hacha
 hacienda
+hacina
+hacinamiento
+hacinar
+hada
 hadefobia, afefobia, hafofobia, hapnofobia
 halagüeño, lisonjero
 hálito
@@ -1986,7 +2004,9 @@ hastial
 haz, fajo
 hebra
 hectárea
+heder
 hedonismo
+hedor
 hegemonía
 hemorragia
 hemorroide
@@ -1994,8 +2014,10 @@ henchir
 hender, hendir
 hendidura, hendedura
 heno
+hepático
 herejía
 hermandad, confraternidad
+hermético
 hernia
 herrumbre
 hervor
@@ -2005,14 +2027,16 @@ hibernación
 hibisco
 híbrido
 hidropónico
+hilacha, hilacho, hebra
 hilaridad
+hilera
 hilván
 hincar
 hinojo
 hipérbole
 hipnosis
 hipocondría
-hipocondriaco
+hipocondriaco, hipocondríaco
 hipodérmico, subcutáneo
 hipotálamo
 hiriente
@@ -2037,13 +2061,18 @@ horma
 horquilla
 hosco
 hospicio
+hostigar
 hostil
 hoya
+hoyuelo
 huerta
 huerto
 huésped
+huida
 huidizo
+humareda, humarada
 hundimiento
+huracán
 huraño, huidizo, esquivo
 hurón
 hurra
@@ -2217,6 +2246,7 @@ irrupción
 itinerario
 jactancia, presunción, presuntuosidad
 jactancioso
+jactar, vanagloriar, gloriar
 jade
 jadeante, acezoso, agitado
 jaleo
@@ -2225,6 +2255,8 @@ jaloneo
 jamba
 jauría
 jerarquía
+jerez
+jerigonza, jeringonza
 jersey
 jirón
 jofaina
@@ -2232,11 +2264,14 @@ juanete
 jubilar
 júbilo
 jubiloso
+juerga, jolgorio, jarana
 junco
 junquillo
 junta
 jura
 kamikaze, camicace
+karma
+kohl, kohol
 labrar
 lacayo
 lacre
@@ -2621,6 +2656,7 @@ panegírico
 pañete
 panetón, panetone
 panocha
+panqueque, panqueca, tortica
 panteísmo
 panteón
 papanatas, papamoscas, paparote
@@ -3623,6 +3659,7 @@ yermo
 yerno
 yesca
 yonqui
+yóquey, jockey, yoqui
 yugo
 yunta
 yute
