@@ -1,42 +1,3 @@
-Desbancar
-Contrariado
-Incumbir
-Incumbencia
-Ribetear
-Trasponer
-Guarismo
-Divisar
-Desollar
-Esmerado
-Esmero
-Enarcar
-Parsimonia
-Escotadura
-Sosería
-Ojeriza
-Mordaz
-Confiscación
-Decomiso
-Decomisar
-Resquicio
-Inhumar
-Rotor
-Solapa
-Paladear
-Hectárea
-Ostión
-Gelificar
-Comensal
-Atemporal
-Chasquear
-Devastar
-Devastación
-Róbalo
-Chalota
-Ahumadero
-Vendido
-Asbesto
-Gambito
 abad
 abalorio
 abanicar
@@ -191,6 +152,8 @@ aguzado, puntiagudo
 aguzar
 ahínco
 ahondar
+ahumado
+ahumar
 ajar
 ajardinado
 ajetreo
@@ -449,6 +412,7 @@ artritis
 artroscopia, artroscopía
 artrosis
 asa
+asbesto
 asceta
 ascético
 ascetismo
@@ -467,6 +431,7 @@ asiduo
 asilado
 asilo
 asir
+asolar
 asordar
 aspaviento
 aspaviento
@@ -489,6 +454,7 @@ atarván, atarbán
 ataviar
 atavío
 atavismo
+atemporal
 atenazar
 atendible
 atenuante
@@ -923,6 +889,7 @@ charola, bandeja, batea, charol
 chascar, chasquear
 chasco
 chasis
+chasquear
 chasquido
 chato
 chaveta, pasador, clavija
@@ -1046,6 +1013,7 @@ colza
 comadrón
 comedido
 comedimiento
+comensal
 comicidad
 cómoda
 compadrazgo, compaternidad, compadraje
@@ -1135,6 +1103,7 @@ contrapelo
 contraprestación
 contrapropuesta, contraproposición
 contrapunto
+contrariado
 contravenir
 contraventor
 controversia
@@ -1248,6 +1217,8 @@ decano
 decantador
 decantar
 decimonónico
+decomisar, comisar
+decomiso
 decoro
 decrépito
 decrepitud
@@ -1304,6 +1275,7 @@ desasir
 desasosegar
 desasosiego
 desazón
+desbancar
 desbandada
 desbandarse
 desbarajuste
@@ -1358,6 +1330,7 @@ desmenuzar
 desmesura
 desolación
 desolado
+desollar
 desorbitado
 despachar
 despampanante
@@ -1400,6 +1373,8 @@ determinístico
 detonar
 detrimento
 devanar
+devastación, asolamiento
+devastar, asolar
 devengar
 devenir
 devoto
@@ -1473,6 +1448,7 @@ diurético
 diván
 divertículo
 divisa
+divisar
 divulgar
 doblegar
 doblez
@@ -1556,6 +1532,7 @@ emplazar
 emulsión
 enajenar
 enaltecer, ensalzar
+enarcar
 encabritar
 encabritarse
 encandilar
@@ -1663,6 +1640,7 @@ escondrijo
 escoria
 escorzar
 escorzo, escorzado
+escotadura
 escozor, escocimiento
 escribano
 escrúpulo
@@ -1679,6 +1657,7 @@ eslabonado
 eslálom
 eslogan
 esmerado
+esmero
 esnifar
 esotérico
 espabilado
@@ -1901,6 +1880,7 @@ galopante
 galopar
 galpón
 gama
+gambito
 gamuza
 gánster
 garata
@@ -1918,6 +1898,7 @@ gavilán
 geco
 géiser
 gélido
+gelificar
 gen, gene
 genoma
 genuflexión
@@ -1969,6 +1950,7 @@ guadaña, dalla, dalle
 guama
 guarango
 guardabarros
+guarismo, cifra
 guarnecer
 guarnición
 guasca
@@ -1990,6 +1972,7 @@ hartazgo, hartazón, hartura
 hastial
 haz, fajo
 hebra
+hectárea
 hedonismo
 hegemonía
 hemorragia
@@ -2116,6 +2099,8 @@ increpar
 incubación
 íncubo
 inculcar
+incumbencia
+incumbir
 indeclinable
 indecoroso
 indemnización
@@ -2154,6 +2139,7 @@ ingratitud
 inguinal
 inhibir
 inhóspito
+inhumar
 ininteligible
 ininterrumpido
 iniquidad
@@ -2463,9 +2449,11 @@ mondadura, monda, peladura
 mondar
 monigote
 monocorde
+monolito
 monomanía
 monserga
 montículo
+mordaz
 morfina
 morfinómano
 moribundo
@@ -2533,6 +2521,7 @@ ofensiva
 ofuscación
 ofuscado
 ofuscar, obcecar, obnubilar
+ojeriza, aversión, atipatía
 oligarquía
 olisquear
 olleta
@@ -2563,6 +2552,7 @@ ortodoxia
 orzuelo
 osamenta, osatura
 ostensible
+ostión
 ostracismo
 otear
 otomana, otomano
@@ -2581,6 +2571,7 @@ padecer
 pagano
 pajarilla
 pajarón
+paladear, saborear, degustar
 palenque
 palidecer
 palimpsesto
@@ -2994,6 +2985,7 @@ resoplido
 respingar
 respingo
 resquebrajar, agrietar, cuartear
+resquicio
 resuello
 retaguardia
 retener
@@ -3025,6 +3017,8 @@ rezagado
 rezongar
 rezumar
 rhododendron, azaleia
+ribete
+ribetear
 ricino
 rictus, gesto, mueca
 ridiculizar
@@ -3032,12 +3026,14 @@ rigidez
 rijoso
 risco
 rivalidad
+róbalo, céfalo, lubina
 rodal
 roedor
 roer
 rompiente
 roñoso
 ronquera
+rotor
 rubicundo
 rubro
 rufián, granuja
@@ -3174,6 +3170,7 @@ sodomía
 soez
 sofisma
 sofocar
+solapa
 solapado
 solapar
 solaz
@@ -3200,10 +3197,10 @@ sopesar
 sopetón
 soplido
 soplón, delator, chivato
-soplón, delator, chivato
 soponcio
 sórdido
 sortear
+sosería
 sosiego
 soslayar
 soso
@@ -3374,7 +3371,6 @@ transgresión, trasgresión
 transigir
 transmutar
 transpirar, traspirar
-transponer, trasponer
 transversal
 trascendente, transcendente
 trascender, transcender
@@ -3383,6 +3379,7 @@ traslapar, solapar
 traslúcido
 traspasar
 traspié, traspiés
+trasponer, transponer
 trastienda
 trasto
 trastocar

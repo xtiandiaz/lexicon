@@ -1,11 +1,3 @@
-Oust
-Hapless
-Vex
-Disgruntled
-Carp
-Monolith
-Egregious
-Incumbent
 abridge
 acronym
 addle
@@ -37,6 +29,7 @@ bygone
 cam
 capricious
 carom
+carp
 cherish
 chronology
 clamber
@@ -64,6 +57,7 @@ denizen
 dialogic
 dipsomania
 disempower
+disgruntled
 disquiet
 dogma
 downshift
@@ -72,6 +66,7 @@ dung
 dysfunction
 earthbound
 eclectic
+egregious
 embodiment
 endeavor
 endeavor
@@ -108,7 +103,9 @@ glimpse
 gourd
 graphology
 graze
+gregarious
 gurgle
+hapless
 hard-wearing
 heartwarming
 herald
@@ -123,6 +120,7 @@ idol
 ill-defined
 impervious
 impostor, imposter
+incumbent
 indwelling
 innocuous
 insurmountable
@@ -140,6 +138,7 @@ maim
 mainstream
 mar
 mire
+monolith
 monolithic
 mote
 mysticism
@@ -156,6 +155,7 @@ offshoring
 ombudsman
 opulent
 ossify
+oust
 outward
 palaver
 pastiche
@@ -229,6 +229,7 @@ unorthodox
 unsavory
 upheaval
 vapor lamp
+vex
 wallow
 warfare
 wetware
