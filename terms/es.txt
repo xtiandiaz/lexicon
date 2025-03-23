@@ -184,6 +184,7 @@ aldaba, aldabón, picaporte
 aleatorio
 alebrije
 aledaño
+alegoría
 alelado, lelo
 alentador
 alerce
@@ -342,7 +343,10 @@ apocamiento
 apocopar
 apócrifo
 apogeo
+apología
 apoplejía
+apóstata, renegado, perjuro
+apostatar
 apremiante
 apremiar
 apremio
@@ -859,6 +863,7 @@ ceniciento, cenizo, cenizoso
 ceñir
 cénit, cenit, zenit
 ceño
+centellear
 centeno
 centinela
 centropunto
@@ -884,6 +889,7 @@ chantaje
 chaparro, achaparrado, rechoncho
 chapulín
 chapurrear, chapurrar
+chapuza, chambonada
 charlatán
 charol
 charola, bandeja, batea, charol
@@ -899,6 +905,7 @@ chícharo, legumbre
 chinchar
 chinche
 chingar
+chintz
 chiquilín
 chiquillada, chiquillería
 chirivía
@@ -1169,6 +1176,7 @@ criado
 criado
 cribar
 crin
+criolina, miriñaque
 cripta
 crisol
 crispar
@@ -1516,6 +1524,7 @@ emboquillado
 emboquillar
 emboscada
 embotar
+embrague, clutch
 embrollo
 embuste
 embustero
@@ -1892,6 +1901,7 @@ garito
 garrapatear, garabatear
 garrapato, garabato
 garrote
+gasa
 gatera
 gauchada
 gaucho
@@ -1924,6 +1934,7 @@ gorjear
 gorjear
 gorjeo
 gorrión
+gorronear
 gozada
 gozne, charnela, pernio
 gozoso
@@ -2020,6 +2031,7 @@ hombruno
 homeóstasis, homeostasis, homeostasia
 homilía
 homogeneizar
+horca
 horda
 horma
 horquilla
@@ -2430,6 +2442,7 @@ minar
 minuta
 miope
 miramiento
+miriñaque, meriñaque
 misantropía
 misántropo
 misionero
@@ -2455,6 +2468,7 @@ monolito
 monomanía
 monserga
 montículo
+morar
 mordaz
 morfina
 morfinómano
@@ -2666,6 +2680,7 @@ pelandusca, pelandrusca
 peldaño
 pelele
 pelma
+peltre
 penacho
 penuria
 péptido
@@ -2781,6 +2796,7 @@ postular
 póstumo
 postureo
 potasa
+potrero
 potro
 preámbulo
 prebiótico
@@ -2886,6 +2902,7 @@ quid
 quilla
 quinina, quina
 quiosco
+quiromancia, quiromancía
 quiste
 quórum, cuórum
 rabillo
@@ -2952,6 +2969,7 @@ regateo
 regimentar
 regimiento
 regir
+regocijo
 regurgitar
 rehogar, sofreír, saltear
 rehuir
@@ -2976,6 +2994,7 @@ remorder
 remordimiento
 renco
 rendición
+renegado
 renegar
 renquear, renguear, cojear
 renuevo, vástago, brote, yema, retoño
@@ -3355,6 +3374,7 @@ tiro
 tirón
 tisis, tuberculosis
 tisular, hístico
+titilar
 tiznar
 toca
 tocado
@@ -3366,6 +3386,7 @@ tomacorriente
 tomografía
 tontina
 tópico
+topo
 tornasolado
 torno
 torrente
@@ -3446,6 +3467,7 @@ turba
 turbante
 turbar
 turbulento
+turón, mofeta, zorrillo
 turpial
 turulato, estupefacto
 tweed
@@ -3627,5 +3649,7 @@ zarzo
 zepelín, dirigible, aeróstato, aerostato
 zigzaguear
 zócalo
+zopenco
+zoquete
 zueco
 zumbido
