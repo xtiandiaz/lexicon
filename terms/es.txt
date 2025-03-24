@@ -1,3 +1,20 @@
+Dialecto
+Acre
+Encaje
+Mecanismo
+Bélico
+Urraca
+Carestía
+Compendio
+Eufonía
+inarmónico
+Limosna
+Rizoma
+Errante
+Reflujo
+Menguante
+Calabozo
+semántica
 abad
 abalorio
 abanicar
@@ -2917,7 +2934,7 @@ psicoactivo, sicoactivo
 psicodélico, sicodélico
 psicosis, sicosis
 psique, psiquis
-psíquico
+psíquico, síquico
 psoriasis, soriasis
 pterigio, pterigión
 pudor
@@ -2942,7 +2959,7 @@ quid
 quilla
 quinina, quina
 quiosco
-quiromancia, quiromancía
+quiromancia, quiromancía, buenaventura
 quiste
 quórum, cuórum
 rabillo
