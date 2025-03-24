@@ -1,32 +1,3 @@
-Cul-de-sac
-Gist
-Nit-picky
-Nitty-gritty
-Hub
-Pitch
-Vitriolic
-Tangent
-Dialect
-Mawkish
-Virtuoso
-Piquant
-Sterling
-Pungent
-Frail
-Spleen
-Engulf
-Savvy
-Magpie
-Dearth
-Daub
-Stamina
-Revel
-Wreak
-Havoc
-Bystander
-Reflux
-Plead
-Outdo
 abridge
 acronym
 addle
@@ -80,6 +51,7 @@ burly
 burrow
 bust
 bygone
+bystander, onlooker, passerby
 cackling
 cam
 canter
@@ -111,11 +83,14 @@ croak
 crossbow
 crossly
 crossroads
+cul-de-sac, dead end
 cumulative
 cur
 dang
 dank
+daub
 dazzle
+dearth, scarcity
 deed
 deep-seated
 dejectedly
@@ -125,6 +100,7 @@ demur
 demure
 denizen
 despondent
+dialect
 dialogic
 dipsomania
 disempower
@@ -147,10 +123,11 @@ egg
 egregious
 embodiment
 endeavor
-endeavor
 endow
 endowment
+engulf
 entrench
+epiphany
 equate
 eschew
 esoteric
@@ -179,6 +156,7 @@ footing
 foreboding
 foresee
 fragrant
+frail
 fraught
 fritz
 fudge
@@ -190,6 +168,7 @@ gauze
 gaze
 genocide
 gill
+gist
 glare
 glimpse
 gloat
@@ -209,6 +188,7 @@ hapless
 hard-wearing
 hare
 haughty
+havoc
 heartwarming
 heave
 herald
@@ -217,6 +197,7 @@ hitherto
 hoarse
 hoist
 holler
+hub
 huddle
 huff
 hunker
@@ -252,6 +233,7 @@ ludic
 ludicrous
 lumpy
 lurch
+magpie
 maim
 mainstream
 manacles
@@ -260,6 +242,7 @@ mangy
 mar
 maraud
 marauding
+mawkish
 mire
 mirth
 mirthless
@@ -278,6 +261,8 @@ neuroanatomy
 newfound
 newfound
 nexus
+nit-picky
+nitty-gritty
 nonchalant
 nutmeg
 oaf
@@ -289,6 +274,7 @@ ombudsman
 opulent
 ossify
 oust
+outdo
 outstrip
 outward
 paddock
@@ -304,8 +290,11 @@ persona
 pewter
 pine
 pinpoint
+piquant
+pitch
 pixie, pixy
 plateau
+plead
 plinth
 polecat, skunk
 pompous 
@@ -318,6 +307,7 @@ precursor
 prod
 prong
 propensity
+pungent
 pushover
 quarry
 rapt
@@ -326,9 +316,11 @@ raze
 realm
 rebus
 recoil
+reflux
 rehash
 reskill
 retrace
+revel
 revile
 rickety
 rim
@@ -336,6 +328,7 @@ rogue
 rosette
 run-down
 sallow
+savvy
 scalding
 scarce
 scoff
@@ -394,10 +387,12 @@ squeeze
 squelch
 stag
 stagger
+stamina
 stark
 starling
 startling
 steed
+sterling
 stoop
 streamline
 stretcher
@@ -412,6 +407,7 @@ swill
 swoon
 tabby
 talon
+tangent
 tankard
 tartly
 tattered
@@ -453,6 +449,8 @@ vapor lamp
 vermin
 vex
 vindictive
+virtuoso
+vitriolic
 wailing
 wallow
 wangle 
@@ -465,6 +463,7 @@ winch
 windfall
 wisp
 wondrous
+wreak
 wreath
 wrench
 wriggly

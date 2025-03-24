@@ -1,20 +1,3 @@
-Dialecto
-Acre
-Encaje
-Mecanismo
-Bélico
-Urraca
-Carestía
-Compendio
-Eufonía
-inarmónico
-Limosna
-Rizoma
-Errante
-Reflujo
-Menguante
-Calabozo
-semántica
 abad
 abalorio
 abanicar
@@ -90,6 +73,7 @@ acorde
 acordonar
 acotado
 acotar
+acre
 acreedor
 acribillar
 acrofobia
@@ -732,6 +716,7 @@ cacofonía, disonancia, discordancia
 cadencia
 cajuela, baúl, maletero, portamaletas
 cal
+calabozo
 calado
 calamidad
 calar
@@ -805,6 +790,7 @@ carda
 cardamomo
 cardenal
 cardiopatía
+carestía
 cargoso, cargante
 carillón, carrillón
 carmesí
@@ -1045,6 +1031,7 @@ compaginar
 compartimentar
 compartimento
 compasivo
+compendio
 compinche
 cómplice
 complicidad
@@ -1405,6 +1392,8 @@ devenir
 devoto
 diáfano
 diafragma
+dialéctica
+dialecto
 diametral, diamétrico
 diana
 diapasón
@@ -1526,6 +1515,7 @@ elusión
 elusivo
 emancipar
 emanciparse
+embadurnar
 embalar
 embastecer
 embelesado
@@ -1561,6 +1551,7 @@ enaltecer, ensalzar
 enarcar
 encabritar
 encabritarse
+encaje
 encandilar
 encarar
 encarecer
@@ -1621,6 +1612,7 @@ enviudar
 enzarzar
 enzima
 epidemia
+epifanía
 epigenoma
 epílogo
 epinefrina, adrenalina
@@ -1759,6 +1751,7 @@ estupor
 éter
 etéreo
 etimología
+eufonía
 euforia
 eufórico
 eustrés
@@ -2142,6 +2135,7 @@ inalterable
 inane
 inanición
 inapreciable, inestimable
+inarmónico
 inasequible
 inaudito
 incauto
@@ -2338,6 +2332,7 @@ lignificar
 lignina
 límbico
 limerencia
+limosna
 linaje
 linde, confín, lindero
 linfa
@@ -2445,6 +2440,7 @@ mayólica
 mazacote
 mazmorra
 mazo
+mecanismo
 mediación
 médium
 medrar
@@ -2464,6 +2460,8 @@ menaje
 mendigar
 mendigo
 mendrugo
+menguante
+menguar
 menisco
 menoscabar
 ménsula, repisa, estante
@@ -2832,6 +2830,8 @@ pompa
 pomposo
 ponchera
 ponderosa
+ponzoña
+ponzoñoso
 popa
 poquedad
 porfiado, terco, obstinado
@@ -2948,6 +2948,7 @@ pulimentar
 pulular
 punible
 puntal
+punzante
 purga
 puritanismo
 purulento
@@ -3017,6 +3018,7 @@ recriminar
 redoble
 refacción
 refilón
+reflujo
 refranero
 refrigerio
 refunfuñar, gruñir, rezongar
@@ -3120,6 +3122,7 @@ rigidez
 rijoso
 risco
 rivalidad
+rizoma
 róbalo, céfalo, lubina
 rodal
 roedor
@@ -3177,6 +3180,7 @@ sedición, sublevación
 sedicioso
 segar
 segundón
+semántica
 semblante
 semblanza
 semidiós
@@ -3545,6 +3549,7 @@ unicidad
 urbanita, urbanícola
 uretra
 urogallo
+urraca
 urticante
 usufructo
 usufructuario
@@ -3637,6 +3642,7 @@ violáceo
 viraje
 virar
 virtud
+virulento
 viscoso
 visera
 visillo, velo, cortinilla
