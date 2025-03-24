@@ -157,7 +157,7 @@ ahumar
 ajar
 ajardinado
 ajetreo
-ajuar
+ajuar, menaje
 alambicar, destilar
 alambique, alcatara, alquitara, destilador, destiladera
 alarde
@@ -225,7 +225,6 @@ alteridad
 altibajos
 altisonante
 altivez
-altivo
 altivo
 altoparlante
 altorrelieve
@@ -438,7 +437,6 @@ asir
 asolar
 asordar
 aspaviento
-aspaviento
 aspereza
 aspersor
 astil
@@ -610,6 +608,7 @@ bidón
 bienal
 bienestar
 bienintencionado
+bienoliente, fragante
 bies
 bife
 bifurcar
@@ -731,8 +730,7 @@ calizo, calcáreo, calar
 callejuela
 calzar
 camarada
-camastro
-camastro
+camastro, catre, yacija
 camastrón
 cambalache
 cambiazo
@@ -993,6 +991,7 @@ cofia
 cofradía
 cofradía
 cogote
+coherencia
 cohesión
 cohibir
 coima
@@ -1780,6 +1779,7 @@ facticio
 facultad
 fagocitar
 fagocitosis
+faja
 fajo, haz, atado
 falafel
 falange
@@ -1961,6 +1961,7 @@ gravoso
 graznar
 graznido
 greca
+greco
 gregario
 gremio, corporación, asociación
 greña
@@ -2022,6 +2023,7 @@ hernia
 herrumbre
 hervor
 heterodoxia
+heterodoxo
 hez
 hibernación
 hibisco
@@ -2370,6 +2372,7 @@ majadero
 malabar
 maleable
 malintencionado
+maloliente
 malparado
 maltrecho
 malva
@@ -2614,6 +2617,7 @@ orgiástico
 orondo
 ortiga
 ortodoxia
+ortodoxo
 orzuelo
 osamenta, osatura
 ostensible
@@ -3015,7 +3019,7 @@ relato
 relegar
 reliquia
 relucir
-remembrar
+remembrar, rememorar, recordar
 rememorar
 remilgo
 remisible
