@@ -1,29 +1,3 @@
-Enjutar
-Confitura
-Confitero
-Repostero
-Repostería
-Wasabi
-Hueva, ovas
-Caviar
-Wakame
-Nori
-Maki
-Nigiri
-Sashimi
-Psicótico
-Menester
-Dilucidar
-Embravecer
-Palpitante
-Exhortar
-Escepticismo
-Escéptico
-Bituminoso
-Matón
-Apelar
-Taquilla
-Península
 abad
 abalorio
 abanicar
@@ -357,6 +331,7 @@ aparejo
 apatía
 apear
 apego
+apelar
 apercibir
 apero
 apetecer
@@ -648,6 +623,7 @@ birlar
 birlar
 bisutería
 bitácora
+bituminoso
 bizantino
 bizco
 bizcocho
@@ -870,6 +846,7 @@ cauterio
 cauterizar
 cauto, cauteloso
 cavernario
+caviar
 cazo
 cazuela
 cebada
@@ -1087,6 +1064,8 @@ confinar
 confiscar
 confite
 confitería
+confitero
+confitura
 confort
 confrontar
 congeniar
@@ -1557,6 +1536,7 @@ emboquillar
 emboscada
 embotar
 embrague, clutch
+embravecer
 embrollo
 embuste
 embustero
@@ -1608,6 +1588,7 @@ enigmático
 enjambre
 enjuiciador
 enjuiciar
+enjutar, enjugar
 enjuto
 enmarañar
 enmelar, endulzar
@@ -1673,6 +1654,8 @@ escarcela
 escardar
 escarnio
 escarpado
+escepticismo
+escéptico
 escéptico
 escindir
 esclerosis
@@ -2106,6 +2089,7 @@ hoyuelo
 huerta
 huerto
 huésped
+hueva
 huida
 huidizo
 humareda, humarada
@@ -2407,6 +2391,7 @@ magnetófono, magnetofón
 magullado
 magulladura, contusión, magullamiento
 majadero
+maki
 malabar
 maleable
 malintencionado
@@ -2458,6 +2443,7 @@ mastología, senología
 matarratas, raticida
 matiz
 matizar
+matón
 matriz
 mausoleo
 máxime
@@ -2486,6 +2472,7 @@ menaje
 mendigar
 mendigo
 mendrugo
+menester
 menguante
 menguar
 menisco
@@ -2591,6 +2578,7 @@ neurastenia
 neurasténico
 neurocepción
 nexo
+nigiri
 nigromancia
 nimiedad
 nimio
@@ -2600,6 +2588,7 @@ níveo
 nonato
 ñoño
 noquear
+nori
 normalizar
 notoriedad
 novicio
@@ -2763,6 +2752,7 @@ pelele
 pelma
 peltre
 penacho
+península
 penuria
 péptido
 péptido
@@ -2959,6 +2949,7 @@ provisorio, provisional
 psicoactivo, sicoactivo
 psicodélico, sicodélico
 psicosis, sicosis
+psicótico
 psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
@@ -3090,6 +3081,8 @@ repelente
 repercusión
 repertorio
 repostar
+repostería
+repostero
 represalia
 resabiado
 resabio
@@ -3192,6 +3185,7 @@ sarmiento
 sarna
 sarta
 sartén
+sashimi
 satén
 satinar
 satirizar
@@ -3402,6 +3396,7 @@ tapia
 tapial
 tapiz
 tapujo
+taquilla
 tara
 tararear, tatarear, canturrear
 tarugo
@@ -3701,6 +3696,8 @@ voyeur, voyerista, mirón
 vuelco
 vulgar
 vulgaridad
+wakame
+wasabi
 xenofobia
 xilófono
 yacer
