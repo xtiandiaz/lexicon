@@ -1683,6 +1683,7 @@ esguince
 eslabonado
 eslálom
 eslogan
+esmalte
 esmerado
 esmero
 esnifar
@@ -2819,6 +2820,7 @@ planteo, planteamiento
 plantón
 plasma
 plasmar
+plática
 platija
 platónico
 plausible

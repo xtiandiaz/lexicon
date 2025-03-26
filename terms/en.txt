@@ -317,6 +317,7 @@ realm
 rebus
 recoil
 reflux
+refundir
 rehash
 reskill
 retrace
@@ -402,6 +403,7 @@ stun gun
 sublime
 subsidiary
 sultry
+surrogate
 surveillance
 swill
 swoon
