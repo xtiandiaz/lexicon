@@ -1,16 +1,6 @@
-Ratty
-Natty
-Tatty
-Lair
-Tarry
-Nettle
-Irk
-Falter
-Acumen
-Factious
-Liaison
 abridge
 acronym
+acumen
 addle
 adherent
 affinity
@@ -147,8 +137,10 @@ ethereal
 exploit
 extol
 facsimile
+faction
 factious
 fallback
+falter
 feisty
 ferret
 figment
@@ -227,6 +219,7 @@ indwelling
 innocuous
 insurmountable
 intrinsically
+irk
 jargon, argot
 jaunty
 jinx
@@ -234,9 +227,11 @@ jinxed
 jowl
 kickboard
 lag
+lair
 lassitude
 leer
 levity
+liaison
 litigation
 lofty
 lope
@@ -266,10 +261,11 @@ monolithic
 morsel
 mote
 mysticism
+natty
 neologism
 netizen
+nettle
 neuroanatomy
-newfound
 newfound
 nexus
 nit-picky
@@ -322,6 +318,7 @@ pungent
 pushover
 quarry
 rapt
+ratty
 ravenous 
 raze
 realm
@@ -422,6 +419,7 @@ tabby
 talon
 tangent
 tankard
+tar
 tartly
 tattered
 tatty
