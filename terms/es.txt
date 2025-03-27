@@ -1,3 +1,36 @@
+Cándido
+Retroceso
+Astrología
+Patraña
+Zahón
+Ahorquillado
+Geomancia
+Yogui
+Unísono
+Rascacielos
+Pilotar, pilotear
+Adiestrado
+Curandero
+Mentecato
+Teología
+Ecuménico
+Fundamentalismo
+Inamovible
+Alucinar
+Puntilloso
+Cierne
+Indigesto
+Agüero
+Premeditar
+Fideicomiso
+Empollar
+Aeródromo
+tiara
+Mitra
+Extranjerismo
+Malinchismo
+Fanatismo
+Contravenir
 abad
 abalorio
 abanicar
@@ -190,7 +223,7 @@ aledaño
 alegoría
 alelado, lelo
 alentador
-alerce
+alerce, lárice
 alérgeno
 alero
 alerón
@@ -557,6 +590,7 @@ balsámico
 bamboleante, oscilante, basculante, tambaleante
 banal
 bancarrota
+bandada
 baquelita
 baqueta
 baqueteado
@@ -1304,9 +1338,8 @@ desasosegar
 desasosiego
 desazón
 desbancar
-desbandada
 desbandarse
-desbarajuste
+desbarajuste, desorden, barullo
 desbordado
 desbordar
 descabellado
@@ -1333,7 +1366,7 @@ desertar
 desertor
 desfalcar
 desfallecer
-desfallecido
+desfallecimiento, desmayo, desaliento
 desfibrilación
 desfibrilador
 desgajar
@@ -1874,6 +1907,7 @@ flojedad, flojera
 floreo
 floritura
 fluctuación
+fluctuar
 focalizar
 fofo, bofo
 fogonazo
@@ -2443,7 +2477,7 @@ manatí
 mancillado
 manco
 mandado
-mandamás
+mandamás, mandón
 mandón
 mandrágora, mandrágula
 manglar
@@ -2459,7 +2493,7 @@ mansarda, buhardilla
 manto
 mantra
 manutención
-maquiavélicoo
+maquiavélico
 maquinaria
 maquinismo
 maraña
@@ -2649,7 +2683,6 @@ odalisca
 odisea
 ofensiva
 ofuscación
-ofuscado
 ofuscar, obcecar, obnubilar
 ojeriza, aversión, atipatía
 oligarquía
@@ -3445,7 +3478,7 @@ tamiz, cedazo, coladero, colador
 tamizar
 tampografía
 tanino
-taoísmo
+taoísmo, daoísmo
 tapadera
 tapia
 tapial
