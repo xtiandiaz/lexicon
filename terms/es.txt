@@ -417,6 +417,8 @@ artesa
 articular
 artífice
 artificio
+artillería
+artillero
 artilugio
 artimaña
 artritis
@@ -2325,8 +2327,6 @@ jactar, vanagloriar, gloriar
 jade
 jadeante, acezoso, agitado
 jaleo
-jalonear
-jaloneo
 jamba
 jauría
 jerarquía
@@ -3473,6 +3473,7 @@ tanino
 taoísmo, daoísmo
 tapadera
 tapia
+tapiar
 tapial
 tapiz
 tapujo
