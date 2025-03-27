@@ -1,36 +1,3 @@
-Cándido
-Retroceso
-Astrología
-Patraña
-Zahón
-Ahorquillado
-Geomancia
-Yogui
-Unísono
-Rascacielos
-Pilotar, pilotear
-Adiestrado
-Curandero
-Mentecato
-Teología
-Ecuménico
-Fundamentalismo
-Inamovible
-Alucinar
-Puntilloso
-Cierne
-Indigesto
-Agüero
-Premeditar
-Fideicomiso
-Empollar
-Aeródromo
-tiara
-Mitra
-Extranjerismo
-Malinchismo
-Fanatismo
-Contravenir
 abad
 abalorio
 abanicar
@@ -121,6 +88,7 @@ adecentar
 adefesio
 ademán
 adepto
+adiestrar
 aditamento
 adjudicar
 adobe
@@ -188,6 +156,7 @@ aguzado, puntiagudo
 aguzar
 ahínco
 ahondar
+ahorquillado
 ahumado
 ahumar
 ajar
@@ -269,6 +238,7 @@ altruismo, filantropía
 altruista
 alubia
 alucinación
+alucinar
 aludir
 alumbramiento
 alunado
@@ -482,6 +452,7 @@ astillero
 astracán, astrakán
 astringente, astrictivo
 astringir
+astrología
 astroso
 astucia
 asustadizo
@@ -790,6 +761,7 @@ canalizar
 canalla
 cancela
 candelabro
+cándido
 canjear
 canon
 cansino
@@ -974,6 +946,7 @@ cidrón
 cielorraso
 ciénaga
 cieno, fango, lodo
+cierne
 cifrar
 cigarra
 cimarrón
@@ -1162,6 +1135,7 @@ contrapropuesta, contraproposición
 contrapunto
 contrariado
 contravenir
+contravenir
 contraventor
 controversia
 contubernio
@@ -1263,6 +1237,7 @@ cuneiforme
 cuneta, zanja
 cupé
 cúpula
+curandero
 curia
 cursar
 cursi
@@ -1509,6 +1484,7 @@ distopía
 distrés
 disturbio
 disuadir
+disuasión
 diurético
 diván
 divertículo
@@ -1547,6 +1523,7 @@ eclosionar
 ectomorfo
 ecuánime
 ecuanimidad
+ecuménico, universal, mundial
 edema
 eficacia, efectividad
 efigie
@@ -1600,6 +1577,7 @@ empeño
 empírico
 emplazamiento
 emplazar
+empollar
 emulsión
 enajenar
 enaltecer, ensalzar
@@ -1838,6 +1816,7 @@ exquisitez
 extenuado
 extirpar
 extrañeza
+extranjerismo
 extravagancia
 extravagante
 extrínseco
@@ -1856,6 +1835,7 @@ fajo, haz, atado
 falafel
 falange
 falible
+fanatismo
 fanfarronada, fanfarronería
 fango
 fardar
@@ -1883,6 +1863,7 @@ fiar
 fichar
 fidedigno
 fideicomisario
+fideicomiso, fidecomiso
 figuración
 figurar
 figurín
@@ -1953,6 +1934,7 @@ fugaz
 fulgor
 fulminante
 fulminar
+fundamentalismo
 furcia
 furgoneta
 furibundo
@@ -1995,6 +1977,7 @@ genoma
 gentío, muchedumbre, multitud
 gentuza
 genuflexión
+geomancia, geomancía
 germen
 gerontofília
 gestar
@@ -2205,6 +2188,7 @@ inacabado
 inacción, inactividad
 inalienable
 inalterable
+inamovible
 inane
 inanición
 inapreciable, inestimable
@@ -2236,6 +2220,7 @@ indemnización
 indemnizar
 indescifrable
 índice
+indigesto
 individualizar, individuar
 indolente
 indómito
@@ -2463,6 +2448,7 @@ majadero
 maki
 malabar
 maleable
+malinchismo
 malintencionado
 maloliente
 malparado
@@ -2548,6 +2534,7 @@ menguar
 menisco
 menoscabar
 ménsula, repisa, estante
+mentecato
 mentirijillas
 menudo
 meollo
@@ -2590,6 +2577,7 @@ mistificar
 mitin, mitín
 mitomanía
 mitón
+mitra
 módico
 mohín
 mojigatería
@@ -2814,6 +2802,7 @@ patibulario
 patíbulo
 pátina
 patógeno
+patraña
 paulatino
 pauta
 pavada
@@ -2878,6 +2867,7 @@ pictograma
 pigmento
 pilar
 pileta
+pilotar, pilotear
 pilote
 piltrafa
 pinche
@@ -2966,8 +2956,7 @@ prefabricar
 preliminar
 preludio
 prematuro
-premeditación
-premeditado
+premeditar
 premisa
 premonitorio
 prensa
@@ -3046,6 +3035,7 @@ pulimentar
 pulular
 punible
 puntal
+puntilloso
 punzante
 purga
 puritanismo
@@ -3082,6 +3072,7 @@ rapé
 rapto
 raquídeo
 raquis
+rascacielos
 rastra
 rastrojera
 rastrojo, rastrojal
@@ -3198,6 +3189,7 @@ retráctil
 retraer
 retraimiento
 retribuir
+retroceso
 retrógrado
 retrovisor
 retumbante
@@ -3504,6 +3496,7 @@ tenor
 tensiómetro
 tentempié, refrigerio
 tenue
+teología
 teosofía
 terapéutica, terapia
 terco
@@ -3520,6 +3513,7 @@ testarudez
 testarudo, porfiado, terco
 tétrico
 teutón, teutona
+tiara
 tibieza
 tiesto
 tifoidea
@@ -3578,6 +3572,7 @@ trance
 transcripción
 transgresión, trasgresión
 transigir
+transmigrar, trasmigrar
 transmutar
 transpirar, traspirar
 transversal
@@ -3655,6 +3650,7 @@ umbrío, umbroso
 unánime
 uncir
 unicidad
+unísono
 urbanita, urbanícola
 uretra
 urogallo
@@ -3796,6 +3792,7 @@ yema
 yermo
 yerno
 yesca
+yogui
 yonqui
 yóquey, jockey, yoqui
 yugo
@@ -3803,6 +3800,7 @@ yunta
 yute
 yuxtaponer
 zafio
+zahón
 zahorí
 zalamería, lisonja
 zalamero

@@ -1,11 +1,3 @@
-Regress
-Deterrence
-Cyst
-Bedazzle
-Bejewel
-Blemish
-Eschew
-Contravene
 abridge
 acronym
 acumen
@@ -30,9 +22,10 @@ bangle
 banshee
 barren
 barrister
-bedazzled
+bedazzle
 bedpan
 befuddle
+bejewel
 bellow
 bequeath
 bewildered
@@ -40,6 +33,7 @@ bid
 bin
 blacktop
 bleary
+blemish
 blubber
 bludgeon
 blueprint
@@ -95,6 +89,7 @@ crossroads
 cul-de-sac, dead end
 cumulative
 cur
+cyst
 dang
 dank
 daub
@@ -111,6 +106,7 @@ demur
 demure
 denizen
 despondent
+deterrence
 dialect
 dialogic
 dipsomania
@@ -337,6 +333,7 @@ rebus
 recoil
 reflux
 refundir
+regress
 rehash
 reskill
 retrace
