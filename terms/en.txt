@@ -92,11 +92,13 @@ dank
 daub
 dazzle
 dearth, scarcity
+debase
 deed
 deep-seated
 dejectedly
 delude
 delusion
+demote
 demur
 demure
 denizen
@@ -166,6 +168,7 @@ fudge
 fumble
 furrow
 gallows
+gang
 gash
 gauze
 gaze
@@ -377,6 +380,7 @@ slither
 sludge
 snarl
 snigger
+snug
 somber, sombre
 spartan
 specter, spectre
@@ -472,6 +476,7 @@ whimper
 widespread
 winch
 windfall
+wire nut
 wisp
 wondrous
 wreak
