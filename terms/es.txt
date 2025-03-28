@@ -792,6 +792,7 @@ capitel
 capitular
 capón
 capota
+capote
 capricho
 caprichoso
 captor
@@ -1249,6 +1250,7 @@ cucurucho
 cuenco
 cuesta
 cuita
+culata
 culatazo
 cumbre
 cúmulo
@@ -1570,6 +1572,7 @@ emanciparse
 embadurnar
 embalar
 embargar
+embargo
 embastecer
 embaucar
 embelesado
@@ -1583,12 +1586,15 @@ embonar
 emboquillado
 emboquillar
 emboscada
+emboscar
 embotar
 embrague, clutch
 embravecer
 embrollo
+embuchar
 embuste
 embustero
+embutido
 emético
 emotivo
 empalagar
@@ -1598,43 +1604,61 @@ empalme
 emparentar
 empecinarse
 empedernido
+empellón
+empeñado
 empeño
 empírico
 emplazamiento
 emplazar
 empollar
 emulsión
+enagua
 enajenar
 enaltecer, ensalzar
 enarcar
+enardecer
 encabritar
 encabritarse
 encaje
 encandilar
+encapotado
+encapotar
+encaramar
 encarar
 encarecer
+encarnizamiento
 encarnizamiento
 encarnizar
 encasquetar
 encauzar
 encéfalo, cerebro
+encinta
+enclenque, débil, enfermizo
 encomendar
-encomiable
+encomiable, elogiable, laudable
 encomiar
 encomio
 encorsetar
 encrucijada
+encubridor
 encubrir
 endémico
+endilgar
 endosar
 enema
+energúmeno
 enervar
 enfrascar
+enfundar
+enfurruñarse
 enganche
 engatillar
 engendrar
+engendro
+engolado
 engranaje
 engranar
+engreído, presumido, presuntuoso, petulante
 engullir
 enigma
 enigmático
@@ -1642,6 +1666,7 @@ enjambrar
 enjambre
 enjuiciador
 enjuiciar
+enjuta
 enjutar, enjugar
 enjuto
 enmarañar
@@ -1652,7 +1677,9 @@ enquistar
 enraizar, arraigar
 enranciar, arranciar
 ensalzar
+ensañarse
 enseres
+ensimismado, abstraído, absorto
 ensordecedor
 ensueño, ensoñación
 entelequia
@@ -1664,15 +1691,19 @@ entorpecer
 entramado
 entramar
 entraña
+entrecejo, ceño
 entretecho, desván, altillo
 entrever
 entripado
 entropía
+entuerto
+entumecer, agarrotar, embotar, entumirse
 envarado
 envergadura
 enviudar
 enzarzar
 enzima
+épico
 epidemia
 epifanía
 epigenoma
@@ -1686,6 +1717,8 @@ erguir
 erial, baldío
 erigir
 erizado
+ermita
+ermitaño
 errante
 errar
 errático
@@ -1700,26 +1733,36 @@ escalfado
 escalfar
 escalinata
 escamotear
+escamotear
 escanciar
 escandalizar
+escándalo
 escaparate
 escaque
 escaramuza
 escarbadientes, mondadientes, palillo
 escarcela
+escarcha, carama
+escarchado
+escarchar
 escardar
+escarmiento
 escarnio
 escarpado
+escasear
+escatimar, tacañear, cicatear
 escepticismo
 escéptico
 escéptico
 escindir
 esclerosis
+esclusa
 escocer
 escogencia, escogimiento
 escollo
 escolta
 escondrijo
+escopeta
 escoria
 escorzar
 escorzo, escorzado
@@ -1733,6 +1776,7 @@ escrutinio
 escudero
 escudilla
 escudriñar
+esculpir
 escurridizo
 esgrima
 esguince
@@ -1745,18 +1789,22 @@ esmero
 esnifar
 esotérico
 espabilado
+espartano
 esparto, atocha
 espasmo, convulsión
 espectro
 especulación
 especular
 especulativo
+espejismo
 espetar
 espiga
 espigado
+espino
 espionaje
 espirar
 esplendor
+espliego, lavanda
 espolear
 esponjosidad
 espontáneo
@@ -1773,6 +1821,7 @@ estaca
 estalactita
 estalagmita
 estampa
+estampida
 estancia
 estandarte
 estanque
@@ -1783,15 +1832,20 @@ estepa
 estera
 estereotipo
 esterilla
+esternón
 estertor
 estetoscopio, auscultador
+estigma
 estigma
 estigmatizar
 estilográfica
 estío, verano
+estirpe
 estival, veraniego, estivo
+estofado
 estoico
 estomatología
+estorbo
 estornino
 estrafalario
 estrago
@@ -1799,6 +1853,7 @@ estragón
 estrambótico
 estrangular
 estratagema
+estratega, estratego, táctico
 estrato
 estratosfera
 estremecer
@@ -1816,6 +1871,8 @@ estruendo
 estuario
 estupefacto, atónito
 estupor
+estupor, asombro, pasmo
+esvástica
 éter
 etéreo
 etimología
@@ -1836,6 +1893,9 @@ exiguo
 exiliado
 exiliar
 exilio
+exilio, destierro
+éxodo
+expansivo
 expatriado
 expatriar
 expiar
@@ -1847,12 +1907,18 @@ expropiar
 expurgar
 exquisitez
 extenuado
+extenuar, enflaquecer, debilitar
 extirpar
 extrañeza
 extranjerismo
 extravagancia
 extravagante
+extraviado
+extraviar
 extrínseco
+exuberancia
+exuberante
+exuberar
 facción
 faccioso
 facilongo
@@ -2776,6 +2842,7 @@ ovacionar
 overol
 ovillo
 ovni
+ovoide
 paca, fardo, lío, bala
 pacato
 pacer
@@ -3015,6 +3082,7 @@ prematuro
 premeditar
 premisa
 premonitorio
+prenda
 prensa
 prensar
 preponderancia
