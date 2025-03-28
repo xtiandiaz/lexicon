@@ -1,14 +1,3 @@
-Nuisance
-Chimera
-Yonder
-Chime
-Nettle
-Stupefy
-Befuddle
-Dumbfound
-Devious
-Stealth
-Furtive
 abridge
 acronym
 acumen
@@ -74,6 +63,8 @@ capricious
 carom
 carp
 cherish
+chime
+chimera
 chintz
 chortle
 chronology
@@ -119,6 +110,7 @@ demure
 denizen
 despondent
 deterrence
+devious
 dialect
 dialogic
 dipsomania
@@ -133,6 +125,7 @@ downshift
 dread
 dregs
 drizzle
+dumbfound
 dung
 dysfunction
 earthbound
@@ -183,6 +176,7 @@ fritz
 fudge
 fumble
 furrow
+furtive
 gallows
 gang
 gash
@@ -290,6 +284,7 @@ nexus
 nit-picky
 nitty-gritty
 nonchalant
+nuisance
 nutmeg
 oaf
 occlude
@@ -421,6 +416,7 @@ stamina
 stark
 starling
 startling
+stealth
 steed
 sterling
 stoop
@@ -429,6 +425,7 @@ stretcher
 strewn
 strut
 stun gun
+stupefy
 sublime
 subsidiary
 sultry
@@ -504,3 +501,4 @@ writhe
 writhing
 wry
 yank
+yonder
