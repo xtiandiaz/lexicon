@@ -552,7 +552,7 @@ bagatela, baratija, nimiedad
 bagazo
 bajorrelieve
 baladí
-balasto, balastro
+balasto, balastro, grava
 balbucear, balbucir
 baldío
 balido, gamitido
@@ -793,7 +793,6 @@ carabinero
 carajillo
 carámbano
 carambola
-caraota, judía, frijol, fríjol
 caravana
 carcamal
 carcasa
