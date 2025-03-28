@@ -1,3 +1,73 @@
+Cretácico, Cretáceo
+Jurásico
+Geología
+Brea
+Pirólisis
+Regazo
+Cronología
+Minucia
+Resaca
+Enjambrar
+Contrición
+Anodino
+Regentar
+Límpido
+Mandala
+Expatriar
+Exiliar
+Nefasto
+Malparado
+Rito
+Envarado
+Remangar
+Zafiro
+Cantautor
+Callejuela
+Ribera
+Sicomoro
+Respingo
+Achispado
+Colutorio
+Edredón
+Azotea
+Ballenato
+Concomitar
+Estela
+Confeti
+Abotargar
+Emparentar
+Embargar
+Partitura
+Manipular
+Fustigar
+Redimir
+Variopinto
+Nutria
+Peletería
+Mercería
+pulpería
+Filología
+Abarrote
+Onigiri
+Turbio
+Fausto, fasto
+Citrón, limón
+Evanescer, evanecer
+Cavilar
+Plaqueta
+Cuenco
+Enfrascar
+Miocardio
+Congénito
+Caoba
+Cedro
+Tachar
+Concurrido
+Concurrir
+Jorobado
+Neumología
+Hematología
+Quisquilloso
 abad
 abalorio
 abanicar
@@ -417,6 +487,8 @@ artesa
 articular
 artífice
 artificio
+artillería
+artillero
 artilugio
 artimaña
 artritis
@@ -465,7 +537,7 @@ atarván, atarbán
 ataviar
 atavío
 atavismo
-atemporal
+atemporal, intemporal
 atenazar
 atendible
 atenuante
@@ -909,7 +981,7 @@ charol
 charola, bandeja, batea, charol
 chascar, chasquear
 chasco
-chasis
+chasis, chasís
 chasquear
 chasquido
 chato
@@ -941,7 +1013,7 @@ ciática
 ciático
 ciclán
 ciclotimia
-cidrón
+cedrón, cidrón
 cielorraso
 ciénaga
 cieno, fango, lodo
@@ -1087,6 +1159,7 @@ congraciar
 congrio
 congruente
 conjetura
+conjeturar
 conjuntivo
 conjurar
 conllevar
@@ -2324,8 +2397,6 @@ jactar, vanagloriar, gloriar
 jade
 jadeante, acezoso, agitado
 jaleo
-jalonear
-jaloneo
 jamba
 jauría
 jerarquía
@@ -2766,7 +2837,8 @@ parapetar
 parapeto
 parapléjico
 parasimpático
-parduzco
+pardo
+parduzco, pardusco
 parecer
 parentela
 paria
@@ -2908,7 +2980,7 @@ polemizar
 policroma
 poliestireno
 polifacético
-polio
+polio, poliomielitis
 pólipo
 pollera
 pompa
@@ -3202,11 +3274,12 @@ revoltijo, revoltillo
 revoltoso
 revulsivo
 rezagado
+rezagar
 rezongar
 rezumar
 rhododendron, azaleia
-ribete
-ribetear
+ribete, orla
+ribetear, orlar, festonear
 ricino
 rictus, gesto, mueca
 ridiculizar
@@ -3472,6 +3545,7 @@ tanino
 taoísmo, daoísmo
 tapadera
 tapia
+tapiar
 tapial
 tapiz
 tapujo
