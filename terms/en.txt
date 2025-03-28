@@ -10,6 +10,7 @@ allegory
 amalgam
 amphitheater
 anathema
+anhedonia
 annum
 antic
 apiece
@@ -79,8 +80,10 @@ coercion
 colander
 commendable
 complimentary
+conducive
 confine
 connote
+consensual
 contravene
 conundrum
 creosote
@@ -141,6 +144,7 @@ engulf
 entrench
 epiphany
 equate
+ergonomics
 eschew
 esoteric
 etch
@@ -151,6 +155,7 @@ facsimile
 faction
 factious
 fallback
+falsehood
 falter
 feisty
 ferret
@@ -159,11 +164,14 @@ fit
 fitfully
 flagon
 flail
+flatline
 flick
 flippant
 floodplain
 flounder
+fluctuate
 fluttering
+foggy
 folly
 foolhardy
 footing
@@ -186,6 +194,7 @@ genocide
 gill
 gist
 glare
+glide
 glimpse
 gloat
 gloomy
@@ -198,6 +207,7 @@ graphology
 graze
 gregarious
 grim
+gross
 grovel
 gurgle
 hapless
@@ -230,9 +240,12 @@ impostor, imposter
 incumbent
 indwelling
 innocuous
+inquiry, enquiry
 insurmountable
 intrinsically
+inure, enure
 irk
+irksome
 jargon, argot
 jaunty
 jinx
@@ -247,6 +260,7 @@ levity
 liaison
 litigation
 lofty
+loom
 lope
 ludic
 ludicrous
@@ -265,6 +279,7 @@ mawkish
 mire
 mirth
 mirthless
+misanthrope, misanthropist
 misgivings
 mistletoe
 moleskin
@@ -274,8 +289,10 @@ monolithic
 morsel
 mote
 mysticism
+nagging
 natty
 neologism
+nepotism
 netizen
 nettle
 neuroanatomy
@@ -308,11 +325,13 @@ peddle
 pep
 perpetrate
 persona
+pettiness
 pewter
 pine
 pinpoint
 piquant
 pitch
+pittance
 pixie, pixy
 plateau
 plead
@@ -374,6 +393,7 @@ semiotic
 semolina
 shaggy
 sheepish
+sheer
 shimmer
 shovelware
 shred
@@ -466,6 +486,7 @@ tweezers
 twinge
 twinkle
 twofold
+uncanny
 uncouple
 undaunted
 underlie
@@ -487,11 +508,13 @@ warfare
 warlock, wizard, sorcerer
 wetware
 whimper 
+wholesome
 widespread
 winch
 windfall
 wire nut
 wisp
+withstand
 wondrous
 wreak
 wreath

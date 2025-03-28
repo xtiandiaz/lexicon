@@ -1121,6 +1121,7 @@ consanguinidad, cosanguinidad, consanguineidad
 conscripción
 conscripto
 consenso
+consensual
 consigna
 consonante
 conspicuo
@@ -1782,7 +1783,7 @@ esgrima
 esguince
 eslabonado
 eslálom
-eslogan
+eslogan, lema, consigna
 esmalte
 esmerado
 esmero
