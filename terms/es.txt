@@ -1,3 +1,29 @@
+Envoltura
+Homónimo
+Miscible
+Carroño
+Prognosis
+Acantilado
+Surfero
+Dactilar
+Lori
+Ralo
+Melena
+Coleta
+Viruta
+Campechano
+Raído
+Vapeador
+Vapear
+Fluoxetina
+Hollar
+Moquillo
+Toxoplasmosis
+María
+Conspiranoico
+Conspiranoia
+Calada
+Entreverado
 abad
 abalorio
 abanicar
@@ -10,7 +36,7 @@ abatido
 abatir
 abdicar
 aberrante
-abigarrado
+abigarrado, policromo, multicolor
 abismo, precipicio
 ablación
 abnegación
@@ -451,7 +477,7 @@ asolar
 asordar
 aspaviento
 aspereza
-aspersor
+aspersor, rociador, pulverizador
 astil
 astillero
 astracán, astrakán
@@ -2847,7 +2873,7 @@ ovacionar
 overol
 ovillo
 ovni
-ovoide
+ovoide, aovado
 paca, fardo, lío, bala
 pacato
 pacer
