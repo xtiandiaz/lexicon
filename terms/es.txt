@@ -811,6 +811,7 @@ carcomer
 carda
 cardamomo
 cardenal
+cardiología
 cardiopatía
 carestía
 cargoso, cargante
@@ -1005,6 +1006,7 @@ cloqueo
 clueca
 coacción, constreñimiento
 coagulante
+coagular
 coalición
 coartada
 coartar
@@ -1559,6 +1561,8 @@ efusividad
 efusivo
 eje
 electorado
+electrocardiógrafo
+electrocardiograma, electro
 electrodo
 elixir, elíxir
 elocución
@@ -3672,6 +3676,7 @@ tipificar
 tirachinas, tiragomas, tirador
 tirano
 tiro
+tiroides
 tirón
 tisis, tuberculosis
 tisular, hístico
