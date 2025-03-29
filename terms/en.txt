@@ -1,7 +1,3 @@
-Shun
-Assuage
-Homonym
-Insight
 abridge
 acronym
 acumen
@@ -20,6 +16,7 @@ antic
 apiece
 arcane
 ascetic
+assuage
 averted
 backtrack
 badger
@@ -227,6 +224,7 @@ hitherto
 hoarse
 hoist
 holler
+homonym
 hub
 huddle
 huff
@@ -245,6 +243,7 @@ incumbent
 indwelling
 innocuous
 inquiry, enquiry
+insight
 insurmountable
 intrinsically
 inure, enure
@@ -405,6 +404,7 @@ shred
 shrewd
 shriek
 shrill
+shun
 shuttle
 sideline
 signpost

@@ -1,29 +1,3 @@
-Envoltura
-Homónimo
-Miscible
-Carroño
-Prognosis
-Acantilado
-Surfero
-Dactilar
-Lori
-Ralo
-Melena
-Coleta
-Viruta
-Campechano
-Raído
-Vapeador
-Vapear
-Fluoxetina
-Hollar
-Moquillo
-Toxoplasmosis
-María
-Conspiranoico
-Conspiranoia
-Calada
-Entreverado
 abad
 abalorio
 abanicar
@@ -68,6 +42,8 @@ acaballado
 acaballar
 acaecer, acontecer
 acallar
+acantilado
+acantilar
 acaparar
 acarrear
 acebo, agrifolio, aquifolio
@@ -787,6 +763,7 @@ camisón
 campamento
 campanario
 campanilla
+campechano
 campiña
 campirano
 camuflaje
@@ -854,6 +831,7 @@ carretón
 carrocería
 carroña
 carroñero
+carroño
 cártamo, alazor
 cartesiano
 cascabel
@@ -1060,6 +1038,7 @@ colación
 colágeno
 colectivismo
 colectivizar
+coleta
 coletazo
 coleto
 colgante
@@ -1154,6 +1133,8 @@ consigna
 consonante
 conspicuo
 conspiración
+conspiranoia
+conspiranoico
 consternación
 consternar
 constipación
@@ -1297,6 +1278,7 @@ cursi
 curtido
 curubito
 cúspide
+dactilar
 dádiva
 dadivoso
 damnificado
@@ -1725,6 +1707,7 @@ entraña
 entrecejo, ceño
 entretecho, desván, altillo
 entrever
+entreverado
 entripado
 entropía
 entuerto
@@ -1732,6 +1715,7 @@ entumecer, agarrotar, embotar, entumirse
 envarado
 envergadura
 enviudar
+envoltura
 enzarzar
 enzima
 épico
@@ -2021,6 +2005,7 @@ floreo
 floritura
 fluctuación
 fluctuar
+fluoxetina
 focalizar
 fofo, bofo
 fogonazo
@@ -2251,11 +2236,13 @@ holgado
 holgazán, haragán
 holismo
 holístico
+hollar
 hollín, tizne
 hombruno
 homeóstasis, homeostasis, homeostasia
 homilía
 homogeneizar
+homónimo
 horca
 horda
 horma
@@ -2556,6 +2543,7 @@ lodazal, lodazar
 lona
 longevidad
 longevo
+lori
 lozanía
 lozano
 lucio
@@ -2623,6 +2611,7 @@ maquinismo
 maraña
 marañón
 marfil
+maría
 marisma
 marmota
 maroma
@@ -2656,6 +2645,7 @@ megáfono, altavoz
 megalito
 melao
 melaza
+melena
 melindroso
 mella
 mellar
@@ -2711,6 +2701,7 @@ miramiento
 miriñaque, meriñaque
 misantropía
 misántropo
+miscible, mezclable
 misionero
 misiva
 misoginia
@@ -2735,6 +2726,7 @@ monolito
 monomanía
 monserga
 montículo
+moquillo
 morar
 mordaz
 morfina
@@ -2756,7 +2748,6 @@ mugir
 mujerona
 mundano
 munificencia
-muñón
 muñón
 muselina
 mustio
@@ -3151,6 +3142,7 @@ profanar
 profanar
 profecía
 profilaxis
+prognosis, pronóstico
 prolegómeno
 proletario
 promiscuidad
@@ -3215,10 +3207,12 @@ racionar
 radical
 radón
 ráfaga
+raído
 raíl, rail
 ralea, estofa, condición
 ralentí
 ralentizar, enlentecer, lentificar
+ralo
 ramequín
 ramillete
 rampante
@@ -3612,6 +3606,7 @@ superstición
 suplicio
 supurar
 surcar
+surf
 suscitar
 suscribir, subscribir
 suspenso
@@ -3727,6 +3722,7 @@ torso
 tortuoso, sinuoso
 torva
 tosco
+toxoplasmosis
 tozudez, obstinación, testarudez
 tozudo, obstinado, testarudo
 trabar
@@ -3845,6 +3841,8 @@ valija
 valquiria, valkiria, walkiria
 vándalo
 vanguardia
+vapeador
+vapear
 vaquero
 varia
 várice, varice, variz
@@ -3919,6 +3917,7 @@ viraje
 virar
 virtud
 virulento
+viruta
 viscoso
 visera
 visillo, velo, cortinilla
