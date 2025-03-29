@@ -267,6 +267,7 @@ amilanar, amedrentar
 aminorar
 amnesia
 amnistía
+amnistiar, indultar, condonar, perdonar
 amonestación
 amonestar
 amordazar
@@ -1093,6 +1094,7 @@ concurrido
 concurrir
 condicionamiento
 condicionar
+condonar, indultar, amnistiar, perdonar
 condropatía, condromalacia
 condroplastia
 conectador
@@ -1156,6 +1158,7 @@ contrabandear
 contrabandista
 contrabando
 contrachapado
+contraincendios
 contraintuitivo
 contraloría
 contrapelo
@@ -1937,11 +1940,14 @@ exuberar
 facción
 faccioso
 facilongo
+facineroso
 facsímil
 facsimilar
 factible, hacedero
 facticio
 facultad
+faena
+faenar
 fagocitar
 fagocitosis
 faja
@@ -1954,17 +1960,24 @@ fanfarronada, fanfarronería
 fango
 fardar
 farra
+fascista
+fasto
 fastuoso
 fatalismo
+fauces
 fausto, fasto
 feble
 fechoría
 fécula
 fecundo
+feligrés
+felpa
 felpa
 fenecer
+féretro, ataúd
 fermento
 fermento
+férula
 férula
 ferviente, fervoroso
 fervor, devoción
@@ -1979,6 +1992,7 @@ fichar
 fidedigno
 fideicomisario
 fideicomiso, fidecomiso
+fiero, feroz
 figuración
 figurar
 figurín
@@ -1989,17 +2003,20 @@ filial
 filiar
 filigrana
 filología
+fingido, ficticio, artificial, hipócrita, falso, postizo
 finiquitar
 finiquito
 fiordo, fiord
 firmamento
-fisco
+fisco, erario
+fisgonear, fisgar, husmear
 fisonomista
 flagrante
 flagrar
 flanquear
 flaquear
 fleco
+flema
 flojedad, flojera
 floreo
 floritura
@@ -2013,24 +2030,34 @@ fogosidad
 folclor, folclore
 follaje
 folletín, folletón
+fondear
 fonógrafo
 forajido
 formativo
+formidable
 formulismo
 forraje
 fortuito
 forúnculo, furúnculo
+forzoso
 forzudo
+fosa
 fosilizar
+fragata
+fragua
 fraguar
 frailecillo
 francote
+franja, banda, tira
 franquear
 fraternal
 fraternidad
+fratricidio
 fraude, fraudulencia
 frazada
+frazada, frezada, manta
 frenesí
+frenético
 frenología
 frigidez
 frígido
@@ -2041,6 +2068,7 @@ frívolo
 frontón
 fructificar
 frugal
+frugal
 fruición
 fruncir
 fruslería
@@ -2048,14 +2076,18 @@ fuelles
 fuero
 fugacidad
 fugaz
+fugitivo
 fulgor
 fulminante
 fulminar
+funda
 fundamentalismo
+fundo
 furcia
 furgoneta
 furibundo
 furtivo
+fusil
 fustigar
 fútil
 futilidad
@@ -2276,26 +2308,34 @@ idílico
 idilio
 idoneidad
 idóneo
-idóneo
 ignominia
 ilación
+ileso, indemne, incólume
 ilusorio
-imbatible
+imbatible, invencible, inexpugnable
+imberbe, barbilampiño, lampiño
 imbuir
 impalpable
 imparcialidad, ecuanimidad
 impasible, insensible, indiferente, imperturbable
 impavidez, impasibilidad, serenidad, denuedo
 impedancia
+imperante
+imperar
 imperioso
 impermanencia
+impermeable
 impersonal
 impertérrito, impávido, inconmovible
+impertinente
 ímpetu
 impetuoso
 impío
+implacable, riguroso, inflexible, severo
 implicar
+impoluto, limpio, inmaculado
 imponderable
+imponente
 impostura
 imprecar, maldecir, blasfemar, anatematizar
 impremeditado
@@ -2304,10 +2344,11 @@ impudicia
 impudor
 impugnación
 impugnar
-impugnar
-impunidad
+impunidad, inmunidad, exención
+inacabable, interminable, inagotable
 inacabado
 inacción, inactividad
+inadvertido
 inalienable
 inalterable
 inamovible
@@ -2317,13 +2358,18 @@ inapreciable, inestimable
 inarmónico
 inasequible
 inaudito
+incandescente, candente, ardiente
 incauto
+incendiario
 incesante
 incidental
+incienso
 incisivo
 inclemencia
+inclemente
 incoercible
 incólume
+incólume, indemne, ileso
 inconciliable
 inconexo
 inconmensurable
@@ -2335,9 +2381,10 @@ incubación
 íncubo
 inculcar
 incumbencia
-incumbir
+incumbir, atañer, concernir
 indeclinable
 indecoroso
+indemne, incólume, ileso
 indemnización
 indemnizar
 indescifrable
@@ -2358,7 +2405,6 @@ ineludible
 inenarrable
 inerme
 inescrutable
-inexorable
 inexorable
 inexpugnable
 infalible
@@ -2388,8 +2434,10 @@ inmanente
 inmediatez
 inminente
 inmiscuir
+inmoderado, desmedido, exagerado
 inmolar
 inmunidad
+inmutar
 innato
 innominado
 inocular
@@ -2402,25 +2450,36 @@ insalubre
 insensato
 inserto
 insidia, asechanza
+insidioso
 insigne
 insignia
+insípido, soso, desabrido
 insólito
 insoluble
+insomne
 insoslayable
 instigar
+institutriz
+insubordinación, desobediencia, indisciplina
 insuflar
 ínsula
+insular, isleño, insulado
 insulina
 insulso
 insurgencia, alzamiento, insurrección
+insustancial, insubstancial, anodino, insulso, soso
 inteligible
+intemperie
 intempestivo
 interceder
+interino, eventual, provisional, suplente, sustituto
+interlocutor
 interpelación
 interpelar
 interponer
 intersticio
 interventoría
+intransigencia, intolerancia, inflexibilidad
 intrascendente, intranscendente
 intrépido
 intrínseco
@@ -2433,9 +2492,11 @@ inusitado
 inverosímil
 iracundia
 iracundo
+irascible, iracundo, irritable
 irisar
+irreductible, irreducible
 irreflexivo
-irremisible
+irremisible, imperdonable
 irresoluto
 irrisorio
 irrumpir
@@ -2528,7 +2589,7 @@ linotipia
 liofilizar
 lipoma
 líquene
-lisonja, adulación, zalamería
+lisonja, alabanza, halago, elogio, adulación
 lisonjear, adular
 lisonjero, adulador, zalamero
 lisura
@@ -2879,6 +2940,7 @@ palenque
 palidecer
 palimpsesto
 palmario,	palpable
+palmeta, palmatoria
 palmo
 palomilla
 palpable
@@ -2905,6 +2967,7 @@ parapetar
 parapeto
 parapléjico
 parasimpático
+parco
 pardo
 parduzco, pardusco
 parecer
@@ -3018,6 +3081,8 @@ piñón
 pira
 pirlán
 pirólisis
+piromanía
+pirómano, piromaníaco, incendiario
 pistón
 pita
 pitón
@@ -3188,14 +3253,20 @@ punzante
 purga
 puritanismo
 purulento
+quechua, quichua
+quejido, gemido, lamento
 quejumbroso
 quemarropa
+quena, flauta
+queroseno, keroseno, querosén
 querubín
 quicio
 quid
 quilla
+quimera
 quinina, quina
 quiosco
+quirófano
 quiromancia, quiromancía, buenaventura
 quisquilloso
 quiste
@@ -3258,6 +3329,7 @@ recoveco
 recriminar
 redimir
 redoble
+reductible, reducible
 refacción
 refilón
 reflujo
@@ -3287,7 +3359,9 @@ remembrar, rememorar, recordar
 rememorar
 remilgo
 remisible
+remisible
 remisión
+remitir
 remitir
 remolcar
 remolino
@@ -3573,6 +3647,7 @@ sublimación
 sublimar
 sublime
 sublunar
+subordinación, sometimiento, supeditación, sumisión
 subsanar
 subsecuente, subsiguiente
 subseguir
