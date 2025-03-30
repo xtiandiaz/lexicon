@@ -1,3 +1,108 @@
+Apostillar
+Apostilla, acotación
+Atomizador
+Atomizar
+Sarcasmo
+Aeroespacial
+Inventivo
+Emerger
+Rotulador
+Infravalorar
+Inasible
+Tiranía
+Aleccionador
+Derrotero
+Sucedáneo
+Alocución
+Aleccionador
+Aquiescencia
+Fidedigno
+Mismidad
+Cobertura
+Demoledor
+Bocajarro
+Lacónico
+Filosofar
+Grácil
+Destreza
+Enquistarse
+Diadema
+Ristre
+Pulgar
+Meñique
+Kinesiología, quinesiología
+Kinésica, quinésica
+onomatopeya
+Poleo
+Variedad
+Anhelante
+Cardumen
+Bando
+Proemio, prólogo, preámbulo
+Encomienda
+Serpentín
+Alias, apodo, sobrenombre
+Índigo, añil
+Rapsodia
+Almizclar
+Almizcle
+Alud
+Estrado
+Brote
+Higuera
+Higo
+Revertir
+Falsario
+Baremo
+Baremar
+Farfullar
+Defraudar
+Subsanar
+Provisorio, provisional
+Exasperar
+Leotardo
+Expectorar
+Acartonar
+Epopeya
+Parka
+Arenque
+Avistar
+Captar
+Veteado
+Puntiagudo
+Abrupto
+Refilar
+Lánguido
+Litoral
+Morsa
+Acorchar
+Chicloso
+Deglutible
+Cerval
+Conducente
+Líquenes
+Liquen
+Circunnavegar
+Vastedad
+Permafrost
+Afincar
+Aposentar
+Glamur
+Abusón, abusador, abusivo
+Basalto
+Estriado
+Isótopo
+Fehaciente
+sintiencia, sentiencia
+Esnob
+Esnobismo
+Superponer, sobreponerk
+Superpuesto
+Calcar
+Multiverso
+Binario
+Metáfora
+Limbo
 abad
 abalorio
 abanicar
@@ -249,7 +354,7 @@ alumbramiento
 alunado
 alusión
 aluvión
-alveolo, alvéolo
+alvéolo, alveolo
 alzado
 alzar
 amainar
@@ -472,7 +577,7 @@ atarear
 atarván, atarbán
 ataviar
 atavío
-atavismo
+atavismo, tradición, herencia, costumbre
 atemporal, intemporal
 atenazar
 atendible
@@ -516,7 +621,7 @@ autismo
 autodominio
 autógeno
 autogiro
-autopsia, necrospia, necroscopia
+autopsia, necropsia, necroscopia
 aval
 avante
 avasallar
@@ -835,7 +940,7 @@ carroñero
 carroño
 cártamo, alazor
 cartesiano
-cascabel
+cascabel, cascabillo
 casco
 cascote
 caserío
@@ -1206,7 +1311,6 @@ correspondencia
 corrillo
 corro
 corroer
-corroído
 corsé
 cortafuego
 cortaplumas
@@ -1611,7 +1715,7 @@ embuchar
 embuste
 embustero
 embutido
-emético
+emético, vomitivo, vomitorio
 emotivo
 empalagar
 empalagoso
@@ -3136,7 +3240,6 @@ pormenorizar
 porquería
 porra
 porrazo, porrada, garrotazo
-portafusil
 portazo
 portentoso, prodigioso
 portillo
@@ -3298,7 +3401,7 @@ rascacielos
 rastra
 rastrojera
 rastrojo, rastrojal
-ratificar
+ratificar, confirmar, corroborar
 ratonil
 razonar
 reaccionario
