@@ -1,108 +1,3 @@
-Apostillar
-Apostilla, acotación
-Atomizador
-Atomizar
-Sarcasmo
-Aeroespacial
-Inventivo
-Emerger
-Rotulador
-Infravalorar
-Inasible
-Tiranía
-Aleccionador
-Derrotero
-Sucedáneo
-Alocución
-Aleccionador
-Aquiescencia
-Fidedigno
-Mismidad
-Cobertura
-Demoledor
-Bocajarro
-Lacónico
-Filosofar
-Grácil
-Destreza
-Enquistarse
-Diadema
-Ristre
-Pulgar
-Meñique
-Kinesiología, quinesiología
-Kinésica, quinésica
-onomatopeya
-Poleo
-Variedad
-Anhelante
-Cardumen
-Bando
-Proemio, prólogo, preámbulo
-Encomienda
-Serpentín
-Alias, apodo, sobrenombre
-Índigo, añil
-Rapsodia
-Almizclar
-Almizcle
-Alud
-Estrado
-Brote
-Higuera
-Higo
-Revertir
-Falsario
-Baremo
-Baremar
-Farfullar
-Defraudar
-Subsanar
-Provisorio, provisional
-Exasperar
-Leotardo
-Expectorar
-Acartonar
-Epopeya
-Parka
-Arenque
-Avistar
-Captar
-Veteado
-Puntiagudo
-Abrupto
-Refilar
-Lánguido
-Litoral
-Morsa
-Acorchar
-Chicloso
-Deglutible
-Cerval
-Conducente
-Líquenes
-Liquen
-Circunnavegar
-Vastedad
-Permafrost
-Afincar
-Aposentar
-Glamur
-Abusón, abusador, abusivo
-Basalto
-Estriado
-Isótopo
-Fehaciente
-sintiencia, sentiencia
-Esnob
-Esnobismo
-Superponer, sobreponerk
-Superpuesto
-Calcar
-Multiverso
-Binario
-Metáfora
-Limbo
 abad
 abalorio
 abanicar
@@ -142,6 +37,7 @@ abucheo, bronca
 abulia
 abúlico
 aburguesado
+abusón, abusador, abusivo
 abyecto
 acaballado
 acaballar
@@ -151,6 +47,7 @@ acantilado
 acantilar
 acaparar
 acarrear
+acartonar
 acebo, agrifolio, aquifolio
 acechante
 acechar
@@ -180,6 +77,7 @@ acopio
 acoplado, remolque
 acoplar
 acople, acoplamiento, acopladura
+acorchar
 acorde
 acordonar
 acotado
@@ -213,6 +111,7 @@ adscribir
 adscrito
 adulón
 aeródromo
+aeroespacial
 afable
 afamado
 afasia
@@ -298,6 +197,8 @@ alcornoque
 aldaba, aldabón, picaporte
 aleatorio
 alebrije
+aleccionador
+aleccionar, instruir, amaestrar, enseñar
 aledaño
 alegoría
 alelado, lelo
@@ -320,6 +221,7 @@ alginato
 algodonoso
 alhaja
 alharaca, aspaviento, exageración
+alias, apodo, sobrenombre
 alienado
 alimaña
 alimaña
@@ -330,6 +232,9 @@ allanar
 almagre
 almibarado
 almirante
+almizclar
+almizcle
+alocución
 alondra
 alostático
 alpargata
@@ -349,6 +254,7 @@ altruista
 alubia
 alucinación
 alucinar
+alud, avalancha, desprendimiento, derrumbamiento
 aludir
 alumbramiento
 alunado
@@ -404,6 +310,7 @@ anfitrión
 angina
 anguila
 anguloso
+anhelante
 animadversión
 animismo
 animosidad
@@ -464,8 +371,11 @@ apócrifo
 apogeo
 apología
 apoplejía
+aposentar, hospedar, alojar
 apóstata, renegado, perjuro
 apostatar
+apostilla, acotación
+apostillar, glosar, anotar
 apremiante
 apremiar
 apremio
@@ -590,6 +500,8 @@ atisbar
 atisbo
 atolón
 atolondrado
+atomizador
+atomizar
 atontamiento
 atopia
 atormentado
@@ -677,6 +589,7 @@ bamboleante, oscilante, basculante, tambaleante
 banal
 bancarrota
 bandada
+bando
 baquelita
 baqueta
 baqueteado
@@ -687,6 +600,8 @@ bárbaro
 barbecho
 barbitúrico
 barcaza
+baremar
+baremo
 bareta
 barniz
 barnizar
@@ -701,6 +616,7 @@ barrido
 barrizal
 barrote
 barullo, barahúnda
+basalto
 basilisco
 bastidor
 bastión
@@ -738,6 +654,7 @@ bies
 bife
 bifurcar
 bilirrubina
+binario
 bioma
 biomarcador
 biorritmo
@@ -757,6 +674,7 @@ bobalicón
 bobalicón
 bobina
 bocadillo
+bocajarro
 bocanada
 bochinche
 bochorno
@@ -799,6 +717,7 @@ briqueta
 brizna
 brizna, brinza
 bronca
+brote
 bruma
 brumoso
 bruñido, reluciente
@@ -846,6 +765,7 @@ calado
 calamidad
 calar
 calavera
+calcar
 caldear
 caldo
 caleidoscopio, calidoscopio
@@ -904,6 +824,7 @@ capota
 capote
 capricho
 caprichoso
+captar
 captor
 capucha
 capuchón
@@ -922,6 +843,7 @@ cardamomo
 cardenal
 cardiología
 cardiopatía
+cardumen, cardume, banco
 carestía
 cargoso, cargante
 carillón, carrillón
@@ -1012,6 +934,7 @@ cerner, cernir
 cerrazón
 cerro
 cerúleo
+cerval
 cervical
 cérvido
 cerviz
@@ -1040,6 +963,7 @@ chato
 chaveta, pasador, clavija
 chéchere
 chícharo, legumbre
+chicloso
 chinchar
 chinche
 chingar
@@ -1082,6 +1006,7 @@ cínico
 cinismo
 ciprés
 circadiano
+circunnavegar
 circunscribir
 circunspección
 circunspecto
@@ -1122,6 +1047,7 @@ coartada
 coartar
 cobalto
 cobertizo
+cobertura
 cobijo
 cochambre
 cochambroso
@@ -1202,6 +1128,7 @@ condicionar
 condonar, indultar, amnistiar, perdonar
 condropatía, condromalacia
 condroplastia
+conducente
 conectador
 confeti
 confinar
@@ -1407,7 +1334,9 @@ defenestrar
 defensiva
 deferencia
 déficit
+defraudar
 defunción
+deglutir, tragar
 degollar
 degüello, degollamiento
 deidad
@@ -1424,6 +1353,7 @@ demacrado
 demacrar
 demasía
 demencia
+demoledor
 denegar
 denodado
 denostar
@@ -1537,6 +1467,7 @@ destello
 desterrado
 destierro
 destituir
+destreza
 desuncir
 desuso
 desvaído
@@ -1558,6 +1489,7 @@ devastar, asolar
 devengar
 devenir
 devoto
+diadema
 diáfano
 diafragma
 dialéctica
@@ -1715,6 +1647,7 @@ embuchar
 embuste
 embustero
 embutido
+emerger
 emético, vomitivo, vomitorio
 emotivo
 empalagar
@@ -1757,6 +1690,7 @@ enclenque, débil, enfermizo
 encomendar
 encomiable, elogiable, laudable
 encomiar
+encomienda
 encomio
 encorsetar
 encrucijada
@@ -1832,6 +1766,7 @@ epigenoma
 epílogo
 epinefrina, adrenalina
 epónimo
+epopeya
 equidistancia
 equinoccio
 equívoco
@@ -1909,6 +1844,8 @@ esmalte
 esmerado
 esmero
 esnifar
+esnob
+esnobismo
 esotérico
 espabilado
 espartano
@@ -1969,6 +1906,7 @@ estoico
 estomatología
 estorbo
 estornino
+estrado
 estrafalario
 estrago
 estragón
@@ -1983,6 +1921,7 @@ estremecimiento
 estreñinimiento
 estrépito
 estría
+estriado
 estribar
 estribillo
 estribo
@@ -2008,6 +1947,7 @@ evasiva
 evocador, evocativo
 exabrupto, grosería, brusquedad
 exaltación
+exasperar
 excentricidad
 excluyente
 exhortar
@@ -2020,6 +1960,7 @@ exilio, destierro
 expansivo
 expatriado
 expatriar
+expectorar
 expiar
 expiatorio
 explayar
@@ -2059,10 +2000,12 @@ fajo, haz, atado
 falafel
 falange
 falible
+falsario
 fanatismo
 fanfarronada, fanfarronería
 fango
 fardar
+farfullar
 farra
 fascista
 fasto
@@ -2074,6 +2017,7 @@ feble
 fechoría
 fécula
 fecundo
+fehaciente
 feligrés
 felpa
 felpa
@@ -2107,6 +2051,7 @@ filial
 filiar
 filigrana
 filología
+filosofar
 fingido, ficticio, artificial, hipócrita, falso, postizo
 finiquitar
 finiquito
@@ -2243,6 +2188,7 @@ gitano, calé, romaní
 glaciación
 glaciar
 gladiolo
+glamur
 glaucoma
 gluten
 golfo
@@ -2264,6 +2210,7 @@ gorronear
 gozada
 gozne, charnela, pernio
 gozoso
+grácil
 grada
 gradación
 gragea, confite
@@ -2349,6 +2296,8 @@ hibisco
 híbrido
 hidropónico
 higiene
+higo
+higuera
 hilacha, hilacho, hebra
 hilaridad
 hilera
@@ -2461,6 +2410,7 @@ inanición
 inapreciable, inestimable
 inarmónico
 inasequible
+inasible
 inaudito
 incandescente, candente, ardiente
 incauto
@@ -2494,6 +2444,7 @@ indemnizar
 indescifrable
 índice
 indigesto
+índigo, añil
 individualizar, individuar
 indolente
 indómito
@@ -2519,6 +2470,7 @@ inflexión
 infligir
 infortunio
 infranqueable
+infravalorar
 infructuoso
 ingente
 ingenuidad
@@ -2593,6 +2545,7 @@ intruso
 intuición
 intuitivo
 inusitado
+inventivo
 inverosímil
 iracundia
 iracundo
@@ -2605,6 +2558,7 @@ irresoluto
 irrisorio
 irrumpir
 irrupción
+isótopo
 itinerario
 jactancia, presunción, presuntuosidad
 jactancioso
@@ -2633,15 +2587,19 @@ jura
 jurásico
 kamikaze, camicace
 karma
+kinésica, quinésica
+kinesiología, quinesiología
 kohl, kohol
 labrar
 lacayo
+lacónico
 lacre
 lacrimoso, lacrimógeno, lagrimoso
 lama
 lamprea
 lancero
 languidecer
+lánguido
 lantana
 larguirucho
 lasitud
@@ -2657,6 +2615,7 @@ legado
 lego
 lémur
 leonino
+leotardo
 lesivo
 leso
 letanía
@@ -2681,6 +2640,7 @@ ligereza
 lignificar
 lignina
 límbico
+limbo
 limerencia
 limosna
 límpido
@@ -2692,13 +2652,15 @@ linóleo
 linotipia
 liofilizar
 lipoma
-líquene
+liquen
+líquenes
 lisonja, alabanza, halago, elogio, adulación
 lisonjear, adular
 lisonjero, adulador, zalamero
 lisura
 litera
 litigio
+litoral
 litosfera
 lívido
 lobotomía
@@ -2825,6 +2787,7 @@ mendrugo
 menester
 menguante
 menguar
+meñique
 menisco
 menoscabar
 ménsula, repisa, estante
@@ -2844,6 +2807,7 @@ mesomorfo
 mesura
 metabolismo
 metafísica
+metáfora
 metalurgia
 metamorfosear
 metástasis
@@ -2869,6 +2833,7 @@ misántropo
 miscible, mezclable
 misionero
 misiva
+mismidad
 misoginia
 misticismo
 mistificar
@@ -2898,6 +2863,7 @@ morfina
 morfinómano
 moribundo
 morisqueta
+morsa
 mortandad
 mortecino
 mortífero, letal
@@ -2911,6 +2877,7 @@ muchedumbre, multitud, aglomeración, gentío
 muérdago, almuérdago, liga
 mugir
 mujerona
+multiverso
 mundano
 munificencia
 muñón
@@ -2986,6 +2953,7 @@ omnipotencia
 oncología, cancerología
 onigiri
 onírico
+onomatopeya
 opalina
 ópalo
 ópera
@@ -3079,6 +3047,7 @@ parentela
 paria
 parietal
 paripé
+parka
 parlar
 parlotear
 parloteo, charloteo
@@ -3150,6 +3119,7 @@ periplo
 perito
 perlado, aperlado, perlino
 perlita
+permafrost
 permisivo
 perno
 perorata
@@ -3220,6 +3190,7 @@ polémica, controversia
 polémico
 polemista
 polemizar
+poleo
 policroma
 poliestireno
 polifacético
@@ -3305,6 +3276,7 @@ probiótico
 proclive, propenso
 procrear, engendrar
 pródigo
+proemio, prólogo, preámbulo
 proeza
 profanar
 profanar
@@ -3345,12 +3317,14 @@ puesta
 pugna
 puja
 pujanza
+pulgar
 pulido
 pulimentar
 pulpería
 pulular
 punible
 puntal
+puntiagudo, aguzado, afilado, picudo
 puntilloso
 punzante
 purga
@@ -3394,6 +3368,7 @@ rancidez
 rancio
 rape
 rapé
+rapsodia
 rapto
 raquídeo
 raquis
@@ -3434,6 +3409,7 @@ redimir
 redoble
 reductible, reducible
 refacción
+refilar
 refilón
 reflujo
 refranero
@@ -3528,6 +3504,7 @@ retumbante
 retumbar
 reverberación
 reverberar
+revertir
 revestimiento
 revestir
 revolotear
@@ -3548,6 +3525,7 @@ ridiculizar
 rigidez
 rijoso
 risco
+ristre
 rito
 rivalidad
 rizoma
@@ -3559,6 +3537,7 @@ rompiente
 roñoso
 ronquera
 rotor
+rotulador, marcador, plumón
 rubicundo
 rubro
 rufián, granuja
@@ -3593,6 +3572,7 @@ sanidad
 sanitario
 santiamén
 santuario
+sarcasmo
 sardónice, sardónica
 sarmiento
 sarna
@@ -3639,6 +3619,7 @@ serendipia
 serendípico
 serigrafía
 serotonina
+serpentín
 serrano
 serrín, aserrín, serraduras
 sertralina
@@ -3675,6 +3656,7 @@ sinfonía
 siniestro
 sinsabor
 sinsentido
+sintiencia, sentiencia
 sirga
 sisear
 sistemático
@@ -3760,8 +3742,7 @@ suburbio
 subvertir
 subyacente
 subyacer
-sucedáneo
-sucedáneo, sutituto, sustitutivo
+sucedáneo; sutituto, sustitutivo; remedo, falsificación
 sucinto
 súcubo
 sucumbir
@@ -3779,7 +3760,6 @@ superfluidad
 superfluo
 superlativo
 superponer, sobreponer
-superpuesto
 superstición
 suplicio
 supurar
@@ -3873,6 +3853,7 @@ tintineo, tintín
 tipi
 tipificar
 tirachinas, tiragomas, tirador
+tiranía, autocracia, dictadura
 tirano
 tiro
 tiroides
@@ -4032,6 +4013,7 @@ vasallo
 vasco
 vasija
 vástago
+vastedad
 váter, inodoro, retrete, urinario
 vaticinio
 vedar
