@@ -1,3 +1,6 @@
+Caret
+Flock
+Herring
 abridge
 acronym
 acumen
