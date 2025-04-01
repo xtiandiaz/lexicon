@@ -1,3 +1,5 @@
+sentadero
+lumen
 abad
 abalorio
 abanicar
@@ -2245,7 +2247,6 @@ guarnecer
 guarnición
 guasca
 guatila
-gubia
 guijarro
 guineo
 guisa
@@ -3250,7 +3251,6 @@ preponderancia
 preponderar
 prepotencia
 presbicia
-prescindencia
 prescindir
 presidiario, convicto, recluso
 presteza
@@ -3356,7 +3356,7 @@ radical
 radón
 ráfaga
 raído
-raíl, rail
+raíl, rail, riel
 ralea, estofa, condición
 ralentí
 ralentizar, enlentecer, lentificar
@@ -3742,7 +3742,7 @@ suburbio
 subvertir
 subyacente
 subyacer
-sucedáneo; sutituto, sustitutivo; remedo, falsificación
+sucedáneo; sustituto, sustitutivo; remedo, falsificación
 sucinto
 súcubo
 sucumbir
