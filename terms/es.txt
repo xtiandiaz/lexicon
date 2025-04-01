@@ -960,7 +960,7 @@ chasis, chasís
 chasquear
 chasquido
 chato
-chaveta, pasador, clavija
+chaveta
 chéchere
 chícharo, legumbre
 chicloso
@@ -3422,7 +3422,8 @@ regazo
 regentar
 regimentar
 regimiento
-regir
+regidor
+regir; dirigir, gobernar, administrar; guiar, conducir
 regocijo
 regurgitar
 rehogar, sofreír, saltear
@@ -3605,7 +3606,7 @@ senectud
 senescente, senesciente
 senil
 senilidad
-señorón
+señorón, personaje, figurón
 sensiblería
 sensiblero
 sepelio, entierro, inhumación
@@ -3781,7 +3782,7 @@ taburete
 tachar
 tácito
 taciturno
-taimado
+taimado, ladino, artero, solapado
 tajante
 talante
 talismán, amuleto, fetiche
