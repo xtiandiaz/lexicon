@@ -811,6 +811,7 @@ calima, calina
 cáliz
 calizo, calcáreo
 callejuela
+callejón
 calzar
 camarada
 camastro
@@ -1296,7 +1297,7 @@ corsé
 cortafuego
 cortaplumas
 cortejo
-cortisol
+cortisol; #physiol
 corvina
 cósmico
 cosmos
@@ -1639,7 +1640,7 @@ dogma
 doliente
 domiciliación
 domo
-dopamina
+dopamina; #biochem
 dornajo
 dorsal
 dorso
@@ -1834,7 +1835,7 @@ epidemia
 epifanía
 epigenoma
 epílogo
-epinefrina, adrenalina
+adrenalina, epinefrina; #physiol #med
 epónimo
 epopeya
 equidistancia
@@ -1857,7 +1858,6 @@ escabel
 escabroso
 escabullir
 escalafón
-escalfado
 escalfar
 escalinata
 escamotear
@@ -3776,7 +3776,7 @@ serbal, acafresna, serbo, azarollo; #plant
 serendipia
 serendípico
 serigrafía
-serotonina
+serotonina; #biochem
 serpentín
 serrano
 serrín, aserrín
@@ -4067,15 +4067,16 @@ transmigrar, trasmigrar
 transmutar
 transpirar, traspirar
 transversal
-trascendente, transcendente
-trascender, transcender
+trascendente
+trascender
 trasegar
 traslapar, solapar
-traslúcido
+traslúcido, trasluciente
 traspasar
-traspié, traspiés
-trasponer, transponer
+traspié
+trasponer
 trastienda
+transplantar
 trasto
 trastocar
 trastorno
