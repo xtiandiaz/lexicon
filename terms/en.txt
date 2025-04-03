@@ -1,44 +1,6 @@
-Undisputed
-Rave
-Relic
-Colossal
-Enclave
-Gleeful
-Enrapture
-Ostentatious
-Rancor
-Reclusive
-Sluggish
-Repudiate
-Commensurate
-Aloof
-Loquacious
-Kennel
-Forefront
-Backlash
-Rollout
-Flippant
-Ubiquitous
-Sublime
-Inculcate
-Anomaly
-Doleful
-Decry
-Charter
-Avert
-Placate
-Quarrel 
-Vindicate
-Steadfast
-Sycophant
-Aluminum
-Polycarbonate
-acrylonitrile-butadiene-styrene
-Polypropylene
-Polyethylene
-polyethylene terephthalate
 abridge
 acronym
+acrylonitrile-butadiene-styrene, ABS; #chem
 acumen
 addle
 adherent
@@ -46,17 +8,21 @@ affinity
 affliction
 all-encompassing
 allegory
+aloof
+aluminum
 amalgam
 amphitheater
 anathema
 anhedonia
 annum
+anomaly
 antic
 apiece
 arcane
 ascetic
 assuage
-averted
+avert
+backlash
 backtrack
 badger
 bangle
@@ -104,6 +70,7 @@ capricious
 caret
 carom
 carp
+charter
 cherish
 chime
 chimera
@@ -119,7 +86,9 @@ clutch
 cockeyed
 coercion
 colander
+colossal
 commendable
+commensurate
 complimentary
 conducive
 confine
@@ -143,6 +112,7 @@ daub
 dazzle
 dearth, scarcity
 debase
+decry
 deed
 deep-seated
 dejectedly
@@ -164,6 +134,7 @@ disquiet
 distraught
 doddery
 dogma
+doleful
 downcast
 downshift
 dread
@@ -178,10 +149,12 @@ eclectic
 egg
 egregious
 embodiment
+enclave
 endeavor
 endow
 endowment
 engulf
+enrapture
 entrench
 epiphany
 equate
@@ -218,6 +191,7 @@ folly
 foolhardy
 footing
 foreboding
+forefront
 foresee
 fragrant
 frail
@@ -236,6 +210,7 @@ genocide
 gill
 gist
 glare
+gleeful
 glide
 glimpse
 gloat
@@ -281,6 +256,7 @@ idol
 ill-defined
 impervious
 impostor, imposter
+inculcate
 incumbent
 indwelling
 innocuous
@@ -296,6 +272,7 @@ jaunty
 jinx
 jinxed
 jowl
+kennel
 kickboard
 lag
 lair
@@ -307,6 +284,7 @@ litigation
 lofty
 loom
 lope
+loquacious
 ludic
 ludicrous
 lumpy
@@ -357,6 +335,7 @@ offshoring
 ombudsman
 opulent
 ossify
+ostentatious
 oust
 outdo
 outstrip
@@ -379,11 +358,16 @@ piquant
 pitch
 pittance
 pixie, pixy
+placate
 plateau
 platelet
 plead
 plinth
 polecat, skunk
+polycarbonate; #chem
+polyethylene; #chem
+polyethylene terephthalate, PET; #chem
+polypropylene; #chem
 pompous 
 portly
 pothole
@@ -396,18 +380,24 @@ prong
 propensity
 pungent
 pushover
+quarrel 
 quarry
+rancor
 rapt
 ratty
+rave
 ravenous 
 raze
 realm
 rebus
+reclusive
 recoil
 reflux
 refundir
 regress
 rehash
+relic
+repudiate
 reskill
 retrace
 revel
@@ -415,6 +405,7 @@ revile
 rickety
 rim
 rogue
+rollout
 rosette
 run-down
 sallow
@@ -458,6 +449,7 @@ slash
 sling
 slither
 sludge
+sluggish
 snarl
 snigger
 snug
@@ -484,6 +476,7 @@ stamina
 stark
 starling
 startling
+steadfast
 stealth
 steed
 sterling
@@ -501,6 +494,7 @@ surrogate
 surveillance
 swill
 swoon
+sycophant
 tabby
 talon
 tangent
@@ -534,10 +528,12 @@ tweezers
 twinge
 twinkle
 twofold
+ubiquitous
 uncanny
 uncouple
 undaunted
 underlie
+undisputed
 unnameable
 unorthodox
 unsavory
@@ -546,6 +542,7 @@ upheaval
 vapor lamp
 vermin
 vex
+vindicate
 vindictive
 virtuoso
 vitriolic
