@@ -1,3 +1,125 @@
+halago
+Variante
+Decisivo
+Lapso
+Adrenalina
+Coba
+Bis
+Estrujar
+Multitudinario
+Hidra
+Fragor
+Volandas
+Selfi
+Rezumar
+Bienhumorado
+Hipódromo
+Dosel
+Mosquitero
+Terracota
+Mezcal, mescal
+Mollera
+Mánager
+Reconfortar
+Confortar
+Traficante
+Meretriz
+Lupanar
+Ciberpunk
+Estratosférico
+Remachar
+Retortijón
+Cariz
+Inquina
+Lucidez
+Encarrerar, encarrilar
+Inmunizar
+Patrón
+Foso
+Coto
+Facción
+Longitudinal
+Equidistante
+Esperpento
+Idiosincrasia
+Muletilla
+Efluvio
+Torvo
+Esperable
+Atesorar
+Lance
+Chenil
+Jaula
+Fiambrera
+Refugio
+Tartera
+Táper, túper, tóper
+Tapadera
+Lonchera
+Chaparrón
+Déjà vu
+Paramnesia
+Boquiabierto
+Terranova
+Viñedo
+Buqué
+Enología
+Bodeguero
+Comandita
+Coronilla
+Esterilización
+Socorrista
+Coquetear
+Poemario
+Góndola
+Tabloide
+Halterofilia
+Ferry
+Halitosis
+Fetidez
+Changarro
+Amarillismo
+Macramé
+Entarimado
+Farfullar
+Mellar
+Quehacer
+Sesudo
+friki, friqui
+Potaje
+Exento
+Neumonía, pulmonía; #med
+Sondear
+Coito
+Volantazo
+Sarpullido
+Recular
+Maniquí
+Descarnado
+Paliativo
+Dedalera; #plant
+Clemátide; #plant 
+Balsamina; #plant 
+Rabieta
+Estegosaurio
+Banquillo
+Voluta
+Bullir
+Descuajaringar
+Percatar
+Parábola
+Corpóreo
+Ignoto
+Divisa
+Penuria
+sabedor
+Salpimentar
+Nutricio
+Astromelia; #plant 
+Caminador
+Sepia
+Discrepancia
+Adulador
 penca
 abad
 abalorio
@@ -811,6 +933,7 @@ calima, calina
 cáliz
 calizo, calcáreo
 callejuela
+callejón
 calzar
 camarada
 camastro
@@ -847,7 +970,7 @@ canturrear, canturriar
 canturreo
 cánula
 canuto
-caoba
+caoba; #plant
 capataz
 capcioso
 capear
@@ -1053,6 +1176,7 @@ ciprés; #plant
 circadiano
 circunnavegar
 circunscribir
+circunscripción
 circunspección
 circunspecto
 citoquina
@@ -1296,7 +1420,7 @@ corsé
 cortafuego
 cortaplumas
 cortejo
-cortisol
+cortisol; #physiol
 corvina
 cósmico
 cosmos
@@ -1317,7 +1441,7 @@ crepitar
 crepuscular
 crepúsculo
 crescendo
-cretácico, cretáceo
+cretácico, cretáceo; #geo
 criado
 criado
 cribar
@@ -1639,7 +1763,7 @@ dogma
 doliente
 domiciliación
 domo
-dopamina
+dopamina; #biochem
 dornajo
 dorsal
 dorso
@@ -1834,7 +1958,7 @@ epidemia
 epifanía
 epigenoma
 epílogo
-epinefrina, adrenalina
+adrenalina, epinefrina; #physiol #med
 epónimo
 epopeya
 equidistancia
@@ -1857,7 +1981,6 @@ escabel
 escabroso
 escabullir
 escalafón
-escalfado
 escalfar
 escalinata
 escamotear
@@ -1920,8 +2043,8 @@ esotérico
 espabilado
 espadaña, gladio, totora; #plant [wk:typha]
 espartano
-esparto, atocha
-espasmo, convulsión
+esparto, atocha; #plant
+espasmo; #med
 espectro
 especulación
 especular
@@ -2407,7 +2530,7 @@ holístico
 hollar
 hollín, tizne
 hombruno
-homeóstasis, homeostasis, homeostasia
+homeostasis; #bio
 homilía
 homogeneizar
 homónimo
@@ -2683,7 +2806,7 @@ junco, junquera; #plant [wk:Schoenoplectus_californicus]
 junquillo
 junta
 jura
-jurásico
+jurásico; #geo
 kamikaze, camicace
 karma
 kinésica, quinésica
@@ -2750,7 +2873,8 @@ limerencia
 limosna
 límpido
 linaje
-linde, confín, lindero
+linde, lindero
+confín
 linfa
 linfocito
 linóleo
@@ -3775,7 +3899,7 @@ serbal, acafresna, serbo, azarollo; #plant
 serendipia
 serendípico
 serigrafía
-serotonina
+serotonina; #biochem
 serpentín
 serrano
 serrín, aserrín
@@ -4066,15 +4190,16 @@ transmigrar, trasmigrar
 transmutar
 transpirar, traspirar
 transversal
-trascendente, transcendente
-trascender, transcender
+trascendente
+trascender
 trasegar
 traslapar, solapar
-traslúcido
+traslúcido, trasluciente
 traspasar
-traspié, traspiés
-trasponer, transponer
+traspié
+trasponer
 trastienda
+transplantar
 trasto
 trastocar
 trastorno
