@@ -1359,6 +1359,7 @@ cribar
 crin
 criolina
 cripta
+crisantemo; #planta
 crisol
 crispar
 cristaloide
@@ -2889,7 +2890,7 @@ malintencionado
 maloliente
 malparado
 maltrecho
-malva
+malva; #plant
 malvivir
 mameluco, mono
 mamerto
@@ -3603,6 +3604,7 @@ rampante
 rampante
 rancidez
 rancio
+ranúnculo; #planta
 rape
 rapé
 rapsodia
