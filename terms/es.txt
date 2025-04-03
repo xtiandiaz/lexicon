@@ -703,7 +703,7 @@ blasfemar
 blazer
 bledo
 blíster
-bluf, bluff
+bluf
 bobalicón
 bobalicón
 bobina
@@ -1039,7 +1039,7 @@ cieno
 cierne
 cierre
 cifrar
-cigarra
+cigarra, chicharra
 cimarrón
 cimbra
 cimbrar, cimbrear
@@ -1702,7 +1702,7 @@ embelesarse
 embellecer
 embestir
 embolia
-émbolo
+émbolo; #med #mech
 embonar
 emboquillado
 emboquillar
@@ -1987,7 +1987,6 @@ estratega, estratego, táctico
 estrato
 estratosfera
 estremecer
-estremecimiento
 estreñinimiento
 estrépito
 estría
@@ -2734,7 +2733,7 @@ léxico
 liana
 liar
 libelo
-librepensador
+librepensamiento
 licitación
 licitador, licitante
 licitar
@@ -4255,7 +4254,7 @@ viso
 visón
 vitalicio
 viticultor, viñatero, viñero
-viticultura
+viticultura, vitivinicultura
 vítor
 vitorear
 vitriolo
