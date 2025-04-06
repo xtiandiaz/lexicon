@@ -1,5 +1,3 @@
-Mirage
-Dopey
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -137,6 +135,7 @@ distraught
 doddery
 dogma
 doleful
+dopey
 downcast
 downshift
 dread
@@ -301,6 +300,7 @@ mar
 maraud
 marauding
 mawkish
+mirage
 mire
 mirth
 mirthless
@@ -367,8 +367,8 @@ plead
 plinth
 polecat, skunk
 polycarbonate; #chem
-polyethylene; #chem
 polyethylene terephthalate, PET; #chem
+polyethylene; #chem
 polypropylene; #chem
 pompous 
 portly
