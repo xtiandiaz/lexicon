@@ -1,3 +1,79 @@
+Cardamomo; #plant
+Correlimos; #bird
+Ecografía
+Tomografía
+Sumun, summum
+Ringlete, molinillo, molinete
+Comezón
+Atrio
+Zaguán
+Declive
+Insensatez
+Prejuicio
+Insta
+Herético
+indulgencia
+Hipótesis
+Ídolo
+Cizaña; #plant 
+Disertar
+Espejismo
+Inflación; #econ
+Ristra
+Coloquio
+Asintótico
+Púlsar; #astro
+Charlatanería
+Ahorrativo
+Sanguijuela
+Corolario
+Antitético
+Demasía
+Cercenar
+Venéreo
+Inamovible
+Bodoque
+Extemporáneo
+Apósito
+Arreciar
+Micción
+Reposo
+Alquimia
+Parapsicología
+Basalto
+Ginseng; #plant
+Peyote; #plant
+Yermas
+Viruela
+Altozano
+Desmentir
+Bulo
+Prescribir
+Lucro
+Esperma
+Abducir
+Abducción
+Proposición
+Pérgola
+Viga
+Acuñar
+Aguijonear
+Preconizar
+Irrecusable
+Recusar
+Morro
+Pícaro
+Interludio
+Tribulación
+Hilar
+Cerealogía
+Ocultismo
+Pictograma
+Argüir
+Conminar
+Eclipsar
+Deslucir
+Espinazo
 abad
 abalorio
 abanicar
@@ -629,7 +705,7 @@ baquelita
 baqueta
 baqueteado
 baquiano, baqueano
-barahúnda
+barahúnda, baraúnda
 baraja
 baratear
 bárbaro
@@ -1204,7 +1280,7 @@ concurrir
 condicionamiento
 condicionar
 condonar
-condropatía, condromalacia
+condropatía, condromalacia; #med
 condroplastia
 conducente
 conectador
@@ -1598,7 +1674,7 @@ dialecto
 diametral, diamétrico
 diana
 diapasón
-diástole
+diástole; #physio
 diatomea
 diatomita
 diatriba
@@ -1915,7 +1991,6 @@ escaparate
 escaque
 escaramuza
 escarbadientes
-escarcela
 escarcha, carama
 escarchado
 escarchar
@@ -3418,7 +3493,7 @@ polemista
 polemizar
 poleo
 policroma
-poliestireno
+poliestireno; #chem
 polifacético
 polio, poliomielitis; #med
 pólipo
@@ -3930,8 +4005,7 @@ sintiencia, sentiencia
 sirga
 sisear
 sistemático
-sístole
-so
+sístole; #physio
 sobaco
 sobado
 sobaquina
