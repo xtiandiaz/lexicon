@@ -1,3 +1,53 @@
+Mequetrefe
+Parótida; #anat
+Ganglio; #anat 
+Glándula; #anat #bot
+Amígdala; #anat 
+Empuñadura
+Escalpelo
+Aberración
+Desgana, desgano
+Inapetencia
+Desganar
+Atinar
+Puntería
+Apuntar
+Tropopausa; #meteor
+Troposfera, tropósfera; #meteor
+Homosfera, homósfera; #meteor
+Estratosfera, estratósfera; #meteor
+Mesosfera, mesósfera; #meteor
+Refrán
+Latitud
+Paralelo
+Meridiano
+Pagoda
+Mástil
+Clúster
+Papiro; #plant
+Boicotear
+Boicot
+Ufología
+Paranoia
+Paranoico
+Bono
+Portavoz
+Contundente
+Sacrilegio
+Burdo
+Lexicografía
+Cápsula
+Honrar
+Infortunio
+Loma
+Macerar
+Láudano
+Cristalizar
+Menopausia
+Caléndula; #plant 
+Árnica; #plant 
+Ojeroso
+Convaleciente
 abad
 abalorio
 abanicar
@@ -150,7 +200,7 @@ agarrotar
 agasajar
 ágata
 agave, pita, maguey; #plant
-agazapado
+agazapado, hipócrita
 agazapar
 aglomeración
 aglomerar
@@ -657,7 +707,7 @@ baremar
 baremo
 bareta
 barniz
-barnizar
+barnizar, embarnizar
 barrabás
 barrabasada
 barraca
@@ -1234,7 +1284,7 @@ condonar
 condropatía, condromalacia; #med
 condroplastia
 conducente
-conectador
+conectador, enchufe
 confeti
 confín
 confinar
@@ -1304,7 +1354,7 @@ contraincendios
 contraintuitivo
 contraloría
 contraofensiva
-contrapelo
+contrapelo, "a contrapelo"
 contraprestación
 contrapropuesta, contraproposición
 contrapunto
@@ -2265,7 +2315,7 @@ fragata
 fragor
 fragua
 fraguar
-frailecillo
+frailecillo; #bird
 francote
 franja
 franquear
@@ -2293,7 +2343,7 @@ frugal
 fruición
 fruncir
 fruslería
-fuelles
+fuelle
 fuero
 fugacidad
 fugaz
@@ -4477,7 +4527,7 @@ vivificante
 vivificar
 vociferar
 vociferar
-volandas
+volandas, "en volandas"
 volantazo
 volante
 volátil
