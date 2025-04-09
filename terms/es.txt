@@ -1041,7 +1041,6 @@ chapurrear, chapurrar
 chapuza
 charlatán
 charlatanería
-charnela
 charol
 charola, charol
 chascar, chasquear
@@ -1734,7 +1733,7 @@ duermevela
 dulzón
 dulzor
 duplicidad
-ébano
+ébano; #plant
 ebonita, vulcanita
 eccema, eczema
 eclampsia
@@ -3161,8 +3160,8 @@ nepotismo
 ñeque
 neumología
 neumonía, pulmonía; #med
-neurastenia
-neurasténico
+neurastenia, neurosis; #med
+neurasténico; #med
 neurocepción
 nexo
 nigiri
