@@ -1,16 +1,6 @@
-Hilt
-Meridian
-Impiety
-Lumpy
-Mast
-Amenable
-Cluster
-Cruciferous
-Zest
-Droll
 abridge
 acronym
-acrylonitrile-butadiene-styrene, ABS; #chem
+acrylonitrile-butadiene-styrene, abs; #chem
 acumen
 addle
 adherent
@@ -21,6 +11,7 @@ allegory
 aloof
 aluminum
 amalgam
+amenable
 amphitheater
 anathema
 anhedonia
@@ -92,6 +83,7 @@ clammy
 clank
 clog
 cluck
+cluster
 clutch
 cockeyed
 coercion
@@ -112,6 +104,7 @@ croak
 crossbow
 crossly
 crossroads
+cruciferous
 cul-de-sac, dead end
 cumulative
 cur
@@ -151,6 +144,7 @@ downshift
 dread
 dregs
 drizzle
+droll
 dumbfound
 dung
 dysfunction
@@ -248,6 +242,7 @@ heave
 herald
 herring
 high-minded
+hilt
 hitherto
 hoarse
 hoist
@@ -266,6 +261,7 @@ iconoclastic
 idol
 ill-defined
 impervious
+impiety
 impostor, imposter
 inculcate
 incumbent
@@ -309,7 +305,9 @@ mangy
 mar
 maraud
 marauding
+mast
 mawkish
+meridian
 mirage
 mire
 mirth
@@ -377,7 +375,7 @@ plead
 plinth
 polecat, skunk
 polycarbonate; #chem
-polyethylene terephthalate, PET; #chem
+polyethylene terephthalate, pet; #chem
 polyethylene; #chem
 polypropylene; #chem
 pompous 
@@ -582,3 +580,4 @@ writhing
 wry
 yank
 yonder
+zest

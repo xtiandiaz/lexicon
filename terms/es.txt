@@ -1,53 +1,3 @@
-Mequetrefe
-Parótida; #anat
-Ganglio; #anat 
-Glándula; #anat #bot
-Amígdala; #anat 
-Empuñadura
-Escalpelo
-Aberración
-Desgana, desgano
-Inapetencia
-Desganar
-Atinar
-Puntería
-Apuntar
-Tropopausa; #meteor
-Troposfera, tropósfera; #meteor
-Homosfera, homósfera; #meteor
-Estratosfera, estratósfera; #meteor
-Mesosfera, mesósfera; #meteor
-Refrán
-Latitud
-Paralelo
-Meridiano
-Pagoda
-Mástil
-Clúster
-Papiro; #plant
-Boicotear
-Boicot
-Ufología
-Paranoia
-Paranoico
-Bono
-Portavoz
-Contundente
-Sacrilegio
-Burdo
-Lexicografía
-Cápsula
-Honrar
-Infortunio
-Loma
-Macerar
-Láudano
-Cristalizar
-Menopausia
-Caléndula; #plant 
-Árnica; #plant 
-Ojeroso
-Convaleciente
 abad
 abalorio
 abanicar
@@ -62,6 +12,7 @@ abdicar
 abducción
 abducir
 abedul; #plant
+aberración
 aberrante
 abeto, pinabete, sapino; #plant
 abigarrado
@@ -145,6 +96,7 @@ acuciante
 acucioso
 acuclillarse, encuclillarse
 acudir
+acúmulo
 acunar
 acuñar
 acurrucarse
@@ -350,6 +302,7 @@ ambiguo
 ambivalente
 ameritar
 ametrallar
+amígdala; #anat
 amigote
 amilanar
 aminorar
@@ -468,6 +421,7 @@ apretujar
 aprisa, deprisa
 aprovisionar
 apuntalamiento
+apuntar
 aquiescencia
 aquilino
 arado
@@ -496,6 +450,7 @@ armazón
 armiño
 armisticio
 árnica
+árnica; #plant 
 arpillera, harpillera
 arpón
 arquetipo
@@ -587,6 +542,7 @@ atenuante
 atesorar
 atestar
 atestiguar
+atinar
 atípico
 atiplado
 atisbar
@@ -799,12 +755,15 @@ bofe
 bofetada
 bofetón
 bofia
+boicot, boicoteo
+boicotear
 boina
 bolsón
 bonachón
 bonanza
 bonanza
 bondiola
+bono
 boquear
 boquerón
 boquiabierto
@@ -855,6 +814,7 @@ bulo
 bulto
 bungaló
 buqué
+burdo
 burka
 burlete
 burlón
@@ -891,6 +851,7 @@ calcar
 caldear
 caldo
 caleidoscopio, calidoscopio
+caléndula; #plant 
 calibrador
 caliche
 calima, calina
@@ -949,6 +910,7 @@ capota
 capote
 capricho
 caprichoso
+cápsula
 captar
 captor
 capucha
@@ -1187,6 +1149,7 @@ clisé, cliché
 cloquear, clocar
 cloqueo
 clueca
+clúster
 coacción
 coagulante
 coagular
@@ -1363,9 +1326,11 @@ contraventor
 contrición
 controversia
 contubernio
+contundente
 conturbar
 convalecencia
 convalecer
+convaleciente
 convenir
 conventillo
 convento
@@ -1441,10 +1406,11 @@ cripta
 crisantemo; #planta
 crisol
 crispar
+cristalizar
 cristaloide
 criterio
 cronología
-crucífero
+crucíferas; #bot
 cruento
 crujido
 crupier
@@ -1597,6 +1563,8 @@ desfallecimiento
 desfibrilación
 desfibrilador
 desgajar
+desgana, desgano
+desganar
 desgarbado
 desgarbado
 desgarradura
@@ -1863,6 +1831,7 @@ empírico
 emplazamiento
 emplazar
 empollar
+empuñadura
 emulsión
 enagua
 enajenar
@@ -1992,6 +1961,7 @@ escabullir
 escalafón
 escalfar
 escalinata
+escalpelo
 escamotear
 escamotear
 escanciar
@@ -2124,6 +2094,7 @@ estratagema
 estratega, estratego, táctico
 estrato
 estratosfera
+estratosfera, estratósfera; #meteor
 estratosfera, estratósfera; #meteor
 estratosférico; #meteor
 estremecer
@@ -2371,6 +2342,7 @@ galpón
 gama
 gambito
 gamuza
+ganglio; #anat
 gangrena
 gánster
 garata
@@ -2413,6 +2385,7 @@ glaciación
 glaciar
 gladiolo, gladíolo, gladiola; #plant
 glamur
+glándula; #anat #bot
 glaucoma
 gloriar
 glosa
@@ -2570,6 +2543,8 @@ homeostasis; #bio
 homilía
 homogeneizar
 homónimo
+homosfera, homósfera; #meteor
+honrar
 horca
 horda
 horma
@@ -2657,6 +2632,7 @@ inamovible
 inamovible
 inane
 inanición
+inapetencia
 inapreciable
 inarmónico
 inasequible
@@ -2879,7 +2855,9 @@ lapso
 larguirucho
 lasitud
 lastrar
+latitud; #geogr
 laudable
+láudano
 lavabo
 laxante
 laxar
@@ -2905,6 +2883,7 @@ leudante, levadura
 leudar
 leva
 léxico
+lexicografía
 liana
 liar
 libelo
@@ -2948,10 +2927,12 @@ lobotomía
 lóbrego
 locuaz
 lodazal, lodazar
+loma
 lona
 lonchera
 longevidad
 longevo
+longitud; #geogr
 longitudinal
 lori
 loto; #plant [wk:nelumbo_nucifera]
@@ -2975,6 +2956,7 @@ lustrina
 lustro
 luxación
 macana
+macerar
 macramé
 macrófago
 mácula
@@ -3083,22 +3065,26 @@ menguante
 menguar
 meñique
 menisco
+menopausia
 menoscabar
 ménsula
 mentecato
 mentirijillas
 menudo
 meollo
+mequetrefe, fantoche, mamarracho
 mercader
 merced
 mercería
 merengue
 meretriz
 meretriz
+meridiano; #geogr
 meridión
 meridional
 merino
 mesomorfo
+mesosfera, mesósfera; #meteor
 mesura
 metabolismo
 metafísica
@@ -3221,6 +3207,7 @@ nimio
 ninfa
 ninfomanía
 níveo
+nódulo
 nonato
 ñoño
 noquear
@@ -3252,6 +3239,7 @@ ofensiva
 ofuscación
 ofuscar
 ojeriza
+ojeroso
 oligarquía
 olisquear
 olleta
@@ -3318,6 +3306,7 @@ pachuco
 pachulí
 padecer
 pagano
+pagoda
 pajarilla
 pajarón
 paladear
@@ -3346,12 +3335,16 @@ panteón
 papamoscas; #bird
 papanatas, paparote
 papera
+papiro; #plant
 paquidermo
 parábola; #geom
 paradoja
 paralelepípedo; #geom
+paralelo; #geogr
 paralelogramo, paralelógramo
 paramnesia; #med
+paranoia
+paranoico
 parapetar
 parapeto
 parapléjico
@@ -3370,6 +3363,7 @@ parlar
 parlotear
 parloteo
 parodia
+parótida; #anat
 paroxismo
 parra, vid; #plant
 parsimonia
@@ -3552,6 +3546,7 @@ porra
 porrada
 porrazo
 portamaletas
+portavoz
 portazo
 portentoso, prodigioso
 portillo
@@ -3679,6 +3674,7 @@ pulular
 pulverizador
 punible
 puntal
+puntería
 puntiagudo
 puntilloso
 punzante
@@ -3779,6 +3775,7 @@ refacción
 refilar
 refilón
 reflujo
+refrán
 refranero
 refrigerio
 refugio
@@ -3935,6 +3932,7 @@ sabedor
 sabotaje
 sacarina
 saciedad
+sacrilegio
 sacro
 sadismo
 saeta
@@ -4359,6 +4357,8 @@ trole
 tromba
 trompicón, tropezón, tropiezo
 troncho
+tropopausa; #meteor
+troposfera, tropósfera; #meteor
 troquel
 trote
 trova
@@ -4385,6 +4385,7 @@ turulato
 tweed
 ufanarse
 ufano
+ufología
 úlcera
 ulterior
 ultimátum
