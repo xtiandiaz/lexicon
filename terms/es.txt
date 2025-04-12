@@ -2545,7 +2545,7 @@ holístico
 hollar
 hollín, tizne
 hombruno
-homeostasis; #bio
+homeostasis; #biol
 homilía
 homogeneizar
 homónimo
@@ -2656,8 +2656,7 @@ inciso
 inclemencia
 inclemente
 incoercible
-incólume
-incólume
+incólume, indemne
 inconciliable
 inconexo
 inconmensurable
@@ -4053,7 +4052,7 @@ sigilo
 silabario
 sílex, pedernal
 silo
-simbiosis
+simbiosis; #biol
 simiesco
 símil
 simpático
