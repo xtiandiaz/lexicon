@@ -1,17 +1,3 @@
-Extracto
-Delirante
-Delirio
-Aquelarre
-Raciocinar
-Fotogénico
-Prefecto
-Pabellón
-Arcilla
-Extravagancia
-Prefectura
-Merienda
-Yunque
-metralla
 abad
 abalorio
 abanicar
@@ -436,6 +422,7 @@ aprisa, deprisa
 aprovisionar
 apuntalamiento
 apuntar
+aquelarre
 aquiescencia, consentimiento, asenso
 aquilino
 arado
@@ -449,6 +436,7 @@ arcada
 arcaico
 arce; #plant
 arcén
+arcilla
 ardid, astucia
 arduo
 arenga
@@ -1505,6 +1493,8 @@ deleitante
 deliberar
 delictivo
 delincuente
+delirante
+delirio
 delirio
 demacración
 demacrado
@@ -1630,6 +1620,7 @@ despotismo
 despotricar
 despreciativo
 desprofecionalizar
+despropósito
 desprovisto
 desquiciar
 destartalado
@@ -2176,6 +2167,7 @@ extemporáneo
 extenuado
 extenuar
 extirpar
+extracto
 extrañeza
 extranjerismo
 extravagancia
@@ -2299,6 +2291,7 @@ forzudo
 fosa
 fosilizar
 foso
+fotogénico
 fragata
 fragor
 fragua
@@ -3106,6 +3099,7 @@ meretriz
 meridiano; #geogr
 meridión
 meridional
+merienda
 merino
 mesomorfo
 mesosfera, mesósfera; #meteor
@@ -3118,6 +3112,7 @@ metamorfosear
 metástasis
 metedura
 meticuloso
+metralla
 mezcal; #plant
 mezquindad
 mezquino
@@ -3324,6 +3319,7 @@ overol
 ovillo
 ovni
 ovoide, aovado
+pabellón
 paca
 pacato
 pacer
@@ -3604,6 +3600,8 @@ prédica
 predisponer
 predisposición
 prefabricar
+prefecto
+prefectura
 prejuicio
 preliminar
 preludio
@@ -3664,6 +3662,7 @@ prontuario
 propaganda
 propenso
 proposición
+propósito
 propugnar
 prorratear 
 prórroga
@@ -3732,6 +3731,7 @@ quórum, cuórum
 rabieta
 rabillo
 racha
+raciocinar, razonar
 racionalizar
 racionar
 radical
@@ -4589,6 +4589,7 @@ yogui
 yonqui
 yóquey, jockey, yoqui
 yugo
+yunque
 yunta
 yute
 yuxtaponer
