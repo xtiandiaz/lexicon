@@ -1,11 +1,3 @@
-Cautín
-Gratín, gratén
-Gratinar
-Hipotálamo; #anat
-Pituitario; #anat 
-Pituita
-(Aquiescencia), consentimiento, asenso
-(Amígdala), tonsila
 abad
 abalorio
 abanicar
@@ -310,7 +302,7 @@ ambiguo
 ambivalente
 ameritar
 ametrallar
-amígdala; #anat
+amígdala, tonsila; #anat
 amigote
 amilanar
 aminorar
@@ -430,7 +422,7 @@ aprisa, deprisa
 aprovisionar
 apuntalamiento
 apuntar
-aquiescencia
+aquiescencia, consentimiento, asenso
 aquilino
 arado
 arándano, mortiño, anavia; #plant
@@ -594,6 +586,7 @@ autógeno
 autogiro
 autopsia
 aval
+avalúo
 avante
 avasallar
 avefría
@@ -999,6 +992,7 @@ cautela
 cauteloso
 cauterio
 cauterizar
+cautín
 cauto, cauteloso
 cavernario
 caviar
@@ -1209,7 +1203,7 @@ colosal
 coloso
 columnista
 colutorio
-colza
+colza; #plant
 comadrón
 comandita
 comedido
@@ -1229,6 +1223,7 @@ cómplice
 complicidad
 complot
 compostura
+compresivo
 compunción
 compungido
 coñac, coñá
@@ -1336,6 +1331,7 @@ controversia
 contubernio
 contundente
 conturbar
+contusionar, magullar
 convalecencia
 convalecer
 convaleciente
@@ -2429,6 +2425,8 @@ grandilocuencia
 grandilocuente
 granel
 granulado, granuloso, granular
+gratín, gratén
+gratinar
 grava
 gravoso
 graznar
@@ -2531,7 +2529,7 @@ hipocondría; #med
 hipocondriaco, hipocondríaco; #med
 hipodérmico
 hipódromo
-hipotálamo
+hipotálamo; #anat
 hipótesis
 hiriente
 hirsuto
@@ -2652,6 +2650,7 @@ incendiario
 incesante
 incidental
 incienso
+incisión
 incisivo
 inciso
 inclemencia
@@ -2786,6 +2785,7 @@ interponer
 intersticio
 interventoría
 intransigencia
+intransigencia
 intrascendente, intranscendente
 intrépido
 intrínseco
@@ -2880,6 +2880,7 @@ lémur
 lentificar
 leonino
 leotardo
+lesión
 lesivo
 leso
 letanía
@@ -2973,7 +2974,8 @@ madeja
 madona
 magnetófono, magnetofón
 magullado
-magulladura, contusión, magullamiento
+magulladura, magullamiento, contusión
+magullar, contusionar
 majadero
 maki
 malabar
@@ -3054,6 +3056,7 @@ médula
 megáfono
 megalito
 mejorana; #plant [wk:origanum_majorana]
+melado
 melao
 melaza
 melena
@@ -3295,6 +3298,7 @@ oscilante
 ostensible
 ostentación
 ostentar
+osteopatía; #med
 ostión
 ostracismo
 otear
@@ -3344,7 +3348,7 @@ papamoscas; #bird
 papanatas, paparote
 papera
 papiro; #plant
-paquidermo
+paquidermo; #zool
 parábola; #geom
 paradoja
 paralelepípedo; #geom
@@ -3375,6 +3379,7 @@ parótida; #anat
 paroxismo
 parra, vid; #plant
 parsimonia
+parsimonioso
 particularizar
 partida
 partitura
@@ -3499,6 +3504,8 @@ pistón
 pita
 pitón
 pituco
+pituita
+pituitario; #anat 
 pivote
 pizarra
 pizarrín
@@ -3882,6 +3889,7 @@ retraimiento
 retribuir
 retroceso
 retrógrado
+retrospección
 retrovisor
 retumbante
 retumbar

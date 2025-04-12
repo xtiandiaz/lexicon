@@ -1,9 +1,3 @@
-Graten
-Sprig
-Rennet
-Schematic
-Spirited
-Peck
 abridge
 acronym
 acrylonitrile-butadiene-styrene, abs; #chem
@@ -232,6 +226,7 @@ goblet
 goblin
 gourd
 graphology
+graten
 graze
 gregarious
 grim
@@ -362,6 +357,7 @@ palmistry
 pastiche
 pasty
 pebble
+peck
 peddle
 pep
 perpetrate
@@ -413,6 +409,7 @@ refundir
 regress
 rehash
 relic
+rennet
 repudiate
 reskill
 retrace
@@ -428,6 +425,7 @@ sallow
 savvy
 scalding
 scarce
+schematic
 scoff
 scold
 scoot
@@ -474,6 +472,7 @@ spartan
 specter, spectre
 spellbound
 spindly
+spirited
 spit
 spleen
 splint
@@ -482,6 +481,7 @@ splutter
 spool
 spotlight
 sprawl
+sprig
 squabble
 squeal
 squeeze
