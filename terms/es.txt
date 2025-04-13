@@ -2242,7 +2242,7 @@ figuración
 figurar
 figurín
 figurón
-filaforme
+filiforme
 filamento
 filiación
 filial
@@ -3434,7 +3434,7 @@ pelma
 peltre
 penacho
 penca
-península
+península, penisla, quersoneso
 pensamiento; #plant
 penuria
 péptido; #chem
@@ -3821,7 +3821,7 @@ regocijo
 regurgitar
 rehogar, sofreír, saltear
 rehuir
-reincidir
+reincidir, recaer
 reivindicar
 rejado, verja
 relato
