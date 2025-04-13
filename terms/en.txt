@@ -1,10 +1,6 @@
-Libel
-Strain
-Waiver
-Hefty
 abridge
 acronym
-acrylonitrile-butadiene-styrene, abs; #chem
+acrylonitrile-butadiene-styrene, ABS; #chem
 acumen
 addle
 adherent
@@ -244,6 +240,7 @@ haughty
 havoc
 heartwarming
 heave
+hefty
 herald
 herring
 high-minded
@@ -292,6 +289,7 @@ lassitude
 leer
 levity
 liaison
+libel
 litigation
 lofty
 loom
@@ -502,6 +500,7 @@ stealth
 steed
 sterling
 stoop
+strain
 streamline
 stretcher
 strewn
@@ -568,6 +567,7 @@ vindictive
 virtuoso
 vitriolic
 wailing
+waiver
 wallow
 wangle 
 warfare
