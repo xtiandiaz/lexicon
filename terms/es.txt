@@ -1,3 +1,24 @@
+Fatuo
+Libélula
+Difamación
+Empeine
+Pantorrilla
+Espinilla
+Croissant
+Refractario
+Exonerar
+Mero; #fish
+Mentar
+Afectado
+Afectación
+Anteojeras
+Canelón
+Vanidad
+Prisma; #geom
+Prismático
+Glicerina
+Perspicacia
+Picotear
 abad
 abalorio
 abanicar
@@ -723,7 +744,7 @@ bife
 bifurcar
 bilirrubina
 binario
-bioma
+bioma; #biol
 biomarcador
 biorritmo
 biosfera
@@ -737,7 +758,7 @@ bizcocho
 blando
 blasfemar
 blazer
-bledo
+bledo; #plant
 blíster
 bluf
 bobalicón
@@ -1172,7 +1193,7 @@ codicia
 coercer
 coerción
 coetáneo
-cofia 
+cofia
 cofradía
 cofradía
 cogote
@@ -2036,7 +2057,6 @@ espectro
 especulación
 especular
 especulativo
-espejismo
 espejismo
 esperable
 esperma
@@ -3599,7 +3619,7 @@ precoz
 prédica
 predisponer
 predisposición
-prefabricar
+prefabricado
 prefecto
 prefectura
 prejuicio
@@ -4450,7 +4470,7 @@ valedero
 valía
 valija
 valquiria, valkiria, walkiria
-vanagloriar
+vanagloriarse
 vándalo
 vanguardia
 vapeador
