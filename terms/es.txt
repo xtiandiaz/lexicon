@@ -1,5 +1,3 @@
-matoneo
-espóiler
 abad
 abalorio
 abanicar
@@ -298,10 +296,12 @@ alzar
 amainar
 amalgama
 amamantar
+amapola; #plant
 amarillismo
 amartillar
 amasijo
 ámbar
+ambigüedad
 ambiguo
 ambivalente
 ameritar
@@ -667,6 +667,8 @@ barbecho
 barbilampiño
 barbitúrico
 barcaza
+barda
+bardal; #plant
 baremar
 baremo
 bareta
@@ -676,6 +678,7 @@ barrabás
 barrabasada
 barraca
 barracón
+barranco
 barrancolí; #bird [wk:todus_subulatus]
 barrena
 barreño
@@ -795,6 +798,7 @@ bribón
 brida
 brigada
 brigadista
+brillantez
 brillantina
 brindis
 brío
@@ -880,6 +884,7 @@ camillero
 caminador, andador, andadera
 caminadora
 camisón
+camorra
 campamento
 campanario
 campanilla
@@ -891,6 +896,7 @@ camuflar
 canalizar
 canalla
 cancela
+cancerbero
 candelabro
 cándido
 canelón
@@ -1051,6 +1057,7 @@ chabacano
 chabola, chavola
 chacal
 chafarrinada, chafarrinón
+chafarrinar
 chamán
 chambonada
 chanchullo
@@ -1066,6 +1073,7 @@ charlatanería
 charol
 charola, charol
 chascar, chasquear
+chascarrillo
 chasco
 chasis, chasís
 chasquear
@@ -1212,6 +1220,7 @@ coloso
 columnista
 colutorio
 colza; #plant
+comadrear
 comadrón
 comandita
 comedido
@@ -1279,6 +1288,7 @@ congrio
 congruente
 conjetura
 conjeturar
+conjuntiva; #med
 conjuntivo
 conjurar
 conllevar
@@ -1392,6 +1402,7 @@ cósmico
 cosmos
 costurero
 cotejar
+cotillear
 coto
 cotorreo
 covalencia
@@ -1415,7 +1426,7 @@ cribar
 crin
 criolina
 cripta
-crisantemo; #planta
+crisantemo; #plant
 crisol
 crispar
 cristalizar
@@ -1532,6 +1543,7 @@ desalentador
 desaliñado
 desaliñar
 desaliño
+desambiguar
 desamparo
 desanudar
 desapacible
@@ -1616,6 +1628,7 @@ desparramar
 despatarrar
 despelotar
 despelote
+despeñadero
 desperdigado
 desperdigar
 despilfarro
@@ -1636,6 +1649,7 @@ desterrado
 destierro
 destituir
 destreza
+destripar
 desuncir
 desuso
 desvaído
@@ -1717,6 +1731,7 @@ dislocación, dislocadura
 dislocar
 disociación
 disociar
+disolvente
 disonancia
 disonante
 disonar
@@ -1981,7 +1996,6 @@ escalfar
 escalinata
 escalpelo
 escamotear
-escamotear
 escanciar
 escandalizar
 escándalo
@@ -2059,6 +2073,7 @@ espionaje
 espirar
 esplendor
 espliego, lavanda, lavándula; #plant
+espóiler
 espolear
 esponjosidad
 espontáneo
@@ -2159,6 +2174,7 @@ exiliado
 exiliar
 exilio
 éxodo
+exógeno
 exonerar
 expansivo
 expatriado
@@ -2415,6 +2431,7 @@ glosar
 gluten
 golfo
 golondrina
+goloso
 goloso
 golpeteo
 golpista
@@ -2797,6 +2814,7 @@ interceder
 interino
 interlocutor
 interludio
+internado
 interpelación
 interpelar
 interponer
@@ -2877,6 +2895,7 @@ languidecer
 lánguido
 lantana
 lanza
+lapídeo
 lapso
 larguirucho
 lasitud
@@ -3057,6 +3076,7 @@ matarratas, raticida
 matiz
 matizar
 matón
+matoneo
 matricaria, artemisa; #plant
 matrioshka, matrioska
 matriz
@@ -3318,6 +3338,7 @@ ortodoxo
 orzuelo
 osamenta, osatura
 oscilante
+ósmosis, osmosis; #phys
 ostensible
 ostentación
 ostentar
@@ -3392,6 +3413,7 @@ pardo
 parduzco, pardusco
 parecer
 parentela
+pargo; #fish
 paria
 parietal
 paripé
@@ -3704,7 +3726,7 @@ psicótico, sicótico
 psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
-pterigio, pterigión
+pterigión, terigión, pterigio, terigio; #med
 pudor
 pueril
 puesta
@@ -3770,7 +3792,7 @@ rampante
 rampante
 rancidez
 rancio
-ranúnculo; #planta
+ranúnculo; #plant
 rape
 rapé
 rapsodia
@@ -3783,6 +3805,7 @@ rastrojera
 rastrojo, rastrojal
 ratificar
 ratonil
+rayuela, golosa
 razonar
 reaccionario
 reacio
@@ -3903,6 +3926,7 @@ resoplido
 resortera, tirador
 respingar
 respingo
+resplandor
 resquebrajar
 resquicio
 resuello
@@ -4071,7 +4095,6 @@ servilismo
 sesgar
 sesgo
 sesudo
-sesudo
 seudociencia, pseudociencia
 seudónimo, pseudónimo
 severo
@@ -4145,6 +4168,7 @@ sollozo
 solsticio
 solterón
 soluble, disoluble
+solvente
 somático
 somatizar
 sombrío
@@ -4166,7 +4190,6 @@ sortear
 sosería
 sosiego
 soslayar
-soso
 soso
 sotana
 souvenir, recuerdo
@@ -4267,7 +4290,7 @@ tejar
 tejemaneje
 tejón
 telar
-telómero
+telómero; #biol
 temible
 temperamental
 temperamento
@@ -4395,11 +4418,13 @@ triásico
 tribu
 tribulación
 trienal
+trifulca
 trinar
 trinchera
 trino
 trinquete
 tripartita
+trípode
 triza
 trocar
 troglodita
