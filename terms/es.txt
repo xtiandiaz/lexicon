@@ -1,3 +1,5 @@
+matoneo
+espóiler
 abad
 abalorio
 abanicar
@@ -2129,8 +2131,7 @@ estruendo
 estrujar
 estuario
 estupefacto, atónito
-estupor
-estupor, asombro, pasmo
+estupor; #med
 esvástica
 éter
 etéreo
@@ -3051,7 +3052,7 @@ mascullar
 masoquismo
 mástil
 mastodonte
-mastología, senología
+mastología, senología; #med
 matarratas, raticida
 matiz
 matizar
