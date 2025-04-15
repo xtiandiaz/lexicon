@@ -1,6 +1,3 @@
-Lye
-Peep
-Porgy; #fish
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -302,6 +299,7 @@ ludic
 ludicrous
 lumpy
 lurch
+lye
 magpie
 maim
 mainstream
@@ -364,6 +362,7 @@ pasty
 pebble
 peck
 peddle
+peep
 pep
 perpetrate
 persona
@@ -386,6 +385,7 @@ polyethylene terephthalate, pet; #chem
 polyethylene; #chem
 polypropylene; #chem
 pompous 
+porgy; #fish
 portly
 pothole
 pouf, pouffe
