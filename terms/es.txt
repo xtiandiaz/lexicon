@@ -1,3 +1,23 @@
+Comadrear
+Goloso
+Rayuela
+Trifulca
+Internado
+Ambigüedad
+Desambiguar
+Pargo; #fish
+Lapídeo
+Brillantez
+Conjuntiva; #med
+Resplandor
+Amapola; #plant
+cancerbero
+Trípode
+Barranco
+Barda
+Bardal
+Plantón
+Exógeno
 abad
 abalorio
 abanicar
@@ -1049,6 +1069,7 @@ chabacano
 chabola, chavola
 chacal
 chafarrinada, chafarrinón
+chafarrinar
 chamán
 chambonada
 chanchullo
@@ -3703,7 +3724,7 @@ psicótico, sicótico
 psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
-pterigio, pterigión
+pterigión, terigión, pterigio, terigio; #med
 pudor
 pueril
 puesta
@@ -4070,7 +4091,6 @@ servilismo
 sesgar
 sesgo
 sesudo
-sesudo
 seudociencia, pseudociencia
 seudónimo, pseudónimo
 severo
@@ -4165,7 +4185,6 @@ sortear
 sosería
 sosiego
 soslayar
-soso
 soso
 sotana
 souvenir, recuerdo
@@ -4266,7 +4285,7 @@ tejar
 tejemaneje
 tejón
 telar
-telómero
+telómero; #biol
 temible
 temperamental
 temperamento
