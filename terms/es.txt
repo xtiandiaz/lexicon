@@ -114,7 +114,7 @@ adobe
 adoctrinar, doctrinar
 adoquín
 adormecerse
-adormidera
+adormidera; #plant
 adormitarse
 adosado
 adosar
@@ -1552,6 +1552,7 @@ desapacible
 desapego, despego, despegamiento
 desarraigado
 desarraigar
+desarticulado
 desasir
 desasosegar
 desasosiego
@@ -2567,6 +2568,8 @@ hilván
 hincar
 hinojo; #plant
 hipérbole
+hipertrofia; #biol #med
+hipertrofiar; #biol #med
 hipnosis
 hipocondría; #med
 hipocondriaco, hipocondríaco; #med
@@ -2574,6 +2577,7 @@ hipodérmico
 hipódromo
 hipotálamo; #anat
 hipótesis
+hipotrofia; #biol #med
 hiriente
 hirsuto
 histeria, histerismo
@@ -3638,6 +3642,7 @@ potrero
 potro
 preámbulo
 prebiótico
+precaver, prevenir
 precepto
 precesión
 preconcebir
@@ -3967,6 +3972,7 @@ reverberar
 revertir
 revestimiento
 revestir
+revirar
 revolotear
 revoltijo, revoltillo
 revoltoso
