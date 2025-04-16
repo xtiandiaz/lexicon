@@ -1,11 +1,3 @@
-Hematoma
-Eutanasia
-Eugenesia
-Radiación
-Radiactividad
-Radiactivo, radioactivo
-Cabrestante, cabestrante
-Fusta
 abad
 abalorio
 abanicar
@@ -49,6 +41,7 @@ abuchear
 abucheo
 abulia
 abúlico
+abultamiento
 aburguesado
 abusón
 abyecto
@@ -851,6 +844,7 @@ cabida
 cabildo
 cabina
 cabo
+cabrestante, cabestrante
 cabriola
 cacarear
 cacerola
@@ -2162,7 +2156,9 @@ etimología
 eufonía
 euforia
 eufórico
+eugenesia; #med
 eustrés
+eutanasia; #med
 evanescente
 evanescer, evanecer
 evasiva
@@ -2374,6 +2370,7 @@ furgoneta
 furibundo
 furtivo
 fusil
+fusta
 fustigar
 fútil
 futilidad
@@ -2390,15 +2387,15 @@ gamuza
 ganglio; #anat
 gangrena
 gánster
+garabatear
+garabato
 garata
 gareta
 garfio
 garita
 garito
 garrapatear
-garabatear
 garrapato
-garabato
 garrotazo
 garrote
 gasa
@@ -2534,6 +2531,7 @@ hedor
 hegemonía
 helecho; #plant
 hematología; #med
+hematoma; #med
 hemorragia
 hemorroide
 henchir
@@ -3786,6 +3784,9 @@ racha
 raciocinar, razonar
 racionalizar
 racionar
+radiación; #phys
+radiactividad; #phys
+radiactivo, radioactivo; #phys
 radical
 radiología; #med
 radón

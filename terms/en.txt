@@ -1,4 +1,3 @@
-Diligence
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -131,6 +130,7 @@ deterrence
 devious
 dialect
 dialogic
+diligence
 dipsomania
 disempower
 disgruntled
