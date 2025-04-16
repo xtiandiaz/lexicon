@@ -1922,7 +1922,7 @@ enjambrar
 enjambre
 enjuiciador
 enjuiciar
-enjuta
+enjuta; #arch
 enjutar, enjugar
 enjuto
 enlentecer, lentificar
@@ -2387,8 +2387,10 @@ gareta
 garfio
 garita
 garito
-garrapatear, garabatear
-garrapato, garabato
+garrapatear
+garabatear
+garrapato
+garabato
 garrotazo
 garrote
 gasa
@@ -2530,7 +2532,7 @@ henchir
 hender, hendir
 hendidura, hendedura
 heno; #plant
-hepático
+hepático; #bot
 herejía
 herejía
 herético
