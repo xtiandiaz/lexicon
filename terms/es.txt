@@ -1,5 +1,21 @@
 eidetismo; #psych
 eidético; #psych #philos
+cópula; #zool
+prestatario
+redada
+fundar
+vespertino
+parásito
+amenizar
+ameno
+filodendro; #plant
+pudin, pudín
+duranta; #plant 
+jacinto; #plant 
+regatón, recatón
+emparejar
+aparejar
+rímel
 abad
 abalorio
 abanicar
@@ -139,7 +155,7 @@ afeite
 afelpado
 aferente
 afianzar
-áfido, afídido
+áfido, afídido, pulgón
 afiebrado
 afín
 afincar
@@ -297,7 +313,7 @@ alzamiento
 alzapié
 alzar
 amainar
-amalgama
+amalgama; #chem
 amamantar
 amapola; #plant
 amarillismo
@@ -691,7 +707,6 @@ barrido
 barrizal
 barrote
 barullo
-basalto
 basalto
 basculante
 bascular
@@ -1421,7 +1436,7 @@ crédulo
 crencha
 creosota
 crepitar
-crepuscular
+crepuscular; #zool
 crepúsculo
 crescendo
 cretácico, cretáceo; #geol
@@ -1888,7 +1903,7 @@ encarar
 encarecer
 encarnizamiento
 encarnizar
-encarrerar, encarrilar
+encarrilar
 encasquetar
 encauzar
 encéfalo, cerebro
@@ -1969,7 +1984,7 @@ envergadura
 enviudar
 envoltura
 enzarzar
-enzima
+enzima; #biochem
 épico
 epidemia
 epifanía
@@ -2784,6 +2799,7 @@ inmiscuir
 inmoderado
 inmolar
 inmunidad
+inmune
 inmunizar
 inmutar
 innato
@@ -2908,7 +2924,7 @@ lance
 lancero
 languidecer
 lánguido
-lantana
+lantana; #plant
 lanza
 lapídeo
 lapso
@@ -2960,7 +2976,7 @@ ligereza
 lignificar
 lignina
 lila, lilo, lilac; #plant [wk:syringa]
-límbico
+límbico; #anat
 limbo
 limerencia
 limosna
@@ -3178,6 +3194,7 @@ minucioso
 minuta
 miocardio
 miope
+miopía
 miramiento
 miriñaque, meriñaque
 misantropía
@@ -3185,7 +3202,7 @@ misántropo
 miscible, mezclable
 misionero
 misiva
-mismidad
+mismidad; #phil
 misoginia
 misticismo
 mistificar
@@ -3304,7 +3321,7 @@ oda
 odalisca
 odisea
 ofensiva
-ofuscación
+ofuscación, ofuscamiento
 ofuscar
 ojeriza
 ojeroso
@@ -3563,7 +3580,7 @@ pirólisis
 piromanía
 pirómano, piromaníaco
 pistón
-pita
+pita; #plant
 pitón
 pituco
 pituita
@@ -3978,7 +3995,6 @@ revolotear
 revoltijo, revoltillo
 revoltoso
 revulsivo
-rezagado
 rezagar
 rezongar
 rezumar
