@@ -1,3 +1,5 @@
+eidetismo; #psych
+eidético; #psych #philos
 abad
 abalorio
 abanicar
@@ -438,6 +440,7 @@ aras
 araucaria; #plant
 arbitrariedad
 arbitrario
+arbitrar
 arcada
 arcaico
 arce; #plant
@@ -1071,7 +1074,7 @@ chapulín
 chapurrear, chapurrar
 chapuza
 charlatán
-charlatanería
+charlatanería, locuacidad
 charol
 charola, charol
 chascar, chasquear
@@ -2992,7 +2995,7 @@ lonchera
 longevidad
 longevo
 longitud; #geogr
-longitudinal
+longitudinal; #psych
 lori
 loto; #plant [wk:nelumbo_nucifera]
 lozanía
@@ -3141,7 +3144,6 @@ merced
 mercería
 merengue
 meretriz
-meretriz
 meridiano; #geogr
 meridión
 meridional
@@ -3152,7 +3154,7 @@ mesomorfo
 mesosfera, mesósfera; #meteor
 mesura
 metabolismo
-metafísica
+metafísica; #philos
 metáfora
 metalurgia
 metamorfosear
@@ -3544,7 +3546,6 @@ picaporte
 pícaro
 pícea; #plant
 picotear
-pictograma
 pictograma
 picudo
 pigmentar
@@ -3993,7 +3994,7 @@ rijoso
 ringlete, molinillo, molinete
 risco
 ristra
-ristre
+ristre, 'en ristre'
 rito
 rivalidad
 rizoma
@@ -4374,7 +4375,7 @@ toldo
 tomacorriente
 tomografía
 tontina
-tópico
+tópico; #med
 topo
 tornasolado
 torno
