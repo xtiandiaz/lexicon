@@ -1,21 +1,3 @@
-eidetismo; #psych
-eidético; #psych #philos
-cópula; #zool
-prestatario
-redada
-fundar
-vespertino
-parásito
-amenizar
-ameno
-filodendro; #plant
-pudin, pudín
-duranta; #plant 
-jacinto; #plant 
-regatón, recatón
-emparejar
-aparejar
-rímel
 abad
 abalorio
 abanicar
@@ -323,6 +305,8 @@ amasijo
 ambigüedad
 ambiguo
 ambivalente
+amenizar
+ameno
 ameritar
 ametrallar
 amígdala, tonsila; #anat
@@ -409,6 +393,7 @@ apañar
 aparador
 aparatoso
 aparejar
+aparejar
 aparejo
 apatía
 apear
@@ -454,9 +439,9 @@ arándano, mortiño, anavia; #plant
 arar
 aras
 araucaria; #plant
+arbitrar
 arbitrariedad
 arbitrario
-arbitrar
 arcada
 arcaico
 arce; #plant
@@ -1381,6 +1366,7 @@ convicto
 convoy
 convulsivo
 convulso
+cópula; #zool
 coquetear
 coracero
 coraje
@@ -1804,6 +1790,7 @@ duermevela
 dulzón
 dulzor
 duplicidad
+duranta; #plant 
 ébano; #plant
 ebonita, vulcanita
 eccema, eczema
@@ -1825,6 +1812,8 @@ efluvio
 efusión
 efusividad
 efusivo
+eidético; #psych #philos
+eidetismo; #psych
 eje
 electorado
 electrocardiógrafo
@@ -1874,6 +1863,7 @@ empalagar
 empalagoso
 empalmar
 empalme
+emparejar
 emparentar
 empecinarse
 empedernido
@@ -2297,6 +2287,7 @@ filial
 filiar
 filiforme
 filigrana
+filodendro; #plant
 filología
 filosofar
 fingido
@@ -2383,6 +2374,7 @@ fulminante
 fulminar
 funda
 fundamentalismo
+fundar
 fundo
 furcia
 furgoneta
@@ -2798,8 +2790,8 @@ inminente
 inmiscuir
 inmoderado
 inmolar
-inmunidad
 inmune
+inmunidad
 inmunizar
 inmutar
 innato
@@ -2878,6 +2870,7 @@ irrumpir
 irrupción
 isótopo
 itinerario
+jacinto; #plant 
 jactancia
 jactancioso
 jactar
@@ -3439,6 +3432,7 @@ parapeto
 parapléjico
 parapsicología, parasicología
 parasimpático
+parásito
 parco
 pardo
 parduzco, pardusco
@@ -3692,6 +3686,7 @@ presbicia
 prescindir
 prescribir
 presidiario
+prestatario
 presteza
 prestigio
 presumible
@@ -3758,6 +3753,7 @@ psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
 pterigión, terigión, pterigio, terigio; #med
+pudin, pudín
 pudor
 pueril
 puesta
@@ -3873,6 +3869,7 @@ recriminar
 recular
 recusable
 recusar
+redada
 redimir
 redoble
 reductible, reducible
@@ -3889,6 +3886,7 @@ refunfuñar
 regata
 regatear, recatear
 regateo
+regatón, recatón
 regazo
 regentar
 regidor
@@ -4007,6 +4005,7 @@ ridiculizar
 rigidez
 riguroso
 rijoso
+rímel
 ringlete, molinillo, molinete
 risco
 ristra
@@ -4583,6 +4582,7 @@ versado
 vertiginoso
 vesania
 vesícula
+vespertino
 vestíbulo
 vestigio
 veta

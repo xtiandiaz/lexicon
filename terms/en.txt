@@ -132,6 +132,7 @@ dialect
 dialogic
 diligence
 dipsomania
+dirge
 disempower
 disgruntled
 disquiet
