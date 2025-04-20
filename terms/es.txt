@@ -1,3 +1,91 @@
+Tabulé; #food
+Pernicioso
+Maledicencia
+Bajeza
+Modestia
+Manía; #psych
+excéntrico
+Prever
+Atolondramiento
+Atribular
+Catarro
+Ganado
+Colmena
+Conglomerado
+Malhadado
+Psicoanálisis, sicoanálisis
+Chifladura
+Renombre
+Entablillar
+Alegato
+Dicharachero
+Malograr
+Estribar
+Ajetreo
+Portentoso
+Enrevesado
+Herrar
+Hervidero
+Férreo
+Viril
+Vuelco
+Avidez
+Buchón
+Pichón
+Pandemonio, pandemónium
+Mucamo
+Patológico
+Árido
+Palco
+Pernicioso
+Biombo
+Aducir
+Puerilidad
+Demudar
+malevolencia
+Alelado
+Aniquilar
+Cafetín
+Acorazado
+fantasmagoría
+irresolución
+Sorna
+Subterfugio
+Hipotético
+Escurridizo
+Censo
+Insolencia
+Malignidad
+Purista
+Galicismo
+Antiembólico
+Grafología
+Inducción
+Deducción
+Estatuto
+Dictaminar
+Bordillo
+Sardinel
+Presunto
+Salvamento
+Innoble
+Vano
+Boquilla
+Agravante
+Viveza
+Arpía, harpía
+Execrable
+Zonzo
+Guiñapo
+Rehusar
+Voluptuosidad
+Pampero
+Furor
+Loza
+Utopía
+Distopía
+Artrosis; #med
+vesícula
 abad
 abalorio
 abanicar
@@ -461,7 +549,6 @@ armatoste
 armazón
 armiño
 armisticio
-árnica
 árnica; #plant 
 arpillera, harpillera
 arpón
@@ -507,7 +594,7 @@ ascético
 ascetismo
 ascua
 asechanza
-asediar, cercar, sitiar
+asediar
 aséptico
 asequible
 aserrar, serrar
@@ -2156,7 +2243,7 @@ estropicio
 estruendo
 estrujar
 estuario
-estupefacto, atónito
+estupefacto
 estupor; #med
 esvástica
 éter
@@ -4009,7 +4096,7 @@ rímel
 ringlete, molinillo, molinete
 risco
 ristra
-ristre, 'en ristre'
+ristre
 rito
 rivalidad
 rizoma
