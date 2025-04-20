@@ -1,91 +1,3 @@
-Tabulé; #food
-Pernicioso
-Maledicencia
-Bajeza
-Modestia
-Manía; #psych
-excéntrico
-Prever
-Atolondramiento
-Atribular
-Catarro
-Ganado
-Colmena
-Conglomerado
-Malhadado
-Psicoanálisis, sicoanálisis
-Chifladura
-Renombre
-Entablillar
-Alegato
-Dicharachero
-Malograr
-Estribar
-Ajetreo
-Portentoso
-Enrevesado
-Herrar
-Hervidero
-Férreo
-Viril
-Vuelco
-Avidez
-Buchón
-Pichón
-Pandemonio, pandemónium
-Mucamo
-Patológico
-Árido
-Palco
-Pernicioso
-Biombo
-Aducir
-Puerilidad
-Demudar
-malevolencia
-Alelado
-Aniquilar
-Cafetín
-Acorazado
-fantasmagoría
-irresolución
-Sorna
-Subterfugio
-Hipotético
-Escurridizo
-Censo
-Insolencia
-Malignidad
-Purista
-Galicismo
-Antiembólico
-Grafología
-Inducción
-Deducción
-Estatuto
-Dictaminar
-Bordillo
-Sardinel
-Presunto
-Salvamento
-Innoble
-Vano
-Boquilla
-Agravante
-Viveza
-Arpía, harpía
-Execrable
-Zonzo
-Guiñapo
-Rehusar
-Voluptuosidad
-Pampero
-Furor
-Loza
-Utopía
-Distopía
-Artrosis; #med
-vesícula
 abad
 abalorio
 abanicar
@@ -172,6 +84,7 @@ acopio
 acoplado
 acoplar
 acople, acoplador, acoplamiento
+acorazado
 acorchar
 acorde
 acordonar
@@ -210,6 +123,7 @@ adrede
 adrenalina, epinefrina; #physiol #med
 adscribir
 adscrito
+aducir
 adulador
 adulón
 aeródromo
@@ -247,6 +161,8 @@ agazapado, hipócrita
 agazapar
 aglomeración
 aglomerar
+aglutinante; #med
+aglutinar
 agnóstico
 agobiar
 agobio
@@ -255,6 +171,7 @@ agonía
 agorafobia
 agraciado
 agravado
+agravante
 agravar
 agraviante
 agraviar
@@ -315,8 +232,9 @@ alebrije
 aleccionador
 aleccionar
 aledaño
+alegato
 alegoría
-alelado, lelo
+alelado
 alentador
 alerce, lárice
 alérgeno
@@ -441,6 +359,7 @@ animadversión
 animismo
 animosidad
 aniñado
+aniquilar
 anodino
 ánodo
 anómalo
@@ -456,6 +375,7 @@ antesala
 anticipar
 anticuerpo
 antídoto
+antiembólico; #med
 antígeno
 antioxidante
 antipatía
@@ -543,6 +463,7 @@ argamasa
 argot, jerga
 argucia
 argüir
+árido
 arista
 aristocracia
 armatoste
@@ -550,6 +471,7 @@ armazón
 armiño
 armisticio
 árnica; #plant 
+arpía, harpía
 arpillera, harpillera
 arpón
 arquetipo
@@ -586,6 +508,7 @@ artilugio
 artimaña
 artritis
 artroscopia, artroscopía
+artrosis
 artrosis
 asa
 asbesto
@@ -648,6 +571,7 @@ atisbar
 atisbo
 atolón
 atolondrado
+atolondramiento
 atomizador
 atomizar
 atontamiento
@@ -655,6 +579,7 @@ atopia
 atormentado
 atormentar
 atosigar
+atribular
 atril
 atrincherar
 atrio
@@ -729,6 +654,7 @@ badén
 bagaje
 bagatela, baratija
 bagazo
+bajeza
 bajorrelieve
 baladí
 balasto, balastro
@@ -824,6 +750,7 @@ bilirrubina
 binario
 bioma; #biol
 biomarcador
+biombo
 biorritmo
 biosfera
 bis
@@ -837,6 +764,9 @@ blando
 blasfemar
 blazer
 bledo; #plant
+blindado
+blindaje
+blindar
 blíster
 bluf
 bobalicón
@@ -869,9 +799,11 @@ bono
 boquear
 boquerón
 boquiabierto
+boquilla
 bórax
 borbotón, borbollón
 borda
+bordillo
 borrasca
 borreguil
 borreguismo
@@ -902,6 +834,7 @@ brumoso
 bruñido
 buceador
 buche, buchada
+buchón
 bucle
 bucólico
 buey
@@ -943,6 +876,7 @@ cachear
 cachivache
 cacofonía
 cadencia
+cafetín
 cajuela
 cal
 calabaza
@@ -1081,6 +1015,7 @@ catalizar
 cataplasma
 catapultar
 catarata
+catarro
 catatonia, catatonía
 catatónico
 catecismo
@@ -1125,6 +1060,7 @@ ceniciento, cenizo, cenizoso
 ceñir
 cénit, cenit, zenit
 ceño
+censo
 centellear
 centeno
 centinela
@@ -1175,6 +1111,7 @@ chaveta
 chéchere
 chícharo
 chicloso
+chifladura
 chinchar
 chinche
 chingar
@@ -1302,6 +1239,7 @@ colicero
 coligar
 colindante
 colindar
+colmena
 colmenilla
 colofón
 coloide
@@ -1373,6 +1311,7 @@ confraternidad
 confrontar
 congeniar
 congénito
+conglomerado
 conglomerar
 congoja
 congraciar
@@ -1585,6 +1524,7 @@ decrépito
 decrepitud
 decúbito
 dedalera, digital; #plant
+deducción
 deductivo
 defenestrar
 defensiva
@@ -1614,6 +1554,7 @@ demasía
 demasía
 demencia
 demoledor
+demudar
 denegar
 denodado
 denostar
@@ -1777,9 +1718,11 @@ diástole; #physio
 diatomea
 diatomita
 diatriba
+dicharachero
 dictadura
 dictadura
 dictamen
+dictaminar
 didáctico
 diencéfalo
 diente de león; #plant [wk:taraxacum_officinale]
@@ -1840,6 +1783,7 @@ dispensar
 displicencia
 disponer
 distopía
+distopía
 distrés
 disturbio
 disuadir
@@ -1899,8 +1843,8 @@ efluvio
 efusión
 efusividad
 efusivo
-eidético; #psych #philos
-eidetismo; #psych
+eidético; #psychol #philos
+eidetismo; #psychol
 eje
 electorado
 electrocardiógrafo
@@ -2032,12 +1976,14 @@ enormidad
 enquistar
 enraizar
 enranciar, arranciar
+enrevesado
 ensalzar
 ensañarse
 enseres
 ensimismado
 ensordecedor
 ensueño, ensoñación
+entablillar
 entarimado
 entelequia
 entendimiento
@@ -2193,6 +2139,7 @@ estancia
 estandarte
 estanque
 estatuario
+estatuto
 estegosaurio
 estela
 estentóreo
@@ -2264,8 +2211,10 @@ exagerado
 exaltación
 exasperar
 excentricidad
+excéntrico
 excluyente
 excurso
+execrable
 exención
 exento
 exhortar
@@ -2326,6 +2275,7 @@ falsario
 fanatismo
 fanfarronada, fanfarronería
 fango
+fantasmagoría
 fardar
 farfullar
 farra
@@ -2346,6 +2296,7 @@ felpa
 fenecer
 féretro
 fermento
+férreo
 ferri, ferry
 férula
 ferviente, fervoroso
@@ -2466,6 +2417,7 @@ fundo
 furcia
 furgoneta
 furibundo
+furor
 furtivo
 fusil
 fusta
@@ -2474,6 +2426,7 @@ fútil
 futilidad
 galápago
 galería
+galicismo, francesismo
 galimatías
 gallardía
 galopante
@@ -2482,6 +2435,7 @@ galpón
 gama
 gambito
 gamuza
+ganado
 ganglio; #anat
 gangrena
 gánster
@@ -2558,6 +2512,7 @@ gozoso
 grácil
 grada
 gradación
+grafología
 gragea, confite
 grajo
 gramófono
@@ -2595,6 +2550,7 @@ guarnición
 guasca
 guatila
 guijarro
+guiñapo
 guineo
 guirnalda
 guisa
@@ -2603,6 +2559,8 @@ guiso
 gulupa
 gurú
 gutural
+habitáculo; #eco
+hábitat; #eco
 hacedero
 hacha
 hacienda
@@ -2643,7 +2601,9 @@ herético
 hermandad
 hermético
 hernia
+herrar
 herrumbre
+hervidero
 hervor
 heterodoxia
 heterodoxo
@@ -2674,6 +2634,7 @@ hipodérmico
 hipódromo
 hipotálamo; #anat
 hipótesis
+hipotético
 hipotrofia; #biol #med
 hiriente
 hirsuto
@@ -2828,6 +2789,7 @@ indigesto
 individualizar, individuar
 indolente
 indómito
+inducción
 inducido
 inducir
 inductivo
@@ -2882,6 +2844,7 @@ inmunidad
 inmunizar
 inmutar
 innato
+innoble
 innominado
 inocular
 inocuo
@@ -2899,6 +2862,7 @@ insidioso
 insigne
 insignia
 insípido
+insolencia
 insólito
 insoluble
 insomne
@@ -2951,6 +2915,7 @@ irrecusable
 irreductible, irreducible
 irreflexivo
 irremisible
+irresolución
 irresoluto
 irrisorio
 irrumpir
@@ -3094,6 +3059,7 @@ longitud; #geogr
 longitudinal; #psych
 lori
 loto; #plant [wk:nelumbo_nucifera]
+loza
 lozanía
 lozano
 lucidez
@@ -3129,8 +3095,13 @@ majadero
 maki
 malabar
 maleable
+maledicencia
+malevolencia
+malhadado
+malignidad
 malinchismo
 malintencionado
+malograr
 maloliente
 malparado
 maltrecho
@@ -3153,6 +3124,7 @@ manglar
 mangosta
 mangostino
 mangual
+manía; #psych
 manida
 maniobra
 manipular
@@ -3290,6 +3262,7 @@ mitin, mitín
 mitomanía
 mitón
 mitra
+modestia
 módico
 mohín
 mojigatería
@@ -3327,6 +3300,7 @@ moteado
 motilidad
 motín
 movedizo
+mucamo
 muchedumbre
 muérdago, almuérdago
 mugir
@@ -3478,6 +3452,7 @@ pagoda
 pajarilla
 pajarón
 paladear
+palco
 palenque
 paliativo
 palidecer
@@ -3490,9 +3465,11 @@ palpable
 palpitante
 palustre
 pampa
+pampero
 pamplina
 panacea
 pancarta
+pandemonio, pandemónium
 panegírico
 pañete
 panetón, panetone
@@ -3563,6 +3540,7 @@ patibulario
 patíbulo
 pátina
 patógeno
+patológico; #med
 patraña
 patrón
 paulatino
@@ -3613,6 +3591,7 @@ perlado, aperlado, perlino
 perlita
 permafrost
 permisivo
+pernicioso
 pernio
 perno
 perol
@@ -3643,6 +3622,7 @@ piar
 picaporte
 pícaro
 pícea; #plant
+pichón
 picotear
 pictograma
 picudo
@@ -3686,6 +3666,8 @@ plétora
 pletórico
 pleura
 pleuritis, pleuresía; #med
+pliegue
+plisar
 plomo
 plumín
 pócima
@@ -3723,7 +3705,7 @@ porrazo
 portamaletas
 portavoz
 portazo
-portentoso, prodigioso
+portentoso
 portillo
 positrón; #phys
 poso
@@ -3779,6 +3761,7 @@ prestigio
 presumible
 presumido
 presunción, presuntuosidad
+presunto
 presuntuoso
 presuponer
 pretensión
@@ -3787,6 +3770,7 @@ pretexto
 pretina
 prevalencia
 prevaler
+prever
 prieto
 primitivo
 primogénito
@@ -3833,6 +3817,7 @@ proverbio, adagio, refrán
 provincia
 provisorio, provisional
 psicoactivo, sicoactivo
+psicoanálisis, sicoanálisis
 psicodélico, sicodélico
 psicosis, sicosis; #psych
 psicótico, sicótico
@@ -3843,6 +3828,7 @@ pterigión, terigión, pterigio, terigio; #med
 pudin, pudín
 pudor
 pueril
+puerilidad
 puesta
 pugna
 puja
@@ -3862,6 +3848,8 @@ puntiagudo
 puntilloso
 punzante
 purga
+purismo
+purista
 puritanismo
 purulento
 pústula
@@ -3984,6 +3972,7 @@ regocijo
 regurgitar
 rehogar, sofreír, saltear
 rehuir
+rehusar
 reincidir, recaer
 reivindicar
 rejado, verja
@@ -4013,6 +4002,7 @@ renco
 rendición
 renegado
 renegar
+renombre
 renquear, renguear
 renuevo
 reo
@@ -4141,6 +4131,7 @@ salubre
 salubridad
 salva
 salvaguardar
+salvamento
 salvoconducto
 samaritano
 saña
@@ -4153,6 +4144,7 @@ sanitario
 santiamén
 santuario
 sarcasmo
+sardinel
 sardónice, sardónica
 sarmiento
 sarna
@@ -4306,6 +4298,7 @@ soplido
 soplón
 soponcio
 sórdido
+sorna
 sortear
 sosería
 sosiego
@@ -4330,6 +4323,7 @@ subsanar
 subsecuente, subsiguiente
 subseguir
 subsidiario
+subterfugio
 suburbano
 suburbio
 subvertir
@@ -4374,6 +4368,7 @@ tabique
 tabloide
 tablón
 tabú
+tabulé; #food
 taburete
 tacañear
 tachar
@@ -4535,7 +4530,7 @@ trepador
 treta
 triásico
 tribu
-tribulación
+tribulación, atribulación
 trienal
 trifulca
 trinar
@@ -4602,6 +4597,7 @@ usufructo
 usufructuario
 usurpar
 utopía
+utopía
 utópico
 vacilación
 vacilante
@@ -4619,6 +4615,7 @@ vanagloriarse
 vándalo
 vanguardia
 vanidad
+vano
 vapeador
 vapear
 vaquero
@@ -4669,6 +4666,7 @@ versado
 vertiginoso
 vesania
 vesícula
+vesícula; #anat #bot #med
 vespertino
 vestíbulo
 vestigio
@@ -4699,6 +4697,7 @@ viñeta
 violáceo
 viraje
 virar
+viril
 virtud
 viruela
 virulento
@@ -4718,6 +4717,7 @@ vituperable
 vituperar
 vituperio
 viudez, viudedad
+viveza
 vívido
 vivificante
 vivificar
@@ -4729,6 +4729,7 @@ volante
 volátil
 volatilizar
 voltaico
+voluptuosidad
 voluta
 vomitivo, vomitorio
 voracidad
@@ -4785,6 +4786,7 @@ zarzo
 zepelín
 zigzaguear
 zócalo
+zonzo
 zopenco
 zoquete
 zueco
