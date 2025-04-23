@@ -905,7 +905,7 @@ camastro
 camastrón
 cambalache
 cambiazo
-camelio, camelia 🌺; #plant
+camelio, camelia; #plant
 camelo
 camerino
 camillero
@@ -1370,7 +1370,7 @@ contraincendios
 contraintuitivo
 contraloría
 contraofensiva
-contrapelo, "a contrapelo"
+contrapelo
 contraprestación
 contrapropuesta, contraproposición
 contrapunto
@@ -4725,7 +4725,7 @@ vivificante
 vivificar
 vociferar
 vociferar
-volandas, "en volandas"
+volandas
 volantazo
 volante
 volátil
@@ -4737,8 +4737,7 @@ vomitivo, vomitorio
 voracidad
 vorágine
 voraz
-voyerista, voyeur,  mirón
-voyeur, voyerista, mirón
+voyerista, voyeur
 vuelco
 vulgar
 vulgaridad

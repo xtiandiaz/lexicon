@@ -1,0 +1,29 @@
+{
+  "name": "lexicon",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "A compilation of day-to-day discovered and willing-to-retain vocabulary.",
+  "homepage": "https://github.com/xtiandiaz/lexicon#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtiandiaz/lexicon.git"
+  },
+  "license": "ISC",
+  "author": "Cristian Díaz",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  },
+  "dependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
