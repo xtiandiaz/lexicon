@@ -1,5 +1,3 @@
-hermetismo
-lengua franca
 abad
 abalorio
 abanicar
@@ -577,6 +575,7 @@ atolondramiento
 atomizador
 atomizar
 atontamiento
+atontar
 atopia
 atormentado
 atormentar
@@ -707,7 +706,7 @@ barrido
 barrizal
 barrote
 barullo
-basalto
+basalto, basanita
 basculante
 bascular
 basilisco
@@ -758,7 +757,7 @@ biosfera
 bis
 bisutería
 bitácora
-bituminoso
+bituminoso, betuminoso, bituminado, abetunado
 bizantino
 bizco
 bizcocho
@@ -1018,6 +1017,7 @@ cataplasma
 catapultar
 catarata
 catarro
+catastro
 catatonia, catatonía
 catatónico
 catecismo
@@ -2415,6 +2415,7 @@ fulminar
 funda
 fundamentalismo
 fundar
+fundente
 fundo
 furcia
 furgoneta
@@ -2514,6 +2515,7 @@ gozoso
 grácil
 grada
 gradación
+grafismo
 grafología
 gragea, confite
 grajo
@@ -2592,6 +2594,7 @@ hematología; #med
 hematoma; #med
 hemorragia
 hemorroide
+hemostasia, hemostasis; #med
 henchir
 hender, hendir
 hendidura, hendedura
@@ -2602,6 +2605,7 @@ herejía
 herético
 hermandad
 hermético
+hermetismo
 hernia
 herrar
 herrumbre
@@ -2812,6 +2816,7 @@ infalible
 infamante
 infame
 infamia
+inferir
 inflación; #econ
 inflexión
 infligir
@@ -2992,6 +2997,7 @@ lechuguino
 legado
 lego
 lémur
+lengua franca
 lentificar
 leonino
 leotardo
@@ -3016,6 +3022,7 @@ librepensamiento
 licitación
 licitador, licitante
 licitar
+licuar
 lienzo
 ligadura
 ligamento
@@ -3126,6 +3133,7 @@ manglar
 mangosta
 mangostino
 mangual
+manguito
 manía; #psych
 manida
 maniobra
@@ -3367,6 +3375,8 @@ oblicuo
 oblongo
 obnubilar
 obsidiana
+obstetra
+obstetricia
 obús
 ocaso
 ocio
@@ -3733,6 +3743,7 @@ preconizar
 preconizar
 precoz
 prédica
+predio
 predisponer
 predisposición
 prefabricado
@@ -3743,7 +3754,7 @@ preliminar
 preludio
 prematuro
 premeditar
-premisa
+premisa; #phil
 premonición
 premonitorio
 prenda
@@ -3950,6 +3961,7 @@ redada
 redimir
 redoble
 reductible, reducible
+reducto
 refacción
 refilar
 refilón
@@ -4133,6 +4145,7 @@ salubre
 salubridad
 salva
 salvaguardar
+salvamento
 salvamento
 salvoconducto
 samaritano
@@ -4380,6 +4393,7 @@ taimado, ladino, artero, solapado
 tajante
 talante
 talismán
+tallar
 tambaleante
 tamiz
 tamizar
@@ -4645,6 +4659,7 @@ vejar
 vejestorio
 velar
 velatorio
+veleidad
 veleidoso
 veleta
 vendaje
@@ -4723,7 +4738,6 @@ viveza
 vívido
 vivificante
 vivificar
-vociferar
 vociferar
 volandas
 volantazo

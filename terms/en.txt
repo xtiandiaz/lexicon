@@ -6,6 +6,7 @@ addle
 adherent
 affinity
 affliction
+ailment
 all-encompassing
 allegory
 aloof
@@ -96,6 +97,7 @@ conducive
 confine
 connote
 consensual
+contention
 contravene
 conundrum
 creosote
@@ -136,6 +138,7 @@ dipsomania
 dirge
 disempower
 disgruntled
+dismal
 disquiet
 distraught
 doddery
@@ -181,6 +184,7 @@ falsehood
 falter
 feisty
 ferret
+fidgety
 figment
 fit
 fitfully
@@ -233,6 +237,7 @@ graten
 graze
 gregarious
 grim
+groove
 gross
 grovel
 gurgle

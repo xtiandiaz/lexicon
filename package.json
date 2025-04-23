@@ -19,11 +19,7 @@
   ],
   "devDependencies": {
     "pre-commit": "^1.2.2",
-    "tsx": "^4.19.3",
     "typescript": "^5.8.3",
     "vitest": "^3.1.2"
-  },
-  "dependencies": {
-    "@types/node": "^22.14.1"
   }
 }
