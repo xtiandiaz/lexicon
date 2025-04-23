@@ -1,3 +1,15 @@
+Fundente
+Predio
+Catastro
+Manguito
+Salvamento
+Grafismo
+Tallar
+Homestasia
+Obstetra
+Obstetricia
+Licuar
+inferir
 abad
 abalorio
 abanicar
@@ -575,6 +587,7 @@ atolondramiento
 atomizador
 atomizar
 atontamiento
+atontar
 atopia
 atormentado
 atormentar
@@ -705,7 +718,7 @@ barrido
 barrizal
 barrote
 barullo
-basalto
+basalto, basanita
 basculante
 bascular
 basilisco
@@ -756,7 +769,7 @@ biosfera
 bis
 bisutería
 bitácora
-bituminoso
+bituminoso, betuminoso, bituminado, abetunado
 bizantino
 bizco
 bizcocho
@@ -1368,7 +1381,7 @@ contraincendios
 contraintuitivo
 contraloría
 contraofensiva
-contrapelo, "a contrapelo"
+"a contrapelo"
 contraprestación
 contrapropuesta, contraproposición
 contrapunto
@@ -3741,7 +3754,7 @@ preliminar
 preludio
 prematuro
 premeditar
-premisa
+premisa; #phil
 premonición
 premonitorio
 prenda
@@ -4644,6 +4657,7 @@ vejestorio
 velar
 velatorio
 veleidoso
+veleidad
 veleta
 vendaje
 vendaval
@@ -4691,7 +4705,7 @@ vigilia
 vileza
 vilipendiar, vilificar
 villorrio
-vilo
+"en vilo"
 viñedo
 viñeta
 violáceo
@@ -4722,8 +4736,7 @@ vívido
 vivificante
 vivificar
 vociferar
-vociferar
-volandas, "en volandas"
+"en volandas"
 volantazo
 volante
 volátil
