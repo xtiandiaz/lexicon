@@ -1,3 +1,17 @@
+Postrar
+Postración
+Tocayo
+Mancebía
+Azar
+Lejía, lavandina
+Hecatombe
+Angiografía
+Embalse
+Melindre
+Roña
+Racimo
+Acometer
+Metabolismo
 abad
 abalorio
 abanicar
@@ -3082,8 +3096,7 @@ lujuria
 lumen
 luminaria
 luminiscente
-lupanar
-lupanar
+lupanar, mancebía
 lupus
 lustrina
 lustro
@@ -4020,8 +4033,7 @@ renombre
 renquear, renguear
 renuevo
 reo
-repanchigarse, repanchingarse, repantigarse
-repantigarse, repanchicharse
+repantigarse, repanchigarse
 repasar
 repelente
 repercusión
@@ -4793,7 +4805,7 @@ zapatilla
 zape
 zarandear
 zarcillo
-zarpa, garra
+zarpa
 zarpar
 zarpazo
 zarrapastroso
