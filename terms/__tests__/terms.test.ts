@@ -1,10 +1,11 @@
 import { expect, test } from 'vitest'
+import { resolve } from 'path'
 import { termRegEx } from '../../rules'
-import FS from 'fs'
+import fs from 'fs'
 
 test('Term Integrity', () => {
-  ['en', 'es'].forEach((langCode) => {
-    const rawTerms = FS.readFileSync(`terms/${langCode}.txt`).toString('utf-8').split('\n')
+  ['es', 'en'].forEach((langCode) => {
+    const rawTerms = fs.readFileSync(resolve(__dirname, `../${langCode}.txt`)).toString('utf-8').split('\n')
     rawTerms.forEach((rawTerm, index) => {
       console.log(rawTerm)
       if (rawTerm.length > 0) {
