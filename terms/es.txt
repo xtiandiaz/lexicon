@@ -1,17 +1,3 @@
-Postrar
-Postración
-Tocayo
-Mancebía
-Azar
-Lejía, lavandina
-Hecatombe
-Angiografía
-Embalse
-Melindre
-Roña
-Racimo
-Acometer
-Metabolismo
 abad
 abalorio
 abanicar
@@ -88,6 +74,7 @@ achispado
 aciago
 acogotar
 acólito
+acometer
 acometida
 acomodaticio
 acomodo
@@ -366,6 +353,8 @@ aneurisma
 anfiteatro
 anfitrión
 angina
+angiografía
+angiología
 anguila
 anguloso
 anhelante
@@ -652,6 +641,7 @@ ayurvédico
 azabache
 azafrán; #plant [wk:crocus_sativus]
 azalea, azálea, rosadelfa; #plant
+azar
 azaroso
 azogado
 azogue
@@ -1879,6 +1869,7 @@ emancipar
 emanciparse
 embadurnar
 embalar
+embalse
 embargar
 embargo
 embastecer
@@ -2221,8 +2212,8 @@ eutanasia; #med
 evanescente
 evanescer, evanecer
 evasiva
-evocador, evocativo
-exabrupto, grosería, brusquedad
+evocador
+exabrupto
 exagerado
 exaltación
 exasperar
@@ -2598,6 +2589,7 @@ hartazgo, hartazón, hartura
 hastial
 haz
 hebra
+hecatombe
 hectárea
 heder
 hedonismo
@@ -3010,6 +3002,7 @@ lecho
 lechuguino
 legado
 lego
+lejía, lavandina
 lémur
 lengua franca
 lentificar
@@ -3135,6 +3128,7 @@ mamotreto
 mana
 mánager
 manatí
+mancebía
 mancillado
 manco
 mandado
@@ -3205,6 +3199,7 @@ melado
 melao
 melaza
 melena
+melindre
 melindroso
 mella
 mellar
@@ -3500,6 +3495,7 @@ pañete
 panetón, panetone
 panocha
 panqueque, panqueca, tortica
+pantano
 panteísmo
 panteón
 pantorrilla, pantorra
@@ -3738,6 +3734,8 @@ posponer
 postigo
 postizo
 postor
+postración
+postrar
 postular
 póstumo
 postureo
@@ -3901,6 +3899,7 @@ quórum, cuórum
 rabieta
 rabillo
 racha
+racimo
 raciocinar, razonar
 racionalizar
 racionar
@@ -4124,6 +4123,7 @@ rododendro, rosadelfa; #plant
 roedor
 roer
 rompiente
+roña
 roñoso
 ronquera
 rotor
@@ -4494,6 +4494,7 @@ titilar
 tiznar
 toca
 tocado
+tocayo
 toga
 toldado
 toldo
@@ -4656,6 +4657,7 @@ variopinto
 varita
 vasallo
 vasco
+vascular
 vasija
 vástago
 vastedad

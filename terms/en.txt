@@ -1,7 +1,3 @@
-Portend
-Ludicrous
-Well-rounded
-Stonewalling
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -398,6 +394,7 @@ polyethylene; #chem
 polypropylene; #chem
 pompous 
 porgy; #fish
+portend
 portly
 pothole
 pouf, pouffe
@@ -514,6 +511,7 @@ steadfast
 stealth
 steed
 sterling
+stonewalling
 stoop
 strain
 streamline
@@ -587,6 +585,7 @@ wallow
 wangle 
 warfare
 warlock, wizard, sorcerer
+well-rounded
 wetware
 whimper 
 wholesome
