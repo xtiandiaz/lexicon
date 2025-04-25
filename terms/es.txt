@@ -1,20 +1,3 @@
-Anomia
-Alienación
-Alienar
-Biopsia
-Revés
-Fiero
-Crónico
-Noria
-Dispensa
-Antepecho
-Escarceo
-Colmo
-Cápita
-Enladrillar
-Desoír
-Galope
-Percusión
 abad
 abalorio
 abanicar
@@ -273,7 +256,9 @@ algodonoso
 alhaja
 alharaca
 alias
+alienación
 alienado
+alienar
 alimaña
 alioli
 alistonado
@@ -383,6 +368,7 @@ aniquilar
 anodino
 ánodo
 anómalo
+anomia
 anorak
 añoranza
 anquilosar
@@ -390,6 +376,7 @@ ansiolítico
 antagonista
 antaño
 anteojeras
+antepecho
 anteponer
 antesala
 anticipar
@@ -773,6 +760,7 @@ binario
 bioma; #biol
 biomarcador
 biombo
+biopsia
 biorritmo
 biosfera
 bis
@@ -966,6 +954,7 @@ capcioso
 capear
 capibara, carpincho, capiguara, chigüire
 capilar
+cápita
 capitel
 capitular
 capón
@@ -1264,6 +1253,7 @@ colindante
 colindar
 colmena
 colmenilla
+colmo
 colofón
 coloide
 colonia
@@ -1488,6 +1478,8 @@ cristalizar
 cristaloide
 criterio
 croissant
+crónica
+crónico
 cronología
 crucíferas; #bot
 cruento
@@ -1533,6 +1525,7 @@ dadivoso
 damnificado
 dantesco
 dardo
+datáfono
 deambular
 decano
 decantador
@@ -1674,6 +1667,7 @@ desmedido
 desmentir
 desmenuzar
 desmesura
+desoír
 desolación
 desolado
 desollar
@@ -1801,6 +1795,7 @@ disparate
 disparidad
 dispendio
 dispendioso
+dispensa
 dispensador
 dispensar
 displicencia
@@ -1991,6 +1986,7 @@ enjuiciar
 enjuta; #arch
 enjutar, enjugar
 enjuto
+enladrillar
 enlentecer, lentificar
 enmarañar
 enmelar
@@ -2071,6 +2067,7 @@ escaparate
 escaque
 escaramuza
 escarbadientes
+escarceo
 escarcha, carama
 escarchado
 escarchar
@@ -2338,6 +2335,7 @@ fichar
 fidedigno
 fideicomisario
 fideicomiso, fidecomiso
+fiero
 fiero, feroz
 figuración
 figurar
@@ -2456,6 +2454,7 @@ galimatías
 gallardía
 galopante
 galopar
+galope
 galpón
 gama
 gambito
@@ -3386,6 +3385,7 @@ nonato
 ñoño
 noquear
 nori
+noria
 normalizar
 notoriedad
 novicio
@@ -3609,6 +3609,8 @@ percatar
 percatar
 perceptivo
 percha, colgador
+percusión
+percutir
 percutor, percusor
 perdurable
 perecedero, perecible
@@ -4105,6 +4107,7 @@ retumbar
 reverberación
 reverberar
 revertir
+revés
 revestimiento
 revestir
 revirar
@@ -4147,6 +4150,7 @@ rotor
 rótula
 rotulador, marcador, plumón
 rubicundo
+rubor
 rubro
 ruda; #plant
 rufián, granuja
