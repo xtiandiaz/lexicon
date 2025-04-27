@@ -1,3 +1,58 @@
+Revisoría
+Auditoría
+Interventoría
+Coeficiente
+Dictamen
+Sumo
+Zumo
+Zarza
+Superchería
+Coercitivo
+Fenomenología
+Eón
+Magro
+Grosura
+Solidaridad
+Criterium
+Conferir
+Facultar 
+Delegado
+Vecindario
+Avalúo
+Cartera
+Cebadero
+Resarcir
+Cepo
+Forense
+Salvedad
+Trazabilidad
+Recabar
+Depurar
+Maratónico
+Acta
+Arqueo
+Doloso
+Fiducia
+Fiscal
+Anticipo
+Coyuntura
+Ascendencia
+Relevo
+Revisor
+Óptimo
+Endocrino
+Sarampión
+Viruela
+Cachemira
+Chal
+Pashmina
+Alpaca
+Chullo
+Alquitrán
+Poncho
+Trasfigurar
+Cualificado
+Cualificar
 abad
 abalorio
 abanicar
@@ -516,9 +571,8 @@ artimaña
 artritis
 artroscopia, artroscopía
 artrosis
-artrosis
 asa
-asbesto
+asbesto, amianto
 asceta
 ascético
 ascetismo
@@ -3267,7 +3321,7 @@ metralla
 mezcal; #plant
 mezquindad
 mezquino
-mialgia, miodinia; #med
+miodinia, mialgia; #med
 micción
 micosis
 microbio
