@@ -1,58 +1,3 @@
-Revisoría
-Auditoría
-Interventoría
-Coeficiente
-Dictamen
-Sumo
-Zumo
-Zarza
-Superchería
-Coercitivo
-Fenomenología
-Eón
-Magro
-Grosura
-Solidaridad
-Criterium
-Conferir
-Facultar 
-Delegado
-Vecindario
-Avalúo
-Cartera
-Cebadero
-Resarcir
-Cepo
-Forense
-Salvedad
-Trazabilidad
-Recabar
-Depurar
-Maratónico
-Acta
-Arqueo
-Doloso
-Fiducia
-Fiscal
-Anticipo
-Coyuntura
-Ascendencia
-Relevo
-Revisor
-Óptimo
-Endocrino
-Sarampión
-Viruela
-Cachemira
-Chal
-Pashmina
-Alpaca
-Chullo
-Alquitrán
-Poncho
-Trasfigurar
-Cualificado
-Cualificar
 abad
 abalorio
 abanicar
@@ -150,6 +95,7 @@ acre
 acreedor
 acribillar
 acrofobia
+acta
 acuciante
 acucioso
 acuclillarse, encuclillarse
@@ -327,6 +273,7 @@ almizcle
 alocución
 alondra
 alostático
+alpaca
 alpargata
 alquimia
 alquitrán
@@ -435,6 +382,7 @@ antepecho
 anteponer
 antesala
 anticipar
+anticipo
 anticuerpo
 antídoto
 antiembólico; #med
@@ -536,6 +484,7 @@ armisticio
 arpía, harpía
 arpillera, harpillera
 arpón
+arqueo
 arquetipo
 arrabal
 arracimado, racimado
@@ -573,6 +522,7 @@ artroscopia, artroscopía
 artrosis
 asa
 asbesto, amianto
+ascendencia
 asceta
 ascético
 ascetismo
@@ -654,6 +604,7 @@ aturullar, aturrullar
 atusar
 audacia
 audaz
+auditoría
 auge
 augurio
 aullar
@@ -937,6 +888,7 @@ cacarear
 cacerola
 cacharro
 cachear
+cachemira, cachemir
 cachivache
 cacofonía
 cadencia
@@ -1059,6 +1011,7 @@ carroña
 carroñero
 carroño
 cártamo
+cartera
 cartesiano
 cascabel, cascabillo
 casco
@@ -1107,6 +1060,7 @@ cavilar
 cazo
 cazuela
 cebada
+cebadero
 cebar
 cecilia
 cecina
@@ -1132,6 +1086,7 @@ centeno
 centinela
 centropunto
 cepa
+cepo
 cerbatana
 cercenar
 cerealogía
@@ -1152,6 +1107,7 @@ chabola, chavola
 chacal
 chafarrinada, chafarrinón
 chafarrinar
+chal
 chamán
 chambonada
 chanchullo
@@ -1198,6 +1154,7 @@ chovinismo, chauvinismo
 choza
 chubasco
 chucho
+chullo
 chusma
 ciática
 ciático
@@ -1278,8 +1235,10 @@ cochambre
 cochambroso
 cocotero
 codicia
+coeficiente
 coercer
 coerción
+coercitivo
 coetáneo
 cofia
 cofradía
@@ -1364,6 +1323,7 @@ condropatía, condromalacia; #med
 condroplastia
 conducente
 conectador, enchufe
+conferir
 confeti
 confín
 confinar
@@ -1531,6 +1491,7 @@ crispar
 cristalizar
 cristaloide
 criterio
+critérium
 croissant
 crónica
 crónico
@@ -1540,6 +1501,8 @@ cruento
 crujido
 crupier
 cuajar
+cualificado
+cualificar
 cuán
 cuartel
 cuartelario, cuartelero
@@ -1610,6 +1573,7 @@ deificar
 déjà vu
 dejo
 delator
+delegado
 deleitante
 deliberar
 delictivo
@@ -1632,6 +1596,7 @@ dentellar
 dentellear
 denuedo
 deportar
+depurar
 derogar
 derrochar
 derroche
@@ -1873,6 +1838,8 @@ doblegar
 doblez
 dogma
 doliente
+dolo
+doloso
 domiciliación
 domo
 dopamina; #biochem
@@ -2014,6 +1981,7 @@ encubridor
 encubrir
 endémico
 endilgar
+endocrino
 endosar
 enema
 energúmeno
@@ -2082,6 +2050,7 @@ enviudar
 envoltura
 enzarzar
 enzima; #biochem
+eón
 épico
 epidemia
 epifanía
@@ -2337,6 +2306,7 @@ facsimilar
 factible
 facticio
 facultad
+facultar
 faena
 faenar
 fagocitar
@@ -2369,6 +2339,7 @@ fehaciente
 feligrés
 felpa
 fenecer
+fenomenología
 féretro
 fermento
 férreo
@@ -2389,6 +2360,7 @@ fichar
 fidedigno
 fideicomisario
 fideicomiso, fidecomiso
+fiducia
 fiero
 fiero, feroz
 figuración
@@ -2409,6 +2381,7 @@ finiquitar
 finiquito
 fiordo, fiord
 firmamento
+fiscal
 fisco
 fisgonear, fisgar
 fisonomista
@@ -2434,6 +2407,7 @@ folletín, folletón
 fondear
 fonógrafo
 forajido
+forense
 formativo
 formidable
 formulismo
@@ -2614,6 +2588,7 @@ gres
 grey
 grial, cáliz
 grillete
+grosura
 gruñido
 gruta
 guacal, huacal
@@ -3173,6 +3148,7 @@ macular
 madeja
 madona
 magnetófono, magnetofón
+magro
 magullado
 magulladura, magullamiento, contusión
 magullar, contusionar
@@ -3228,6 +3204,7 @@ maquinaria
 maquinismo
 maraña
 marañón
+maratónico
 marfil
 margarita, chiribita; #plant
 maría
@@ -3321,7 +3298,6 @@ metralla
 mezcal; #plant
 mezquindad
 mezquino
-miodinia, mialgia; #med
 micción
 micosis
 microbio
@@ -3333,6 +3309,7 @@ minucia
 minucioso
 minuta
 miocardio
+miodinia, mialgia; #med
 miope
 miopía
 miramiento
@@ -3494,6 +3471,7 @@ oportunista
 oprobio
 optar
 optativo
+óptimo
 opulencia
 opulento
 órbita
@@ -3616,6 +3594,7 @@ pasador
 pasador
 pasante
 pasantía
+pashmina
 pasible
 pasmado
 pasmo
@@ -3784,6 +3763,7 @@ pómez, pumita
 pompa
 pomposo
 ponchera
+poncho
 ponderosa
 ponzoña
 ponzoñoso
@@ -4021,6 +4001,7 @@ reblandecer
 rebosado
 rebosar
 recabar
+recabar
 recado
 recaer
 recambio
@@ -4077,6 +4058,7 @@ reivindicar
 rejado, verja
 relato
 relegar
+relevo
 reliquia
 rellano
 relucir
@@ -4121,6 +4103,7 @@ resabiado
 resabio
 resaca
 resalto, resalte
+resarcir
 resguardar
 residir
 resignar
@@ -4165,6 +4148,8 @@ revés
 revestimiento
 revestir
 revirar
+revisor
+revisoría
 revolotear
 revoltijo, revoltillo
 revoltoso
@@ -4234,6 +4219,7 @@ salva
 salvaguardar
 salvamento
 salvamento
+salvedad
 salvoconducto
 samaritano
 saña
@@ -4245,6 +4231,7 @@ sanidad
 sanitario
 santiamén
 santuario
+sarampión
 sarcasmo
 sardinel
 sardónice, sardónica
@@ -4375,6 +4362,7 @@ solaz
 solazar
 solemne
 solícito
+solidaridad
 soliloquio
 solipsismo
 sollozar
@@ -4444,10 +4432,12 @@ sugestionar
 sujeción
 sumario
 sumisión
+sumo
 sumun, summum
 supeditación
 supeditar
 superávit
+superchería
 superfluidad
 superfluo
 superlativo
@@ -4601,6 +4591,7 @@ tramoya
 trance
 transbordador, trasbordador
 transcripción
+transfigurar, trasfigurar
 transgresión, trasgresión
 transigir
 transmigrar, trasmigrar
@@ -4625,6 +4616,7 @@ través
 travesaño
 travesía
 traviesa
+trazabilidad
 trebejo
 trecho
 tregua
@@ -4738,6 +4730,7 @@ vástago
 vastedad
 váter, inodoro
 vaticinio
+vecindario
 vedar
 vegetativo
 vehemencia
@@ -4805,6 +4798,7 @@ viraje
 virar
 viril
 virtud
+viruela
 viruela
 virulento
 viruta
@@ -4886,6 +4880,7 @@ zarpa
 zarpar
 zarpazo
 zarrapastroso
+zarza
 zarzo
 zepelín
 zigzaguear
@@ -4895,3 +4890,4 @@ zopenco
 zoquete
 zueco
 zumbido
+zumo

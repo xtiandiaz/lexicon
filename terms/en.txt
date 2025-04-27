@@ -1,8 +1,3 @@
-barbiturate
-Subdue
-Concoct
-Serendipitous
-Connive
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -34,6 +29,7 @@ backtrack
 badger
 bangle
 banshee
+barbiturate
 barren
 barrister
 bedazzle
@@ -99,8 +95,10 @@ colossal
 commendable
 commensurate
 complimentary
+concoct
 conducive
 confine
+connive
 connote
 consensual
 contention
@@ -463,6 +461,7 @@ segmental
 self-deprecating
 semiotic
 semolina
+serendipitous
 setback
 shaggy
 sheepish
@@ -526,6 +525,7 @@ strewn
 strut
 stun gun
 stupefy
+subdue
 sublime
 subsidiary
 sultry
