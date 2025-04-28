@@ -1,3 +1,132 @@
 feldespato
 alúmina
 boya
+errante
+esquimal
+causalidad
+subacuático
+panel
+senescente <- only
+desdorar
+báculo ?
+lenguaraz
+prorrumpir
+aristócrata ?
+bretón
+irreflexivo
+entrever ?
+osadía
+regente
+soberano
+novelesco
+exilio ?
+cortesano
+calesa ?
+hostil ?
+plácido ?
+posta
+aliciente ?
+seto ?
+alameda ?
+distender ?
+ribeteado
+bóveda
+ociosidad
+linde ?
+guadaña ?
+gavilla
+mozalbete
+palaciego
+audiencia
+peticionario
+granjearse
+obsequioso ?
+comisura
+embravecido
+víspera ?
+floreo
+cogotudo
+lastimero ?
+sobrecoger ? 
+fulgurar
+ora
+estrujar
+santiamén
+elegía
+libelo
+libelista
+panfleto
+imprecar
+aposento
+erudición
+saña
+amortajar
+mortaja
+charlotear
+arabesco
+galante
+zagal
+domeñar
+ponderar
+valimiento
+intercesor
+moflete
+lerdo
+arrebol
+baldaquín
+tiento
+espumante
+yerto
+azaramiento
+desbocado
+cargante
+desconcierto
+demacrar
+holgar
+cejar
+encolerizar
+facha
+pavonearse
+resoplar
+resoplido
+emponzoñar
+lasitud
+cenagoso
+sabandija
+escarnecer
+agasajar
+escarnio
+macilento
+chispa
+envilecer
+soñolencia
+blasón
+tope
+mandolina
+zaherir
+policromo
+admonitorio
+clamoroso
+clamor
+encrespar
+algazara
+temperamento
+apesadumbrado
+especiar
+trepidante
+trepidar
+anidar
+suntuoso
+augusto
+rutilar
+ébano
+acritud
+hazaña
+comedieta
+prorrumpir
+prestidigitador
+
+
+---
+gasket
+stranded
