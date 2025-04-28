@@ -220,6 +220,7 @@ furtive
 gallows
 gang
 gash
+gasket
 gauze
 gaze
 genocide
@@ -519,6 +520,7 @@ sterling
 stonewalling
 stoop
 strain
+stranded
 streamline
 stretcher
 strewn
