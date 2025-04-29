@@ -1,11 +1,13 @@
+import fs from 'fs'
 import { expect, test } from 'vitest'
 import { resolve } from 'path'
 import { termRegEx } from '../../rules'
-import fs from 'fs'
+import { cleanWord } from '../../utils'
 
 function assertPredicateInAllRawTerms(predicate: (rawTerm: string, index: number, array: string[]) => void) {
   ['es', 'en'].forEach((langCode) => {
     const rawTerms = fs.readFileSync(resolve(__dirname, `../${langCode}.txt`)).toString('utf-8').split('\n')
+    
     rawTerms.forEach((rawTerm, index, array) => {
       console.log(rawTerm)
       predicate(rawTerm, index, array)
@@ -23,12 +25,14 @@ test('Term Integrity', () => {
   })
 })
 
-// test('Term Unicity', () => {
-//   assertPredicateInAllRawTerms((rawTerm, index, array) => {
-//     if (index < array.length - 2) {
-//       const word = 
-//       const nextTerm = array[index + 1]
-//       nextTerm.test(/)
-//     }
-//   })
-// })
+test('Term Unicity', () => {
+  assertPredicateInAllRawTerms((rawTerm, index, array) => {
+    if (index < array.length - 2) {
+      const word = cleanWord(rawTerm.split(';')[0].split(',')[0])
+      const nextRawTerm = array[index + 1]
+      const regEx = new RegExp(`^${word}$`)
+      
+      expect(regEx.test(nextRawTerm)).toBe(false)
+    }
+  })
+})

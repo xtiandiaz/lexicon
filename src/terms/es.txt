@@ -422,7 +422,6 @@ apañar
 aparador
 aparatoso
 aparejar
-aparejar
 aparejo
 apatía
 apear
@@ -506,7 +505,6 @@ arracimado, racimado
 arraigar
 arrebatar
 arrebato
-arrebol
 arrebol
 arrebolado
 arreciar
@@ -809,14 +807,12 @@ blindar
 blíster
 bluf
 bobalicón
-bobalicón
 bobina
 bocadillo
 bocajarro
 bocanada
 bochinche
 bochorno
-bocina
 bocina
 bocio
 bodeguero
@@ -831,7 +827,6 @@ boicotear
 boina
 bolsón
 bonachón
-bonanza
 bonanza
 bondiola
 bono
@@ -1278,7 +1273,6 @@ coercitivo
 coetáneo
 cofia
 cofradía
-cofradía
 cogote
 cogotudo
 coherencia
@@ -1393,7 +1387,6 @@ conjurar
 conllevar
 conmensurable
 conminar
-conminar
 conmoción
 connivencia
 connotación
@@ -1467,7 +1460,6 @@ coraje
 corajudo
 coraza
 cordel
-cordel
 cordón
 cordura
 corear
@@ -1478,7 +1470,6 @@ cornucopia
 corolario
 coronilla
 corporativizar
-corpóreo
 corpóreo
 corpulencia
 corpulento, corpudo
@@ -1513,7 +1504,6 @@ craso
 creces
 credulidad
 crédulo
-crédulo
 crencha
 creosota
 crepitar
@@ -1521,7 +1511,6 @@ crepuscular; #zool
 crepúsculo
 crescendo
 cretácico, cretáceo; #geol
-criado
 criado
 cribar
 crin
@@ -1623,11 +1612,9 @@ delictivo
 delincuente
 delirante
 delirio
-delirio
 demacración
 demacrado
 demacrar
-demasía
 demasía
 demencia
 demoledor
@@ -1682,7 +1669,6 @@ descarriar
 descifrar
 desconcertante
 desconcierto
-desconcierto
 descongestionar
 descorazonar
 descoyuntar
@@ -1708,7 +1694,6 @@ desfibrilador
 desgajar
 desgana, desgano
 desganar
-desgarbado
 desgarbado
 desgarradura
 desgarrón, rasgón
@@ -1802,7 +1787,6 @@ diatomita
 diatriba
 dicharachero
 dictadura
-dictadura
 dictamen
 dictaminar
 didáctico
@@ -1866,7 +1850,6 @@ dispensar
 displicencia
 disponer
 distender
-distopía
 distopía
 distrés
 disturbio
@@ -2452,7 +2435,6 @@ fleco
 flema
 flojedad, flojera
 floreo
-floreo
 floritura
 fluctuación
 fluctuar
@@ -2507,7 +2489,6 @@ frivolidad
 frívolo
 frontón
 fructificar
-frugal
 frugal
 fruición
 fruncir
@@ -2606,7 +2587,6 @@ gluten
 golfo
 golondrina
 goloso
-goloso
 golpeteo
 golpista
 gomina
@@ -2616,7 +2596,6 @@ góndola
 gordinflón
 gorgotear, borbotear
 gorgoteo
-gorjear
 gorjear
 gorjeo
 gorrión
@@ -2718,7 +2697,6 @@ hendidura, hendedura
 heno; #plant
 hepático; #bot
 herejía
-herejía
 herético
 hermandad
 hermético
@@ -2740,7 +2718,7 @@ hiedra, yedra; #plant [wk:hedera]
 higiene
 higo
 higuera; #plant
-hilacha, hilacho, hebra
+hilacha, hilacho
 hilar
 hilaridad
 hilera
@@ -2865,7 +2843,6 @@ inagotable
 inalienable
 inalterable
 inamovible
-inamovible
 inane
 inanición
 inapetencia
@@ -2886,7 +2863,7 @@ inciso
 inclemencia
 inclemente
 incoercible
-incólume, indemne
+incólume
 inconciliable
 inconexo
 inconmensurable
@@ -2903,7 +2880,6 @@ incumbir
 indeclinable
 indecoroso
 indemne
-indemne
 indemnización
 indemnizar
 indescifrable
@@ -2917,7 +2893,6 @@ inducción
 inducido
 inducir
 inductivo
-indulgencia
 indulgencia
 indultar
 indulto
@@ -3020,7 +2995,6 @@ interpelar
 interponer
 intersticio
 interventoría
-intransigencia
 intransigencia
 intrascendente, intranscendente
 intrépido
@@ -3198,7 +3172,6 @@ lozanía
 lozano
 lucidez
 lucio
-lucro
 lucro
 lúdico
 ludopatía
@@ -3679,7 +3652,6 @@ partida
 partitura
 pasadizo
 pasador
-pasador
 pasante
 pasantía
 pashmina
@@ -3727,7 +3699,6 @@ pensamiento; #plant
 penuria
 péptido; #chem
 percance
-percatar
 percatar
 perceptivo
 percha, colgador
@@ -3899,7 +3870,6 @@ precepto
 precesión
 preconcebir
 preconizar
-preconizar
 precoz
 prédica
 predio
@@ -3951,7 +3921,6 @@ primor
 primordial
 prisma; #geom
 prismático
-prismático
 proa
 proactivo
 probiótico
@@ -3960,7 +3929,6 @@ procrear
 pródigo
 proemio
 proeza
-profanar
 profanar
 profecía
 profilaxis
@@ -4069,7 +4037,6 @@ ralo
 ramequín, ramekin
 ramillete
 rampante
-rampante
 rancidez
 rancio
 ranúnculo; #plant
@@ -4097,7 +4064,6 @@ rebatir
 reblandecer
 rebosado
 rebosar
-recabar
 recabar
 recado
 recaer
@@ -4166,9 +4132,7 @@ remembrar
 rememorar
 remilgo
 remisible
-remisible
 remisión
-remitir
 remitir
 remolcar
 remolino
@@ -4319,7 +4283,6 @@ salubre
 salubridad
 salva
 salvaguardar
-salvamento
 salvamento
 salvedad
 salvoconducto
@@ -4585,7 +4548,6 @@ tampografía
 tanino
 taoísmo, daoísmo
 tapadera
-tapadera
 táper, túper, tóper
 tapia
 tapial
@@ -4804,7 +4766,6 @@ usufructo
 usufructuario
 usurpar
 utopía
-utopía
 utópico
 vacilación
 vacilante
@@ -4910,7 +4871,6 @@ viraje
 virar
 viril
 virtud
-viruela
 viruela
 virulento
 viruta
