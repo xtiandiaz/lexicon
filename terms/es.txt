@@ -101,6 +101,7 @@ acuciante
 acucioso
 acuclillarse, encuclillarse
 acudir
+acuicultura, acuacultura
 acúmulo
 acunar
 acuñar
@@ -247,7 +248,7 @@ alérgeno
 alero
 alerón
 aletargado
-aletargamiento, letargo
+aletargamiento
 aletargar
 alevín
 alevosía
@@ -432,6 +433,7 @@ apero
 apesadumbrado
 apetecer
 ápice
+apicultura
 apiñado
 apiñar
 aplastante
@@ -1211,6 +1213,7 @@ cincel
 cínico
 cinismo
 ciprés; #plant
+circa
 circadiano
 circunnavegar
 circunscribir
@@ -1578,6 +1581,7 @@ cúspide
 dactilar
 dádiva
 dadivoso
+damasco
 damnificado
 dantesco
 dardo
@@ -2663,6 +2667,7 @@ guarnecer
 guarnición
 guasca
 guatila
+gueto
 guijarro
 guiñapo
 guineo
@@ -3123,7 +3128,7 @@ lesión
 lesivo
 leso
 letanía
-letargo, aletargamiento
+letargo
 leucemia
 leucocito
 leudado
@@ -3165,6 +3170,7 @@ lipoma
 liquen
 líquenes
 lirio, lis, lilio; #plant [wk:iris_(planta)]
+lirón
 lisonja
 lisonjear
 lisonjero
@@ -3351,6 +3357,7 @@ meridión
 meridional
 merienda
 merino
+meritocracia
 mero; #fish
 mesomorfo
 mesosfera, mesósfera; #meteor
@@ -3796,6 +3803,7 @@ pirlán
 pirólisis
 piromanía
 pirómano, piromaníaco
+piscicultura
 pistón
 pita; #plant
 pitón

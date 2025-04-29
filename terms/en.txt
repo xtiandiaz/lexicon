@@ -20,6 +20,7 @@ annum
 anomaly
 antic
 apiece
+aquaculture
 arcane
 ascetic
 assuage
@@ -300,6 +301,7 @@ lag
 lair
 lassitude
 leer
+lemur
 levity
 liaison
 libel
