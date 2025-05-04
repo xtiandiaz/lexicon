@@ -4767,6 +4767,7 @@ trino
 trinquete
 tripartita
 trípode
+trivia
 triza
 trocar
 troglodita
