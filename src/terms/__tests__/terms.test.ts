@@ -20,7 +20,7 @@ test('Term Integrity', () => {
       const expectation = termRegEx.test(rawTerm)
       
       if (!expectation) {
-        console.log(`${rawTerm} @ ${index}`)
+        console.log(rawTerm)
       }
       
       expect(expectation).toBe(true)
@@ -39,7 +39,7 @@ test('Term Unicity', () => {
       const expectation = !regEx.test(nextRawTerm)
       
       if (!expectation) {
-        console.log(`${rawTerm} @ ${index}`)
+        console.log(rawTerm)
       }
       
       expect(expectation).toBe(true)
