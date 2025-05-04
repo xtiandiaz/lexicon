@@ -6,6 +6,7 @@ addle
 adherent
 affinity
 affliction
+aide
 ailment
 all-encompassing
 allegory
@@ -55,6 +56,7 @@ bolster
 botched
 bracingly
 brackish
+break-in
 breakneck 
 brittle
 broadcaster
@@ -75,6 +77,7 @@ capricious
 caret
 carom
 carp
+caucasian
 charter
 cherish
 chime
@@ -133,6 +136,7 @@ demote
 demur
 demure
 denizen
+derelict
 despondent
 deterrence
 devious
@@ -162,6 +166,7 @@ dysfunction
 earthbound
 ebb
 eclectic
+egalitarianism
 egg
 egregious
 embodiment
@@ -176,6 +181,7 @@ epiphany
 equate
 ergonomics
 eschew
+escow
 esoteric
 etch
 ethereal
@@ -246,6 +252,7 @@ grim
 groove
 gross
 grovel
+gulch
 gurgle
 hapless
 hard-wearing
@@ -274,6 +281,7 @@ huskily
 hyperbole
 iconoclast
 iconoclastic
+idler
 idol
 ill-defined
 impervious
@@ -282,6 +290,7 @@ impostor, imposter
 inculcate
 incumbent
 indwelling
+infighting
 innocuous
 inquiry, enquiry
 insight
@@ -292,6 +301,7 @@ irk
 irksome
 jargon, argot
 jaunty
+jeopardize
 jinx
 jinxed
 jowl
@@ -327,6 +337,7 @@ marauding
 mast
 mawkish
 meridian
+mildew
 mirage
 mire
 mirth
@@ -342,6 +353,7 @@ morsel
 mote
 musk
 mysticism
+nadir
 nagging
 natty
 neologism
@@ -369,6 +381,7 @@ oust
 outdo
 outstrip
 outward
+overdraft
 paddock
 palaver
 palmistry
@@ -400,6 +413,7 @@ polyethylene terephthalate, pet; #chem
 polyethylene; #chem
 polypropylene; #chem
 pompous 
+populous
 porgy; #fish
 portend
 portly
@@ -422,6 +436,7 @@ rave
 ravenous 
 raze
 realm
+rebuke
 rebus
 reclusive
 recoil
@@ -464,6 +479,7 @@ segmental
 self-deprecating
 semiotic
 semolina
+sentient
 serendipitous
 setback
 shaggy
@@ -492,6 +508,7 @@ snigger
 snug
 somber, sombre
 spartan
+spate
 specter, spectre
 spellbound
 spindly

@@ -9,7 +9,6 @@ function assertPredicateInAllRawTerms(predicate: (rawTerm: string, index: number
     const rawTerms = fs.readFileSync(resolve(__dirname, `../${langCode}.txt`)).toString('utf-8').split('\n')
     
     rawTerms.forEach((rawTerm, index, array) => {
-      console.log(rawTerm)
       predicate(rawTerm, index, array)
     })
   })
@@ -18,7 +17,13 @@ function assertPredicateInAllRawTerms(predicate: (rawTerm: string, index: number
 test('Term Integrity', () => {
   assertPredicateInAllRawTerms((rawTerm, index, array) => {
     if (rawTerm.length > 0) {
-      expect(termRegEx.test(rawTerm)).toBe(true)
+      const expectation = termRegEx.test(rawTerm)
+      
+      if (!expectation) {
+        console.log(`${rawTerm} @ ${index}`)
+      }
+      
+      expect(expectation).toBe(true)
     } else {
       expect(index === array.length - 1).toBe(true)
     }
@@ -31,8 +36,13 @@ test('Term Unicity', () => {
       const word = cleanWord(rawTerm.split(';')[0].split(',')[0])
       const nextRawTerm = array[index + 1]
       const regEx = new RegExp(`^${word}$`)
+      const expectation = !regEx.test(nextRawTerm)
       
-      expect(regEx.test(nextRawTerm)).toBe(false)
+      if (!expectation) {
+        console.log(`${rawTerm} @ ${index}`)
+      }
+      
+      expect(expectation).toBe(true)
     }
   })
 })
