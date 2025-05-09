@@ -56,6 +56,11 @@ desmobilizar
 pedigüeño
 poncho
 ruana
+despampanar
+pámpano
+friolero
+friolento, friolero
+friático
 
 ---
 gusty
@@ -67,3 +72,5 @@ poncho
 ruana
 reservoir
 damming
+grapple
+retail
