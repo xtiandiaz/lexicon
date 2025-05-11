@@ -61,7 +61,49 @@ pámpano
 friolero
 friolento, friolero
 friático
-
+copete
+liana, bejuco
+estereotipado
+quejumbroso
+lastimero
+subyacer
+orquestar
+discriminativo, discriminatorio
+polenta
+connotar
+custard
+moteado -> motear
+victimismo
+entresijo
+empírico
+embragar
+desembragar
+peer
+quid
+automatismo
+ansiolítico
+ratio
+canon
+vertedero
+dilapidador
+dilapidar
+paté
+farallón
+gueto
+devanado
+disyuntiva
+rimbombante
+aposta
+tempo
+runrún
+prozac
+tranquimazín
+subliminal
+superliminal
+plaqueta, +trombocito
+dislexia
+ábaco
+agorafobia
 ---
 gusty
 shush
@@ -74,3 +116,6 @@ reservoir
 damming
 grapple
 retail
+connote
+dowel
+quaint
