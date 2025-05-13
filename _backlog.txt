@@ -104,6 +104,22 @@ plaqueta, +trombocito
 dislexia
 ábaco
 agorafobia
+calumniar
+losa
+rifirrafe
+deambular
+treintena
+utilitarismo
+inflexión
+verdugo
+copular
+prole
+abarrotes -> abarrote
+nemotécnica
+corola
+entumecido
+guinda
+laja
 ---
 gusty
 shush
@@ -119,3 +135,4 @@ retail
 connote
 dowel
 quaint
+bandana
