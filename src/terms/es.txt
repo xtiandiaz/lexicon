@@ -2614,6 +2614,7 @@ glicerina, glicerol; #chem
 gloriar
 glosa
 glosar
+glotón
 gluten
 golfo
 golondrina
@@ -2764,6 +2765,7 @@ hipertrofia; #biol #med
 hipertrofiar; #biol #med
 hipnosis
 hipocondría; #med
+hipoalergénico, hipoalérgico
 hipocondriaco, hipocondríaco; #med
 hipodérmico
 hipódromo
