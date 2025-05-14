@@ -909,6 +909,7 @@ burka
 burlete
 burlón
 buró
+bursa, bolsa sinovial
 butifarra
 cabal
 caballete
@@ -4536,6 +4537,7 @@ síndico
 sinfín
 sinfonía
 siniestro
+sinovial
 sinsabor
 sinsentido
 sintiencia, sentiencia
@@ -4664,6 +4666,7 @@ superliminal
 superponer, sobreponer
 superstición
 suplicio
+supra-
 supurar
 surcar
 surf
