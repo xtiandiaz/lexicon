@@ -1,3 +1,4 @@
+-monger
 abridge
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
@@ -29,6 +30,8 @@ avert
 backlash
 backtrack
 badger
+balmy
+bandana
 bangle
 banshee
 barbiturate
@@ -53,6 +56,7 @@ blueprint
 bob
 boggart, boggard
 bolster
+bongo
 botched
 bracingly
 brackish
@@ -154,6 +158,7 @@ doddery
 dogma
 doleful
 dopey
+dowel
 downcast
 downshift
 dread
@@ -245,6 +250,7 @@ goblet
 goblin
 gourd
 graphology
+grapple
 graten
 graze
 gregarious
@@ -254,6 +260,7 @@ gross
 grovel
 gulch
 gurgle
+gusty
 hapless
 hard-wearing
 hare
@@ -316,6 +323,7 @@ levity
 liaison
 libel
 litigation
+lodge
 lofty
 loom
 lope
@@ -385,6 +393,7 @@ overdraft
 paddock
 palaver
 palmistry
+palmy
 pastiche
 pasty
 pebble
@@ -413,6 +422,7 @@ polyethylene terephthalate, pet; #chem
 polyethylene; #chem
 polypropylene; #chem
 pompous 
+poncho
 populous
 porgy; #fish
 portend
@@ -427,6 +437,7 @@ prong
 propensity
 pungent
 pushover
+quaint
 quarrel 
 quarry
 rancor
@@ -447,7 +458,9 @@ rehash
 relic
 rennet
 repudiate
+reservoir
 reskill
+retail
 retrace
 revel
 revile
@@ -456,6 +469,7 @@ rim
 rogue
 rollout
 rosette
+ruana
 run-down
 sallow
 savvy
@@ -492,6 +506,7 @@ shrewd
 shriek
 shrill
 shun
+shush
 shuttle
 sideline
 signpost
@@ -607,6 +622,7 @@ vindictive
 virtuoso
 vitriolic
 wailing
+waive
 waiver
 wallow
 wangle 
