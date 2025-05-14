@@ -126,6 +126,8 @@ mareomotor
 eólico
 acedia
 epítome
+bufar
+rescindir
 ---
 gusty
 shush
@@ -142,3 +144,4 @@ connote
 dowel
 quaint
 bandana
+bongo
