@@ -2840,6 +2840,7 @@ holístico
 hollar
 hollín, tizne
 holocausto
+holter
 hombruno
 homeostasis; #biol
 homilía
@@ -4027,6 +4028,7 @@ presbicia
 prescindir
 prescribir
 presidiario
+presoterapia
 prestatario
 presteza
 prestidigitador
@@ -4156,7 +4158,7 @@ raciocinar, razonar
 racionalizar
 racionar
 radiación; #phys
-radiactividad; #phys
+radiactividad, radioactividad; #phys
 radiactivo, radioactivo; #phys
 radical
 radiología; #med
