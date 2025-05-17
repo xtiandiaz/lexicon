@@ -186,6 +186,7 @@ agraviar
 agravio
 agreste
 agriar
+agroecología
 agropecuario
 agüero
 aguerrido
@@ -254,7 +255,7 @@ alerón
 aletargado
 aletargamiento
 aletargar
-alevín
+alevín, alevino
 alevosía
 alfajor
 alfalfa, mielga
@@ -1563,6 +1564,7 @@ crónico
 cronología
 crucíferas; #bot
 cruento
+cruento, sangriento
 crujido
 crupier
 cuajar
@@ -1697,7 +1699,6 @@ desbancar
 desbandarse
 desbarajuste
 desbocado
-desbordado
 desbordar
 descabellado
 descaminado
@@ -1910,6 +1911,7 @@ divagación
 divagar
 diván
 divertículo
+dividendo
 divinizar
 divisa
 divisar
@@ -2564,6 +2566,7 @@ friso
 fritura
 frivolidad
 frívolo
+frondosidad
 frontón
 fructificar
 frugal
@@ -3462,6 +3465,7 @@ mimetizarse
 minar
 minucia
 minucioso
+minuendo
 minuta
 miocardio
 miodinia, mialgia; #med
@@ -3777,6 +3781,7 @@ pasible
 pasmado
 pasmo
 pasota
+pasotismo
 paspartú
 pastiche
 pastoreo
@@ -3836,6 +3841,8 @@ pérgola
 pericia
 periférico
 perigeo
+periodoncia
+periodonto
 peripatético
 periplo
 perito
@@ -4340,6 +4347,7 @@ retráctil
 retraer
 retraimiento
 retribuir
+retroacción
 retroalimentación
 retroalimentar
 retroceso
@@ -4591,6 +4599,7 @@ soluble, disoluble
 solvente
 somático
 somatizar
+somatotipo
 sombrío
 somero
 sometimiento
@@ -4634,6 +4643,7 @@ subsanar
 subsecuente, subsiguiente
 subseguir
 subsidiario
+sustraendo, substraendo
 subterfugio
 suburbano
 suburbio
@@ -4819,7 +4829,7 @@ tramoya
 trance
 tranquimazin
 transbordador, trasbordador
-transcripción
+transcripción, trascripción
 transfigurar, trasfigurar
 transgresión, trasgresión
 transigir
@@ -5019,6 +5029,7 @@ vianda
 viandante
 viaraza
 vicario
+vicio
 vicisitud
 victimismo
 victimización

@@ -154,6 +154,7 @@ disgruntled
 dismal
 disquiet
 distraught
+dividend
 doddery
 dogma
 doleful
@@ -207,6 +208,8 @@ fitfully
 flagon
 flail
 flatline
+fledge
+fledgling, fledgeling
 flick
 flippant
 flock
@@ -346,6 +349,7 @@ mast
 mawkish
 meridian
 mildew
+minuend
 mirage
 mire
 mirth
@@ -564,6 +568,7 @@ stupefy
 subdue
 sublime
 subsidiary
+subtrahend
 sultry
 surrogate
 surveillance
