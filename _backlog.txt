@@ -58,6 +58,9 @@ niplería
 niple
 presostato
 termostato
+rehogar, x x 
+sufragar
+desapego
 ---
 tote
 benchmark
