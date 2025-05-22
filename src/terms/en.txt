@@ -42,6 +42,7 @@ bedpan
 befuddle
 bejewel
 bellow
+benchmark
 bequeath
 bewildered
 bid
@@ -342,6 +343,7 @@ mainstream
 manacles
 mange
 mangy
+manifesto
 mar
 maraud
 marauding
@@ -436,6 +438,7 @@ pouf, pouffe
 pout
 precipitate
 precursor
+proceeds
 prod
 prong
 propensity
@@ -584,6 +587,7 @@ tartly
 tattered
 tatty
 taunt
+teem
 tenet
 terse
 thaw
@@ -593,6 +597,7 @@ threshold
 thunderstruck
 thwart
 tinsel
+tote
 tottering
 transcendence
 trench
