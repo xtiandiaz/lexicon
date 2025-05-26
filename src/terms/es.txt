@@ -300,7 +300,7 @@ altisonante
 altivez
 altivo
 altoparlante
-altorrelieve
+altorrelieve, alto relieve
 altozano
 altruismo
 altruista
@@ -704,7 +704,7 @@ bagaje
 bagatela, baratija
 bagazo
 bajeza
-bajorrelieve
+bajorrelieve, bajo relieve
 baladí
 balasto, balastro
 balbucear, balbucir
