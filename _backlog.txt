@@ -9,6 +9,11 @@ rapiña
 alcanforero
 terpeno
 etiología
+enjuta -> enjuto
+remache
+celuloide
+ralentización
+cénit -> cenit
 ---
 dole
 imbibe
@@ -17,3 +22,5 @@ tuft
 raptor
 antics
 bonkers
+mishaps
+downshift
