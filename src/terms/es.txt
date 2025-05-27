@@ -104,6 +104,7 @@ acuciante
 acucioso
 acuclillarse, encuclillarse
 acudir
+acúfeno, tinnitus
 acuicultura, acuacultura
 acúmulo
 acunar
@@ -1127,6 +1128,7 @@ celada
 célebre
 celíaco, celiaco
 celo
+celuloide
 celulosa
 cementar, encementar
 cenagoso
@@ -1134,7 +1136,7 @@ cencerro
 cenefa
 ceniciento, cenizo, cenizoso
 ceñir
-cénit, cenit, zenit
+cenit, cénit, zenit, zénit
 ceño
 censo
 centellear
@@ -1879,6 +1881,7 @@ discordia
 discreción
 discrepancia
 discreto
+discriminar
 discriminativo, discriminatorio
 discurrir
 discurso
@@ -2365,6 +2368,7 @@ esvástica
 éter
 etéreo
 etimología
+etiología
 etnia
 étnico
 etnografía
@@ -3055,6 +3059,7 @@ injerto
 injuria
 inmaculado
 inmanente
+inmediación
 inmediatez
 inminente
 inmiscuir
@@ -4102,6 +4107,7 @@ prisma; #geom
 prismático
 proa
 proactivo
+probatorio, probativo
 probiótico
 proclive
 procrear
@@ -4216,6 +4222,7 @@ raído
 raíl, rail, riel
 ralea
 ralentí
+ralentización
 ralentizar
 ralo
 ramequín, ramekin
@@ -4226,6 +4233,7 @@ rancio
 ranúnculo; #plant
 rape
 rapé
+rapiña
 rapsodia
 rapto
 raquídeo
@@ -4315,7 +4323,9 @@ relevo
 reliquia
 rellano
 relucir
+remachador
 remachar
+remache
 remangar, arremangar
 remembrar
 rememorar
@@ -4362,6 +4372,7 @@ resguardar
 residir
 resignar
 resiliente
+resina
 resol
 resolana
 resollar
@@ -4438,6 +4449,7 @@ rivalidad
 rizoma
 róbalo, céfalo, lubina; #fish
 roble; #plant
+roblón
 rociador
 rodal
 rododendro, rosadelfa; #plant
@@ -4747,6 +4759,7 @@ tácito
 taciturno
 taimado, ladino, artero, solapado
 tajante
+taladro
 talante
 talismán
 tallar
@@ -4798,6 +4811,7 @@ terigio
 termistor
 termostato
 terno
+terpeno
 terracota
 terranova
 terraplén
@@ -4901,12 +4915,14 @@ través
 travesaño
 travesía
 traviesa
+traza
 trazabilidad
 trebejo
 trecho
 tregua
 treintena
 tremendo
+trementina
 trémulo
 trepador
 trepidante

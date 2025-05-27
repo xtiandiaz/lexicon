@@ -20,7 +20,7 @@ anathema
 anhedonia
 annum
 anomaly
-antic
+antics
 apiece
 aquaculture
 arcane
@@ -58,6 +58,7 @@ bob
 boggart, boggard
 bolster
 bongo
+bonkers
 botched
 bracingly
 brackish
@@ -158,6 +159,7 @@ distraught
 dividend
 doddery
 dogma
+dole
 doleful
 dopey
 dowel
@@ -295,6 +297,7 @@ iconoclastic
 idler
 idol
 ill-defined
+imbibe
 impervious
 impiety
 impostor, imposter
@@ -358,6 +361,7 @@ mirth
 mirthless
 misanthrope, misanthropist
 misgivings
+mishaps
 mistletoe
 moleskin
 mongrel
@@ -422,6 +426,7 @@ plateau
 platelet
 plead
 plinth
+plumicorn
 polecat, skunk
 polycarbonate; #chem
 polyethylene terephthalate, pet; #chem
@@ -449,6 +454,7 @@ quarrel
 quarry
 rancor
 rapt
+raptor
 ratty
 rave
 ravenous 
@@ -603,6 +609,7 @@ transcendence
 trench
 trifle
 trundle
+tuft
 tug
 tureen
 turncoat
