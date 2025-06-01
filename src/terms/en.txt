@@ -1,5 +1,6 @@
 -monger
 abridge
+acme
 acronym
 acrylonitrile-butadiene-styrene, ABS; #chem
 acumen
@@ -21,6 +22,7 @@ anhedonia
 annum
 anomaly
 antics
+antiemetic
 apiece
 aquaculture
 arcane
@@ -281,6 +283,7 @@ high-minded
 hilt
 hitherto
 hoarse
+hob
 hoist
 holler
 homonym
@@ -525,7 +528,9 @@ sideline
 signpost
 silt
 skid
+skillet
 skitter
+slab
 slash
 sling
 slither

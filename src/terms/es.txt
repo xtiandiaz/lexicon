@@ -89,7 +89,7 @@ acoplado
 acoplar
 acople, acoplador, acoplamiento
 acorazado
-acorchar
+acorcharse
 acorde
 acordonar
 acotado
@@ -239,6 +239,7 @@ alcanforero, alcanfor; #plant
 alcaraván; #bird
 alcaucil
 alcornoque; #plant
+alcurnia
 aldaba
 aleatorio
 alebrije
@@ -317,6 +318,7 @@ alusión
 aluvial
 aluvión
 alvéolo, alveolo
+alvino
 alzado
 alzamiento
 alzapié
@@ -406,7 +408,9 @@ anticipo
 anticuerpo
 antídoto
 antiembólico; #med
+antiemético
 antígeno
+antihistamínico
 antioxidante
 antipatía
 antisemita
@@ -495,6 +499,7 @@ arduo
 arenga
 arenque
 argamasa
+argolla
 argot
 argucia
 argüir
@@ -694,6 +699,7 @@ azotea
 azucena; #plant
 azuzado
 azuzar
+babel
 babor
 bacanal
 bache
@@ -776,6 +782,7 @@ beato
 bejuco, liana
 beldad
 bélico
+belicoso
 beligerante
 bellaco
 benemérito
@@ -1283,6 +1290,7 @@ clemátide; #plant
 clemencia
 clérigo
 clero, clerecía
+clic
 clisé, cliché
 cloquear, clocar
 cloqueo
@@ -1386,6 +1394,8 @@ conciliar
 concomitar
 concordia
 concreción
+concubinato
+concubino
 concupiscencia
 concurrido
 concurrir
@@ -1771,6 +1781,7 @@ desmañado
 desmantelar
 desmayado
 desmedido
+desmembrar
 desmentir
 desmenuzar
 desmesura
@@ -2676,7 +2687,7 @@ geología
 geomancia, geomancía
 geranio, cardenal; #plant [wk:geranium]
 germen
-gerontofília
+gerontofilia
 gestar
 gesticular
 gigoló
@@ -2859,6 +2870,7 @@ hipotético
 hipotrofia; #biol #med
 hiriente
 hirsuto
+histamina
 histeria, histerismo
 hito
 hiyab
@@ -3394,6 +3406,7 @@ marfil
 margarita, chiribita; #plant
 maría
 marisma
+marketing
 marmota
 maroma
 marquesina
@@ -3497,7 +3510,9 @@ micosis
 microbio
 mielina
 mies
+mijo
 mildiu, mildiú, mildéu
+millo, mijo
 mimetizarse
 minar
 minucia
@@ -3591,6 +3606,8 @@ nailon
 nampla
 narcótico; #med
 navío
+necrofilia
+necromancia, necromancía, nigromancia
 necropsia, necroscopia
 necrosar
 nefasto
@@ -3602,6 +3619,7 @@ nemotécnica
 nenúfar, ninfea; #plant
 neolítico
 neologismo
+neopreno
 nepotismo
 ñeque
 neumología
@@ -3611,7 +3629,7 @@ neurasténico; #med
 neurocepción
 nexo
 nigiri
-nigromancia
+nigromancia, nigromancía
 nimiedad
 nimio
 ninfa
@@ -3980,7 +3998,7 @@ pletórico
 pleura
 pleuritis, pleuresía; #med
 pliegue
-plisar
+plisar, plegar
 plomo
 plumín
 pócima
@@ -4336,6 +4354,7 @@ remitir
 remolcar
 remolino
 remolón
+remolonear
 remolque
 rémora
 remorder
@@ -4525,6 +4544,7 @@ saturar
 sauce, salce, salguera; #plant
 sebáceo
 secta
+sectario
 secuaz
 secular
 secularizar
@@ -4705,6 +4725,7 @@ suburbio
 subvertir
 subyacente
 subyacer
+subyugar
 sucedáneo
 sucinto
 súcubo
@@ -4891,6 +4912,7 @@ tranquimazin
 transbordador, trasbordador
 transcripción, trascripción
 transfigurar, trasfigurar
+transgénico
 transgresión, trasgresión
 transigir
 transmigrar, trasmigrar
