@@ -33,7 +33,7 @@ backlash
 backtrack
 badger
 balmy
-bandana
+bandanna, bandana
 bangle
 banshee
 barbiturate
@@ -239,6 +239,7 @@ furrow
 furtive
 gallows
 gang
+gar
 gash
 gasket
 gauze
@@ -318,6 +319,7 @@ irk
 irksome
 jargon, argot
 jaunty
+jay
 jeopardize
 jinx
 jinxed
@@ -446,6 +448,7 @@ pouf, pouffe
 pout
 precipitate
 precursor
+preen
 proceeds
 prod
 prong
@@ -586,6 +589,7 @@ subtrahend
 sultry
 surrogate
 surveillance
+swab
 swill
 swoon
 sycophant
