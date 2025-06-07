@@ -409,6 +409,7 @@ anteojeras
 antepecho
 anteponer
 antesala
+antiafrodisíaco, antiafrodisiaco, anafrodisíaco, anafrodisiaco
 anticipar
 anticipo
 anticuerpo
@@ -511,6 +512,7 @@ argot
 argucia
 argüir
 árido
+ariete
 arista
 aristocracia
 armatoste
@@ -783,7 +785,6 @@ bascular
 basilisco
 bastidor
 bastión
-bastonazo, bastonada
 batea
 batiburrillo
 batuta
@@ -874,6 +875,7 @@ bondiola
 bono
 boquear
 boquerón
+boquete
 boquiabierto
 boquilla
 bórax
@@ -1059,6 +1061,7 @@ carácter
 carajillo
 carámbano
 carambola
+carapacho
 caravana
 carbomero, carbopol, ácido poliacrílico
 carburante
@@ -1284,6 +1287,7 @@ circunscribir
 circunscripción
 circunspección
 circunspecto
+cisco
 citoquina
 citrón, limón
 civeta
@@ -1318,6 +1322,7 @@ clic
 clisé, cliché
 cloquear, clocar
 cloqueo
+cloroformo
 clueca
 clúster
 coacción
@@ -1469,6 +1474,7 @@ consanguíneo
 consanguinidad, cosanguinidad, consanguineidad
 conscripción
 conscripto
+consecución
 consenso
 consensual
 consigna
@@ -1573,6 +1579,7 @@ cortical
 cortisol; #physiol
 corvina
 cósmico
+cosmología
 cosmos
 costurero
 cotejar
@@ -1756,6 +1763,7 @@ descaminado
 descampado
 descansillo
 descapotable
+descargo
 descarnado
 descarriar
 descifrar
@@ -1775,6 +1783,7 @@ desdorar
 desecación
 desecar
 desembragar
+desembuchar
 desenmarañar, desmarañar
 desenvoltura
 desertar
@@ -1880,6 +1889,7 @@ dialéctica
 dialecto
 diametral, diamétrico
 diana
+diantre
 diapasón
 diástole; #physio
 diatomea
@@ -2009,6 +2019,7 @@ eccema, eczema
 eclampsia
 ecléctico
 eclipsar
+eclosión
 eclosionar
 ecografía
 ecolalia
@@ -2084,6 +2095,7 @@ empalmar
 empalme
 emparejar
 emparentar
+empastar
 empecinarse
 empedernido
 empeine, peine
@@ -2134,6 +2146,7 @@ endémico
 endilgar
 endocrino
 endosar
+enebro, junípero
 enema
 energúmeno
 enervar
@@ -2299,6 +2312,7 @@ eslogan, lema, consigna
 esmalte
 esmerado
 esmero
+esmirriado, desmirriado
 esnifar
 esnob
 esnobismo
@@ -2471,6 +2485,7 @@ extravagancia
 extravagante
 extraviado
 extraviar
+extravío
 extrínseco
 exuberancia
 exuberante
@@ -2501,6 +2516,7 @@ falafel
 falange
 falible
 falsario
+famélico
 fanatismo
 fanfarronada, fanfarronería
 fango
@@ -2602,6 +2618,7 @@ fondo
 fonógrafo
 fontanero
 forajido
+forcejear
 forense
 formativo
 formidable
@@ -2675,6 +2692,7 @@ fusta
 fustigar
 fútil
 futilidad
+gacha
 gafar
 galante
 galápago
@@ -2716,6 +2734,7 @@ gaucho
 gavilán
 gavilla
 gazapo
+gazmoño
 geco
 géiser
 gélido
@@ -2735,6 +2754,7 @@ gestar
 gesticular
 gigoló
 gimotear
+ginebra
 ginseng; #plant
 giroscopio, giróscopo
 gitano, calé, romaní
@@ -2778,6 +2798,7 @@ grafología
 gragea, confite
 grajo
 gramófono
+granate
 grandilocuencia
 grandilocuente
 granel
@@ -3108,6 +3129,7 @@ ingente
 ingenuidad
 ingenuo
 ingratitud
+ingrávido
 inguinal
 inhibir
 inhóspito
@@ -3354,6 +3376,7 @@ lívido
 lobotomía
 lóbrego
 locomotriz, locomotora
+locuacidad
 locuaz
 lodazal, lodazar
 loma
@@ -3731,6 +3754,7 @@ ocultismo
 oda
 odalisca
 odisea
+odre
 ofensiva
 oferente
 ofuscación, ofuscamiento
@@ -3776,6 +3800,7 @@ orgía, orgia
 orgiástico
 oriundo
 orondo
+oropel
 orquestar
 orquídea; #plant
 ortiga
@@ -3794,7 +3819,7 @@ osteopatía; #med
 ostión
 ostracismo
 otear
-otomana, otomano
+otomana
 otrora
 otrosí
 ovación
@@ -4082,6 +4107,7 @@ poligamia
 polio, poliomielitis; #med
 pólipo
 pollera
+pomelo
 pómez, pumita
 pompa
 pomposo
@@ -4198,6 +4224,7 @@ proemio
 proeza
 profanar
 profecía
+proferir
 profilaxis
 prognosis, pronóstico
 prole
@@ -4272,6 +4299,7 @@ quejumbroso
 quemarropa
 quena, flauta
 querella
+querellarse
 queroseno, keroseno, querosén
 querubín
 quicio
@@ -4283,6 +4311,7 @@ quiosco
 quirófano
 quiromancia, quiromancía, buenaventura
 quiropráctica
+quisque
 quisquilloso
 quiste
 quórum, cuórum
@@ -4339,6 +4368,7 @@ rebatir
 reblandecer
 rebosado
 rebosar
+rebote
 recabar
 recado
 recaer
@@ -4362,6 +4392,7 @@ recular
 recusable
 recusar
 redada
+redaño
 redención
 redimir
 redoble
@@ -4412,6 +4443,7 @@ remache
 remangar, arremangar
 remembrar
 rememorar
+remilgado
 remilgo
 remisible
 remisión
@@ -4429,6 +4461,7 @@ rendición
 rendir
 renegado
 renegar
+reñir
 renombre
 renquear, renguear
 renuevo
@@ -4513,6 +4546,7 @@ revulsivo
 rezagar
 rezongar
 rezumar
+riachuelo
 ribera
 ribete, orla
 ribeteado
@@ -4576,6 +4610,7 @@ sagacidad
 sagaz
 sagú
 salacot
+salido
 salitre
 salmuera
 salpicadero
@@ -4945,6 +4980,7 @@ tintineo, tintín
 tipi
 tipificar
 tirachinas, tiragomas, tirador
+tirador
 tiranía
 tirano
 tiro
@@ -4954,6 +4990,7 @@ tisis, tuberculosis
 tisular, hístico
 titilar
 tiznar
+tizne
 toca
 tocado
 tocayo
@@ -4966,6 +5003,7 @@ tontina
 tope
 tópico; #med
 topo
+toquetear
 tornasolado
 torno
 torrente
@@ -4989,6 +5027,7 @@ trallazo
 tramontano
 tramoya
 trance
+tranquillo
 tranquimazin
 transbordador, trasbordador
 transcripción, trascripción
