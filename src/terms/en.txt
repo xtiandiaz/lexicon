@@ -48,6 +48,7 @@ benchmark
 bequeath
 bewildered
 bid
+billy
 bin
 blacktop
 bleary
@@ -499,7 +500,8 @@ scoff
 scold
 scoot
 scorn
-scowl 
+scowl
+scram
 scramble
 scree
 scrim
@@ -557,6 +559,7 @@ splutter
 spool
 spotlight
 sprawl
+sprawling
 sprig
 squabble
 squeal
@@ -597,6 +600,7 @@ tabby
 talon
 tangent
 tankard
+tantalizing
 tar
 tartly
 tattered

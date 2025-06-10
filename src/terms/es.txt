@@ -267,6 +267,7 @@ alfajor
 alfalfa, mielga
 alfil
 alforja
+algalia
 algarabía
 algazara
 alginato
@@ -416,6 +417,7 @@ anticuerpo
 antídoto
 antiembólico; #med
 antiemético
+antiespasmódico
 antígeno
 antihistamínico
 antioxidante
@@ -665,6 +667,7 @@ austero
 autarquía, autarcía
 autárquico
 autismo
+autoclave
 autocracia
 autodominio
 autógeno
@@ -690,6 +693,8 @@ aviario
 avidez
 ávido
 aviejar
+aviesamente
+avieso
 avistar
 avivar
 axioma
@@ -1099,6 +1104,8 @@ carroño
 cártamo, alazor
 cartera
 cartesiano
+carúncula
+caruncular
 cascabel, cascabillo
 casco
 cascote
@@ -1290,7 +1297,7 @@ circunspecto
 cisco
 citoquina
 citrón, limón
-civeta
+civeta, gato de algalia
 cizalla
 cizaña; #plant 
 cizañar, encizañar
@@ -1428,6 +1435,8 @@ concubino
 concupiscencia
 concurrido
 concurrir
+condecoración
+condecorar
 condicionamiento
 condicionar
 condonar
@@ -1556,6 +1565,7 @@ cornucopia
 corola
 corolario
 coronilla
+corporativismo
 corporativizar
 corpóreo
 corpulencia
@@ -1734,6 +1744,7 @@ derrotista
 desabrido
 desafío
 desafuero
+desahuciar
 desahucio
 desairar
 desaire
@@ -1845,6 +1856,7 @@ despilfarro
 desplantar
 desplomar
 desposado
+desposeer
 déspota
 despotismo
 despotricar
@@ -1993,6 +2005,7 @@ doloso
 domeñar
 domiciliación
 domo
+doncella
 dopamina; #biochem
 dornajo
 dorsal
@@ -2223,6 +2236,7 @@ enzarzar
 enzima; #biochem
 eólico
 eón
+epicentro
 épico
 epidemia
 epifanía
@@ -2449,6 +2463,7 @@ exasperar
 excentricidad
 excéntrico
 excluyente
+excrecencia
 excurso
 execrable
 exención
@@ -2525,6 +2540,7 @@ farallón
 fardar
 farfullar
 farra
+fascismo
 fascista
 fasto
 fastuoso
@@ -2601,6 +2617,7 @@ flema
 flirtear
 flojedad, flojera
 floreo
+florete
 floritura
 flotante
 fluctuación
@@ -2676,6 +2693,7 @@ fulgor
 fulgurar
 fulminante
 fulminar
+funámbulo, funambulista
 funda
 fundamentalismo
 fundar
@@ -2698,8 +2716,10 @@ galante
 galápago
 galería
 galicismo, francesismo
+gálico
 galimatías
 gallardía
+galo
 galopante
 galopar
 galope
@@ -2797,6 +2817,7 @@ grafismo
 grafología
 gragea, confite
 grajo
+gramíneo
 gramófono
 granate
 grandilocuencia
@@ -2813,7 +2834,7 @@ graznido
 greca
 greco
 gregario
-gremio, corporación, asociación
+gremio
 greña
 gres
 grey
@@ -2827,7 +2848,7 @@ guadaña, dalla, rozadera
 guadua; #plant
 guama
 guarango
-guardabarros
+guardabarros, guardafangos
 guarida
 guarismo, cifra
 guarnecer
@@ -2867,6 +2888,7 @@ harapiento
 harén
 hartazgo, hartazón, hartura
 hastial
+hatajo
 haz
 hazaña
 hebra
@@ -3221,6 +3243,7 @@ inverosímil
 iracundia
 iracundo
 irascible
+irisado
 irisar
 irrecusable
 irreductible, irreducible
@@ -3320,6 +3343,7 @@ lesivo
 leso
 letanía
 letargo
+letrina
 leucemia
 leucocito
 leudado
@@ -3534,6 +3558,7 @@ mellar
 melodrama
 melodramático
 membrana
+membrillo
 memo
 memorioso, memorión
 menaje
@@ -3625,6 +3650,7 @@ moflete
 mohín
 mojigatería
 mojigato
+mojón
 mole
 mollera
 monada, monería
@@ -3677,6 +3703,7 @@ mundano
 munificencia
 muñón
 muselina
+musitar
 mustio
 mutabilidad
 mutilar
@@ -3702,6 +3729,7 @@ neologismo
 neopreno
 nepotismo
 ñeque
+nervudo
 neumología
 neumonía, pulmonía; #med
 neurastenia, neurosis; #med
@@ -3761,6 +3789,8 @@ ofuscación, ofuscamiento
 ofuscar
 ojeriza
 ojeroso
+olfacción
+olfatorio
 oligarquía
 olisquear
 olleta
@@ -3796,6 +3826,7 @@ orellana
 orfanato, orfelinato
 orfebre
 orfebrería
+organoléptico
 orgía, orgia
 orgiástico
 oriundo
@@ -4069,6 +4100,7 @@ pizarra
 pizarrín
 placebo
 plácido
+plagio
 plañidera
 planteo, planteamiento
 plantón
@@ -4156,6 +4188,9 @@ prebiótico
 precaver
 precepto
 precesión
+precintado, precinto
+precintar
+precinto
 preconcebir
 preconizar
 precoz
@@ -4216,7 +4251,9 @@ prismático
 proa
 proactivo
 probatorio, probativo
+probeta
 probiótico
+probóscide
 proclive
 procrear
 pródigo
@@ -4226,6 +4263,7 @@ profanar
 profecía
 proferir
 profilaxis
+prognato
 prognosis, pronóstico
 prole
 prolegómeno
@@ -4263,6 +4301,7 @@ psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
 pterigión, terigión, pterigio, terigio; #med
+puchero
 pudin, pudín
 pudor
 pueril
@@ -4272,6 +4311,7 @@ pugna
 puja
 pujador
 pujanza
+pujar
 pulgar
 pulido
 pulimentar
@@ -4472,6 +4512,7 @@ repasar
 repelente
 repercusión
 repertorio
+réplica
 reposapiés
 reposo
 repostar
@@ -4738,6 +4779,7 @@ sinsentido
 sintiencia, sentiencia
 sirga
 sisear
+sismo, seísmo
 sistemático
 sístole; #physio
 sobaco
@@ -4824,6 +4866,7 @@ sublime
 subliminal
 sublunar
 subordinación
+subrepticio
 subsanar
 subsecuente, subsiguiente
 subseguir
@@ -4867,6 +4910,7 @@ supra-
 supurar
 surcar
 surf
+surtido
 suscitar
 suscribir, subscribir
 suspenso
@@ -5075,6 +5119,7 @@ triásico
 tribu
 tribulación, atribulación
 trienal
+trienio
 trifulca
 trinar
 trinchera
@@ -5083,6 +5128,7 @@ trino
 trinquete
 tripartita
 trípode
+triquitraque
 trivia
 triza
 trocar
@@ -5134,6 +5180,7 @@ unánime
 uncir
 unicidad
 unísono
+untuosidad
 urbanita, urbanícola
 urdimbre
 uretra
@@ -5159,6 +5206,7 @@ valedero
 valía
 valija
 valimiento
+valoración
 valquiria, valkiria, walkiria
 vanagloriarse
 vándalo
@@ -5278,6 +5326,7 @@ vituperable
 vituperar
 vituperio
 viudez, viudedad
+vivaracho
 viveza
 vívido
 vivificante
@@ -5331,6 +5380,7 @@ zahorí
 zalamería
 zalamero
 zambullir
+zampar
 zancada
 zancadilla
 zanja
