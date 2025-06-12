@@ -302,7 +302,7 @@ alquitrán
 altanería
 altavoz
 altercado
-alteridad
+alteridad, otredad
 altibajos
 altillo
 altisonante
@@ -371,6 +371,7 @@ anatema
 anatematizar, anatemizar
 anca
 andador, andadera
+andanza
 andrajo
 andrajoso
 andurrial
@@ -827,7 +828,7 @@ bienintencionado
 bienoliente
 bies
 bife
-bifurcar
+bifurcarse
 bilirrubina
 binario
 bioma; #biol
@@ -1354,6 +1355,8 @@ coercitivo
 coetáneo
 cofia
 cofradía
+cognado
+cogollo
 cogote
 cogotudo
 coherencia
@@ -1509,7 +1512,7 @@ contorsión
 contorsionar
 contorsionarse
 contorsionista
-contraataque
+contraataque, contrataque
 contrabandear
 contrabandista
 contrabando
@@ -1652,6 +1655,7 @@ cuesta
 cuita
 culata
 culatazo
+culero
 cumbre
 cúmulo
 cuñado
@@ -2159,6 +2163,7 @@ endémico
 endilgar
 endocrino
 endosar
+endospermo
 enebro, junípero
 enema
 energúmeno
@@ -2559,7 +2564,9 @@ feldespato
 feligrés
 felpa
 fenecer
+fenicio
 fenomenología
+fentanilo
 féretro
 fermento
 férreo
@@ -2849,6 +2856,7 @@ guadua; #plant
 guama
 guarango
 guardabarros, guardafangos
+guaricha
 guarida
 guarismo, cifra
 guarnecer
@@ -3489,6 +3497,7 @@ maniobra
 manipular
 maniqueísmo
 maniquí
+manitoba
 manivela
 manopla
 mansarda
@@ -4441,6 +4450,7 @@ redoble
 reductible, reducible
 reducto
 refacción
+refajo
 refilar
 refilón
 reflujo
@@ -4964,6 +4974,7 @@ tarugo
 tasación
 tasar
 tebeo
+tedio
 tejar
 tejemaneje
 tejón
