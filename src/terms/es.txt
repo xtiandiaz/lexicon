@@ -407,6 +407,7 @@ anquilosar
 ansiolítico
 antagonista
 antaño
+antemano
 anteojeras
 antepecho
 anteponer
@@ -547,6 +548,7 @@ arribista
 arritmia
 arrobar
 arrobarse
+arrobo, arrobamiento
 arrollar
 arroyo
 arrullo
@@ -578,6 +580,7 @@ asequible
 aserrar, serrar
 asertividad
 asertivo
+aseverar
 asfalto
 asidero
 asiduidad
@@ -1263,6 +1266,7 @@ chubasco
 chucho
 chullo
 chusma
+chutney
 ciática
 ciático
 ciberpunk
@@ -1517,6 +1521,7 @@ contrabandear
 contrabandista
 contrabando
 contrachapado
+contraejemplo
 contragolpe
 contraincendios
 contraintuitivo
@@ -1555,6 +1560,7 @@ coquetear
 coracero
 coraje
 corajudo
+coral
 coraza
 cordel
 cordobán
@@ -1617,7 +1623,7 @@ cría
 criado
 cribar
 crin
-criolina
+crinolina
 cripta
 criptozoología
 crisálida
@@ -1682,7 +1688,7 @@ damasco
 damnificado
 dantesco
 dardo
-datáfono
+datáfono, posnet, pósnet
 dátil
 datilero
 de facto, de hecho
@@ -1711,6 +1717,7 @@ defunción
 deglutir
 degollar
 degüello, degollamiento
+dehesa
 deidad
 deificar
 déjà vu
@@ -2026,7 +2033,7 @@ drupa
 dualista
 dubitativo
 duermevela
-dulzón
+dulzón, dulzarrón
 dulzor
 duplicidad
 duranta; #plant 
@@ -2083,6 +2090,7 @@ embaucar
 embelesado
 embelesar
 embelesarse
+embeleso, embelesamiento
 embellecer
 embestir
 embolia
@@ -2182,6 +2190,7 @@ engranar
 engreído
 engreimiento
 engullir
+enharinar
 enigma
 enigmático
 enjambrar
@@ -2493,6 +2502,7 @@ exprimir
 expropiar
 expurgar
 exquisitez
+éxtasis
 extemporáneo
 extenuado
 extenuar
@@ -3827,6 +3837,7 @@ optativo
 óptimo
 opulencia
 opulento
+oquedad
 ora
 órbita
 ordinariez
@@ -3911,7 +3922,7 @@ panel
 pañete
 panetón, panetone
 panfleto
-panocha
+panocho
 panqueque, panqueca, tortica
 pantano
 panteísmo
@@ -4259,6 +4270,7 @@ primor
 primordial
 prisma; #geom
 prismático
+prístino
 proa
 proactivo
 probatorio, probativo
@@ -4401,6 +4413,7 @@ rapto
 raquídeo
 raquis
 rascacielos
+raso
 rastra
 rastrojera
 rastrojo, rastrojal
@@ -5083,6 +5096,7 @@ tralla
 trallazo
 tramontano
 tramoya
+tramoyista
 trance
 tranquillo
 tranquimazin
@@ -5357,6 +5371,7 @@ vomitivo, vomitorio
 voracidad
 vorágine
 voraz
+vórtice
 voyerista, voyeur
 vuelco
 vulgar
