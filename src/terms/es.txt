@@ -565,6 +565,7 @@ artilugio
 artimaña
 artritis
 artroscopia, artroscopía
+artroscopio
 artrosis
 asa
 asbesto, amianto
@@ -1111,6 +1112,7 @@ cartesiano
 carúncula
 caruncular
 cascabel, cascabillo
+cascabillo
 casco
 cascote
 caserío
@@ -2171,6 +2173,8 @@ endémico
 endilgar
 endocrino
 endosar
+endoscopia
+endoscopio
 endospermo
 enebro, junípero
 enema
@@ -3693,6 +3697,7 @@ morfina
 morfinómano
 moribundo
 morisqueta
+moro
 morro
 morsa
 mortaja
@@ -4618,7 +4623,7 @@ ribete, orla
 ribeteado
 ribetear, orlar, festonear
 ricino
-rictus, gesto, mueca
+rictus
 ridiculizar
 rifirrafe
 rigidez
