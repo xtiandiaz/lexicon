@@ -656,6 +656,7 @@ atusar
 audacia
 audaz
 audiencia
+auditor
 auditoría
 auge
 augurio
@@ -1198,6 +1199,7 @@ cercenar
 cerealogía
 cerillo, cerilla
 cerner, cernir
+ceroso
 cerrazón
 cerro
 cerrojo
@@ -1422,6 +1424,7 @@ complicidad
 complot
 compostura
 compresivo
+compulsivo
 compunción
 compungido
 común
@@ -2886,6 +2889,7 @@ guirnalda
 guisa
 guisar
 guiso
+güisqui, whisky
 gulupa
 gurú
 gutural
@@ -3200,6 +3204,7 @@ inmutar
 innato
 innoble
 innominado
+inocuidad, innocuidad
 inocular
 inocuo
 inquebrantable
@@ -3406,6 +3411,7 @@ linóleo
 linotipia
 liofilizar
 lipoma
+lipoproteína
 liquen
 líquenes
 lirio, lis, lilio; #plant [wk:iris_(planta)]
@@ -3737,6 +3743,7 @@ nailon
 nampla
 narcótico; #med
 navío
+neceser
 necrofilia
 necromancia, necromancía, nigromancia
 necropsia, necroscopia
@@ -4526,6 +4533,7 @@ remolque
 rémora
 remorder
 remordimiento
+remover
 renco
 rendición
 rendir
@@ -4932,7 +4940,6 @@ superchería
 superfluidad
 superfluo
 superlativo
-superliminal
 superponer, sobreponer
 superstición
 suplicio
