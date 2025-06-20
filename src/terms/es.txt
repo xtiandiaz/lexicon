@@ -241,6 +241,7 @@ alcalino
 alcanfor
 alcanforero, alcanfor; #plant
 alcaraván; #bird
+alcatraz
 alcaucil
 alcornoque; #plant
 alcurnia
@@ -607,6 +608,7 @@ astrología
 astromelia; #plant 
 astroso
 astucia
+astuto
 asustadizo
 atajar
 atalaya
@@ -630,6 +632,7 @@ atípico
 atiplado
 atisbar
 atisbo
+atizar
 atolón
 atolondrado
 atolondramiento
@@ -696,6 +699,7 @@ averno
 aversión
 avezado
 aviario
+avícola
 avidez
 ávido
 aviejar
@@ -811,6 +815,7 @@ bélico
 belicoso
 beligerante
 bellaco
+bellota
 benemérito
 benevolencia
 benévolo, benevolente
@@ -1032,6 +1037,7 @@ cancerbero
 candelabro
 cándido
 canelón
+canijo
 canjear
 canon
 cansino
@@ -1110,6 +1116,7 @@ carroño
 cártamo, alazor
 cartera
 cartesiano
+cartucho
 carúncula
 caruncular
 cascabel, cascabillo
@@ -1213,6 +1220,7 @@ cetrino
 chabacano
 chabola, chavola
 chacal
+chafar
 chafarrinada, chafarrinón
 chafarrinar
 chal
@@ -1824,6 +1832,7 @@ desflorar
 desgajar
 desgana, desgano
 desganar
+desgañitarse
 desgarbado
 desgarradura
 desgarrón, rasgón
@@ -1996,6 +2005,7 @@ dispensar
 displicencia
 disponer
 distender
+distintivo
 distopía
 distrés
 disturbio
@@ -2175,6 +2185,7 @@ encubrir
 endémico
 endilgar
 endocrino
+endodoncia
 endosar
 endoscopia
 endoscopio
@@ -2218,6 +2229,7 @@ enquistar
 enraizar
 enranciar, arranciar
 enrevesado
+enronquecer
 ensalmo
 ensalzar
 ensañarse
@@ -2227,6 +2239,7 @@ ensordecedor
 ensueño, ensoñación
 entablillar
 entarimado
+enteco
 entelequia
 entendimiento
 entereza
@@ -2321,7 +2334,7 @@ escocer
 escogencia, escogimiento
 escollo
 escolta
-escondrijo
+escondrijo, escondredijo
 escopeta
 escoria
 escorzar
@@ -2367,6 +2380,7 @@ espeleología
 esperable
 esperma
 esperpento
+espesura
 espetar
 espiga
 espigado
@@ -2772,6 +2786,7 @@ garrapato
 garrotazo
 garrote
 gasa
+gastador
 gatera
 gauchada
 gaucho
@@ -2865,6 +2880,7 @@ grey
 grial, cáliz
 grillete
 grosura
+grúa
 gruñido
 gruta
 guacal, huacal
@@ -2942,6 +2958,7 @@ hermético
 hermetismo
 hernia
 herrar
+herrerillo
 herrumbre
 hervidero
 hervor
@@ -3595,6 +3612,7 @@ mendigar
 mendigo
 mendrugo
 menester
+menesteroso
 menguante
 menguar
 meñique
@@ -3631,6 +3649,7 @@ metalurgia
 metamorfosear
 metamorfosis
 metástasis
+metatarso
 metedura
 meticuloso
 metralla
@@ -3851,6 +3870,7 @@ opulencia
 opulento
 oquedad
 ora
+oráculo
 órbita
 ordinariez
 oréade, oréada
@@ -3881,6 +3901,7 @@ ostensible
 ostentación
 ostentar
 osteopatía; #med
+osteopenia
 ostión
 ostracismo
 otear
@@ -3972,6 +3993,7 @@ parka
 parlar
 parlotear
 parloteo
+paro
 parodia
 parótida; #anat
 paroxismo
@@ -4085,6 +4107,7 @@ pervivir
 pescante
 pescuezo
 pestillo
+pesuño
 peticionario
 petimetre
 petirrojo; #bird
@@ -4094,7 +4117,9 @@ petulancia
 petulante
 petunia; #plant
 peyote; #plant
+pezuña
 piar
+picadillo
 picaporte
 pícaro
 pícea; #plant
@@ -4126,6 +4151,7 @@ pistón
 pita; #plant
 pitillera
 pitón
+pitonisa
 pituco
 pituita
 pituitario; #anat 
@@ -4146,6 +4172,7 @@ platija
 platónico
 plausible
 plebeyo
+plebiscito
 pleito
 plétora
 pletórico
@@ -4198,6 +4225,7 @@ portavoz
 portazo
 portentoso
 portezuela
+pórtico
 portillo
 positrón; #phys
 poso
@@ -4420,6 +4448,7 @@ ranúnculo; #plant
 rape
 rapé
 rapiña
+raposo
 rapsodia
 rapto
 raquídeo
@@ -4476,6 +4505,7 @@ reductible, reducible
 reducto
 refacción
 refajo
+referéndum
 refilar
 refilón
 reflujo
@@ -4593,6 +4623,7 @@ reticular
 retintín
 retiro
 retoño
+retorcer
 retortijón
 retozar
 retractar
@@ -4791,6 +4822,7 @@ sibarita
 sibilante, silbante
 sicomoro, sicómoro; #plant
 sideral
+sidra
 sien
 siervo
 sífilis
@@ -4955,6 +4987,7 @@ suspicaz
 sustitutivo, substitutivo
 sustraendo, substraendo
 susurro
+sute
 sutil
 sutileza
 taberna
@@ -4994,6 +5027,7 @@ taquilla
 tara
 tararear, tatarear, canturrear
 tarareo
+tarso
 tartera
 tarugo
 tasación
@@ -5167,6 +5201,7 @@ trino
 trinquete
 tripartita
 trípode
+tripón, tripudo
 triquitraque
 trivia
 triza
@@ -5217,6 +5252,7 @@ umbral
 umbrío, umbroso
 unánime
 uncir
+ungulado
 unicidad
 unísono
 untuosidad
@@ -5425,6 +5461,8 @@ zancada
 zancadilla
 zanja
 zanjar
+zapa
+zapador
 zapallo
 zapatilla
 zape
