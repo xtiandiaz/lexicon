@@ -48,6 +48,7 @@ abusón
 abyecto
 acaballado
 acaballar
+acabose
 acaecer
 acallar
 acantilado
@@ -334,6 +335,7 @@ alzar
 amainar
 amalgama; #chem
 amamantar
+amancebarse
 amapola; #plant
 amarillismo
 amartillar
@@ -825,6 +827,7 @@ beriberi
 berlina
 bermejo
 berrinche
+besamel, bechamel, besamela, bechamela
 besugo
 bibliorato
 bicéfalo
@@ -909,6 +912,7 @@ boya
 boyante
 bramante
 bramar
+bramido
 brasero
 brea
 brebaje
@@ -962,7 +966,6 @@ bursa, bolsa sinovial
 butifarra
 cabal
 caballete
-cabestrante
 cabestrillo
 cabestro
 cabezada
@@ -1141,6 +1144,7 @@ catalizador
 catalizar
 cataplasma
 catapultar
+catar
 catarata
 catarro
 catastro
@@ -1173,7 +1177,6 @@ cazuela
 cebada
 cebadero
 cebar
-cecilia
 cecina
 cedazo
 ceder
@@ -1260,6 +1263,7 @@ chingar
 chintz
 chiquilín
 chiquillada, chiquillería
+chiribita
 chirivía
 chirriante
 chirriar
@@ -1410,6 +1414,7 @@ columnista
 colutorio
 colza; #plant
 comadrear
+comadreja, chucuri
 comadrón
 comandita
 comedido
@@ -1418,6 +1423,7 @@ comedimiento
 comensal
 comezón
 comicidad
+comilón
 comisura
 cómoda
 compadrazgo
@@ -1483,6 +1489,7 @@ conglomerado
 conglomerar
 congoja
 congraciar
+congregar
 congrio
 congruente
 conjetura
@@ -1685,6 +1692,7 @@ cuneta, zanja
 cuotear
 cupé
 cúpula
+curado
 curandero
 curia
 cursar
@@ -1877,6 +1885,8 @@ despelote
 despeñadero
 desperdigado
 desperdigar
+despiece
+despiezar
 despilfarro
 desplantar
 desplomar
@@ -2075,6 +2085,7 @@ efluvio
 efusión
 efusividad
 efusivo
+egotismo
 eidético; #psychol #philos
 eidetismo; #psychol
 eje
@@ -2661,6 +2672,7 @@ flotante
 fluctuación
 fluctuar
 fluoxetina
+fobia
 focalizar
 fofo, bofo
 fogonazo
@@ -2781,6 +2793,7 @@ gareta
 garfio
 garita
 garito
+garrafa
 garrapatear
 garrapato
 garrotazo
@@ -2809,6 +2822,7 @@ geomancia, geomancía
 geranio, cardenal; #plant [wk:geranium]
 germen
 gerontofilia
+gerundio
 gestar
 gesticular
 gigoló
@@ -2863,6 +2877,7 @@ grandilocuencia
 grandilocuente
 granel
 granjear
+granuja
 granulado
 gratín, gratén
 gratinar
@@ -3007,6 +3022,7 @@ histamina
 histeria, histerismo
 hito
 hiyab
+hocico
 hogaza
 hojalata, lata
 holgado
@@ -3051,6 +3067,7 @@ huraño
 hurón
 hurra
 hurtadillas
+husmear
 Ícaro
 iconoclasta
 ictericia
@@ -3431,6 +3448,7 @@ lipoma
 lipoproteína
 liquen
 líquenes
+liquidar
 lirio, lis, lilio; #plant [wk:iris_(planta)]
 lirón
 lisonja
@@ -3450,6 +3468,7 @@ locuaz
 lodazal, lodazar
 loma
 lona
+loncha
 lonchera
 longevidad
 longevo
@@ -3660,6 +3679,7 @@ micción
 micorriza
 micosis
 microbio
+miedica
 mielina
 mies
 mijo
@@ -3692,6 +3712,9 @@ mitin, mitín
 mitomanía
 mitón
 mitra
+mnemónico, nemónico
+mnemotecnia, nemotecnia
+mnemotécnico, nemotécnico
 modestia
 módico
 moflete
@@ -4010,6 +4033,7 @@ pasantía
 paseiforme
 pashmina
 pasible
+pasilla
 pasmado
 pasmo
 pasota
@@ -4053,14 +4077,17 @@ pelma
 peltre
 penacho
 penca
+pendenciero
 península, penisla, quersoneso
 pensamiento; #plant
 penuria
+peón
+pepitoria
 péptido; #chem
 percance
 percatar
 perceptivo
-percha, colgador
+percha
 percusión
 percutir
 percutor, percusor
@@ -4256,6 +4283,7 @@ precinto
 preconcebir
 preconizar
 precoz
+predestinar
 prédica
 predio
 predisponer
@@ -4501,6 +4529,7 @@ redaño
 redención
 redimir
 redoble
+redomado
 reductible, reducible
 reducto
 refacción
@@ -4516,6 +4545,7 @@ refrigerio
 refugio
 refulgir
 refunfuñar
+regañadientes, regaña dientes
 regata
 regatear, recatear
 regateo
@@ -4823,6 +4853,7 @@ sibilante, silbante
 sicomoro, sicómoro; #plant
 sideral
 sidra
+sidrería
 sien
 siervo
 sífilis
@@ -5068,6 +5099,7 @@ terraplén
 terrera
 terrina, tarrina
 tertulia
+tesón
 testaferro
 testarudez
 testarudo, porfiado, terco
@@ -5099,6 +5131,7 @@ tirachinas, tiragomas, tirador
 tirador
 tiranía
 tirano
+tiritona
 tiro
 tiroides
 tirón
@@ -5154,7 +5187,7 @@ transgénico
 transgresión, trasgresión
 transigir
 transmigrar, trasmigrar
-transmutar
+transmutar, trasmutar
 transpirar, traspirar
 transplantar
 transversal
@@ -5166,6 +5199,7 @@ traslúcido, trasluciente
 traspasar
 traspié
 trasponer
+traspuesto
 trastienda
 trasto
 trastocar
@@ -5444,8 +5478,10 @@ yóquey, jockey, yoqui
 yugo
 yunque
 yunta
+yupi
 yute
 yuxtaponer
+zafarrancho
 zafio
 zafiro
 zagal

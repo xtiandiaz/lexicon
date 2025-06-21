@@ -492,6 +492,7 @@ rosette
 ruana
 run-down
 sallow
+sappy
 savvy
 scalding
 scarce
@@ -645,6 +646,7 @@ unsavory
 unwitting
 upheaval
 vapor lamp
+varnish
 vermin
 vex
 vindicate
