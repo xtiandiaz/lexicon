@@ -23,6 +23,7 @@ abnegación
 abnegado
 abocar
 abolir
+abombado
 abordaje
 abotargar, abotagar
 abrasar
@@ -147,7 +148,6 @@ afamado
 afasia
 afectación
 afectado
-afectaón
 afeite
 afelpado
 aferente
@@ -267,6 +267,7 @@ alevín, alevino
 alevosía
 alfajor
 alfalfa, mielga
+alféizar
 alfil
 alforja
 algalia
@@ -335,6 +336,7 @@ alzar
 amainar
 amalgama; #chem
 amamantar
+amancebamiento
 amancebarse
 amapola; #plant
 amarillismo
@@ -867,6 +869,7 @@ blindaje
 blindar
 blíster
 bluf
+boa
 boato
 bobalicón
 bobina
@@ -1055,6 +1058,7 @@ canturreo
 cánula
 canuto
 caoba; #plant
+caparazón
 capataz
 capcioso
 capear
@@ -1171,6 +1175,7 @@ cautín
 cauto, cauteloso
 cavernario
 caviar
+cavidad
 cavilar
 cazo
 cazuela
@@ -1362,6 +1367,7 @@ coartar
 coba
 cobalto
 cobertizo
+cobertor
 cobertura
 cobijo
 cochambre
@@ -1574,6 +1580,7 @@ convoy
 convulsivo
 convulso
 copete
+copetón
 cópula; #zool
 copular
 coquetear
@@ -1912,6 +1919,7 @@ desuso
 desvaído
 desvalido
 desván
+desvariar
 desvarío
 desvelar
 desvencijado
@@ -2003,6 +2011,7 @@ disolvente
 disonancia
 disonante
 disonar
+dispar
 disparatado, disparato
 disparatar
 disparate
@@ -3068,6 +3077,7 @@ hurón
 hurra
 hurtadillas
 husmear
+ibandronato
 Ícaro
 iconoclasta
 ictericia
@@ -3533,6 +3543,7 @@ mana
 mánager
 manatí
 mancebía
+mancebo
 mancillado
 manco
 mandado
@@ -3717,6 +3728,7 @@ mnemotecnia, nemotecnia
 mnemotécnico, nemotécnico
 modestia
 módico
+modorra
 moflete
 mohín
 mojigatería
@@ -3765,6 +3777,7 @@ mozalbete
 mucamo
 muchedumbre
 muérdago, almuérdago
+muestrario
 mugir
 mujerona
 muletilla
@@ -4909,6 +4922,7 @@ sodomía
 soez
 sofisma
 sofocar
+sojuzgar
 solapa
 solapado
 solapar
@@ -5256,6 +5270,7 @@ trueque
 truhan
 tugurio
 tulipán; #plant
+tumbado
 tumbo
 tumbona
 tumulto
