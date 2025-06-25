@@ -118,6 +118,7 @@ adefesio
 adelfilla, laureola, lauréola; #plant [wk:epilobium_angustifolium]
 ademán
 adepto
+adherencia
 adiestrar
 aditamento
 adivino
@@ -166,6 +167,8 @@ afrecho
 afrenta
 afrodisíaco
 agalla
+agarrada
+agarre
 agarrotar
 agasajar
 ágata
@@ -339,6 +342,7 @@ amamantar
 amancebamiento
 amancebarse
 amapola; #plant
+amargor
 amarillismo
 amartillar
 amasijo
@@ -467,6 +471,7 @@ apiñado
 apiñar
 aplacar
 aplastante
+aplique
 aplomo
 apocamiento
 apocopar
@@ -1535,6 +1540,7 @@ consumar
 consunción
 contemplativo
 contencioso
+contextura
 continencia
 contingencia
 contingente
@@ -2007,6 +2013,7 @@ dislocación, dislocadura
 dislocar
 disociación
 disociar
+disoluto
 disolvente
 disonancia
 disonante
@@ -2992,6 +2999,7 @@ hez
 hibernación
 hibisco
 híbrido
+hidalgo
 hidra
 hidrocarburo
 hidrogel
@@ -3379,7 +3387,7 @@ languidecer
 lánguido
 lantana; #plant
 lanza
-lapídeo
+lapídeo, lapidoso
 lapso
 larguirucho
 lasitud
@@ -3430,6 +3438,7 @@ libelo
 libélula
 librepensamiento
 libreto
+licencioso
 lichi
 licitación
 licitador, licitante
@@ -3634,6 +3643,7 @@ mellar
 melodrama
 melodramático
 membrana
+membrete
 membrillo
 memo
 memorioso, memorión
@@ -3731,6 +3741,7 @@ módico
 modorra
 moflete
 mohín
+mohosearse
 mojigatería
 mojigato
 mojón
@@ -4374,6 +4385,7 @@ prolegómeno
 proletario
 prólogo
 promiscuidad
+promiscuo
 promisorio
 prontuario
 propaganda
@@ -4480,7 +4492,7 @@ ralentí
 ralentización
 ralentizar
 ralo
-ramequín, ramekin
+ramequin, ramequín, ramekin
 ramillete
 rampante
 rancidez
@@ -4839,6 +4851,7 @@ sepia
 sepsis
 septentrión
 septentrional
+septuagenario
 sepultar, enterrar
 séquito, comitiva
 serafín
