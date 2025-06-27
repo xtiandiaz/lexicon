@@ -1051,6 +1051,7 @@ canelón
 canijo
 canjear
 canon
+canónico
 cansino
 cantárida
 cantautor
@@ -1634,6 +1635,7 @@ cósmico
 cosmología
 cosmos
 costurero
+cota
 cotejar
 cotillear
 coto
@@ -1943,6 +1945,7 @@ devastar
 devengar
 devenir
 devoto
+diacrítico
 diadema
 diáfano
 diafragma
@@ -2845,6 +2848,7 @@ gigoló
 gimotear
 ginebra
 ginseng; #plant
+giratorio
 giroscopio, giróscopo
 gitano, calé, romaní
 glaciación
@@ -3206,7 +3210,7 @@ indulto
 inédito
 inefable
 ineludible
-inenarrable
+inenarrable, inefable
 inerme
 inescrutable
 inestimable
@@ -3506,6 +3510,7 @@ lúdico
 ludopatía
 lugareño
 lujuria
+lumbago
 lumen
 luminaria
 luminiscente
@@ -4271,7 +4276,7 @@ porquería
 porra
 porrada
 porrazo
-portamaletas
+portamaletas, maletero
 portavoz
 portazo
 portentoso
