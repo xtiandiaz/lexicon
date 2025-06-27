@@ -77,6 +77,7 @@ burly
 burrow
 bust
 buttermilk
+buzzer
 bygone
 bystander, onlooker, passerby
 cackling
@@ -522,6 +523,7 @@ shaggy
 sheepish
 sheer
 shimmer
+shoehorn
 shovelware
 shred
 shrewd

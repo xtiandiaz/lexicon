@@ -25,6 +25,7 @@ abocar
 abolir
 abombado
 abordaje
+aborregado
 abotargar, abotagar
 abrasar
 abrasión
@@ -113,6 +114,7 @@ acúmulo
 acunar
 acuñar
 acurrucarse
+acusado
 adecentar
 adefesio
 adelfilla, laureola, lauréola; #plant [wk:epilobium_angustifolium]
@@ -588,6 +590,7 @@ asechanza
 asediar
 aséptico
 asequible
+aserrado
 aserrar, serrar
 asertividad
 asertivo
@@ -974,9 +977,11 @@ bursa, bolsa sinovial
 butifarra
 cabal
 caballete
+cabecero
 cabestrillo
 cabestro
 cabezada
+cabezal
 cabezonería
 cabida
 cabildo
@@ -1344,7 +1349,7 @@ claraboya
 clarete
 clarividencia
 clarividente
-claroscuro
+claroscuro, claro oscuro
 claudicación
 clausura
 clavecín
@@ -1781,6 +1786,7 @@ dentellar
 dentellear
 denuedo
 deportar
+depredación
 depurar
 derogar
 derrochar
@@ -2549,6 +2555,7 @@ expiar
 expiatorio
 explayar
 explayarse
+expreso
 exprimir
 expropiar
 expurgar
@@ -2559,6 +2566,7 @@ extenuado
 extenuar
 extirpación
 extirpar
+extractivo
 extracto
 extrañeza
 extranjerismo
@@ -3521,6 +3529,7 @@ lustro
 luxación
 luxar
 macana
+macarrón
 macerar
 macilento
 macramé
@@ -3566,6 +3575,7 @@ mandamás, mandón
 mandolina
 mandón
 mandrágora, mandrágula; #plant
+maneki-neko
 manglar
 mangosta
 mangostino
@@ -3577,6 +3587,7 @@ manifiesto
 maniobra
 manipular
 maniqueísmo
+maniqueo
 maniquí
 manitoba
 manivela
@@ -3947,7 +3958,7 @@ orzuelo
 osadía
 osamenta, osatura
 oscilante
-oscurantismo
+oscurantismo, obscurantismo
 ósmosis, osmosis; #phys
 ostensible
 ostentación
@@ -4288,6 +4299,7 @@ poso
 posponer
 post mortem
 posta
+posteridad
 postigo
 postizo
 postor
@@ -4700,6 +4712,7 @@ retrospección
 retrovisor
 retumbante
 retumbar
+revenir
 reverberación
 reverberar
 revertir
