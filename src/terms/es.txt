@@ -810,6 +810,7 @@ basalto, basanita
 basculante
 bascular
 basilisco
+bastardo
 bastidor
 bastión
 batea
@@ -1057,6 +1058,7 @@ canijo
 canjear
 canon
 canónico
+canonizar
 cansino
 cantárida
 cantautor
@@ -1332,7 +1334,7 @@ circunscripción
 circunspección
 circunspecto
 cisco
-citoquina
+citoquina, citocina
 citrón, limón
 civeta, gato de algalia
 cizalla
@@ -1543,6 +1545,7 @@ constreñir
 constricción
 cónsul
 consumar
+consumismo
 consunción
 contemplativo
 contencioso
@@ -3384,6 +3387,7 @@ karma
 kinésica, quinésica
 kinesiología, quinesiología
 kohl, kohol
+kraken
 labrar
 lacayo
 lacónico
@@ -4198,6 +4202,7 @@ pigmentar
 pigmento
 pigmeo
 pilar
+píldora
 pileta
 pilotar, pilotear
 pilote
@@ -4785,6 +4790,7 @@ sabedor
 sabotaje
 sacarina
 saciedad
+sacralidad
 sacrilegio
 sacro
 sadismo
@@ -5418,6 +5424,7 @@ verborrea, verborragia, verbosidad
 verdín
 verdugo
 vereda
+veredicto
 verja
 vermiculita
 verosímil
