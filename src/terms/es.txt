@@ -142,10 +142,11 @@ adscrito
 aducir
 adulador
 adulón
+aerodinámica
 aeródromo
 aeroespacial
 aerófono
-aeróstato, aerostato
+aerostato, aeróstato
 afable
 afamado
 afasia
@@ -1251,6 +1252,7 @@ chanchullo
 changarro
 chantaje
 chantillí
+chapa
 chaparro, achaparrado
 chaparrón
 chapucero
@@ -1532,6 +1534,7 @@ conscripto
 consecución
 consenso
 consensual
+conserva
 consigna
 consonante
 conspicuo
@@ -1911,6 +1914,7 @@ desperdigado
 desperdigar
 despiece
 despiezar
+despilfarrar
 despilfarro
 desplantar
 desplomar
@@ -1958,6 +1962,7 @@ diacrítico
 diadema
 diáfano
 diafragma
+dial
 dialéctica
 dialecto
 diametral, diamétrico
@@ -2209,6 +2214,7 @@ encarrilar
 encasquetar
 encauzar
 encéfalo, cerebro
+enchapar, chapar
 encinta
 enclenque
 encomendar
@@ -2446,6 +2452,7 @@ esquilmar
 esquimal
 esquirla
 esquizofrenia; #med
+establo
 estaca
 estadio
 estalactita
@@ -2907,6 +2914,7 @@ granate
 grandilocuencia
 grandilocuente
 granel
+granero
 granjear
 granuja
 granulado
@@ -3017,6 +3025,7 @@ híbrido
 hidalgo
 hidra
 hidrocarburo
+hidrodinámica
 hidrogel
 hidromiel, hidromel, aguamiel
 hidroponía
@@ -3646,7 +3655,7 @@ mecedor
 mediación
 médium
 medrar
-médula
+médula, medula
 megáfono
 megalito
 mejillón
@@ -4269,6 +4278,7 @@ policromo, polícromo
 poliestireno, icopor (poliestireno expandido); #chem
 polifacético
 poligamia
+polineuritis
 polio, poliomielitis; #med
 pólipo
 pollera
