@@ -37,6 +37,7 @@ bandanna, bandana
 bangle
 banshee
 barbiturate
+barley
 barren
 barrister
 bedazzle
@@ -65,6 +66,7 @@ bonkers
 botched
 bracingly
 brackish
+bran
 break-in
 breakneck 
 brittle
