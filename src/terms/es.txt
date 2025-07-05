@@ -1,6 +1,4 @@
-pelusa
-romanizar
-tufillo
+-lisis
 ábaco
 abad
 abalorio
@@ -8,6 +6,7 @@ abanicar
 abarcar
 abarrotar
 abarrote
+abastecer
 abasto
 abatible
 abatido
@@ -435,6 +434,7 @@ antídoto
 antiembólico; #med
 antiemético
 antiespasmódico
+antifaz
 antígeno
 antihistamínico
 antioxidante
@@ -459,10 +459,8 @@ apacible
 apaciguar
 apañar
 aparador
-aparatoso
 aparataje
-paupérrimo
-ondulado
+aparatoso
 aparejar
 aparejo
 apatía
@@ -474,6 +472,7 @@ aperitivo
 apero
 apesadumbrado
 apetecer
+apetencia
 ápice
 apicultura
 apiñado
@@ -498,10 +497,6 @@ apostatar
 apostilla
 apostillar
 apremiante
-prudencia
-incipiente
-copado
-desorbitar
 apremiar
 apremio
 aprensión
@@ -553,7 +548,6 @@ arpón
 arqueo
 arquetipo
 arrabal
-baluarte
 arracimado, racimado
 arracimarse, enracimarse
 arraigar
@@ -667,6 +661,7 @@ atontar
 atopia
 atormentado
 atormentar
+atorvastatina
 atosigar
 atribular
 atril
@@ -718,6 +713,7 @@ avellano; #plant
 avenir
 aventar
 aventón
+aventurar
 avería
 averno
 aversión
@@ -774,6 +770,7 @@ ballenato
 ballesta
 balsámico
 balsamina; #plant 
+baluarte
 bamboleante
 bambú; #plant
 bañador
@@ -970,10 +967,12 @@ buey
 bufar
 bufete
 buhardilla, boardilla, buharda
+buitre
 buje
 bujía
 bulgur
 bulla
+bullente
 bullicio
 bullir
 bulo
@@ -988,10 +987,10 @@ burlete
 burlón
 buró
 bursa, bolsa sinovial
-sino
 butifarra
 cabal
 caballete
+caballón
 cabecero
 cabestrillo
 cabestro
@@ -1046,9 +1045,8 @@ camastrón
 cambalache
 cambiazo
 camelio, camelia; #plant
-cameo
-geoda
 camelo
+cameo
 camerino
 camillero
 caminador, andador, andadera
@@ -1151,6 +1149,8 @@ carroñero
 carroño
 cártamo, alazor
 cartera
+carterear
+carterista
 cartesiano
 cartucho
 carúncula
@@ -1330,6 +1330,7 @@ ciénaga
 cieno
 cierne
 cierre
+cifosis
 cifrar
 cigarra, chicharra
 cimarrón
@@ -1612,6 +1613,7 @@ convicto
 convoy
 convulsivo
 convulso
+copado
 copete
 copetón
 cópula; #zool
@@ -1699,6 +1701,7 @@ croissant
 crónica
 crónico
 cronología
+cronotipo
 crucíferas; #bot
 cruento, sangriento
 crujido
@@ -1726,9 +1729,8 @@ culero
 cumbre
 cúmulo
 cuñado
-cuncuna
 cuncho, concho
-kitsch
+cuncuna
 cundir
 cuneiforme
 cuneta, zanja
@@ -1757,6 +1759,7 @@ dátil
 datilero
 de facto, de hecho
 deambular
+decálogo
 decano
 decantador
 decantar
@@ -1775,6 +1778,7 @@ deductivo
 defenestrar
 defensiva
 deferencia
+deferente
 déficit
 defraudar
 defunción
@@ -1825,7 +1829,6 @@ desahucio
 desairar
 desaire
 desalentador
-lenidad
 desaliñado
 desaliñar
 desaliño
@@ -1873,6 +1876,7 @@ desecar
 desembragar
 desembuchar
 desenmarañar, desmarañar
+desenmascarar
 desenvoltura
 desertar
 desertor
@@ -1918,6 +1922,7 @@ desolación
 desolado
 desollar
 desorbitado
+desorbitar
 despachar
 despampanante
 despampanar
@@ -2000,10 +2005,10 @@ didáctico
 diencéfalo
 diente de león; #plant [wk:taraxacum_officinale]
 diestro
+dietario
 diezmar
 diezmo
 difamación
-escuálido
 difamar
 difundir
 dignatario
@@ -2204,6 +2209,7 @@ empedernido
 empeine, peine
 empellón
 empeñado
+empeñar
 empeño
 empírico
 emplazamiento
@@ -2285,6 +2291,7 @@ enjuto
 enladrillar
 enlentecer, lentificar
 enmarañar
+enmascarar
 enmelar
 enmendar
 enología
@@ -2339,8 +2346,11 @@ epicentro
 epidemia
 epifanía
 epifenómeno
+epigenética, epigenómica
 epigenoma
+epigrama
 epílogo
+epitafio
 epítome
 epónimo
 epopeya
@@ -2361,6 +2371,7 @@ errar
 errático
 erudición
 erudito
+esbirro
 esbozar
 escabel
 escabroso
@@ -2394,7 +2405,6 @@ escéptico
 escindir
 esclerosis
 esclusa
-segregación
 escocer
 escogencia, escogimiento
 escollo
@@ -2412,6 +2422,7 @@ escrúpulo
 escrupuloso
 escrutar
 escrutinio
+escuálido
 escudero
 escudilla
 escudriñar
@@ -2522,7 +2533,6 @@ estratega, estratego, táctico
 estrato
 estratosfera, estratósfera; #meteor
 estratosférico; #meteor
-fétido
 estremecer
 estreñinimiento
 estrépito
@@ -2550,7 +2560,6 @@ etnia
 etnografía
 eufonía
 euforia
-epigrama
 eufórico
 eugenesia; #med
 eustrés
@@ -2584,7 +2593,6 @@ expatriado
 expatriar
 expectorar
 expiar
-deferente
 expiatorio
 explayar
 explayarse
@@ -2599,6 +2607,7 @@ extenuado
 extenuar
 extirpación
 extirpar
+extorsionar
 extractivo
 extracto
 extrañeza
@@ -2617,6 +2626,7 @@ fabuloso
 facción
 faccioso
 facha
+facho
 facilongo
 facineroso
 facistol
@@ -2680,6 +2690,7 @@ fervor
 fetiche
 fetichismo
 fetidez
+fétido
 feúcho
 fez
 fiabilidad
@@ -2746,6 +2757,7 @@ fonógrafo
 fontanero
 forajido
 forcejear
+fórceps
 forense
 formativo
 formidable
@@ -2791,6 +2803,7 @@ frondosidad
 frontón
 fructificar
 frugal
+frugalidad
 fruición
 fruncir
 fruslería
@@ -2877,6 +2890,7 @@ genoma
 gentío
 gentuza
 genuflexión
+geoda
 geología
 geomancia, geomancía
 geranio, cardenal; #plant [wk:geranium]
@@ -3013,7 +3027,6 @@ hazaña
 hebra
 hecatombe
 hectárea
-abastecer
 heder
 hedonismo
 hedor
@@ -3128,8 +3141,8 @@ huidizo
 humareda, humarada
 hundimiento
 huracán
-huraño
 hurañía
+huraño
 hurón
 hurra
 hurtadillas
@@ -3142,7 +3155,6 @@ ictérico
 ictus
 ídem
 idílico
-libertino
 idilio
 idiosincrasia
 ídolo
@@ -3173,9 +3185,6 @@ impermeable
 impersonal
 impertérrito
 impertinente 
-buitre
-loable
-bullente
 impétigo
 ímpetu
 impetuoso
@@ -3206,7 +3215,6 @@ inamovible
 inane
 inanición
 inapetencia
-apetencia
 inapreciable
 inarmónico
 inasequible
@@ -3218,6 +3226,7 @@ incendiario
 incesante
 incidental
 incienso
+incipiente
 incisión
 incisivo
 inciso
@@ -3384,6 +3393,7 @@ irreflexivo
 irremisible
 irresolución
 irresoluto
+irrisión
 irrisorio
 irrumpir
 irrupción
@@ -3425,6 +3435,7 @@ kamikaze, camicace
 karma
 kinésica, quinésica
 kinesiología, quinesiología
+kitsch
 kohl, kohol
 kraken
 labrar
@@ -3450,6 +3461,7 @@ lastimero
 lastimoso, lastimero
 lastrar
 latitud; #geogr
+laúd
 laudable
 láudano
 laureado
@@ -3468,6 +3480,7 @@ lejía, lavandina
 lémur
 lengua franca
 lenguaraz
+lenidad
 lentificar
 leonino
 leotardo
@@ -3491,6 +3504,7 @@ liar
 libelista
 libelo
 libélula
+libertino
 librepensamiento
 libreto
 licencioso
@@ -3523,6 +3537,7 @@ lipoproteína
 liquen
 líquenes
 liquidar
+lírica
 lirio, lis, lilio; #plant [wk:iris_(planta)]
 lirón
 lisonja
@@ -3534,6 +3549,7 @@ litigio
 litoral
 litosfera
 lívido
+loable
 lobotomía
 lóbrego
 locomotriz, locomotora
@@ -3548,6 +3564,7 @@ longevidad
 longevo
 longitud; #geogr
 longitudinal; #psych
+lordosis
 lori
 losa
 loto; #plant [wk:nelumbo_nucifera]
@@ -3602,6 +3619,7 @@ malparado
 maltrecho
 malva; #plant
 malvivir
+mamarracho
 mameluco, mono
 mamerto
 mamotreto
@@ -3675,6 +3693,7 @@ máxime
 mayal
 mayólica
 mazacote
+mazazo
 mazmorra
 mazo
 meandro
@@ -3724,7 +3743,6 @@ mentecato
 mentirijillas
 menudo
 meollo
-mamarracho
 mequetrefe
 mercader
 merced
@@ -3799,6 +3817,7 @@ mnemotécnico, nemotécnico
 modestia
 módico
 modorra
+mofa
 moflete
 mohín
 mohosearse
@@ -3928,6 +3947,7 @@ obsequioso
 obsidiana
 obstetra
 obstetricia
+obtuso
 obús
 oca
 ocaso
@@ -3942,6 +3962,7 @@ odisea
 odre
 ofensiva
 oferente
+oftalmología
 ofuscación, ofuscamiento
 ofuscar
 ojeriza
@@ -3958,6 +3979,7 @@ omiso
 omnímodo
 omnipotencia
 oncología, cancerología; #med
+ondulado
 onigiri
 onírico
 onomatopeya
@@ -3970,11 +3992,10 @@ oporto
 oportunismo
 oportunista
 oprobio
-probidad
-poste
 optar
 optativo
 óptimo
+optometría
 opulencia
 opulento
 oquedad
@@ -3985,6 +4006,7 @@ ordinariez
 oréade, oréada
 orellana
 orfanato, orfelinato
+orfandad
 orfebre
 orfebrería
 organoléptico
@@ -4069,6 +4091,7 @@ panqueque, panqueca, tortica
 pantano
 panteísmo
 panteón
+pantomima
 pantorrilla, pantorra
 papamoscas; #bird
 papanatas, paparote
@@ -4141,7 +4164,9 @@ patológico; #med
 patraña
 patrón
 paulatino
+paupérrimo
 pauta
+pautar
 pavada
 pavonear
 pavonearse
@@ -4161,6 +4186,7 @@ pelele
 peletería
 pelma
 peltre
+pelusa
 penacho
 penca
 pendenciero
@@ -4327,6 +4353,8 @@ ponderosa
 ponzoña
 ponzoñoso
 popa
+populismo
+populista
 poquedad
 porfiado, terco, obstinado
 pormenor
@@ -4347,6 +4375,7 @@ poso
 posponer
 post mortem
 posta
+poste
 posteridad
 postigo
 postizo
@@ -4397,13 +4426,6 @@ preponderar
 prepotencia
 presagiar
 presbicia
-esbirro
-lírica
-quincuagésimo
-mazazo
-orfandad
-populista
-populismo
 prescindir
 prescribir
 presidiario
@@ -4422,11 +4444,6 @@ presuponer
 pretensión
 pretérito
 pretexto
-extorsionar
-carterista
-carterear
-sustraer, substraer
-frugalidad
 pretina
 prevalencia
 prevaler
@@ -4444,6 +4461,7 @@ proa
 proactivo
 probatorio, probativo
 probeta
+probidad
 probiótico
 probóscide
 proclive
@@ -4485,6 +4503,7 @@ proverbio, adagio, refrán
 provincia
 provisorio, provisional
 prozac
+prudencia
 psicoactivo, sicoactivo
 psicoanálisis, sicoanálisis
 psicodélico, sicodélico
@@ -4538,8 +4557,8 @@ querubín
 quicio
 quid
 quilla
-ráspano, arándano
 quimera
+quincuagésimo
 quinina, quina
 quiosco
 quirófano
@@ -4586,6 +4605,7 @@ raquídeo
 raquis
 rascacielos
 raso
+ráspano, arándano
 rastra
 rastrojera
 rastrojo, rastrojal
@@ -4753,6 +4773,7 @@ retener
 reticencia
 reticente
 reticular
+retinopatía
 retintín
 retiro
 retoño
@@ -4820,6 +4841,7 @@ rododendro, rosadelfa; #plant
 roedor
 roer
 rogativa
+romanizar
 rompiente
 roña
 roñoso
@@ -4909,6 +4931,7 @@ sedición
 sedicioso
 segar
 seglar
+segregación
 segundón
 selfi
 semántica
@@ -4981,6 +5004,7 @@ síndico
 sinfín
 sinfonía
 siniestro
+sino
 sinovial
 sinsabor
 sinsentido
@@ -5125,6 +5149,7 @@ suspenso
 suspicaz
 sustitutivo, substitutivo
 sustraendo, substraendo
+sustraer, substraer
 susurro
 sute
 sutil
@@ -5276,6 +5301,7 @@ tozudez
 tozudo
 trabar
 trabazón
+trabécula
 tracoma
 traficante
 tragaluz
@@ -5362,6 +5388,7 @@ trovador
 trozo
 trueque
 truhan
+tufillo
 tugurio
 tulipán; #plant
 tumbado
@@ -5400,13 +5427,6 @@ unicidad
 unísono
 untuosidad
 urbanita, urbanícola
-desenmascarar
-enmascarar
-antifaz
-aventurar
-irrisión
-mofa
-pantomima
 urdimbre
 uretra
 urogallo
@@ -5538,8 +5558,8 @@ viruta
 viscoso
 visera
 visillo, velo, cortinilla
-vislumbre
 vislumbrar
+vislumbre
 viso
 visón
 víspera

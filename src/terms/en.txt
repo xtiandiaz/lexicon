@@ -129,6 +129,8 @@ chip
 chirp
 chortle
 chronology
+chronotype
+circadian
 city dweller
 clamber
 clammy
@@ -315,6 +317,7 @@ floodplain
 flounder
 fluctuate
 fluff
+flutter
 fluttering
 foggy
 folly
@@ -398,6 +401,7 @@ herald
 herring
 high-minded
 highboy
+highlands
 hilt
 hitherto
 hoarse
@@ -428,6 +432,7 @@ impassive
 impervious
 impiety
 impostor, imposter
+incel
 incipient
 inculcate
 incumbent
@@ -484,6 +489,7 @@ ludic
 ludicrous
 lumpy
 lurch
+lute
 lye
 magpie
 maim
@@ -542,6 +548,7 @@ nuisance
 nutjob
 nutmeg
 oaf
+obliterate
 occlude
 off-putting
 offhand
@@ -575,6 +582,7 @@ pastiche
 pastureland
 pasty
 paw
+pawn
 pebble
 peck
 peddle
@@ -671,6 +679,7 @@ retrace
 revel
 revile
 rickety
+ridge
 rig
 rim
 rogue
@@ -923,6 +932,7 @@ wire nut
 wisp
 withstand
 wondrous
+wrath
 wreak
 wreath
 wrench
