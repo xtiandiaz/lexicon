@@ -1,3 +1,6 @@
+pelusa
+romanizar
+tufillo
 ábaco
 abad
 abalorio
@@ -457,6 +460,9 @@ apaciguar
 apañar
 aparador
 aparatoso
+aparataje
+paupérrimo
+ondulado
 aparejar
 aparejo
 apatía
@@ -492,6 +498,10 @@ apostatar
 apostilla
 apostillar
 apremiante
+prudencia
+incipiente
+copado
+desorbitar
 apremiar
 apremio
 aprensión
@@ -543,6 +553,7 @@ arpón
 arqueo
 arquetipo
 arrabal
+baluarte
 arracimado, racimado
 arracimarse, enracimarse
 arraigar
@@ -900,6 +911,7 @@ bofia
 boicot, boicoteo
 boicotear
 boina
+bollería
 bolsón
 bonachón
 bonanza
@@ -976,6 +988,7 @@ burlete
 burlón
 buró
 bursa, bolsa sinovial
+sino
 butifarra
 cabal
 caballete
@@ -1033,6 +1046,8 @@ camastrón
 cambalache
 cambiazo
 camelio, camelia; #plant
+cameo
+geoda
 camelo
 camerino
 camillero
@@ -1712,6 +1727,8 @@ cumbre
 cúmulo
 cuñado
 cuncuna
+cuncho, concho
+kitsch
 cundir
 cuneiforme
 cuneta, zanja
@@ -1808,6 +1825,7 @@ desahucio
 desairar
 desaire
 desalentador
+lenidad
 desaliñado
 desaliñar
 desaliño
@@ -1983,7 +2001,9 @@ diencéfalo
 diente de león; #plant [wk:taraxacum_officinale]
 diestro
 diezmar
+diezmo
 difamación
+escuálido
 difamar
 difundir
 dignatario
@@ -2138,7 +2158,6 @@ eludir
 elusión
 elusivo
 emancipar
-emanciparse
 embadurnar
 embalar
 embalse
@@ -2375,6 +2394,7 @@ escéptico
 escindir
 esclerosis
 esclusa
+segregación
 escocer
 escogencia, escogimiento
 escollo
@@ -2502,6 +2522,7 @@ estratega, estratego, táctico
 estrato
 estratosfera, estratósfera; #meteor
 estratosférico; #meteor
+fétido
 estremecer
 estreñinimiento
 estrépito
@@ -2529,6 +2550,7 @@ etnia
 etnografía
 eufonía
 euforia
+epigrama
 eufórico
 eugenesia; #med
 eustrés
@@ -2562,6 +2584,7 @@ expatriado
 expatriar
 expectorar
 expiar
+deferente
 expiatorio
 explayar
 explayarse
@@ -2990,6 +3013,7 @@ hazaña
 hebra
 hecatombe
 hectárea
+abastecer
 heder
 hedonismo
 hedor
@@ -3105,6 +3129,7 @@ humareda, humarada
 hundimiento
 huracán
 huraño
+hurañía
 hurón
 hurra
 hurtadillas
@@ -3117,6 +3142,7 @@ ictérico
 ictus
 ídem
 idílico
+libertino
 idilio
 idiosincrasia
 ídolo
@@ -3146,7 +3172,10 @@ impermanencia
 impermeable
 impersonal
 impertérrito
-impertinente
+impertinente 
+buitre
+loable
+bullente
 impétigo
 ímpetu
 impetuoso
@@ -3177,6 +3206,7 @@ inamovible
 inane
 inanición
 inapetencia
+apetencia
 inapreciable
 inarmónico
 inasequible
@@ -3694,7 +3724,8 @@ mentecato
 mentirijillas
 menudo
 meollo
-mequetrefe, fantoche, mamarracho
+mamarracho
+mequetrefe
 mercader
 merced
 mercería
@@ -3939,6 +3970,8 @@ oporto
 oportunismo
 oportunista
 oprobio
+probidad
+poste
 optar
 optativo
 óptimo
@@ -4364,6 +4397,13 @@ preponderar
 prepotencia
 presagiar
 presbicia
+esbirro
+lírica
+quincuagésimo
+mazazo
+orfandad
+populista
+populismo
 prescindir
 prescribir
 presidiario
@@ -4382,6 +4422,11 @@ presuponer
 pretensión
 pretérito
 pretexto
+extorsionar
+carterista
+carterear
+sustraer, substraer
+frugalidad
 pretina
 prevalencia
 prevaler
@@ -4493,6 +4538,7 @@ querubín
 quicio
 quid
 quilla
+ráspano, arándano
 quimera
 quinina, quina
 quiosco
@@ -4773,6 +4819,7 @@ rodal
 rododendro, rosadelfa; #plant
 roedor
 roer
+rogativa
 rompiente
 roña
 roñoso
@@ -5353,6 +5400,13 @@ unicidad
 unísono
 untuosidad
 urbanita, urbanícola
+desenmascarar
+enmascarar
+antifaz
+aventurar
+irrisión
+mofa
+pantomima
 urdimbre
 uretra
 urogallo
@@ -5485,6 +5539,7 @@ viscoso
 visera
 visillo, velo, cortinilla
 vislumbre
+vislumbrar
 viso
 visón
 víspera
