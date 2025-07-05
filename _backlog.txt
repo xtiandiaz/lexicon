@@ -17,6 +17,8 @@ epigenética
 retinopatía
 fórceps
 obtuso
+caballón
+cronotipo
 ---
 pawn
 highlands
@@ -25,3 +27,8 @@ obliterate
 wrath
 incel
 flutter
+ridge
+furrow
+tangent
+circadian
+chronotype
