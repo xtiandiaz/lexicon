@@ -81,6 +81,7 @@ achicoria, chicoria; #plant
 achinado
 achispado
 aciago
+ácido perfluorooctanoico, PFOA
 acogotar
 acólito
 acometer
@@ -1656,6 +1657,7 @@ cortafuego
 cortaplumas
 cortejo
 cortesano
+córtex
 cortical
 cortisol; #physiol
 corvina
@@ -1834,6 +1836,7 @@ desaliñar
 desaliño
 desambiguar
 desamparo
+desánimo
 desanudar
 desapacible
 desapego
@@ -2039,7 +2042,7 @@ discriminativo, discriminatorio
 discurrir
 discurso
 diseccionar
-disensión, disenso
+disensión
 disenso, disentimiento
 disentería
 disentir
@@ -2742,7 +2745,7 @@ floritura
 flotante
 fluctuación
 fluctuar
-fluoxetina
+fluoxetina, Prozac
 fobia
 focalizar
 fofo, bofo
@@ -2923,6 +2926,7 @@ golondrina
 goloso
 golpeteo
 golpista
+gomaespuma, goma espuma
 gomina
 gónada
 gonalgia
@@ -3479,6 +3483,7 @@ lego
 lejía, lavandina
 lémur
 lengua franca
+lenguado
 lenguaraz
 lenidad
 lentificar
@@ -3840,6 +3845,7 @@ monomanía
 monserga
 monstera deliciosa; #plant
 montículo
+moqueta
 moquillo
 morar
 mordaz
@@ -3887,6 +3893,8 @@ nadir
 nailon
 nampla
 narcótico; #med
+naturópata
+naturopatía
 navío
 neceser
 necrofilia
@@ -4278,11 +4286,12 @@ piltrafa
 pináculo
 pinche
 piñón
+pionero 
 pique
 pira
 piragua
 pirlán
-pirólisis
+pirólisis, pirolisis
 piromanía
 pirómano, piromaníaco
 pírrico
@@ -4340,6 +4349,7 @@ poligamia
 polineuritis
 polio, poliomielitis; #med
 pólipo
+politetrafluoroetileno, PTFE, teflón
 pollera
 pomelo
 pómez, pumita
@@ -4502,7 +4512,6 @@ proveer
 proverbio, adagio, refrán
 provincia
 provisorio, provisional
-prozac
 prudencia
 psicoactivo, sicoactivo
 psicoanálisis, sicoanálisis
@@ -4667,6 +4676,7 @@ refranero
 refrigerio
 refugio
 refulgir
+refundir
 refunfuñar
 regañadientes, regaña dientes
 regata
@@ -5296,6 +5306,7 @@ tortuoso, sinuoso
 torva
 torvo
 tosco
+toxina
 toxoplasmosis
 tozudez
 tozudo

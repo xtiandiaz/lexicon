@@ -115,6 +115,7 @@ cameo
 canter
 capricious
 caret
+caretaker
 carom
 carp
 caucasian
@@ -663,7 +664,6 @@ recoil
 reed
 reel
 reflux
-refundir
 regress
 rehash
 relic
@@ -891,6 +891,7 @@ unorthodox
 unsavory
 unwitting
 upheaval
+uphold
 urge
 vapor lamp
 varnish
