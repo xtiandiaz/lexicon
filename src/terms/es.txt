@@ -282,6 +282,7 @@ alforja
 algalia
 algarabía
 algazara
+álgido
 alginato
 algodonoso
 alhaja
@@ -522,6 +523,7 @@ arbitrariedad
 arbitrario
 arcada
 arcaico
+arcano
 arce; #plant
 arcén
 arcilla
@@ -1437,6 +1439,7 @@ colgante
 colibrí
 colicero
 coligar
+colimbo
 colindante
 colindar
 colmena
@@ -1463,6 +1466,7 @@ comezón
 comicidad
 comilón
 comisura
+comitiva
 cómoda
 compadrazgo
 compaginar
@@ -1563,6 +1567,7 @@ consternar
 constipación
 constreñir
 constricción
+constrictivo
 cónsul
 consumar
 consumismo
@@ -1631,6 +1636,7 @@ cordón
 cordura
 corear
 corégono
+corimbo
 corneta
 cornisa
 cornucopia
@@ -1905,6 +1911,7 @@ desidioso
 designación
 designar
 designio
+desinfectar
 desliar
 desliz
 deslocalización
@@ -2491,6 +2498,7 @@ estaca
 estadio
 estalactita
 estalagmita
+estamento
 estampa
 estampida
 estancia
@@ -2506,6 +2514,7 @@ estera
 estereotipado
 estereotipo
 esterilización
+esterilizar
 esterilla
 esternón
 estertor
@@ -3073,6 +3082,8 @@ hidroponía
 hidropónico
 hiedra, yedra; #plant [wk:hedera]
 higiene
+higiénico
+higienizar
 higo
 higuera; #plant
 hilacha, hilacho
@@ -3520,6 +3531,7 @@ licitar
 licuar
 lienzo
 ligadura
+ligamaza
 ligamento
 ligereza
 lignificar
@@ -3712,6 +3724,7 @@ medrar
 médula, medula
 megáfono
 megalito
+megatón
 mejillón
 mejorana; #plant [wk:origanum_majorana]
 melado
@@ -3822,6 +3835,7 @@ mnemotécnico, nemotécnico
 modestia
 módico
 modorra
+modus operandi
 mofa
 moflete
 mohín
@@ -4156,6 +4170,7 @@ pasmo
 pasota
 pasotismo
 paspartú
+pasteurizar
 pastiche
 pastoreo
 pastoso
@@ -4186,6 +4201,7 @@ peculado
 pecuniario, monetario
 pedigüeño
 pedipalpo
+pedregal
 peer
 peladura, mondadura
 pelandusca, pelandrusca
@@ -4373,6 +4389,7 @@ porquería
 porra
 porrada
 porrazo
+portador
 portamaletas, maletero
 portavoz
 portazo
@@ -4548,6 +4565,7 @@ puntiagudo
 puntilloso
 punzante
 purga
+purificar
 purismo
 purista
 puritanismo
@@ -4658,6 +4676,7 @@ recusable
 recusar
 redada
 redaño
+redecilla
 redención
 redimir
 redoble
@@ -4751,6 +4770,7 @@ repostería
 repostero
 represalia
 representante
+requisar
 resabiado
 resabio
 resaca
@@ -4926,6 +4946,7 @@ satinar
 satirizar
 saturar
 sauce, salce, salguera; #plant
+savia
 sebáceo
 seborrea
 seborreico
@@ -4994,6 +5015,7 @@ sicomoro, sicómoro; #plant
 sideral
 sidra
 sidrería
+siempreviva
 sien
 siervo
 sífilis

@@ -7,6 +7,7 @@ acrylonitrile-butadiene-styrene, ABS; #chem
 acumen
 addle
 adherent
+adjourn
 affinity
 affliction
 aftermath
@@ -131,6 +132,7 @@ chirp
 chortle
 chronology
 chronotype
+chuffed
 circadian
 city dweller
 clamber
@@ -222,6 +224,7 @@ dispossession
 disquiet
 distraught
 distress
+diver
 dividend
 doddery
 dogma
@@ -253,6 +256,7 @@ edema, oedema, dropsy
 egalitarianism
 egg
 egregious
+eidetic
 elusive
 emaciated
 embodiment
@@ -269,6 +273,7 @@ epigram
 epiphany
 equate
 ergonomics
+escalator
 eschew
 escow
 esoteric
@@ -285,6 +290,7 @@ exploitative, exploitive
 extol
 extort
 extractive
+eyebolt
 facsimile
 faction
 factious
@@ -410,6 +416,7 @@ hob
 hoist
 holler
 homonym
+honeydew
 hub
 huckleberry
 huddle
@@ -450,6 +457,7 @@ intrinsically
 inure, enure
 irk
 irksome
+itinerant
 jargon, argot
 jaunty
 jay
@@ -556,6 +564,7 @@ offhand
 offshoring
 ombudsman
 on edge
+onset
 oompa loompa
 opprobrious
 opprobrium
@@ -572,6 +581,7 @@ outward
 overdraft
 overtime
 paddock
+painstaking
 palaver
 palmistry
 palmy
@@ -637,6 +647,7 @@ proceeds
 prod
 prong
 propensity
+protracted
 proverb
 puerile
 puff
@@ -648,6 +659,7 @@ quarrel
 quarry
 quell
 quixotic
+raft
 rancid
 rancor
 rapt
@@ -667,6 +679,7 @@ reflux
 regress
 rehash
 relic
+remand
 remark
 rennet
 repudiate
@@ -690,6 +703,7 @@ run-down
 runoff
 rut
 sallow
+sap
 sappy
 sash
 savvy
@@ -707,6 +721,7 @@ scowl
 scram
 scramble
 scree
+screw eye
 scrim
 scrollwork
 scrounge
@@ -754,6 +769,7 @@ sleazy
 slice-of-life
 sling
 slither
+sliver
 sludge
 sluggish
 sluice
@@ -784,6 +800,7 @@ spool
 spotlight
 sprawl
 sprawling
+spree
 sprig
 squabble
 squeal
@@ -802,6 +819,7 @@ steed
 sterling
 stonewalling
 stoop
+stout
 strain
 stranded
 stratification
@@ -848,6 +866,7 @@ terse
 thaw
 thick
 thistle
+thoroughfare
 thrash
 threshold
 thrifty
@@ -894,6 +913,7 @@ upheaval
 uphold
 urge
 vapor lamp
+variegated
 varnish
 vendace
 vermin
@@ -914,6 +934,7 @@ waive
 waiver
 wall hanging
 wallow
+wandering
 wangle 
 warble
 warfare
@@ -931,6 +952,7 @@ windfall
 winding
 wire nut
 wisp
+wither
 withstand
 wondrous
 wrath
