@@ -36,7 +36,7 @@ test('Term Unicity', () => {
     if (index < array.length - 2) {
       const word = cleanWord(rawTerm.split(',')[0])
       const nextRawTerm = array[index + 1]
-      const regEx = new RegExp(`^${word}([,\s]+)?$`)
+      const regEx = new RegExp(`^${word}([,\\s]*)?$`)
       const expectation = !regEx.test(nextRawTerm)
       
       if (!expectation) {
