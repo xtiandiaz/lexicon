@@ -14,10 +14,10 @@ abatir
 abdicar
 abducción
 abducir
-abedul; #plant
+abedul
 aberración
 aberrante
-abeto, pinabete, sapino; #plant
+abeto, pinabete, sapino
 abigarrado
 abismo
 ablación
@@ -77,7 +77,7 @@ achaparrado
 achaque
 achicharrante
 achicharrar
-achicoria, chicoria; #plant
+achicoria, chicoria
 achinado
 achispado
 aciago
@@ -120,7 +120,7 @@ acurrucarse
 acusado
 adecentar
 adefesio
-adelfilla, laureola, lauréola; #plant [wk:epilobium_angustifolium]
+adelfilla, laureola, lauréola
 ademán
 adepto
 adherencia
@@ -134,12 +134,12 @@ adoctrinar, doctrinar
 adondequiera
 adoquín
 adormecer
-adormidera; #plant
+adormidera
 adormitarse, adormilarse
 adosado
 adosar
 adrede
-adrenalina, epinefrina; #physiol #med
+adrenalina, epinefrina
 adscribir
 adscrito
 aducir
@@ -178,12 +178,12 @@ agarre
 agarrotar
 agasajar
 ágata
-agave, pita, maguey; #plant
+agave, pita, maguey
 agazapado, hipócrita
 agazapar
 aglomeración
 aglomerar
-aglutinante; #med
+aglutinante
 aglutinar
 agnóstico
 agobiar
@@ -249,11 +249,11 @@ alcahuete, alcahueta
 álcali, cali
 alcalino
 alcanfor
-alcanforero, alcanfor; #plant
-alcaraván; #bird
+alcanforero, alcanfor
+alcaraván
 alcatraz
 alcaucil
-alcornoque; #plant
+alcornoque
 alcurnia
 aldaba
 aleatorio
@@ -326,7 +326,7 @@ altorrelieve, alto relieve
 altozano
 altruismo
 altruista
-alubia, judía, fréjol, fríjol; #plant
+alubia, judía, fréjol, fríjol
 alucinación
 alucinar
 alud
@@ -344,11 +344,11 @@ alzamiento
 alzapié
 alzar
 amainar
-amalgama; #chem
+amalgama
 amamantar
 amancebamiento
 amancebarse
-amapola; #plant
+amapola
 amargor
 amarillismo
 amartillar
@@ -361,7 +361,7 @@ amenizar
 ameno
 ameritar
 ametrallar
-amígdala, tonsila; #anat
+amígdala, tonsila
 amigote
 amilanar
 aminorar
@@ -433,7 +433,7 @@ anticipar
 anticipo
 anticuerpo
 antídoto
-antiembólico; #med
+antiembólico
 antiemético
 antiespasmódico
 antifaz
@@ -514,17 +514,17 @@ aquiescencia, consentimiento, asenso
 aquilino
 arabesco
 arado
-arándano, mortiño, anavia; #plant
+arándano, mortiño, anavia
 arar
 aras
-araucaria; #plant
+araucaria
 arbitrar
 arbitrariedad
 arbitrario
 arcada
 arcaico
 arcano
-arce; #plant
+arce
 arcén
 arcilla
 ardid, astucia
@@ -544,7 +544,7 @@ armatoste
 armazón
 armiño
 armisticio
-árnica; #plant 
+árnica
 arpía, harpía
 arpillera, harpillera
 arpón
@@ -626,7 +626,7 @@ astracán, astrakán
 astringente, astrictivo
 astringir
 astrología
-astromelia; #plant 
+astromelia
 astroso
 astucia
 astuto
@@ -712,7 +712,7 @@ avante
 avasallar
 avefría
 avejentar
-avellano; #plant
+avellano
 avenir
 aventar
 aventón
@@ -736,8 +736,8 @@ ayuntamiento
 ayurveda
 ayurvédico
 azabache
-azafrán; #plant [wk:crocus_sativus]
-azalea, azálea, rosadelfa; #plant
+azafrán
+azalea, azálea, rosadelfa
 azar
 azaramiento
 azarar
@@ -747,7 +747,7 @@ azogue
 azorar
 azotaina
 azotea
-azucena; #plant
+azucena
 azuzado
 azuzar
 babel
@@ -772,10 +772,10 @@ balido
 ballenato
 ballesta
 balsámico
-balsamina; #plant 
+balsamina
 baluarte
 bamboleante
-bambú; #plant
+bambú
 bañador
 banal
 banalizar
@@ -798,7 +798,7 @@ barbilampiño
 barbitúrico
 barcaza
 barda
-bardal; #plant
+bardal
 baremar
 baremo
 bareta
@@ -809,7 +809,7 @@ barrabasada
 barraca
 barracón
 barranco
-barrancolí; #bird [wk:todus_subulatus]
+barrancolí
 barrena
 barreño
 barricada
@@ -867,7 +867,7 @@ bife
 bifurcarse
 bilirrubina
 binario
-bioma; #biol
+bioma
 biomarcador
 biombo
 biopsia
@@ -884,7 +884,7 @@ blando
 blasfemar
 blasón
 blazer
-bledo; #plant
+bledo
 blindado
 blindaje
 blindar
@@ -1029,7 +1029,7 @@ calcar
 caldear
 caldo
 caleidoscopio, calidoscopio
-caléndula; #plant 
+caléndula
 calesa
 calibrador
 caliche
@@ -1047,7 +1047,7 @@ camastro
 camastrón
 cambalache
 cambiazo
-camelio, camelia; #plant
+camelio, camelia
 camelo
 cameo
 camerino
@@ -1087,7 +1087,7 @@ canturrear, canturriar
 canturreo
 cánula
 canuto
-caoba; #plant
+caoba
 caparazón
 capataz
 capcioso
@@ -1124,11 +1124,11 @@ carcasa
 carcoma
 carcomer
 carda
-cardamomo; #plant
-cardenal; #bird
+cardamomo
+cardenal
 cardiología
 cardiopatía
-cardo; #plant
+cardo
 cardumen, cardume, banco
 carestía
 cargante
@@ -1145,7 +1145,7 @@ carraspera
 carrete
 carretilla
 carretón
-carrizo; #plant [wk:carrizo#botánica]
+carrizo
 carrocería
 carroña
 carroñero
@@ -1167,7 +1167,7 @@ casquete
 casta
 castaña
 castañetear, castañear
-castaño; #plant [wk:castanea]
+castaño
 castañuela
 casto
 castrense
@@ -1346,7 +1346,7 @@ cincel
 cínico
 cinismo
 cinta
-ciprés; #plant
+ciprés
 circa
 circadiano
 circunnavegar
@@ -1359,7 +1359,7 @@ citoquina, citocina
 citrón, limón
 civeta, gato de algalia
 cizalla
-cizaña; #plant 
+cizaña
 cizañar, encizañar
 clamar
 clamor
@@ -1376,12 +1376,12 @@ claroscuro, claro oscuro
 claudicación
 clausura
 clavecín
-clavel, clavellina; #plant [wk:dianthus_caryophyllus]
+clavel, clavellina
 clavetear
 clavícula
 clavija
 claxon
-clemátide; #plant 
+clemátide
 clemencia
 clérigo
 clero, clerecía
@@ -1453,7 +1453,7 @@ colosal
 coloso
 columnista
 colutorio
-colza; #plant
+colza
 comadrear
 comadreja, chucuri
 comadrón
@@ -1508,7 +1508,7 @@ condecorar
 condicionamiento
 condicionar
 condonar
-condropatía, condromalacia; #med
+condropatía, condromalacia
 condroplastia
 conducente
 conectador, enchufe
@@ -1536,7 +1536,7 @@ congrio
 congruente
 conjetura
 conjeturar
-conjuntiva; #med
+conjuntiva
 conjuntivo
 conjurar
 conllevar
@@ -1622,7 +1622,7 @@ convulso
 copado
 copete
 copetón
-cópula; #zool
+cópula
 copular
 coquetear
 coracero
@@ -1651,7 +1651,7 @@ corpulento, corpudo
 corredero
 corredizo
 correligionario
-correlimos; #bird
+correlimos
 correoso
 correspondencia
 corrillo
@@ -1665,7 +1665,7 @@ cortejo
 cortesano
 córtex
 cortical
-cortisol; #physiol
+cortisol
 corvina
 cósmico
 cosmología
@@ -1686,10 +1686,10 @@ crédulo
 crencha
 creosota
 crepitar
-crepuscular; #zool
+crepuscular
 crepúsculo
 crescendo
-cretácico, cretáceo; #geol
+cretácico, cretáceo
 cría
 criado
 cribar
@@ -1698,7 +1698,7 @@ crinolina
 cripta
 criptozoología
 crisálida
-crisantemo; #plant
+crisantemo
 crisol
 crispar
 cristalizar
@@ -1710,7 +1710,7 @@ crónica
 crónico
 cronología
 cronotipo
-crucíferas; #bot
+crucíferas
 cruento, sangriento
 crujido
 crupier
@@ -1780,7 +1780,7 @@ decoro
 decrépito
 decrepitud
 decúbito
-dedalera, digital; #plant
+dedalera, digital
 deducción
 deductivo
 defenestrar
@@ -2002,7 +2002,7 @@ diametral, diamétrico
 diana
 diantre
 diapasón
-diástole; #physio
+diástole
 diatomea
 diatomita
 diatriba
@@ -2013,7 +2013,7 @@ dictamen
 dictaminar
 didáctico
 diencéfalo
-diente de león; #plant [wk:taraxacum_officinale]
+diente de león
 diestro
 dietario
 diezmar
@@ -2110,7 +2110,7 @@ domeñar
 domiciliación
 domo
 doncella
-dopamina; #biochem
+dopamina
 dornajo
 dorsal
 dorso
@@ -2129,8 +2129,8 @@ duermevela
 dulzón, dulzarrón
 dulzor
 duplicidad
-duranta; #plant 
-ébano; #plant
+duranta
+ébano
 ebonita, vulcanita
 eccema, eczema
 eclampsia
@@ -2154,8 +2154,8 @@ efusión
 efusividad
 efusivo
 egotismo
-eidético; #psychol #philos
-eidetismo; #psychol
+eidético
+eidetismo
 eje
 electorado
 electrocardiógrafo
@@ -2187,7 +2187,7 @@ embeleso, embelesamiento
 embellecer
 embestir
 embolia
-émbolo; #med #mech
+émbolo
 embonar
 emboquillado
 emboquillar
@@ -2295,7 +2295,7 @@ enjambrar
 enjambre
 enjuiciador
 enjuiciar
-enjuta; #arch
+enjuta
 enjutar, enjugar
 enjuto
 enladrillar
@@ -2348,7 +2348,7 @@ envilecer
 enviudar
 envoltura
 enzarzar
-enzima; #biochem
+enzima
 eólico
 eón
 epicentro
@@ -2452,10 +2452,10 @@ esnob
 esnobismo
 esotérico
 espabilado
-espadaña, gladio, totora; #plant [wk:typha]
+espadaña, gladio, totora
 espartano
-esparto, atocha; #plant
-espasmo; #med
+esparto, atocha
+espasmo
 especiar
 espectro
 especulación
@@ -2477,7 +2477,7 @@ espionaje
 espirar
 espiroqueta
 esplendor
-espliego, lavanda, lavándula; #plant
+espliego, lavanda, lavándula
 espóiler
 espolear
 esponjosidad
@@ -2492,7 +2492,7 @@ esquema
 esquilmar
 esquimal
 esquirla
-esquizofrenia; #med
+esquizofrenia
 establo
 estaca
 estadio
@@ -2520,7 +2520,7 @@ esternón
 estertor
 esteta
 esteticismo
-estetoscopio, auscultador; #med
+estetoscopio, auscultador
 estevado
 estigma
 estigmatizar
@@ -2543,8 +2543,8 @@ estrangular
 estratagema
 estratega, estratego, táctico
 estrato
-estratosfera, estratósfera; #meteor
-estratosférico; #meteor
+estratosfera, estratósfera
+estratosférico
 estremecer
 estreñinimiento
 estrépito
@@ -2555,13 +2555,13 @@ estribillo
 estribo
 estribor
 estridente
-estropajo; #plant [wk:luffa]
+estropajo
 estropicio
 estruendo
 estrujar
 estuario
 estupefacto
-estupor; #med
+estupor
 esvástica
 éter
 etéreo
@@ -2573,9 +2573,9 @@ etnografía
 eufonía
 euforia
 eufórico
-eugenesia; #med
+eugenesia
 eustrés
-eutanasia; #med
+eutanasia
 evanescente
 evanescer, evanecer
 evasiva
@@ -2727,7 +2727,7 @@ filial
 filiar
 filiforme
 filigrana
-filodendro; #plant
+filodendro
 filología
 filosofar
 fingido
@@ -2787,7 +2787,7 @@ fragata
 fragor
 fragua
 fraguar
-frailecillo; #bird
+frailecillo
 francote
 franja
 franquear
@@ -2799,7 +2799,7 @@ frazada, frezada
 frenesí
 frenético
 frenología
-fresno, fleja; #plant [wk:fraxinus]
+fresno, fleja
 frialdad
 friático
 frigidez
@@ -2863,7 +2863,7 @@ gama
 gambito
 gamuza
 ganado
-ganglio; #anat
+ganglio
 gangrena
 gánster
 ganzúa
@@ -2905,7 +2905,7 @@ genuflexión
 geoda
 geología
 geomancia, geomancía
-geranio, cardenal; #plant [wk:geranium]
+geranio, cardenal
 germen
 gerontofilia
 gerundio
@@ -2914,17 +2914,17 @@ gesticular
 gigoló
 gimotear
 ginebra
-ginseng; #plant
+ginseng
 giratorio
 giroscopio, giróscopo
 gitano, calé, romaní
 glaciación
 glaciar
-gladiolo, gladíolo, gladiola; #plant
+gladiolo, gladíolo, gladiola
 glamur
-glándula; #anat #bot
+glándula
 glaucoma
-glicerina, glicerol; #chem
+glicerina, glicerol
 gloriar
 glosa
 glosar
@@ -2989,7 +2989,7 @@ gruñido
 gruta
 guacal, huacal
 guadaña, dalla, rozadera
-guadua; #plant
+guadua
 guama
 guarango
 guardabarros, guardafangos
@@ -3013,8 +3013,8 @@ güisqui, whisky
 gulupa
 gurú
 gutural
-habitáculo; #eco
-hábitat; #eco
+habitáculo
+hábitat
 habladuría
 hacedero
 hacha
@@ -3044,17 +3044,17 @@ heder
 hedonismo
 hedor
 hegemonía
-helecho; #plant
-hematología; #med
-hematoma; #med
+helecho
+hematología
+hematoma
 hemorragia
 hemorroide
-hemostasia, hemostasis; #med
+hemostasia, hemostasis
 henchir
 hender, hendir
 hendidura, hendedura
-heno; #plant
-hepático; #bot
+heno
+hepático
 herejía
 herético
 hermandad
@@ -3080,12 +3080,12 @@ hidrogel
 hidromiel, hidromel, aguamiel
 hidroponía
 hidropónico
-hiedra, yedra; #plant [wk:hedera]
+hiedra, yedra
 higiene
 higiénico
 higienizar
 higo
-higuera; #plant
+higuera
 hilacha, hilacho
 hilar
 hilarante
@@ -3094,20 +3094,20 @@ hilera
 hilván
 hincapié
 hincar
-hinojo; #plant
+hinojo
 hipérbole
-hipertrofia; #biol #med
-hipertrofiar; #biol #med
+hipertrofia
+hipertrofiar
 hipnosis
 hipoalergénico, hipoalérgico
-hipocondría; #med
-hipocondriaco, hipocondríaco; #med
+hipocondría
+hipocondriaco, hipocondríaco
 hipodérmico
 hipódromo
-hipotálamo; #anat
+hipotálamo
 hipótesis
 hipotético
-hipotrofia; #biol #med
+hipotrofia
 hiriente
 hirsuto
 hisopo
@@ -3129,18 +3129,18 @@ hollín, tizne
 holocausto
 holter
 hombruno
-homeostasis; #biol
+homeostasis
 homilía
 homogeneizar
 homónimo
-homosfera, homósfera; #meteor
+homosfera, homósfera
 honrar
 horca
 horda
 horma
 horóscopo
 horquilla
-hortensia; #plant
+hortensia
 hosco
 hospicio
 hostigar
@@ -3296,7 +3296,7 @@ infame
 infamia
 inferir
 ínfimo
-inflación; #econ
+inflación
 inflexión
 infligir
 infortunio
@@ -3416,7 +3416,7 @@ isótopo
 itinerante, ambulante
 itinerario
 jabalina
-jacinto; #plant 
+jacinto
 jactancia
 jactancioso
 jactar
@@ -3427,7 +3427,7 @@ jamba
 jarana
 jaula
 jauría
-jazmín, jazminero; #plant
+jazmín, jazminero
 jerarquía
 jerez
 jerigonza
@@ -3441,11 +3441,11 @@ jubilar
 júbilo
 jubiloso
 juerga
-junco, junquera; #plant [wk:schoenoplectus_californicus]
+junco, junquera
 junquillo
 junta
 jura
-jurásico; #geol
+jurásico
 kamikaze, camicace
 karma
 kinésica, quinésica
@@ -3466,7 +3466,7 @@ lance
 lancero
 languidecer
 lánguido
-lantana; #plant
+lantana
 lanza
 lapídeo, lapidoso
 lapso
@@ -3475,7 +3475,7 @@ lasitud
 lastimero
 lastimoso, lastimero
 lastrar
-latitud; #geogr
+latitud
 laúd
 laudable
 láudano
@@ -3486,7 +3486,7 @@ laxar
 laxitud, laxidad
 lealtad
 leasing
-lebranche; #fish
+lebranche
 lecho
 lechuguino
 legado
@@ -3536,8 +3536,8 @@ ligamento
 ligereza
 lignificar
 lignina
-lila, lilo, lilac; #plant [wk:syringa]
-límbico; #anat
+lila, lilo, lilac
+límbico
 limbo
 limerencia
 limosna
@@ -3555,7 +3555,7 @@ liquen
 líquenes
 liquidar
 lírica
-lirio, lis, lilio; #plant [wk:iris_(planta)]
+lirio, lis, lilio
 lirón
 lisonja
 lisonjear
@@ -3579,12 +3579,12 @@ loncha
 lonchera
 longevidad
 longevo
-longitud; #geogr
-longitudinal; #psych
+longitud
+longitudinal
 lordosis
 lori
 losa
-loto; #plant [wk:nelumbo_nucifera]
+loto
 loza
 lozanía
 lozano
@@ -3634,7 +3634,7 @@ malograr
 maloliente
 malparado
 maltrecho
-malva; #plant
+malva
 malvivir
 mamarracho
 mameluco, mono
@@ -3652,14 +3652,14 @@ mandala
 mandamás, mandón
 mandolina
 mandón
-mandrágora, mandrágula; #plant
+mandrágora, mandrágula
 maneki-neko
 manglar
 mangosta
 mangostino
 mangual
 manguito
-manía; #psych
+manía
 manida
 manifiesto
 maniobra
@@ -3682,7 +3682,7 @@ marañón
 maratónico
 mareomotriz
 marfil
-margarita, chiribita; #plant
+margarita, chiribita
 maría
 marisma
 marketing
@@ -3696,13 +3696,13 @@ mascullar
 masoquismo
 mástil
 mastodonte
-mastología, senología; #med
+mastología, senología
 matarratas, raticida
 matiz
 matizar
 matón
 matoneo
-matricaria, artemisa; #plant
+matricaria, artemisa
 matrioshka, matrioska
 matriz
 mausoleo
@@ -3726,7 +3726,7 @@ megáfono
 megalito
 megatón
 mejillón
-mejorana; #plant [wk:origanum_majorana]
+mejorana
 melado
 melao
 melaza
@@ -3767,19 +3767,19 @@ merced
 mercería
 merengue
 meretriz
-meridiano; #geogr
+meridiano
 meridión
 meridional
 merienda
 merino
 mérito
 meritocracia
-mero; #fish
+mero
 mesomorfo
-mesosfera, mesósfera; #meteor
+mesosfera, mesósfera
 mesura
 metabolismo
-metafísica; #philos
+metafísica
 metáfora
 metalurgia
 metamorfosear
@@ -3789,7 +3789,7 @@ metatarso
 metedura
 meticuloso
 metralla
-mezcal; #plant
+mezcal
 mezquindad
 mezquino
 micción
@@ -3809,7 +3809,7 @@ minucioso
 minuendo
 minuta
 miocardio
-miodinia, mialgia; #med
+miodinia, mialgia
 miope
 miopía
 miramiento
@@ -3820,7 +3820,7 @@ misántropo
 miscible, mezclable
 misionero
 misiva
-mismidad; #phil
+mismidad
 misoginia
 mística
 misticismo
@@ -3857,7 +3857,7 @@ monogamia
 monolito
 monomanía
 monserga
-monstera deliciosa; #plant
+monstera deliciosa
 montículo
 moqueta
 moquillo
@@ -3906,7 +3906,7 @@ nácar
 nadir
 nailon
 nampla
-narcótico; #med
+narcótico
 naturópata
 naturopatía
 navío
@@ -3921,7 +3921,7 @@ negligencia
 negligente
 negrura
 nemotécnica
-nenúfar, ninfea; #plant
+nenúfar, ninfea
 neolítico
 neologismo
 neopreno
@@ -3929,9 +3929,9 @@ nepotismo
 ñeque
 nervudo
 neumología
-neumonía, pulmonía; #med
-neurastenia, neurosis; #med
-neurasténico; #med
+neumonía, pulmonía
+neurastenia, neurosis
+neurasténico
 neurocepción
 nexo
 nigiri
@@ -3994,13 +3994,13 @@ olfatorio
 oligarquía
 olisquear
 olleta
-olmo, negrillo; #plant
+olmo, negrillo
 ominoso
 omisión
 omiso
 omnímodo
 omnipotencia
-oncología, cancerología; #med
+oncología, cancerología
 ondulado
 onigiri
 onírico
@@ -4038,7 +4038,7 @@ oriundo
 orondo
 oropel
 orquestar
-orquídea; #plant
+orquídea
 ortiga
 ortodoxia
 ortodoxo
@@ -4049,11 +4049,11 @@ osadía
 osamenta, osatura
 oscilante
 oscurantismo, obscurantismo
-ósmosis, osmosis; #phys
+ósmosis, osmosis
 ostensible
 ostentación
 ostentar
-osteopatía; #med
+osteopatía
 osteopenia
 ostión
 ostracismo
@@ -4115,17 +4115,17 @@ panteísmo
 panteón
 pantomima
 pantorrilla, pantorra
-papamoscas; #bird
+papamoscas
 papanatas, paparote
 papera
-papiro; #plant
-paquidermo; #zool
-parábola; #geom
+papiro
+paquidermo
+parábola
 paradoja
-paralelepípedo; #geom
-paralelo; #geogr
+paralelepípedo
+paralelo
 paralelogramo, paralelógramo
-paramnesia; #med
+paramnesia
 paranoia
 paranoico
 parapetar
@@ -4139,7 +4139,7 @@ pardo
 parduzco, pardusco
 parecer
 parentela
-pargo; #fish
+pargo
 paria
 parietal
 paripé
@@ -4149,9 +4149,9 @@ parlotear
 parloteo
 paro
 parodia
-parótida; #anat
+parótida
 paroxismo
-parra, vid; #plant
+parra, vid
 parsimonia
 parsimonioso
 particularizar
@@ -4176,14 +4176,14 @@ pastoreo
 pastoso
 patalear
 paté
-patela, rótula; #anat
+patela, rótula
 patente
 pateta
 patibulario
 patíbulo
 pátina
 patógeno
-patológico; #med
+patológico
 patraña
 patrón
 paulatino
@@ -4196,7 +4196,7 @@ pavonearse
 pavor
 pavoroso
 pecaminoso
-pecíolo, peciolo; #bot
+pecíolo, peciolo
 peculado
 pecuniario, monetario
 pedigüeño
@@ -4215,11 +4215,11 @@ penacho
 penca
 pendenciero
 península, penisla, quersoneso
-pensamiento; #plant
+pensamiento
 penuria
 peón
 pepitoria
-péptido; #chem
+péptido
 percance
 percatar
 perceptivo
@@ -4252,7 +4252,7 @@ pernicioso
 pernio
 perno
 perol
-peroné; #anat
+peroné
 perorata
 perpetuar
 perpetuo
@@ -4273,19 +4273,19 @@ pestillo
 pesuño
 peticionario
 petimetre
-petirrojo; #bird
+petirrojo
 peto
 pétreo
 petulancia
 petulante
-petunia; #plant
-peyote; #plant
+petunia
+peyote
 pezuña
 piar
 picadillo
 picaporte
 pícaro
-pícea; #plant
+pícea
 pichón
 picotear
 pictograma
@@ -4313,13 +4313,13 @@ pirómano, piromaníaco
 pírrico
 piscicultura
 pistón
-pita; #plant
+pita
 pitillera
 pitón
 pitonisa
 pituco
 pituita
-pituitario; #anat 
+pituitario
 pivote
 pizarra
 pizarrín
@@ -4342,7 +4342,7 @@ pleito
 plétora
 pletórico
 pleura
-pleuritis, pleuresía; #med
+pleuritis, pleuresía
 pliegue
 plisar, plegar
 plomo
@@ -4359,11 +4359,11 @@ polemizar
 polenta
 poleo
 policromo, polícromo
-poliestireno, icopor (poliestireno expandido); #chem
+poliestireno, icopor (poliestireno expandido)
 polifacético
 poligamia
 polineuritis
-polio, poliomielitis; #med
+polio, poliomielitis
 pólipo
 politetrafluoroetileno, PTFE, teflón
 pollera
@@ -4397,7 +4397,7 @@ portentoso
 portezuela
 pórtico
 portillo
-positrón; #phys
+positrón
 poso
 posponer
 post mortem
@@ -4414,7 +4414,7 @@ póstumo
 postureo
 potaje
 potasa
-pothos; #plant [wk:epipremnum_aureum]
+pothos
 potrero
 potro
 preámbulo
@@ -4442,7 +4442,7 @@ preliterario
 preludio
 prematuro
 premeditar
-premisa; #phil
+premisa
 premonición
 premonitorio
 prenda
@@ -4481,7 +4481,7 @@ primitivo
 primogénito
 primor
 primordial
-prisma; #geom
+prisma
 prismático
 prístino
 proa
@@ -4533,12 +4533,12 @@ prudencia
 psicoactivo, sicoactivo
 psicoanálisis, sicoanálisis
 psicodélico, sicodélico
-psicosis, sicosis; #psych
+psicosis, sicosis
 psicótico, sicótico
 psique, psiquis
 psíquico, síquico
 psoriasis, soriasis
-pterigión, terigión, pterigio, terigio; #med
+pterigión, terigión, pterigio, terigio
 puchero
 pudin, pudín
 pudor
@@ -4554,7 +4554,7 @@ pulgar
 pulido
 pulimentar
 pulpería
-púlsar, pulsar; #astro
+púlsar, pulsar
 pulular
 pulverizador
 pundonor
@@ -4602,11 +4602,11 @@ racimo
 raciocinar, razonar
 racionalizar
 racionar
-radiación; #phys
-radiactividad, radioactividad; #phys
-radiactivo, radioactivo; #phys
+radiación
+radiactividad, radioactividad
+radiactivo, radioactivo
 radical
-radiología; #med
+radiología
 radón
 ráfaga
 raído
@@ -4621,7 +4621,7 @@ ramillete
 rampante
 rancidez
 rancio
-ranúnculo; #plant
+ranúnculo
 rape
 rapé
 rapiña
@@ -4862,12 +4862,12 @@ ristre
 rito
 rivalidad
 rizoma
-róbalo, céfalo, lubina; #fish
-roble; #plant
+róbalo, céfalo, lubina
+roble
 roblón
 rociador
 rodal
-rododendro, rosadelfa; #plant
+rododendro, rosadelfa
 roedor
 roer
 rogativa
@@ -4885,7 +4885,7 @@ ruana
 rubicundo
 rubor
 rubro
-ruda; #plant
+ruda
 rufián, granuja
 rufianesco
 ruinoso
@@ -4945,7 +4945,7 @@ satén
 satinar
 satirizar
 saturar
-sauce, salce, salguera; #plant
+sauce, salce, salguera
 savia
 sebáceo
 seborrea
@@ -4990,11 +4990,11 @@ septuagenario
 sepultar, enterrar
 séquito, comitiva
 serafín
-serbal, acafresna, serbo, azarollo; #plant
+serbal, acafresna, serbo, azarollo
 serendipia
 serendípico
 serigrafía
-serotonina; #biochem
+serotonina
 serpentín
 serrano
 serrín, aserrín
@@ -5011,7 +5011,7 @@ sevicia
 siamés
 sibarita
 sibilante, silbante
-sicomoro, sicómoro; #plant
+sicomoro, sicómoro
 sideral
 sidra
 sidrería
@@ -5023,7 +5023,7 @@ sigilo
 silabario
 sílex, pedernal
 silo
-simbiosis; #biol
+simbiosis
 simiesco
 símil
 simpático
@@ -5045,7 +5045,7 @@ sirga
 sisear
 sismo, seísmo
 sistemático
-sístole; #physio
+sístole
 sobaco
 sobado
 sobaquina
@@ -5191,7 +5191,7 @@ tabique
 tabloide
 tablón
 tabú
-tabulé; #food
+tabulé
 taburete
 tacañear
 tachar
@@ -5234,7 +5234,7 @@ tejar
 tejemaneje
 tejón
 telar
-telómero; #biol
+telómero
 temible
 temperamental
 temperamento
@@ -5315,7 +5315,7 @@ tomacorriente
 tomografía
 tontina
 tope
-tópico; #med
+tópico
 topo
 toquetear
 tornasolado
@@ -5412,8 +5412,8 @@ trole
 tromba
 trompicón, tropezón, tropiezo
 troncho
-tropopausa; #meteor
-troposfera, tropósfera; #meteor
+tropopausa
+troposfera, tropósfera
 troquel
 trote
 trova
@@ -5423,7 +5423,7 @@ trueque
 truhan
 tufillo
 tugurio
-tulipán; #plant
+tulipán
 tumbado
 tumbo
 tumbona
@@ -5550,7 +5550,7 @@ versado
 vertedero
 vertiginoso
 vesania
-vesícula; #anat #bot #med
+vesícula
 vespertino
 vestíbulo
 vestigio

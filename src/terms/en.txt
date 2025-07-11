@@ -3,7 +3,7 @@ abridge
 acme
 acrid
 acronym
-acrylonitrile-butadiene-styrene, ABS; #chem
+acrylonitrile-butadiene-styrene, ABS
 acumen
 addle
 adherent
@@ -187,6 +187,7 @@ dangle
 dank
 daub
 dazzle
+deadlock
 dearth, scarcity
 debase
 deceit
@@ -307,6 +308,7 @@ ferret
 feverish
 fidgety
 figment
+finesse
 fit
 fitfully
 flagon
@@ -436,6 +438,7 @@ idol
 idyllic
 ill-defined
 imbibe
+impasse
 impassive
 impervious
 impiety
@@ -621,15 +624,15 @@ plinth
 plumicorn
 poach
 polecat, skunk
-polycarbonate; #chem
-polyethylene terephthalate, pet; #chem
-polyethylene; #chem
-polypropylene; #chem
+polycarbonate
+polyethylene
+polyethylene terephthalate, PET
+polypropylene
 pompous 
 poncho
 populist
 populous
-porgy; #fish
+porgy
 portend
 portly
 pothole
