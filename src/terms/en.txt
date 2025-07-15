@@ -1,4 +1,5 @@
 -monger
+abject
 abridge
 acme
 acrid
@@ -15,6 +16,7 @@ aide
 ailment
 all-encompassing
 allegory
+allot
 allusion
 aloof
 aluminum
@@ -123,6 +125,7 @@ caucasian
 charter
 chatter
 chatty
+chemo, chemotherapy
 cherish
 chime
 chimera
@@ -132,6 +135,7 @@ chirp
 chortle
 chronology
 chronotype
+chubby
 chuffed
 circadian
 city dweller
@@ -141,6 +145,7 @@ clank
 clemency
 clog
 cluck
+clunky
 cluster
 clutch
 coarse
@@ -154,6 +159,7 @@ commensurate
 complimentary
 concoct
 conducive
+confectionery
 confine
 connive
 connote
@@ -261,6 +267,7 @@ eidetic
 elusive
 emaciated
 embodiment
+empathic
 emphasis
 enclave
 endeavor
@@ -302,6 +309,7 @@ famine
 faux pas
 feisty
 fella, fellah, fellow
+felt
 fence
 fennel
 ferret
@@ -345,10 +353,12 @@ frugality
 fudge
 fugacity
 fumble
+funky
 furrow
 furtive
 gallows
 gambit
+gamy, gamey
 gang
 gar
 gash
@@ -410,13 +420,14 @@ herald
 herring
 high-minded
 highboy
-highlands
+Highlands
 hilt
 hitherto
 hoarse
 hob
 hoist
 holler
+homelessness
 homonym
 honeydew
 hub
@@ -445,6 +456,7 @@ impiety
 impostor, imposter
 incel
 incipient
+incontinence
 inculcate
 incumbent
 indulge
@@ -478,7 +490,9 @@ lag
 lair
 lapel
 lassitude
+latch
 lavish
+leaven
 leer
 lemur
 leniency
@@ -495,6 +509,7 @@ lofty
 loom
 lope
 loquacious
+lore
 lounge
 lowboy
 ludic
@@ -516,6 +531,7 @@ maraud
 marauding
 mast
 mawkish
+mendicity
 merciful
 mercy
 meridian
@@ -527,7 +543,7 @@ mire
 mirth
 mirthless
 misanthrope, misanthropist
-misgivings
+misgiving
 mishaps
 mistletoe
 mockery
@@ -540,6 +556,7 @@ moot
 morsel
 mote
 musk
+mycoplasma
 myrtle
 mysticism
 nadir
@@ -582,6 +599,7 @@ outline
 outstrip
 outward
 overdraft
+overthrow
 overtime
 paddock
 painstaking
@@ -735,17 +753,20 @@ seethe
 segmental
 segregation
 self-deprecating
+selfless, unselfish
 semiotic
 semolina
 sentient
 serendipitous
 setback
+shabby
 shaggy
 shambles
 sheepish
 sheer
 shim
 shimmer
+shipwreck
 shoehorn
 shore
 shortcoming
@@ -820,6 +841,7 @@ steadying
 stealth
 steed
 sterling
+stint
 stonewalling
 stoop
 stout
@@ -838,6 +860,7 @@ sublime
 subsidiary
 subtrahend
 sultry
+supersede
 surrogate
 surveillance
 swab
@@ -893,6 +916,7 @@ turnover
 turquoise 
 tut, tut-tut
 tweet
+tweeze
 tweezers
 twinge
 twinkle
@@ -914,6 +938,7 @@ unsavory
 unwitting
 upheaval
 uphold
+ureaplasma
 urge
 vapor lamp
 variegated
@@ -957,6 +982,7 @@ wire nut
 wisp
 wither
 withstand
+wobbly
 wondrous
 wrath
 wreak
