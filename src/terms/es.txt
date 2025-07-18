@@ -1079,6 +1079,7 @@ canon
 canónico
 canonizar
 cansino
+cantarela, rebozuelo, anacate
 cantárida
 cantautor
 cántico
@@ -1536,6 +1537,7 @@ congraciar
 congregar
 congrio
 congruente
+coníferas
 conjetura
 conjeturar
 conjuntiva
@@ -3003,7 +3005,7 @@ guarida
 guarismo, cifra
 guarnecer
 guarnición
-guasca
+guasca, huasca
 guatila
 gueto
 guijarro
@@ -3548,6 +3550,7 @@ limerencia
 limosna
 límpido
 linaje
+lince
 linde
 linfa
 linfocito
@@ -5674,6 +5677,7 @@ zahorí
 zalamería
 zalamero
 zambullir
+zamioculcas
 zampar
 zancada
 zancadilla

@@ -104,6 +104,7 @@ budding
 bulge
 bumpy
 bunion
+burdensome
 bureau
 burly
 burrow
@@ -117,11 +118,13 @@ cam
 cameo
 canter
 capricious
+carbonated
 caret
 caretaker
 carom
 carp
 caucasian
+chanterelle
 charter
 chatter
 chatty
@@ -168,6 +171,7 @@ contention
 contravene
 conundrum
 corny
+cowberry, mountain cranberry
 crafty
 craving
 creosote
@@ -175,6 +179,7 @@ crimp
 crinoline
 croak
 crossbow
+crossbreed
 crossly
 crossroads
 cruciferous
@@ -248,6 +253,7 @@ droll
 drought
 drowsy
 dumbfound
+dumbfounded
 dunce
 dung
 dustpan
@@ -383,6 +389,7 @@ goalpost
 goblet
 goblin
 gourd
+grabby
 grainy
 grandeur
 graphology
@@ -400,6 +407,7 @@ gulch
 gurgle
 gusty
 haggard
+haggis
 handbook
 hapless
 hard-wearing
@@ -484,6 +492,7 @@ jowl
 keel
 kennel
 kickboard
+kilt
 kink
 kitsch
 lag
@@ -497,6 +506,7 @@ leer
 lemur
 leniency
 lenient
+lethargic
 levity
 liaison
 libel
@@ -518,6 +528,7 @@ lumpy
 lurch
 lute
 lye
+lynx
 magpie
 maim
 mainstream
@@ -531,6 +542,7 @@ maraud
 marauding
 mast
 mawkish
+mayhem
 mendicity
 merciful
 mercy
@@ -594,6 +606,7 @@ ossify
 ostentatious
 ottoman
 oust
+outburst
 outdo
 outline
 outstrip
@@ -670,6 +683,7 @@ prong
 propensity
 protracted
 proverb
+psychedelic
 puerile
 puff
 punctilious
@@ -712,10 +726,12 @@ retail
 retrace
 revel
 revile
+rhizome
 rickety
 ridge
 rig
 rim
+rivet
 rogue
 rollout
 rosette
@@ -723,6 +739,7 @@ ruana
 run-down
 runoff
 rut
+sago
 sallow
 sap
 sappy
@@ -908,6 +925,7 @@ trench
 trifle
 trill
 trundle
+tuber
 tuft
 tug
 tureen
@@ -978,6 +996,7 @@ widespread
 winch
 windfall
 winding
+windup
 wire nut
 wisp
 wither
