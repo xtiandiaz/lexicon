@@ -21,6 +21,9 @@ lethargic
 dumbfounded
 dumbfound
 grabby
+cowberry, mountain cranberry
+tuber
+rhizome
 ---
 ilves
 jauho
@@ -42,3 +45,5 @@ piha
 leikata
 selittää
 arka xxx
+puolukka
+paisti
