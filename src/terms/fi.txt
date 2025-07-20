@@ -24,10 +24,12 @@ hiilihapollinen
 hillo
 hiussakset
 hullu
+hylly
 ilkeä
 iloinen
 ilves
 itsekäs
+jääkaappi
 jauheliha
 jauho
 joustava
@@ -35,9 +37,11 @@ julma
 kamala
 kannettava
 kanttarelli
+käteinen
 kätevä
 kavala
 kiivas
+kirpputori
 kivennäinen
 kohtelias
 kova
@@ -46,6 +50,7 @@ kuolematon
 kuuro
 kynsi
 kynsileikkuri
+kypärä
 ladata
 ladattu
 laiska
@@ -54,7 +59,9 @@ leikata
 leikkuri
 lempeä
 luova
+mauste
 mukava
+munakoiso
 näppärä
 nauha
 nirso
@@ -63,6 +70,7 @@ nopea
 oma
 osastu
 paisti
+pakastin
 piha
 puolukka
 rullaportaat
@@ -74,5 +82,9 @@ siipi
 siivet
 suoturve
 tarina
+tavallinen
 treeni
+vieressä
 voimanauha
+vuokrata
+yhtiö

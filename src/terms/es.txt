@@ -3506,6 +3506,7 @@ lenguaraz
 lenidad
 lentificar
 leonino
+leontina
 leotardo
 lerdo
 lesión
@@ -3888,6 +3889,7 @@ mortífero, letal
 mosaico
 moscardón
 mosquitero
+motacilla, lavandera (blanca)
 mote
 motear
 motilidad
@@ -4183,6 +4185,7 @@ pasotismo
 paspartú
 pasteurizar
 pastiche
+pastinaca
 pastoreo
 pastoso
 patalear
@@ -4609,6 +4612,7 @@ quórum, cuórum
 rabieta
 rabillo
 racha
+racheado
 racimo
 raciocinar, razonar
 racionalizar

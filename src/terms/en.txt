@@ -36,6 +36,7 @@ antiemetic
 aphasia
 aphonia, aphony
 apiece
+appendix
 aquaculture
 arcane
 argot
@@ -43,6 +44,7 @@ ascetic
 assuage
 astute
 atone
+aubergine, eggplant
 avert
 axle
 backlash
@@ -61,6 +63,7 @@ barrister
 bedazzle
 bedpan
 befuddle
+begrime
 bejewel
 bellow
 benchmark
@@ -153,6 +156,7 @@ cluster
 clutch
 coarse
 cockeyed
+coda
 coercion
 colander
 colonialism
@@ -196,6 +200,7 @@ cyst
 dang
 dangle
 dank
+dappled
 daub
 dazzle
 deadlock
@@ -342,6 +347,7 @@ fluctuate
 fluff
 flutter
 fluttering
+fob
 foggy
 folly
 foolhardy
@@ -401,6 +407,7 @@ grief
 grim
 groove
 gross
+grouchy
 grovel
 guesstimate, guestimate
 gulch
@@ -799,6 +806,7 @@ shuttle
 sideline
 signpost
 silt
+simmer
 sketch
 skid
 skillet
@@ -975,6 +983,7 @@ vulture
 wacko, whacko
 wad
 waft
+wagtail
 wailing
 waive
 waiver
