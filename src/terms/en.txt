@@ -120,6 +120,7 @@ cackling
 cam
 cameo
 canter
+caprice
 capricious
 carbonated
 caret
@@ -208,6 +209,7 @@ dearth, scarcity
 debase
 deceit
 deceitful
+declutter
 decor
 decry
 deed
@@ -263,6 +265,7 @@ dunce
 dung
 dustpan
 dweller
+dwindle
 dysfunction
 earthbound
 earthy
@@ -408,6 +411,7 @@ grim
 groove
 gross
 grouchy
+grounded
 grovel
 guesstimate, guestimate
 gulch
@@ -479,6 +483,7 @@ indulgence
 indwelling
 infamous
 infighting
+inmate
 innocuous
 inquiry, enquiry
 insight
@@ -629,6 +634,7 @@ palmy
 pan
 pantomime
 parched
+parlor
 parsimony
 pastiche
 pastureland
@@ -682,6 +688,7 @@ precipitate
 precursor
 preen
 prelude
+premiere
 presumptuous
 probity
 proceeds
@@ -720,6 +727,7 @@ reel
 reflux
 regress
 rehash
+relentlessly
 relic
 remand
 remark
@@ -791,12 +799,14 @@ sheer
 shim
 shimmer
 shipwreck
+shoddy
 shoehorn
 shore
 shortcoming
 shout-out
 shovelware
 shred
+shrew
 shrewd
 shriek
 shrill
@@ -826,6 +836,7 @@ slump
 slur
 slush
 sly
+smear
 snare
 snarl
 snigger
