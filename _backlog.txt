@@ -12,6 +12,10 @@ chisporrotear
 polisón
 mariposear
 oropéndola
+picaresco
+anemia
+sempiterno
+presuroso
 ---
 relentlessly
 grounded
@@ -25,6 +29,7 @@ premiere
 inmate
 shoddy
 parlor
+smear
 ---
 hovi
 pestä
@@ -43,3 +48,5 @@ kettu
 pöllö
 yhdessä
 auttaa
+raitiovaunu
+asti
