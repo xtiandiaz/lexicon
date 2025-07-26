@@ -1,4 +1,3 @@
--lisis
 ábaco
 abad
 abalorio
@@ -432,6 +431,7 @@ antesala
 antiafrodisíaco, antiafrodisiaco, anafrodisíaco, anafrodisiaco
 anticipar
 anticipo
+anticuado
 anticuerpo
 antídoto
 antiembólico
@@ -861,6 +861,7 @@ bichectomía
 bidet
 bidón
 bienal
+bienaventurado
 bienestar
 bienhumorado
 bienintencionado
@@ -1126,6 +1127,7 @@ carbomero, carbopol, ácido poliacrílico
 carburante
 carcamal
 carcasa
+carcelero
 carcoma
 carcomer
 carda
@@ -1713,6 +1715,7 @@ cristalizar
 cristaloide
 criterio
 critérium
+croar
 croissant
 crónica
 crónico
@@ -1974,6 +1977,7 @@ desquiciar
 destartalado
 destello
 desterrado
+destetar
 destierro
 destituir
 destreza
@@ -3046,6 +3050,7 @@ harapiento
 harén
 hartazgo, hartazón, hartura
 hastial
+hastío
 hatajo
 haz
 hazaña
@@ -3067,6 +3072,7 @@ hender, hendir
 hendidura, hendedura
 heno
 hepático
+heraldo
 herejía
 herético
 hermandad
@@ -3153,6 +3159,8 @@ horma
 horóscopo
 horquilla
 hortensia
+hortera
+horterada
 hosco
 hospicio
 hostigar
@@ -3244,6 +3252,7 @@ inane
 inanición
 inapetencia
 inapreciable
+inaprensible, inhaprensible
 inarmónico
 inasequible
 inasible
@@ -3326,6 +3335,7 @@ inhibir
 inhóspito
 inhumación
 inhumar
+inicuo
 ininteligible
 ininterrumpido
 iniquidad
@@ -3742,6 +3752,7 @@ medrar
 médula, medula
 megáfono
 megalito
+megalomanía
 megatón
 mejillón
 mejorana
@@ -3926,6 +3937,8 @@ nácar
 nadir
 nailon
 nampla
+narcisismo
+narciso
 narcótico
 naturópata
 naturopatía
@@ -4799,6 +4812,7 @@ repostería
 repostero
 represalia
 representante
+réprobo
 requisar
 resabiado
 resabio
@@ -4881,6 +4895,7 @@ rictus
 ridiculizar
 rifirrafe
 rigidez
+rigorista
 riguroso
 rijoso
 rimbombante

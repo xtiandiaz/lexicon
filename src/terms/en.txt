@@ -77,6 +77,8 @@ blackmail
 blacktop
 bleary
 blemish
+blot
+blotter
 blowgun, blowpipe
 blubber
 bludgeon
@@ -89,6 +91,7 @@ bolster
 bongo
 bonkers
 boom
+booth
 botched
 bracingly
 brackish
@@ -169,8 +172,10 @@ concoct
 conducive
 confectionery
 confine
+conjecture
 connive
 connote
+conquest
 consensual
 contention
 contravene
@@ -278,6 +283,7 @@ egalitarianism
 egg
 egregious
 eidetic
+elated
 elusive
 emaciated
 embodiment
@@ -305,6 +311,7 @@ etymology
 euphoria
 evasive
 even-tempered
+evict
 expiate
 exploit
 exploitation
@@ -390,6 +397,7 @@ glare
 gleeful
 glide
 glimpse
+glitch
 gloat
 gloomy
 glum
@@ -493,6 +501,7 @@ inure, enure
 irk
 irksome
 itinerant
+jailer
 jargon, argot
 jaunty
 jay
@@ -583,6 +592,7 @@ musk
 mycoplasma
 myrtle
 mysticism
+nab
 nadir
 nagging
 naive, naïve
@@ -633,6 +643,7 @@ palmistry
 palmy
 pan
 pantomime
+paramount
 parched
 parlor
 parsimony
@@ -646,6 +657,7 @@ peck
 peddle
 peep
 pep
+peril
 perpetrate
 perseverance
 persona
@@ -733,6 +745,7 @@ remand
 remark
 rennet
 repudiate
+requite
 reservoir
 reskill
 restless
@@ -820,6 +833,7 @@ simmer
 sketch
 skid
 skillet
+skirmish
 skitter
 slab
 slag
@@ -899,6 +913,7 @@ sultry
 supersede
 surrogate
 surveillance
+sustenance
 swab
 swill
 swindle
@@ -975,6 +990,7 @@ unsavory
 unwitting
 upheaval
 uphold
+uplift
 ureaplasma
 urge
 vapor lamp
@@ -1005,6 +1021,8 @@ wangle
 warble
 warfare
 warlock, wizard, sorcerer
+wean
+weanling
 weeping willow
 welfare
 well-rounded
