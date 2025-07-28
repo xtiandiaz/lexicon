@@ -244,6 +244,7 @@ dirge
 disempower
 disgruntled
 dismal
+disparage
 dispossession
 disquiet
 distraught
@@ -405,6 +406,7 @@ gnaw
 goalpost
 goblet
 goblin
+goon
 gourd
 grabby
 grainy
@@ -720,6 +722,7 @@ quarrel
 quarry
 quell
 quixotic
+rackety
 raft
 rancid
 rancor
@@ -925,6 +928,7 @@ tabby
 tacky
 talon
 tangent
+tangle
 tankard
 tantalizing
 tapestry
@@ -1002,6 +1006,7 @@ vestibule
 vex
 vignette
 vilify
+vinaigrette
 vindicate
 vindictive
 virtuoso

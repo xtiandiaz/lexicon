@@ -451,6 +451,7 @@ antonomasia
 antorcha
 antracita
 antro
+antropoide
 anturio
 añublo, anublo
 anular
@@ -1212,6 +1213,7 @@ cauteloso
 cauterio
 cauterizar
 cautín
+cautividad, cautiverio
 cauto, cauteloso
 cavernario
 caviar
@@ -2914,6 +2916,7 @@ gélido
 gelificar
 gen, gene
 gendarme
+genealogía
 genoma
 gentío
 gentuza
@@ -4042,8 +4045,9 @@ onomatopeya
 opalina
 ópalo
 ópera
+opiáceo
 opio
-opioide, opiáceo
+opioide
 oporto
 oportunismo
 oportunista
@@ -4288,6 +4292,7 @@ permisivo
 pernicioso
 pernio
 perno
+perogrullada
 perol
 peroné
 perorata
@@ -4390,6 +4395,7 @@ pócima
 poción
 podio
 poemario
+pogromo
 poinsettia
 polémica
 polémico
@@ -4543,6 +4549,7 @@ proferir
 profilaxis
 prognato
 prognosis, pronóstico
+prohibicionismo
 prole
 prolegómeno
 proletario
