@@ -18,7 +18,7 @@ epäitsekäs
 epäröivä
 epävarma
 fiksu
-fuusi
+fuusio
 häijy
 hakemus
 hankala
@@ -65,6 +65,7 @@ kirje
 kirpputori
 kivennäinen
 kohtelias
+koko
 kova
 kuiva
 kunnolla
