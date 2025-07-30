@@ -1085,6 +1085,7 @@ canonizar
 cansino
 cantarela, rebozuelo, anacate
 cantárida
+cántaro
 cantautor
 cántico
 cantimplora
@@ -1463,7 +1464,7 @@ coloquio
 colosal
 coloso
 columnista
-colutorio
+colutorio, enjuagatorio
 colza
 comadrear
 comadreja, chucuri
@@ -2096,6 +2097,7 @@ dispendioso
 dispensa
 dispensador
 dispensar
+dispepsia
 displicencia
 disponer
 distender
@@ -2310,6 +2312,7 @@ enigma
 enigmático
 enjambrar
 enjambre
+enjuagatorio
 enjuiciador
 enjuiciar
 enjuta
@@ -2504,7 +2507,7 @@ espuela
 espuerta
 espumante
 espumillón
-espurio, espúreo
+espurio
 esquema
 esquilmar
 esquimal
@@ -3029,6 +3032,7 @@ guisa
 guisar
 guiso
 güisqui, whisky
+gula
 gulupa
 gurú
 gutural
@@ -3654,6 +3658,7 @@ malabar
 maleable
 maledicencia
 malevolencia
+malévolo
 malhadado
 malignidad
 malinchismo
@@ -3705,6 +3710,7 @@ manto
 mantra
 manutención
 maquiavélico
+maquinación
 maquinaria
 maquinismo
 maraña
@@ -4388,6 +4394,7 @@ pletórico
 pleura
 pleuritis, pleuresía
 pliegue
+plinto
 plisar, plegar
 plomo
 plumín
@@ -4570,6 +4577,7 @@ prosaico
 proscripción
 proscrito, proscripto
 proseguir
+prosodia
 prospecto
 prostituir
 protocolario
@@ -4697,6 +4705,7 @@ rebajar
 rebaño
 rebasar
 rebatir
+rebelión
 reblandecer
 rebosado
 rebosar
@@ -4760,6 +4769,7 @@ regimentar
 regimiento
 regir
 regocijo
+regodeo
 regurgitar
 rehén
 rehogar
@@ -4820,6 +4830,8 @@ repostero
 represalia
 representante
 réprobo
+reprochar
+reproche
 requisar
 resabiado
 resabio
@@ -4946,6 +4958,7 @@ runrún, rum rum, runruneo
 rupestre
 rutilar
 sabandija
+sabañón
 sabatino
 sabedor
 sabotaje
@@ -5064,6 +5077,7 @@ sevicia
 siamés
 sibarita
 sibilante, silbante
+sicariato
 sicomoro, sicómoro
 sideral
 sidra
@@ -5369,6 +5383,8 @@ toldado
 toldo
 tomacorriente
 tomografía
+tónica
+tónico
 tontina
 tope
 tópico

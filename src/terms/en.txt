@@ -125,6 +125,8 @@ cameo
 canter
 caprice
 capricious
+capstan
+captor
 carbonated
 caret
 caretaker
@@ -160,6 +162,7 @@ cluster
 clutch
 coarse
 cockeyed
+cockpit
 coda
 coercion
 colander
@@ -324,6 +327,7 @@ eyebolt
 facsimile
 faction
 factious
+fairy
 fallback
 falsehood
 falter
@@ -343,6 +347,7 @@ fit
 fitfully
 flagon
 flail
+flake
 flatline
 flatter
 flatterer
@@ -590,6 +595,7 @@ moonlight
 moot
 morsel
 mote
+mown
 musk
 mycoplasma
 myrtle
@@ -639,6 +645,7 @@ overdraft
 overthrow
 overtime
 paddock
+padlock
 painstaking
 palaver
 palmistry
@@ -660,6 +667,7 @@ peddle
 peep
 pep
 peril
+permeate
 perpetrate
 perseverance
 persona
@@ -797,6 +805,7 @@ scrounge
 scrub
 scrupulous
 scurvy
+scythe
 seethe
 segmental
 segregation
@@ -833,6 +842,7 @@ sideline
 signpost
 silt
 simmer
+skeeter
 sketch
 skid
 skillet
@@ -966,6 +976,8 @@ trundle
 tuber
 tuft
 tug
+turbine
+turbulence
 tureen
 turncoat
 turnover
