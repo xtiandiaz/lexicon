@@ -2,7 +2,6 @@
 ahkera
 ahne
 älä huoli
-ankara
 antelias
 arvaamaton
 arvostettu
@@ -106,6 +105,7 @@ maustettu
 meluisa
 mukaan
 mukava
+munakas
 munakoiso
 mureta
 muu
@@ -121,6 +121,7 @@ osastu
 paisti
 pakastin
 palvelu
+pelätä
 peloissaan
 perinteinen
 pestä
@@ -165,11 +166,13 @@ vahvistaa
 vaihtoehto
 vaikaa
 vakavasti
+varoitus
 verkko
 vieressä
 vihje
 viikko
 viime
 vuokrata
+vuorokausi
 yhdessä
 yhtiö

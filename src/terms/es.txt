@@ -913,6 +913,7 @@ bofe
 bofetada
 bofetón
 bofia
+boga
 boicot, boicoteo
 boicotear
 boina
@@ -960,6 +961,7 @@ brindis
 brío
 briqueta
 brizna, brinza
+bróker
 bromelia
 bronca
 brote
@@ -1623,6 +1625,7 @@ contusionar, magullar
 convalecencia
 convalecer
 convaleciente
+convencionalismo
 convenio
 convenir
 conventillo
@@ -2074,6 +2077,7 @@ disertar
 disfunción
 disfuncionalidad
 disgregar
+disidencia
 disimular
 disipación
 disipar
@@ -2230,6 +2234,7 @@ empalagar
 empalagoso
 empalmar
 empalme
+empanar
 emparejar
 emparentar
 empastar
@@ -2373,6 +2378,7 @@ eólico
 eón
 epicentro
 épico
+epicureísmo
 epidemia
 epifanía
 epifenómeno
@@ -2952,6 +2958,7 @@ glosa
 glosar
 glotón
 gluten
+gnosticismo
 golfo
 golondrina
 goloso
@@ -3216,6 +3223,7 @@ impalpable
 imparcialidad
 impasibilidad
 impasible
+impasse
 impavidez
 impávido
 impedancia
@@ -3506,6 +3514,7 @@ lastimero
 lastimoso, lastimero
 lastrar
 latitud
+latitudinarismo
 laúd
 laudable
 láudano
@@ -4387,6 +4396,7 @@ platónico
 plausible
 plebeyo
 plebiscito
+pleitesía
 pleito
 plétora
 pletórico
@@ -4709,6 +4719,7 @@ reblandecer
 rebosado
 rebosar
 rebote
+rebozar
 recabar
 recado
 recaer
@@ -4956,6 +4967,7 @@ rumiante
 runrún, rum rum, runruneo
 rupestre
 rutilar
+sábalo
 sabandija
 sabañón
 sabatino
@@ -5277,6 +5289,7 @@ tamborilear
 tamiz
 tamizar
 tampografía
+tamtam, tam-tam, tamtán, tantán
 tanagra
 tanino
 taoísmo, daoísmo
@@ -5429,6 +5442,7 @@ transmutar, trasmutar
 transpirar, traspirar
 transplantar
 transversal
+trascendental, transcendental
 trascendente
 trascender
 trasegar
@@ -5534,7 +5548,7 @@ untuosidad
 urbanita, urbanícola
 urdimbre
 uretra
-urogallo
+urogallo, faisán
 urraca
 urticante
 usufructo
@@ -5689,6 +5703,7 @@ volantazo
 volante
 volátil
 volatilizar
+volición
 voltaico
 voluptuosidad
 voluta

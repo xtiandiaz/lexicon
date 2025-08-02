@@ -47,6 +47,7 @@ atone
 aubergine, eggplant
 avert
 axle
+babble
 backlash
 backtrack
 bad-tempered
@@ -60,6 +61,7 @@ barge
 barley
 barren
 barrister
+basilisk
 bedazzle
 bedpan
 befuddle
@@ -73,6 +75,7 @@ bewildered
 bid
 billy
 bin
+blab
 blackmail
 blacktop
 bleary
@@ -87,6 +90,7 @@ blurt
 boast
 bob
 boggart, boggard
+bogus
 bolster
 bongo
 bonkers
@@ -102,6 +106,7 @@ breakneck
 brevity
 brittle
 broadcaster
+broker
 brooding
 bubbling
 buckbrush
@@ -120,11 +125,13 @@ buzzer
 bygone
 bystander, onlooker, passerby
 cackling
+callous
 cam
 cameo
 canter
 caprice
 capricious
+capsize
 capstan
 captor
 carbonated
@@ -132,6 +139,7 @@ caret
 caretaker
 carom
 carp
+casket
 caucasian
 chanterelle
 charter
@@ -151,6 +159,7 @@ chubby
 chuffed
 circadian
 city dweller
+cladding
 clamber
 clammy
 clank
@@ -254,6 +263,7 @@ distraught
 distress
 diver
 dividend
+dock
 doddery
 dogma
 dole
@@ -262,6 +272,7 @@ dopey
 dowel
 downcast
 downshift
+downside
 dread
 dregs
 drizzle
@@ -343,6 +354,7 @@ feverish
 fidgety
 figment
 finesse
+fir
 fit
 fitfully
 flagon
@@ -435,6 +447,8 @@ gusty
 haggard
 haggis
 handbook
+handout
+hangout
 hapless
 hard-wearing
 hare
@@ -442,6 +456,7 @@ harpy
 harrow
 harsh
 hatch
+hatchling
 haughty
 haul
 havoc
@@ -489,6 +504,7 @@ impervious
 impiety
 impostor, imposter
 incel
+inception
 incipient
 incontinence
 inculcate
@@ -560,6 +576,7 @@ lynx
 magpie
 maim
 mainstream
+makeshift
 manacles
 mange
 mangy
@@ -619,6 +636,7 @@ nuisance
 nutjob
 nutmeg
 oaf
+obfuscate
 obliterate
 occlude
 off-putting
@@ -641,6 +659,7 @@ outdo
 outline
 outstrip
 outward
+overblown
 overdraft
 overthrow
 overtime
@@ -724,6 +743,7 @@ puerile
 puff
 punctilious
 pungent
+purport
 pushover
 quaint
 quarrel 
@@ -768,6 +788,7 @@ revile
 rhizome
 rickety
 ridge
+rift
 rig
 rim
 rivet
@@ -839,6 +860,7 @@ shun
 shush
 shuttle
 sideline
+siding
 signpost
 silt
 simmer
@@ -856,6 +878,7 @@ slice-of-life
 sling
 slither
 sliver
+slop
 sludge
 sluggish
 sluice
@@ -867,6 +890,7 @@ smear
 snare
 snarl
 snigger
+snuff
 snug
 soar
 somber, sombre
@@ -889,12 +913,15 @@ sprawl
 sprawling
 spree
 sprig
+spruce
+spurious
 squabble
 squeal
 squeeze
 squelch
 stag
 stagger
+stalemate
 stamina
 stark
 starling
@@ -907,6 +934,7 @@ sterling
 stint
 stonewalling
 stoop
+stork
 stout
 strain
 stranded
@@ -935,6 +963,7 @@ swoon
 sybarite
 sycophant
 tabby
+tabletop
 tacky
 talon
 tangent
@@ -1007,6 +1036,7 @@ unwitting
 upheaval
 uphold
 uplift
+upside
 ureaplasma
 urge
 vapor lamp
@@ -1014,6 +1044,7 @@ variegated
 varnish
 vendace
 vermin
+vessel
 vestibule
 vex
 vignette
