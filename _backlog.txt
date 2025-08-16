@@ -1,3 +1,4 @@
+# 🇪🇸
 exhortar
 exhortación
 desecar
@@ -104,7 +105,75 @@ ramalazo
 rufián
 aliso
 revuelo
+redaños
+peritoneo
+trastocar
+abigarrado
+incordiar 
+sorna
+cobaya
+panegírico
+dimitir
+avitullamiento
+vituallas
+cotejar
+grima
+frotis
+repajolero
+endosar
+histrionismo
+enzarzar
+mohín
+taracea
+zona franca
+sufragar
+repiquetear
+casaca
+connivencia
+casquivano
+colado
+impúdico
+copistería
+rocambolesco
+acuciante
+urdir
+atribular
+arrellanarse
+foguear
+zanjar
+musa
+ceñudo
+bisecar
+exabrupto
+arrojo
+paladín
+imputar
+tendencioso
+contubernio
+genuflexo
+escayola
+sari
+inhumar
+mortinato
+prognato
+entrecano
+panegírico
+postrer
+fresia
+paparrucha
+rebujo
+pingo
+sarga
+rasar
+consabido
+contingencia
+cincha
+jauría
+recoleto
+anodino
+imperioso
 ---
+# 🇬🇧
 housemaid
 junction
 sauté
@@ -125,7 +194,44 @@ anarchism
 burglary
 clunker
 warped
---- 🇫🇮
+banish
+bariatrics :: bariatría
+coddle
+crevice
+egregious
+faint
+grief
+jagged
+mottled
+nip
+recidivism :: reincidencia
+secluded
+sovereignty
+stark
+stalk
+liquidity
+remainder
+hopscotch
+reconnaissance
+recrudescence
+carport
+smackdown
+woke
+marksman
+tribunal
+courgette
+straddle
+sizzle
+rapport
+carnation
+rapture
+hijab :: hiyab
+chador :: chador
+niqab
+burka:: burka
+wacky
+---
+# 🇫🇮
 aukioloajat
 muoto
 muuttaa
