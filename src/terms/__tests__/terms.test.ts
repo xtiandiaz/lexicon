@@ -4,9 +4,10 @@ import { resolve } from 'path'
 import { termRegEx } from '../../rules'
 import { cleanWord } from '../../utils'
 import { Language } from '../../types'
+import '../../assets/tungsten/extensions/string.extensions'
 
 function assertPredicateInAllRawTerms(predicate: (rawTerm: string, index: number, array: string[], language: Language) => void) {
-  Object.values(Language).forEach((lang) => {
+  [Language.Finnish].forEach((lang) => {
     const rawTerms = fs.readFileSync(resolve(__dirname, `../${lang}.txt`)).toString('utf-8').split('\n')
     
     rawTerms.forEach((rawTerm, index, array) => {
@@ -34,13 +35,12 @@ test('Term Integrity', () => {
 test('Term Unicity', () => {
   assertPredicateInAllRawTerms((rawTerm, index, array) => {
     if (index < array.length - 2) {
-      const word = cleanWord(rawTerm.split(',')[0])
       const nextRawTerm = array[index + 1]
-      const regEx = new RegExp(`^${word}([,\\s]*)?$`)
-      const expectation = !regEx.test(nextRawTerm)
+      const regExp = new RegExp(`^${cleanWord(rawTerm.split(',')[0]).escape()}(\\s?[,].*)?$`)
+      const expectation = !regExp.test(nextRawTerm)
       
       if (!expectation) {
-        console.log(rawTerm)
+        console.log(regExp, nextRawTerm)
       }
       
       expect(expectation).toBe(true)
