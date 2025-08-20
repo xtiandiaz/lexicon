@@ -4,6 +4,12 @@ horca, horqueta
 # 🇬🇧
 debouch
 grit
+skeuomorph
+pitchfork
+rundown
+dilapidated
+bogey
+snot
 
 # 🇫🇮
 moni
