@@ -867,6 +867,8 @@ beriberi
 berlina
 bermejo
 berrinche
+berro, mastuerzo, nastuerzo
+lanceolado, lanceado
 besamel, bechamel, besamela, bechamela
 besugo
 bibliorato
@@ -956,6 +958,7 @@ botín
 bóveda
 boya
 boyante
+brama
 bramante
 bramar
 bramido
@@ -1353,6 +1356,7 @@ chistera
 chivato
 chontaduro
 chorlito
+chotacabras, engañapastores, engañabobos, capacho
 chovinismo, chauvinismo
 choza
 chubasco
@@ -1382,10 +1386,12 @@ cimbrar, cimbrear
 cimbreante
 cimentar
 cimiento
+cinacina
 cincel
 cincha
 cínico
 cinismo
+cinta
 cinta
 ciprés
 circa
@@ -1442,7 +1448,7 @@ coartada
 coartar
 coba
 cobalto
-cobaya
+cobaya, conejillo de indias
 cobertizo
 cobertor
 cobertura
@@ -1481,6 +1487,7 @@ coletazo
 coleto
 colgante
 colibrí
+colibrí chivito
 colicero
 coligar
 colimbo
@@ -1685,6 +1692,7 @@ cordura
 corear
 corégono
 corimbo
+corneja
 corneta
 cornisa
 cornucopia
@@ -2602,6 +2610,7 @@ estoico
 estomatología
 estorbo
 estornino
+estornino
 estrado
 estrafalario
 estrago
@@ -3041,6 +3050,8 @@ gradación
 grafismo
 grafología
 gragea, confite
+grajilla
+grajo
 grajo
 gramíneo
 gramófono
@@ -3225,6 +3236,7 @@ homónimo
 homosfera, homósfera
 honrar
 horca
+horqueta
 horda
 horma
 horóscopo
@@ -3602,6 +3614,7 @@ lentificar
 leonino
 leontina
 leotardo
+lepisma
 lerdo
 lesión
 lesivo
@@ -5438,6 +5451,7 @@ tergiversar
 terigio
 termistor
 termita
+termobia de las tahonas, insecto de fuego, thermobia domestica
 termostato
 terno
 terpeno
@@ -5505,6 +5519,7 @@ tope
 tópico
 topo
 toquetear
+tordo
 tornasolado
 torno
 torrente

@@ -107,6 +107,7 @@ brag
 bran
 break-in
 breakneck 
+bream
 brevity
 brittle
 broadcaster
@@ -116,6 +117,7 @@ bubbling
 buckbrush
 bucket list
 budding
+budgie,  budgerigar
 bulge
 bumpy
 bunion
@@ -239,6 +241,7 @@ dazzle
 deadlock
 dearth, scarcity
 debase
+debouch
 deceit
 deceitful
 declutter
@@ -264,6 +267,7 @@ dialect
 dialogic
 diametrical
 dichotomy
+dilapidated
 diligence
 dill
 dipsomania
@@ -371,6 +375,7 @@ fidgety
 figment
 finesse
 fir
+firebrat
 fit
 fitfully
 flagon
@@ -412,6 +417,7 @@ fumble
 funky
 furrow
 furtive
+gaga
 gallows
 gambit
 gamy, gamey
@@ -448,10 +454,12 @@ graphology
 grapple
 graten
 graze
+green-bearded helmetcrest
 gregarious
 gremolata
 grief
 grim
+grit
 groove
 gross
 grouchy
@@ -472,6 +480,7 @@ hare
 harpy
 harrow
 harsh
+harvestman, daddy longlegs
 hatch
 hatchling
 haughty
@@ -481,6 +490,7 @@ hazard
 heartwarming
 heave
 hefty
+heinous
 henchman
 herald
 herring
@@ -544,6 +554,7 @@ inure, enure
 irk
 irksome
 itinerant
+jackdaw
 jagged
 jailer
 jargon, argot
@@ -654,6 +665,7 @@ nettle
 neuroanatomy
 newfound
 nexus
+nightjar, goatsucker
 nip
 niqab
 nit-picky
@@ -726,6 +738,7 @@ pine
 pinpoint
 piquant
 pitch
+pitchfork
 pithy
 pittance
 pixie, pixy
@@ -828,11 +841,14 @@ rift
 rig
 rim
 rivet
+robin
 rogue
 rollout
+rook
 rosette
 ruana
 run-down
+rundown
 runoff
 rut
 sago
@@ -864,6 +880,7 @@ scrub
 scrupulous
 scurvy
 scythe
+seabream
 secluded
 seethe
 segmental
@@ -902,10 +919,12 @@ sideline
 siding
 signpost
 silt
+silverfish
 simmer
 sizzle
 skeeter
 sketch
+skeuomorph
 skid
 skillet
 skirmish
@@ -932,6 +951,7 @@ smear
 snare
 snarl
 snigger
+snot
 snuff
 snug
 soar
@@ -942,6 +962,7 @@ spate
 specter, spectre
 speculative
 spellbound
+spider plant
 spindly
 spirited
 spit
@@ -1037,6 +1058,7 @@ thoroughfare
 thrash
 threshold
 thrifty
+thrush
 thump
 thunderstruck
 thwart
@@ -1045,6 +1067,7 @@ tote
 tottering
 transcendence
 transience, transiency
+translucent
 trench
 tribunal
 trifle
@@ -1119,6 +1142,7 @@ warble
 warfare
 warlock, wizard, sorcerer
 warped
+watercress
 wean
 weanling
 weeping willow
