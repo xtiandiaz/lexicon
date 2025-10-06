@@ -1,3 +1,48 @@
+# Dracula
+Bram Stoker – Selkomukautus Johan Werkmäster
+
+## _Vampyyrit_
+
+_Tarinat kertovat, että [kauan sitten]()_  
+_Transilvanian [valtakunnassa](valtakunta)_  
+_eli [verenhimoisia](verehimoinen) [olento]()ja, vampyyreita._  
+_Päivällä vampyyri nukkui ruumisarkussa._  
+_Kun yö [saapui](saapua), se heräsi ja lähti [liikeelle]()._  
+_Yön pimeydessä vampyyri [vaani](vaania) ihmisiä,_  
+_koska se halusi imeä ihmisen verta._  
+_Jos vampyyri puri ihmistä_  
+_ja imi hänen vertaan,_  
+_myös ihmisestä tuli vampyyri._
+
+_[Ulkonäöltään](ulkonäkö) vampyyri oli kuin_  
+_tavallinen ihminen._  
+_Vampyyri ei kuikenkaan voinut_  
+_katsoa kuvaansa peilistä,_  
+_sillä sitä ei näkynyt peilissä lainkaan._  
+_Vampyyri oli hyvin vahva._  
+_Se pystyi muuttamaan itsensä sudeksi,  
+_lepakoski tai paksuksi sumupilveksi._  
+
+_Vampyyrillä oli punaiset, hehkuvat silmät_  
+_ja pitkät, terävät hampaat._  
+_Hampaillaan se puri ihmistä kaulaan_  
+_ja imi ihmisestä verta._
+
+_Ihminen pystyi suojautumaan vampyyreiltä_  
+_hopeisen ristin ja valkosipulin avulla,_  
+_sillä vampyyrit eivät [sietäneet](sietää) [kumpaakaan](kumpikaan)._  
+_Vampyyri [saattoi](saattaa) elää miten kauan tahansa._  
+_Sen voi surmata vain yhdellä tavalla:_  
+_ensin täytyi lyödä terävä seiväs_  
+_sen sydämeen ja sitten leikata sen pää irti._  
+
+_Tarinat kertovat, että vampyyrit elivät_  
+_kauan sitten Transilvaniassa,_  
+_mutta ehkä niitä elää_  
+_vielä [nykyään]()[kin](-kin) meidän [joukossa]()mme..._
+
+🦇
+
 ## Draculan Linna
 
 [Kerran]() [kauan]() sitten  
@@ -1545,18 +1590,219 @@ Menemme ensi yönä hautausmaalle,
 jossa Lucyn hautakammio on.  
 Aion todistaa, että olen puhunut totta.
 
+## Vapaaksi pahuudesta  
 
+Yöllä van Helsing, Arthur,  
+Jonathan ja Mina tulivat hautausmaalle.
 
+Lucyn arkkua ei ollut haadattu maahan,  
+vaan se oli sijoitettu hautakammioon.  
+Van Helsingillä oli avain,  
+jolla hän avasi hautakammion oven,  
+ja se astuivat sisään.  
 
+Van Helsing sytytti kynttilän.  
+Sisällä oli Lucyn arkku.  
+Arkun ympärillä oli kuihtuneita kukkia.  
 
+– Nostako arkun kannen pois, van Helsing kysyi.  
 
+Muut katsoivat toisiaan ja nyökkäsivät.  
+Van Helsing nosti arkun kannen.  
+Arkku oli tyhjä.  
 
+– Lucy on poissa! Arthur huusi.  
+– Miten se on mahdollista?  
+Onko joku siirtänyt hänen ruumiinsa?
 
+– Ei, Van Helsing vastasi.  
+– Lucy on itse noussut pois arkusta.  
+Nyt hän vaanii ihmisiä jossain pimeydessä.  
 
+– En uso sitä, Arthur sanoi.  
+– Pian näet, että puhun totta, van Helsing sanoi.  
+– Mennään piiloon odottamaan,  
+kunnes Lucy tulee takaisin.  
 
+Van Helsing antoi jokaiselle hopearistin.  
+– Risti suojaa teitä, hän selitti.  
 
+Tohtori van Helsing, Arthur, Jonathan  
+ja Mina astuivat ulos hautakammiosta.  
+Tohtori lukitsi oven.  
+He piiloutuivat pensaiden taakse  
+odottamaan Lucya.  
+Taivaalla loisti täysikuu.  
+Hautausmaan tummissa varjoissa  
+oli jotain pelottavaa.  
 
----
+Vähään aikaan ei näkynyt ketään.  
+pulen tunning päästä Mina näki,  
+että puiden välissä liikkui  
+valkoiseeen vaatteeseen pukeutunut hahmo.  
+
+– Tuolla on joku, hän kuiskasi muille.  
+
+Hahmo tuli lähemmäksi.  
+He näkivät, että hahmo oli nainen.  
+Sitten he tunnistivat naisen Lucyksi.  
+Lucy oli kuitenkin muuttunut aivan erilaiseksi.  
+Kuun valossa hän näytti julmalta ja pelottavalta,  
+hirviöltä.  
+
+Van Helsing sytytti lyhdyn  
+ja astui esiin pensaikosta.  
+Muut seurasivat häntä.  
+
+– Lucy, Arthur huusi.  
+
+Hän alkoi kävellä kohti Lucya,  
+mutta äkkiä hän pysähtyi.  
+Arthur näki Lucyn punaisena hehkuvat silmät  
+ja pitkät terävät kulmahampaat.  
+Lucyn suun ympärillä oli verta.  
+
+– Arthur! Lucy sanoi.  
+– Tule tänne, tule minun luokseni.  
+Tule ja suutele minua.  
+
+Arthur epäröi hetken, mutta kääntyi sitten pois.  
+Hän ei halunnut katsoa Lucya.  
+Lucysta oli tullut jokin kauhea olento.  
+Lucy oli muuttunut vampyyriksi.  
+
+Van Helsing kokotti hopearistinsä.  
+Ritsi suojana edessään hän lähestyi Lucya.  
+Lucy sähisi kuin vihainen kissa.  
+Hänen silmänsä hehkuivat.  
+
+Äkkiä Lucy käännähti
+ja pakeni kohti hautakammiota.  
+Kukaan ei nähnut tarkasti,  
+miten hän pääsi sisään hautakammioon,  
+vaikka ovi oli lukittu.  
+Nöytti kuin hän olisi liukunut  
+sisään kapeasta ovenraosta ja kadonnut.  
+
+Van Helsing kääntyi kohti Arthuria.  
+– Uskotko minua nyt, hän kysyi.
+Arthur nyökkäsi.  
+
+– Mitä me teemme, hän sanoi epätoivoisena.  
+– Jumalan tähden, mitä me voimme tehdä?
+
+– Tänä yönä emme voi tehdä mitään,  
+van Helsing sanoi.
+– Tulemme tänne huomenna, kun on valoisaa,  
+ja tuhoamme kauhean vampyyrin.  
+Pidämme hulta siitä, että Lucy kuolee oikeasti.  
+
+Päivän valossa vampyyrit nukkuvat voimattomina.  
+Siksi van Helsing halusi odottaa  
+seuraavaan päivään.  
+
+Kun päivä valkeni,  
+he palasivat yhdessä hautausmaalle.  
+Van helsing kertoi,  
+mitä heidän täytyy tehdä Lucylle:  
+– On vain yksi keino, jolla vampyyrin voi tappaa.  
+Ensin sen sydämeen täytyy lyödä puuseiväs.  
+Sen jälkeen sen kaula yäytyy katkaista.  
+
+– Voi kuinka kauheaa! Mina sanoi.  
+– Niin, se on kaukeaa,  
+mutta se on pakko tehdä, tohtori sanoi.  
+– Muuten Lucy jatkaa elämää vampyyrina,   
+vaanii ihmisiä ja janoaa heidän vertaan.  
+
+– Onko Lucy jo onnistunut muuttamaan  
+jonkun vampyyriksi, Jonathan kysyi.  
+– Kun näimme Lucyn, hänen suunsa oli veressä.  
+Hänen on täytynyt pura jotakin ihmistä.  
+Eikö se ihminen ole muuttunut vampyyriksi?
+
+– Ei, ei vilä, van Helsing vastasi.  
+– Vampyyriksi muuttuminen kestää  
+yleensä useita viikkoja.  
+Surmaamalla Lucyn pelastamme ihmisen,  
+jota hän on purrut.  
+Hän paranee ja tulee tavalliseksi ihmiseksi.  
+Siksi meidän täytyy pitää kiirettä.  
+
+Van Helsing aikoi ensin mennä yksin  
+Lucyn hautakammioon surmaamaan hänet,  
+mutta Arthur halusi tulla mukaan.  
+
+– Minä haluan autta, hän sanoi.  
+– Haluan itse vapautta rakkaan Lucyn  
+pahan vallasta, niin hän saa rauhan sielulleen.  
+
+Van Helsing nyökkäsi.  
+Jonathan ja Mina jäivät ulos,  
+kun van Helsing ja Arthur astuivat hautakammioon.  
+
+Van helsingillä oli mukanaan laukku,  
+jossa oli lyhyt, terävä seiväs, vasara  
+sekä iso ja terävä veitsi.  
+
+He nostivat kannen pois Lucyn arkun päältä.  
+Arthur katsoi Lucya, joka makasi arkussa.  
+Hän näki Lucyn terävät hampaat  
+ja verithrat suun ympärillä.  
+Hän ei voinut ymmärtää,  
+että tämä oli sama nainen,  
+jota hän oli rakastanut.  
+
+Van Helsing antoi hänelle seipään.  
+Hän osoitti Lucyn sydäntä.  
+– Sinun täytyy iskeä seiväs tuohon kohtaan,  
+hän sanoi.  
+
+Arthur tarttui vasaraan.  
+Hän asetti seipään Lucyn sydämen päälle  
+ja löi kovilla päättäväisillä iskuilla  
+seipään Lucyn sydämeen.  
+
+Lucyn ruumis alkoi täristä ja vapista,  
+ja hänen suustaan kuului karmea huuto.  
+Very syöksyi ulos lucyn rinnasta.  
+Sitten kaikki hiljeni.  
+Ruumis makasi hiljaa ja liikkumatta arkussa.  
+
+Lucyn kasvot olivat muuuttuneet.  
+Pitkät, terävät hampaat olivat poissa.  
+Hän ei näyttänyt enää kauhealta hirviöltä  
+vaan samanlaiselta kuin ennekin.  
+Hän oli yhtä kaunis kuin ennen.  
+Mutta hän oli kuollut.  
+Tällä kertaa hän oli oikeasti kuollut.  
+
+Arthur kumartui Lucya kohti.  
+Hän kosketti huulillaan Lucyn  
+kauniit, kylmiä huulia.  
+Suru nosti kyyneleet hänen silmiinsä.  
+
+Arthur meni ulos Minan ja Jonathanin luo.  
+Van Helsing jäi hautakammioon.  
+Hänen töytyi tehdä vielä yksi asi.  
+Hänen töytyi katkaista Lucyn kaula.  
+Hän nosti veitsen kohti kattoa,  
+yähtäsi tarkaan ja löi voimalla kohti Lucyn kaulaa.  
+
+Ken tehtävä oli suoritettu,  
+van Helsing nosti arkun kannen takaisin paikoilleen.  
+Hän astui ulos hautakammiosta ja lukitsi oven.  
+
+Hän oli kalpea ja näytti väsyneeltä,  
+kun hän tuli toisten luo.  
+– Nyt se on tehty, hän sanoi.  
+– Mutta meillä on edelleen tekemistä.  
+Tärkein asia on jäljellä.  
+Meidän täytyy löytää se kaukea hirviö,  
+joka muutti Lucyn vampyyriksi.  
+Tarkoitan tietysti krevi Draculaa.  
+Painajainen on ohi vasta,  
+kun Dracula on kullut.  
 
 ## Missä on Dracula?
 
@@ -2019,43 +2265,43 @@ Aurinko oli melkein laskenut.
 – Muuten me [ammumme](ampua).  
 
 Lopulta miehet uskoivat.  
-He kääntuivät ja ratsastivat pois.  
-Vaunut ja arkku jäivät paikoilleen.  
-Aurinko oli painumassa vuorten taa.  
+He kääntyivät ja [ratsastivat](ratsastaa) pois.  
+Vaunut ja arkku [jäivät](jäädä) [paikoilleen]().  
+Aurinko oli [painumassa](painuma) vuorten [taa]().  
 Sudet olivat alkaneet ulvoa.  
 
 – Meidän täytyy pitää kiirettä!  
 Nyt on kiire, van Helsing sanoi.  
 
 Mina sesioi edelleen valkosipulien  
-ra ristien muodostaman ympyrän sisällä.  
-Jonatha, Arthur ja van Helsing  
+ja ristien [muodostaman]() [ympyrä]()n sisällä.  
+Jonathan, Arthur ja van Helsing  
 juoksivat arkun luo.  
-He nostivat arkun kantta.  
+He nostivat arkun [kantta](kansi).  
 
 Arkussa makasi kauhea kreivi Dracula.  
 Hän oli kalpea kuin kuolema  
-ja tuijotti heitä vihaisesti.  
+ja [tuijotti](tuijottaa) heitä [vihaisesti]().  
 Hän aikoi juuri sanoa jotain, mutta ei ehtinyt.  
-Juuri sillion arthur läi puuseipään  
+Juuri sillion Arthur löi puu[seipään](seiväs)  
 voimalla vampyyrin sydämeen.  
-Samalla van helsing kohotti veitsen  
+Samalla van Helsing kohotti veitsen  
 korkealle ilmaan ja löi täydellä voimalla  
 Draculan kaulan poikki.  
 
 Sitten tapahtui jotain outoa.  
-Draculan ruumis ikään kuin vain katosi.  
-Se muuttui kuin savupilveksi ja tomuksi,  
-joka pyöri hetken aikaa ilmassa  
+Draculan ruumis [ikään kuin]() vain [katosi](kadota).  
+Se muuttui kuin [savupilveksi](savupilvi) ja [tomu]()ksi,  
+joka [pyöri](pyöriä) hetken aikaa ilmassa  
 ja oli hetkessä kadonnut.  
 Oli kuin vampyyria ei olisi koskaan ollutkaan.  
 
 He kuulivat, kuinka Mina kiljahti,  
-mutta se ei johtunut pelosta tak kivusta,  
-vaan se oli ilon huuto.  
+mutta se ei [johtunut](johtua) pelosta tai [kivusta](kipu),  
+vaan se oli ilon [huuto]().  
 Miehet kääntyivät, ja illan viimeisten  
 auringonsäteiden valossa he näkivät,  
-että Mina oli jälleen oma itsensä  
+että Mina oli jälleen [oma itsensä]().  
 
 Minan hampaat olivat aivan tavalliset,  
 ne eiväat olleet enää pitkät ja terävät.  
@@ -2063,18 +2309,18 @@ Hänen silmänsä eivät näyttäneet
 enää oudoilta vaan aivan tavallisilta.  
 
 Jonathanin mielestä Minan silmäat  
-olivat kauneimmat silmäat, jotka hän oli nähnyt.  
+olivat kauneimmat silmät, jotka hän oli nähnyt.  
 Jonathan astui kohti Minaa.  
 Mina lähti kohti Jonathania  
 ja astui suoraan valkosipulien ja ristien yli.  
-he halasivat toisiaan.  
+He [halasivat](halata) [toisiaan](toisensa).  
 
-he tiesiväat, että painajainen oli ohi.  
+He tiesivät, että painajainen oli ohi.  
 Dracula oli kuollut, mutta Mina eli.  
 Hänellä olisi pitkä onnellinen elämä edessään  
 yhdessä Jonathanin kanssa.  
 Joskus he tapaisivat Arthurin ja van Helsingin  
-ja muistelisivat Lucy-raukan kohtaloa.  
+ja muistelisivat Lucy-[raukan](raukka) [kohtalo]()a.  
 Mutta Draculasta he eivät koskaan puhuisi.  
 
 Aurinko laski ja pimeä laskeutui,  
