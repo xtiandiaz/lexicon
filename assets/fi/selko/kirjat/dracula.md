@@ -20,7 +20,7 @@ _Vampyyri ei kuikenkaan voinut_
 _katsoa kuvaansa peilistä,_  
 _sillä sitä ei näkynyt peilissä lainkaan._  
 _Vampyyri oli hyvin vahva._  
-_Se pystyi muuttamaan itsensä sudeksi,  
+_Se pystyi muuttamaan itsensä sudeksi,_  
 _lepakoski tai paksuksi sumupilveksi._  
 
 _Vampyyrillä oli punaiset, hehkuvat silmät_  
