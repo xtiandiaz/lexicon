@@ -1,0 +1,297 @@
+ # 16
+---[es:en]
+alpestre :: alpine
+tocón :: stump
+---[en:es]
+'bucket down' :: 'llover a cántaros'
+acorn :: bellota
+flyblown :: lleno de huevos/cresas, o ensuciado por las moscas
+haughty :: altivo, altanero
+knothole :: nudo/agujero en madera
+mutter :: hablar entre dientes, refunfuñar
+patter :: golpetear, tamborilear
+pester :: molestar, fastidiar
+set off :: salir (de viaje); activar, disparar; ocasionar
+squidgy :: blando, blanducho
+stunted :: atrofiado
+tarragon :: estragón
+toadstool :: hongo (no comestible)
+whiny :: estridente, agudo; quejumbroso, quejoso
+---[fi:en]
+'vastannut odotuksia' :: 'met expectations'
+arvostus, mielipide :: evaluation, review, opinion
+epävakaisuus :: instability
+harmittaa :: 'make feel bad'; irritate, annoy
+kiertue :: tour
+odotus :: wait, waiting; expectation
+suhteet :: relations, connections
+vaihdella :: vary, fluctuate, change
+
+# 17
+---[es:en]
+manantial :: spring (source)
+manar :: flow; pour
+---[en:es]
+haberdasher :: mercero/a
+unhip :: fuera de onda/moda
+plinth :: plinto
+sachet :: sobrecito, bolsita
+---[fi:en]
+tihku/räntä/rae(sade) :: (rains) drizzle/sleet/hail
+(vesi/kura)lätäkkö :: (water/mud) puddle
+aikaisemmin :: earlier, previously
+epävakainen :: unstable (weather)
+hanki :: blanket of snow
+herkkä :: delicate, vulnerable; sensitive
+hiihtää :: ski
+hiki :: sweat, perspiration
+hiostava :: sweaty
+hoitopaikka :: care facility
+hyttynen :: mosquito
+hyttyskarkote :: mosquito repellent
+karkote :: repellent
+hyvinvointialue :: welfare area, 'wellbeing services county' 
+kirjoitus :: writing
+kuiva :: dry
+lasketella :: slalom; rattle off
+loska :: slush
+luistella :: (ice) skate
+lukutaito :: literacy
+märkä :: wet
+muistisairas :: with a memory disorder, amnesic
+naskalit :: awl | icepick
+painava :: heavy; substantial, meaningful 
+pulkkailla :: to tobbogan, go tobogganing
+rankka :: burdersome, hard; intense; harsh, tough
+raskaana :: pregnant
+sateinen :: rainy
+suosio :: popularity; favor
+talouskasvo :: economy growth
+'täyttää (lasin) vedellä' :: 'fill (a glass) with water'
+teollisuus :: industry
+turska :: cod
+tuulinen :: windy
+uninen :: sleepy, drowsy, somnolent
+vanhukset :: seniors, old/elderly people
+ylioppilaskoe :: matriculation exam
+sumuinen :: foggy
+ukkonen :: thunder, thunderstorm
+salama :: lightning, bolt
+'laturi ei sovi' :: 'the charger doesn't fit'
+
+# 18
+---[fi:en]
+ilo :: pleasure, joy
+luoda :: create
+luova :: creative
+ohjelmistokehittäjä :: software developer
+liittyä :: join
+'sillä välin' :: meanwhile
+ahkera :: industrious, hardworking, diligent
+tuottaa :: produce, yield
+'mitä ne tuottavat eniten' :: 'what they produce the most'
+hämähäkki :: spider
+loukkaava :: insulting, derogatory, offensive
+aikaisin :: early
+oppilas :: pupil, disciple
+kuluttaa :: spend, wear (out)
+tavara(t) :: article(s), good(s)
+jätevedenpuhdistamo :: wastewater treatment plant
+huippu :: apex, peak, summit
+huipputekniikka :: high technology, (most) advanced technology
+likavesi :: sewage, wastewater
+mikrobeja :: microbes
+puhdistaa :: clean (up), clear (up), cleanse; refine, purify
+desinfiointi :: desinfection
+henkilökunta :: staff, personnel
+henkilö :: person; character
+tehokas :: powerful, potent; efficient
+tehas :: factory, plant
+menneisyys :: the past
+nykyhetki :: the present
+tulevaisuus :: the future
+hammasharja :: toothbrush
+lähes, melkein :: almost, nearly, close to
+(lääke)siirappi :: syrup
+aivot :: brain
+käveleminen :: walking
+pyöräileminen :: biking, cycling
+tanssiminen :: dancing
+liittyä :: join
+sulkapallo :: badminton
+potilas :: patient
+migreeni :: migraine
+kipeä :: ill, sick; sore, aching
+lääke :: medicine, remedy
+huume :: (illegal) drug, narcotic
+kadottaa :: lose (something)
+lompakko :: wallet
+polvi :: knee
+---[en:es]
+destitute :: desprovisto (de); deshauciado
+entreaty :: súplica, ruego
+shingles :: culebrilla, 'herpes zóster'
+limp :: flojo; mustio; cojear, renquear
+droop :: inclinarse, dejarse caer, decaerse, ponerse mustio
+shrug :: encogerse de hombros
+parlor :: salón, sala
+luvvie, luvvy :: actor (extravagantemente) histriónico
+thimble :: dedal
+---[es:en]
+reducto :: citadel, alcázar, baluarte; redoubt
+sedicente :: self-proclaimed, so-called
+transigir :: compromise, give in; tolerate, put up (with)
+fresia :: freesia
+antediluviano :: antediluvian
+pautado :: ruled, lined, marked
+matasellos :: postmark; stamp
+cábala :: Cabbala; prediction
+concubina :: concubine
+desoír :: ignore, disregard
+voyeur, mirón :: voyeur
+
+# 19
+---[fi:en]
+avain :: key
+jalka :: foot; leg
+lilja :: lily
+---[en:es]
+skedaddle :: largarse, 'salir pitando', 'salir pitados'
+upkeep :: (gastos de) mantenimiento
+pageboy :: peinado/corte a lo paje
+page :: paje, botones
+yonder :: allá
+faze :: perturbar, desconcertar
+maven :: experto
+bona fide :: auténtico, genuino
+tendril :: zarcillo
+omega :: omega
+oud :: oud
+jolt :: (dar una) sacudida
+throwaway :: desechable
+scoff :: burlarse/mofarse (de)
+rattle off :: recitar, 'decir de un tirón'
+drowsy, somnolent :: adormilado, somnoliento
+---[es]
+remanso :: backwater; haven
+asechar :: stalk, 'lie in wait for'
+gajo :: segment, section
+seropositivo :: seropositive
+esputo :: sputum
+cobaya :: guinea pig
+eslava :: Slavic, Slav
+usurpar :: usurp
+prorrumpir :: burst/break into
+moratoria :: moratorium
+histrión :: actor, player
+
+# 20
+---[en:es]
+dodge
+macaw
+detritus
+cuckoo
+roving
+fussy
+looey, looie
+sno-cone
+countertop, worktop :: encimera, cubierta
+carjacking
+hay fever :: fiebre del heno, polinosis
+rampart
+barrage
+toddler
+emphysema :: enfisema
+howdy
+'hold still' :: 'quedarse quieto'
+backtrack
+---[fi:en]
+pistorasia
+turvallinen
+porukka
+kullankaivu
+turhauttava
+ahdistaa
+katsekontakti
+kerho :: club
+'menen sinne' :: 'I go there'
+'tekee töitä'
+lautapeli :: board game
+liikuntakerho :: sports club
+totuus :: truth
+työtoveri :: coworker, associate, colleague
+puolue :: (political) party
+hallita :: rule, govern; control
+kauppias :: trader, shop owner, merchant
+yläkerros :: upper/top layer/floor
+viiksekäs :: moustached
+kasvot :: face
+juliste :: poster, placard
+'kukaan ei tiedä' :: nobody knows
+oikeasti :: really, actually, for real
+tekijä :: doer, agent, actor; maker; factor
+kirjailija :: writer, author
+kuolla :: die
+luku :: number, county, quantity; decade/century
+sisällissota :: civil war
+mukana :: along/together (with)
+lounaaksi :: for lunch
+
+# 21
+---[en:es]
+whorl :: 
+plaintiff
+topaz :: topacio
+surrogate
+'no duh'
+back-and-forth, to-and-fro :: 'de acá para allá', 'de un lado para otro'
+daes :: tarima; estrado
+'walking on air' :: 'estar en una nube', 'estar en el quinto cielo'
+odds
+fly-on-the-wall :: 'en que las cámaras capturan fielmente la realidad con intervención mínima del director'
+goad :: acosar; aguijonear
+goggledygook :: jerigonza
+offbeat :: poco convencional, original
+shorthand :: 
+steno, stenography :: estenografía, taquigrafía
+dote :: adorar
+sleep in :: dormir hasta tarde
+molt :: mudar/cambiar de piel/plumas
+chamois
+---[fi]
+tuuli :: wind
+pala :: piece, bit; snack
+yläpuolella :: over, above
+kurkistaa :: peek, peer
+ajatuspoliisi :: thought police
+suunnitelma :: plan; blueprint, design
+valvonta :: supervision; monitoring, control
+milloin tahansa :: 'at any time'
+tämän näköinen :: 'looking like this'
+vaara :: danger, risk, peril, hazard
+pommi :: bomb
+näkyvissä :: visible
+jälki :: track, trail; mark; trace
+juuri mitään :: almost nothing
+lapsuus :: childhood, infancy
+näkyä :: be visible, seen, show; seem, appear
+valtava :: huge, vast, colossal
+torni :: tower
+orjuus :: slavery
+yhtä :: equally as; same, equal
+huolehtia :: tend, (take) care (of)
+runsaus :: abundance, profusion, plenty
+pelottava :: frightening, scary; dauting, discouraging
+kauan sitten :: long time ago
+valtakunta :: independent state; realm, domain, kingdom
+olento :: being, creature
+vampyyri :: vampire
+ruumisarkku :: coffin
+imeä :: suck, absorb; aspirate
+veri :: blood
+lepakko :: bat
+sumupilvi :: stratus
+
+# 26
+---[fi]
+ennakkoluulo
